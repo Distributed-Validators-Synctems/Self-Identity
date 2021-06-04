@@ -24,10 +24,10 @@ If you are a validator and you are tired of endless competition for a stake, and
 We are **open synchronization**, but we care a lot about our reputation. Our **synchronization** can only contain validators that meet modern requirements. <br />
 If you are not 100% confident in your skills, then we will gladly help you with consultations, educational materials, as well as accompanying you on the way to professional validation.
 
-For the fast connection use [Telegram](https://t.me/DVSynctems)
+- For the fast connection use [Telegram](https://t.me/DVSynctems)
 
-For news and announcements use [Twitter](https://twitter.com/synctems)
+- For news and announcements use [Twitter](https://twitter.com/synctems)
 
-Our [IPFS-page](https://abbfe6z95qov3d40hf6j30g7auo7afhp.mypinata.cloud/ipfs/QmYCPa2Co5kD3yZ32bS5DVHFvSfypZ97rdk4jGy8nZGkPx/)
+- Our [IPFS-page](https://abbfe6z95qov3d40hf6j30g7auo7afhp.mypinata.cloud/ipfs/QmYCPa2Co5kD3yZ32bS5DVHFvSfypZ97rdk4jGy8nZGkPx/)
 
-Our [GitHub](https://github.com/Distributed-Validators-Synctems)
+- Our [GitHub](https://github.com/Distributed-Validators-Synctems)

@@ -16,7 +16,7 @@ The word *"Organization"* is also not acceptable for our self-identity, since "o
 
 At the moment, **DVS** synchronizes five validators, that are validating almost 50 networks, in the main-nets and in the test-nets.
 
-If you are a staker (*delegator*), then you can always be sure that with the validators from the **DVS** you will receive not only a reward from the network, but also guarantees of compensation of funds in case of slashing of our validators, as well as crypto-gifts and NTF s in cases of significant events and achievements of new milestones.
+If you are a staker (*delegator*), then you can always be sure that with the validators from the **DVS** you will receive not only a reward from the network, but also guarantees of compensation of funds in case of slashing of our validators, as well as *crypto-gifts* and *NTFs* in cases of significant events and achievements of new milestones.
 All *DVS-validators* are public figures, and you can always communicate with them as with your friends and colleagues.
 
 If you are a validator and you are tired of endless competition for a stake, and want to have a real digital-friends - write to us!

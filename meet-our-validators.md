@@ -15,7 +15,7 @@ Main-nets: <br />
 - [Mina Protocol](https://minaexplorer.com/wallet/B62qrnPdz8HpsDJfGHirDLpVrN2VeyeitdaTKBaccWtHpeVW9Hgwi75)
 - [Microtick](https://explorer.microtick.zone/validator/microvaloper1mn8r3x4g2nmwmvsqqh3tsnzxp54c7qwrumgje2)
 - [ProximaX](https://github.com/proximax-storage/xpx-mainnet-chain-onboarding/tree/master/docker-method)
-- [Bitsong](ttps://explorebitsong.com/staking/bitsongvaloper139dppl6gyerq8yaweksajut3urwyygsz7r4ej4)
+- [Bitsong](https://explorebitsong.com/staking/bitsongvaloper139dppl6gyerq8yaweksajut3urwyygsz7r4ej4)
 - [Sentinel](https://explorer.sentinel.co/validator/sentvaloper1qx4p43c480wxsxt63wfdvupzqp4dduknxldygu)
 - [XX](https://dashboard.xx.network/nodes/sFMS0TKTK5FoignYUnhJDwWz9_Uotmzg3LI-szS3ixIC)
 - [Stargaze](https://explorer.bellatrix-1.publicawesome.dev/validator/starsvaloper1xfq5963mcvgtgusyhlua60qzdl9zmf4t489p64)

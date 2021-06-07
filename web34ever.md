@@ -1,6 +1,6 @@
 ![IMG_0208](https://user-images.githubusercontent.com/38581319/121063741-fef73d00-c7c6-11eb-86a0-8cf91d3d6063.PNG)
 
-web34ever validate **many** chains in main-nets and test-nets: <br />
+## web34ever validate **many** different Networks
 
 Main-nets: <br />
 - [Certik](https://explorer.certik.foundation/validators/certikvaloper1036rphfnyw49fzm5ajfud743j2qutlk9flnnsq?net=shentu-1)						

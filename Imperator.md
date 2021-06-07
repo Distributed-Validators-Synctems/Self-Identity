@@ -1,6 +1,6 @@
 ![imperator](https://user-images.githubusercontent.com/38581319/121066529-492ded80-c7ca-11eb-944f-f03a437b46c5.png)
 
-## Imperator validate 5 different Networks:
+## Imperator validate 5 different Networks
 
 Main-nets: <br />
 - [Ki Chain](https://www.mintscan.io/ki-chain/validators/kivaloper1zjmeu3nv6s90sa00ljdz4hswf7qs6f9rpjutgv)

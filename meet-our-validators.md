@@ -4,4 +4,4 @@
 - [ceberG](https://github.com/Distributed-Validators-Synctems/self-identity/blob/main/cyberG.md)
 - [POSTHUMAN](https://github.com/Distributed-Validators-Synctems/self-identity/tree/main)
 - [Imperator](https://github.com/Distributed-Validators-Synctems/self-identity/blob/main/Imperator.md)
-- [OpneTech Staking](https://github.com/Distributed-Validators-Synctems/self-identity/blob/main/OpenTech_Staking.md)
+- [OpenTech Staking](https://github.com/Distributed-Validators-Synctems/self-identity/blob/main/OpenTech_Staking.md)

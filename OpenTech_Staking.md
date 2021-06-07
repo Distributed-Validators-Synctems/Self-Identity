@@ -4,7 +4,7 @@
 
 Main-nets: <br />
 - [Starname](https://www.mintscan.io/starname/validators/starvaloper1gvt5u6ggvtcas4l7ez4lyvgusqdefckxqlj7lk)
-- [Straightedge]()
-- 
+- [Straightedge](https://straightedge.bi23.com/validator/strvaloper18dy4q95wf5f7up7tpc5h3605h8xk6wtsrgpfnq)
+
 Testnets: <br />
 - [Juno Network](https://testnet.juno.aneka.io/validators/junovaloper1z484nexrw0q4grwl7zg8vf9f98ysf30qqydkp0)

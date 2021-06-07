@@ -1,6 +1,6 @@
 ![opentech](https://user-images.githubusercontent.com/38581319/121074384-10931180-c7d4-11eb-8c61-1787630e866c.png)
 
-## OpenTech_Staking validate 3 different Networks
+## OpenTech Staking validate 3 different Networks
 
 Main-nets: <br />
 - [Starname](https://www.mintscan.io/starname/validators/starvaloper1gvt5u6ggvtcas4l7ez4lyvgusqdefckxqlj7lk)

@@ -2,6 +2,7 @@
 
 ## cyberG validate near 40 different Networks
 
+Main-nets: <br />
 - [Certik](https://explorer.certik.foundation/validators/certikvaloper1yq8a2ksa7dz8wd8wlks3k8nqdmht76xdnrvehx?net=shentu-1)
 - [Solana](https://www.validators.app/?q=cyberg&network=mainnet&order=score&refresh=&commit=Search)
 - [Avalanche](https://avascan.info/staking/validator/NodeID-G18RQNqBGra4dSJGSCRgnzxzpfVDqVWxJ)
@@ -17,5 +18,5 @@
 - [Free TON](https://ton.live/depools/depoolDetails?id=0%3Ae108fbffddd3999898788f59b267a0641287703866845d1734be5cd7f637473c)
 - [Akash](http://5k6rp916o9807flqte7ruq1bk0.ingress.ewr1p0.mainnet.akashian.io/) - Deploy site on Akash	
 
-
+Test-nets: <br />
 - [Solana](https://www.validators.app/validators/testnet/28LgQ7MeEZVgNJfYRc6UnoAz2SnSjKbyCKM6sntCRotb?locale=en&order=score&refresh=)

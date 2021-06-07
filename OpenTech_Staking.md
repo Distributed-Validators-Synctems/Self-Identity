@@ -1,5 +1,10 @@
-![photo_2021-05-26_18-33-41](https://user-images.githubusercontent.com/38581319/121066660-69f64300-c7ca-11eb-8356-749ed2c9100c.jpg)
+![opentech](https://user-images.githubusercontent.com/38581319/121074384-10931180-c7d4-11eb-8c61-1787630e866c.png)
 
-## OpenTech_Staking validate near 3 different Networks
+## OpenTech_Staking validate 3 different Networks
 
-more info soon
+Main-nets: <br />
+- [Starname](https://www.mintscan.io/starname/validators/starvaloper1gvt5u6ggvtcas4l7ez4lyvgusqdefckxqlj7lk)
+- [Straightedge]()
+- 
+Testnets: <br />
+- [Juno Network](https://testnet.juno.aneka.io/validators/junovaloper1z484nexrw0q4grwl7zg8vf9f98ysf30qqydkp0)

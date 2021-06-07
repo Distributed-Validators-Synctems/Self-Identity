@@ -2,6 +2,6 @@
 
 - [web34ever](https://github.com/Distributed-Validators-Synctems/self-identity/blob/main/web34ever.md)
 - ceberG
-- POSTHUMAN
+- [POSTHUMAN](https://github.com/Distributed-Validators-Synctems/self-identity/tree/main)
 - Imperator
 - OpneTech Staking

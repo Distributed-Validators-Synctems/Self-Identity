@@ -2,4 +2,59 @@
 
 cyberG validate near 40 different Networks
 
-more info soon
+Mainnets: <br />
+Solana
+Avalanche
+Mina
+The Graph (will launch Indexer with friends)
+Certik
+Microtick
+ProximaX
+Bitsong
+Sentinel
+Likecoin
+Free TON (with @hekit)
+Idena
+Hopr (waiting for nodes launch)
+Testnets:
+XX Network
+Solana
+Cyber
+Casper
+Kira
+Swarm 
+Althea
+NYM
+Juno
+Spacemesh
+Decentr
+Plasm
+Zeigeist
+Moonbeam
+Compound Gateway
+Free TON
+Aleo (currently stopped node)
+Iron fish (currently stopped node)
+Finished testnets:
+Regen
+Cryptocom
+Iris Bifrost
+Nucypher
+Blockstack
+Akash
+Meter
+Filecoin (tried with friends)
+Concordium
+Registered: 
+Dfinity
+Axelar
+Mediachain
+DOCK
+Zenchain
+Bitcana
+Want to try:
+Ki chain
+Ethermint
+Fluence Network
+Sentinel VPN node
+and some networks on research

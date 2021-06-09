@@ -13,7 +13,7 @@ Validators Testnet: <br />
  - [Sentinel](https://explorer.turing.sentinel.co/validators)
  - [DOTmog](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmogiway-01.dotmog.com&types=eNqrVnJMTs4vzSvxzEvLV7JC5oVnlmS4lCbmBKWmOYPElGoBeL0QtQ%3D%3D#/staking)
  - [Galital](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fgalital-rpc-testnet.starkleytech.com#/staking)
- - [NYM Mixnode - Testnet](https://testnet-finney-node-status-api.nymtech.net/api/status/mixnode/BTfPevg1UYqyxaGXvpmrAH9FhBoq69pitYpDbrWDYb59/report)
+ - [NYM Mixnode](https://testnet-finney-node-status-api.nymtech.net/api/status/mixnode/BTfPevg1UYqyxaGXvpmrAH9FhBoq69pitYpDbrWDYb59/report)
  
 Storage provider: <br />
  - [StorJ](https://www.storj.io)

@@ -20,3 +20,5 @@ Main-nets: <br />
 
 Test-nets: <br />
 - [Solana](https://www.validators.app/validators/testnet/28LgQ7MeEZVgNJfYRc6UnoAz2SnSjKbyCKM6sntCRotb?locale=en&order=score&refresh=)
+
+More info soon... <br />

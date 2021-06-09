@@ -51,3 +51,5 @@ Blockstack <br />
 Humanode <br />
 PlatON <br />
 Filecoin <br />
+
+More info soon... <br />

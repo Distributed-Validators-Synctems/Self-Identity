@@ -1,8 +1,8 @@
 # self-identity
 
-![IMG_0269](https://user-images.githubusercontent.com/38581319/120726660-e7733800-c4d8-11eb-8058-e10d7bc9d011.JPG)
+![dvs_big](https://user-images.githubusercontent.com/38581319/121911312-f3a89200-cd2f-11eb-955a-b11a3c408f3e.png)
 
-**Distributed Validators Synctems** is the first **Decentralized Autonomus Synchronization** of validators.
+**Distributed Validators Synctems** is the first **Decentralized Autonomous Synchronization** of validators.
 
 Yes, you read it right way! Not __"Systems"__, and not __"Organization"__.
 
@@ -27,6 +27,8 @@ If you are not 100% confident in your skills, then we will gladly help you with 
 - For the fast connection use [Telegram](https://t.me/DVSynctems)
 
 - For news and announcements use [Twitter](https://twitter.com/synctems)
+
+- Our blog on [Medium](https://synctems.medium.com/)
 
 - Our [IPFS-page](https://abbfe6z95qov3d40hf6j30g7auo7afhp.mypinata.cloud/ipfs/QmYCPa2Co5kD3yZ32bS5DVHFvSfypZ97rdk4jGy8nZGkPx/)
 

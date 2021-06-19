@@ -1,6 +1,6 @@
 ![IMG_1359](https://user-images.githubusercontent.com/38581319/121065657-4b437c80-c7c9-11eb-9be3-c88ae27a4e51.PNG)
 
-## POSTHUMAN validate 8 different Networks
+## POSTHUMAN validate 9 different Networks
 
 Main-nets: <br />
 
@@ -8,6 +8,7 @@ Main-nets: <br />
 - [Persistence](https://www.mintscan.io/persistence/validators/persistencevaloper10sc98vt6saux8asexnsp2hgvkgmjmful8w5cuw)
 - [Fetch.ai](https://www.mintscan.io/fetchai/validators/fetchvaloper1y02hlwucl6csz4z02ksn46gzdkmref927l4mug)
 - [Ki Chain](https://blockchain.ki/validator/kivaloper1g2sr6x8hrtwwsaaqu8p8r7dzdfugdcsal08gq8)
+- [Osmosis](https://www.mintscan.io/osmosis/validators/osmovaloper1e8238v24qccht9mqc2w0r4luq462yxttfpaeam)
 
 Test-nets: <br />
 

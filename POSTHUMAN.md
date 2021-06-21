@@ -1,6 +1,6 @@
 ![IMG_1359](https://user-images.githubusercontent.com/38581319/121065657-4b437c80-c7c9-11eb-9be3-c88ae27a4e51.PNG)
 
-## POSTHUMAN validate 9 different Networks
+## POSTHUMAN validate 10 different Networks
 
 Main-nets: <br />
 
@@ -16,6 +16,7 @@ Test-nets: <br />
 - [Solana](https://www.validators.app/validators/testnet/HZX4MWsSDzRerGuV6kgtj5sGM3dcX9doaiN7qr5y9MAw?locale=en&order=score&refresh=)
 - [Juno Network](https://testnet.juno.aneka.io/validators/junovaloper1sxa5wu7d5p992nxq5teh0r0lzsecmz3ukhlgla)
 - [Rizon Platform](https://testnet.mintscan.io/rizon/validators/rizonvaloper1x8v879tfarnxe6anmwaj88djwlcautxhkn4h72)
+- [Starname-Stargate](https://big-dipper.cluster-stargatenet.iov.one/validator/starvaloper1r5ga08ddjkscm2ctcncqz2nx0rx7mzvy0w2n8n)
 
 Not-validating activity: <br />
 

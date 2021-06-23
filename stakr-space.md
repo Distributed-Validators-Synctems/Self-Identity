@@ -40,7 +40,7 @@ https://stakr.space
   
   Activities
   
-    FreeTON - Subgovs Jury
+    FreeTON - Subgovs Initial Member and Jury
     Moonbeam - Ambassador
 
 Blog - https://github.com/papanomad535/blog

@@ -1,4 +1,6 @@
-![https://stakr.space](https://user-images.githubusercontent.com/65043457/123110260-948c0100-d444-11eb-8e13-0ccef9440bb3.png) 
+![https://stakr.space/](https://user-images.githubusercontent.com/65043457/123110260-948c0100-d444-11eb-8e13-0ccef9440bb3.png) 
+
+https://stakr.space
 
   Mainnet
   

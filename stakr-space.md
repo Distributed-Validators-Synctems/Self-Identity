@@ -38,7 +38,9 @@
     ...
   
   Activities
+  
     FreeTON - Subgovs Jury
     Moonbeam - Ambassador
-    Blog - https://github.com/papanomad535/blog
+
+Blog - https://github.com/papanomad535/blog
   

@@ -21,4 +21,7 @@ Main-nets: <br />
 Test-nets: <br />
 - [Solana](https://www.validators.app/validators/testnet/28LgQ7MeEZVgNJfYRc6UnoAz2SnSjKbyCKM6sntCRotb?locale=en&order=score&refresh=)
 
+Projects list:
+https://docs.google.com/spreadsheets/d/1CVwm1s5ksat35qlxcCB-tfpOYTu2t-VABd_pQz3JiCQ/edit#gid=306660801
+
 More info soon... <br />

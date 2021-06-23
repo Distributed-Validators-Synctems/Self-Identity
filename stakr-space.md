@@ -1,4 +1,5 @@
-put logo here
+![stakr-space-logo-slim](https://user-images.githubusercontent.com/65043457/123110260-948c0100-d444-11eb-8e13-0ccef9440bb3.png)
+
 
   Mainnet
   
@@ -22,7 +23,7 @@ put logo here
     Galital
     Joystream
     Polymesh
-    Akala
+    Acala
     Moonbeam
     HydraDX
     Clover
@@ -30,11 +31,14 @@ put logo here
     Nym
     Aleo
     Ironfish
-    Altea
+    Althea
     Meson
     Spacemesh
-    Concordium 
+    Concordium
+    ...
   
-  
-  
+  Activities
+    FreeTON - Subgovs Jury
+    Moonbeam - Ambassador
+    Blog - https://github.com/papanomad535/blog
   

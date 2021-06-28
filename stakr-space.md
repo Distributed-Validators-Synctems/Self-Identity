@@ -1,16 +1,15 @@
 ![IMG_0431](https://user-images.githubusercontent.com/38581319/123712181-1b404400-d872-11eb-9213-9cde86c03d73.PNG)
 
+## STAKR.space validate 29 different Networks
 
-https://stakr.space
-
-  Mainnet
+4 main-nets: <br />
   
     Solana
     Mina
     FreeTON - Magister Ludi winner
     Hopr
   
-  Testnets
+25 test-nets: <br />
   
     Akash - Awesome Akash winner
     Agoric
@@ -39,10 +38,12 @@ https://stakr.space
     Concordium
     ...
   
-  Activities
+Activities: <br />
   
     FreeTON - Subgovs Initial Member and Jury
     Moonbeam - Ambassador
 
-Blog - https://github.com/papanomad535/blog
+Contacts: <br />
+- [Web-page](https://stakr.space)
+- [Blog](https://github.com/papanomad535/blog)
   

@@ -1,1 +1,0 @@
-STARK.space Validator

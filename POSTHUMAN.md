@@ -2,7 +2,7 @@
 
 ## POSTHUMAN validate 10 different Networks
 
-Main-nets: <br />
+5 main-nets: <br />
 
 - [Starname](https://www.mintscan.io/starname/validators/starvaloper1euslp8c2qadgs6jy6klwv6f332mj426qje6vsn)
 - [Persistence](https://www.mintscan.io/persistence/validators/persistencevaloper10sc98vt6saux8asexnsp2hgvkgmjmful8w5cuw)
@@ -10,7 +10,7 @@ Main-nets: <br />
 - [Ki Chain](https://blockchain.ki/validator/kivaloper1g2sr6x8hrtwwsaaqu8p8r7dzdfugdcsal08gq8)
 - [Osmosis](https://www.mintscan.io/osmosis/validators/osmovaloper1e8238v24qccht9mqc2w0r4luq462yxttfpaeam)
 
-Test-nets: <br />
+5 test-nets: <br />
 
 - [Cyber](https://cyber.page/network/euler/hero/cybervaloper1ccvpcq9ffy0qd2ca8nmmpzfamtyjfc9zhhua7q)
 - [Solana](https://www.validators.app/validators/testnet/HZX4MWsSDzRerGuV6kgtj5sGM3dcX9doaiN7qr5y9MAw?locale=en&order=score&refresh=)
@@ -18,7 +18,7 @@ Test-nets: <br />
 - [Rizon Platform](https://testnet.mintscan.io/rizon/validators/rizonvaloper1x8v879tfarnxe6anmwaj88djwlcautxhkn4h72)
 - [Starname-Stargate](https://big-dipper.cluster-stargatenet.iov.one/validator/starvaloper1r5ga08ddjkscm2ctcncqz2nx0rx7mzvy0w2n8n)
 
-Not-validating activity: <br />
+Activities: <br />
 
 - [Created a validators anthem](https://youtu.be/a90VyAxoGyY)
 - [Created a video about history of the money, and how we come to validating](https://youtu.be/Etp1EAf7Vzw)
@@ -38,3 +38,10 @@ Not-validating activity: <br />
 - [Vote for sending tokens to the Black Hole | Starname | Cosmostation | Tokens burn](https://youtu.be/g4qygmIvljE)
 - [Keplr guide | How to vote with Ledger | Explain proposals | Cosmos Education](https://youtu.be/560sNt4Jfe4)
 - [How to get StakeDrop from Persistence using Keple and Ledger](https://youtu.be/tiJGu4_2ZPo)
+
+Contacts: <br />
+- [GitHub](https://github.com/Antropocosmist/my_competencies) <br />
+- [Telegram](https://t.me/antropocosmist) <br />
+- [Twitter](https://twitter.com/ponimajushij) <br />
+- [Medium](https://antropocosmist.medium.com/) <br />
+- [Facebook](https://facebook.com/vladimir.ponimajushij) <br />

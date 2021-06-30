@@ -1,7 +1,9 @@
 ![IMG_0208](https://user-images.githubusercontent.com/38581319/121063741-fef73d00-c7c6-11eb-86a0-8cf91d3d6063.PNG)
 
 ## web34ever validate **many** different Networks
-I am professional validator  and full time enthusiast from 2015 with powerful infrastructure in Europe, participated in more than 40 testnet. Have many nodes in mainnet such as Solana, MinaProtocol, Avalanche, CertiK, Sentinel, XX-network, FreeTON, Microtick, Persistence, Fetch , Starname. Ambassador in Moonbeam , FreeTon, Covalent. Check my participated project list here -https://docs.google.com/spreadsheets/d/1EmoYgdYWr4SVhBQykK6FR59k-u6_UawzHHMVvg73ZfM/edit or brlow
+I am professional validator  and full time enthusiast from 2015 with powerful infrastructure in Europe, participated in more than 40 testnet. Have many nodes in mainnet such as Solana, MinaProtocol, Avalanche, CertiK, Sentinel, XX-network, FreeTON, Microtick, Persistence, Fetch , Starname. Ambassador in Moonbeam , FreeTon, Covalent. Check my participated project list here -https://docs.google.com/spreadsheets/d/1EmoYgdYWr4SVhBQykK6FR59k-u6_UawzHHMVvg73ZfM/edit or below
+
+
 Main-nets: <br />
 - [Certik](https://explorer.certik.foundation/validators/certikvaloper1036rphfnyw49fzm5ajfud743j2qutlk9flnnsq?net=shentu-1)						
 - [Solana](https://www.validators.app/validators/testnet/M7Pcv3j8KpX8ZAkeSsvJnexgKrZbBAaMEcRTvf6t2Em?locale=en&order=score&refresh=)

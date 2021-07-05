@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/59205554/124520901-7df78980-ddf6-11eb-80a4-74a425e2771a.png)
 
 ## Web34ever validate **many** different Networks
-Professional validator and full time enthusiast from 2015 with powerful knowledge and exhaustive experience in crypto industry, successfully participated in more than 40 testnets. Validate many known mainnet network such as Solana, MinaProtocol, Avalanche, TheGraph, CertiK, Sentinel, XX-network, FreeTON, Microtick, LikeCoin. Ambassador in Moonbeam, FreeTon (Jury in NFT Subgovarnance), Covalent networks, Polygon, Octopus, Sentinel, TheGraph curator. Co-founder of the rapidly developing crypto [consortium](https://koinsortium.com/). Be familiar with my participated project list below. 
+Professional validator and full time enthusiast from 2015 with powerful knowledge and exhaustive experience in crypto industry, successfully participated in more than 40 testnets. Validate many known mainnet network such as Solana, MinaProtocol, Avalanche, TheGraph, CertiK, Sentinel, XX-network, FreeTON, Microtick, LikeCoin. Ambassador in Moonbeam, FreeTon (Jury in NFT Subgovarnance), Covalent networks, Polygon, Octopus, Sentinel, TheGraph curator. Co-founder of the rapidly developing crypto [consortium](https://koinsortium.com/). Feel free to familiarize yourself with the list of projects I contributed to below:
 
 Main-nets: <br />
 - [Certik](https://explorer.certik.foundation/validators/certikvaloper1036rphfnyw49fzm5ajfud743j2qutlk9flnnsq?net=shentu-1)						
@@ -23,7 +23,7 @@ Main-nets: <br />
 - [Cryptocom](https://crypto.org/explorer/croeseid/validator/tcrocncl129xlqcjasyzqsc4364x7hc6m6t5w33ruqp53qx)
 - [Zeitgeist](https://telemetry.polkadot.io/#list/Zeitgeist%20Battery%20Park)
 
-Test-nets: <br />
+Test-nets: <br /> {Blochains grow here}
 Hopr <br />
 Regen	Testnet runner, delegator in mainnet <br />
 Althea	Testnet , Core-validaor	https://testnet.althea.aneka.io/validators/cosmosvaloper1hv0dcr9l2l090jxtuxu8nsa2jm6h307xfdcwsc <br />

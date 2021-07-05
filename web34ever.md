@@ -1,4 +1,4 @@
-![IMG_0208](https://user-images.githubusercontent.com/38581319/121063741-fef73d00-c7c6-11eb-86a0-8cf91d3d6063.PNG)
+![image](https://user-images.githubusercontent.com/59205554/124520522-68359480-ddf5-11eb-98d1-19f1d409911b.png)
 
 ## web34ever validate **many** different Networks
 Professional validator and full time enthusiast from 2015 with powerful knowledge and exhaustive experience in crypro industry, successfully participated in more than 40 testnet. Validate many known mainnet network such as Solana, MinaProtocol, Avalanche, TheGraph, CertiK, Sentinel, XX-network, FreeTON, Microtick, LikeCoin. Ambassador in Moonbeam, FreeTon (Jury in NFT Subgovarnance), Covalent networks, Polygon, Octopus, Sentinel, TheGraph curator. Co-founder of the rapidly developing crypto consortium (https://koinsortium.com/). Be familiar with my participated project list below. 

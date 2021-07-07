@@ -1,3 +1,10 @@
 Here is will be logo soon
 
-##Colinka
+## Colinka validate ??? different Networks
+
+??? test-nets: <br />
+
+- [Solana](Link on network)
+
+
+Activities: <br />

@@ -6,18 +6,18 @@
 
 - [Dock](Link on network)
 - <a href="https://scan.idena.io/identity/0x70aa61e47d11231b4d38fd1e83312854e5a5b15a">[Idena]</a>
+- <a href="https://www.validators.app/?q=9tbzUabDi5D62Kkpd6oQs9r28Ts7TFJHLvx3pFJshZRA&network=testnet&order=&refresh=&commit=Search">[Solana]</a> the invitation to the mainnet is received, waiting for the server build.
 
 10 test-nets: <br />
 
-- [Solana](Link on network)
+- <a href="https://www.validators.app/?q=9tbzUabDi5D62Kkpd6oQs9r28Ts7TFJHLvx3pFJshZRA&network=testnet&order=&refresh=&commit=Search">[Solana]</a>
 - [Moonbeam](Link on network)
 - [Zeitgeist](Link on network)
-- [Solana](Link on network)
-- [Agoric](Link on network)
+- <a href="https://testnet.explorer.agoric.net/validator/agoricvaloper1kn328ztnhveulpk0hf8t0z5dhuj8ytekhldgxl">[Agoric]</a>
 - [Aleo](Link on network)
 - [Ironfish](Link on network)
 - [Rizon](Link on network)
-- [NYM](Link on network)
+- <a href="https://nodes.guru/nym/mixnodecheck?q=hal1sandvvcktrkp3hdptm0wwqmm5ekw47x6l6nv4p">[NYM]</a>
 - [Bitcountry](Link on network)
 
 Activities: <br />

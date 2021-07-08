@@ -5,7 +5,7 @@
 2 main-nets: <br />
 
 - [Dock](Link on network)
-- <a href="https://scan.idena.io/identity/0x70aa61e47d11231b4d38fd1e83312854e5a5b15a"[Idena]</a>
+- <a href="https://scan.idena.io/identity/0x70aa61e47d11231b4d38fd1e83312854e5a5b15a">[Idena]</a>
 
 10 test-nets: <br />
 

@@ -2,21 +2,22 @@
 
 ## POSTHUMAN validate 10 different Networks
 
-5 main-nets: <br />
+6 main-nets: <br />
 
 - [Starname](https://www.mintscan.io/starname/validators/starvaloper1euslp8c2qadgs6jy6klwv6f332mj426qje6vsn)
 - [Persistence](https://www.mintscan.io/persistence/validators/persistencevaloper10sc98vt6saux8asexnsp2hgvkgmjmful8w5cuw)
 - [Fetch.ai](https://www.mintscan.io/fetchai/validators/fetchvaloper1y02hlwucl6csz4z02ksn46gzdkmref927l4mug)
 - [Ki Chain](https://blockchain.ki/validator/kivaloper1g2sr6x8hrtwwsaaqu8p8r7dzdfugdcsal08gq8)
 - [Osmosis](https://www.mintscan.io/osmosis/validators/osmovaloper1e8238v24qccht9mqc2w0r4luq462yxttfpaeam)
+- [LikeCoin](https://likecoin.bigdipper.live/validator/cosmosvaloper13shmgwhlhw36sv6yfqz9llpcynu7pkqngsmeld)
 
-5 test-nets: <br />
+4 test-nets: <br />
 
-- [Cyber](https://cyber.page/network/euler/hero/cybervaloper1ccvpcq9ffy0qd2ca8nmmpzfamtyjfc9zhhua7q)
+- [Cyber](https://rebyc.cyber.page/network/bostrom/hero/bostromvaloper1ccvpcq9ffy0qd2ca8nmmpzfamtyjfc9zt56fhc)
 - [Solana](https://www.validators.app/validators/testnet/HZX4MWsSDzRerGuV6kgtj5sGM3dcX9doaiN7qr5y9MAw?locale=en&order=score&refresh=)
 - [Juno Network](https://testnet.juno.aneka.io/validators/junovaloper1sxa5wu7d5p992nxq5teh0r0lzsecmz3ukhlgla)
 - [Rizon Platform](https://testnet.mintscan.io/rizon/validators/rizonvaloper1x8v879tfarnxe6anmwaj88djwlcautxhkn4h72)
-- [Starname-Stargate](https://big-dipper.cluster-stargatenet.iov.one/validator/starvaloper1r5ga08ddjkscm2ctcncqz2nx0rx7mzvy0w2n8n)
+
 
 Activities: <br />
 

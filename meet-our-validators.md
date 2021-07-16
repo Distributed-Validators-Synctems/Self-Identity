@@ -1,4 +1,4 @@
-# For now, Distributed Validators Synctems synchronize 6 different validators
+# For now, Distributed Validators Synctems synchronize 7 different validators
 
 - [web34ever](https://github.com/Distributed-Validators-Synctems/self-identity/blob/main/web34ever.md)
 - [ceberG](https://github.com/Distributed-Validators-Synctems/self-identity/blob/main/cyberG.md)

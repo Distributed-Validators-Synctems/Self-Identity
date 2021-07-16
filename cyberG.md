@@ -1,6 +1,6 @@
 ![IMG_0280](https://user-images.githubusercontent.com/38581319/121066426-2996c500-c7ca-11eb-8508-a1e7b0ba1ac2.PNG)
 
-## cyberG validate near 40 different Networks
+## cyberG validate many different Networks
 
 Main-nets: <br />
 - [Certik](https://explorer.certik.foundation/validators/certikvaloper1yq8a2ksa7dz8wd8wlks3k8nqdmht76xdnrvehx?net=shentu-1)

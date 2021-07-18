@@ -1,6 +1,6 @@
 ![IMG_0280](https://user-images.githubusercontent.com/38581319/121066426-2996c500-c7ca-11eb-8508-a1e7b0ba1ac2.PNG)
 
-## cyberG validate many different Networks
+## cyberG activity:
 
 Active Mainnets: <br />
 - [Solana](https://www.validators.app/?q=cyberg&network=mainnet&order=score&refresh=&commit=Search)
@@ -84,3 +84,15 @@ Ambassador campaigns:
 
 
 More info soon... <br />
+
+My social links:
+- [https://y.at/😍❤️😱🙌🍦](https://y.at/😍❤️😱🙌🍦)
+- [Twitter](https://twitter.com/vadyhodler777)
+- [3Box](https://3box.io/0x8847ebaaf29a18396e49191602f8d8d141b98aa7)
+- [ENS](https://app.ens.domains/name/cyberg.eth)
+- [Reddit](https://www.reddit.com/user/cyberG88)
+- [Medium](https://88vgk88.medium.com/)
+- [Bitcointalk](https://bitcointalk.org/index.php?action=profile;u=2646989)
+- [Instagram](https://www.instagram.com/vadim.k88/)
+- [Keybase](https://keybase.io/vgk8888)
+

@@ -14,14 +14,73 @@ Active Mainnets: <br />
 - [ProximaX]()
 - [Idena](https://scan.idena.io/address/0x1e60fd65d9c231b47356ab30fcc32a804564fced)
 
-- [Hopr]()
 
-Test-nets: <br />
+Genesis validator, but not in active set: <br />
+- [Regen](https://regen.aneka.io/accounts/regen1qvn6ghe68l4g0k7s25rujr6yfpyrm6h3399jvu)
+- [Sentinel](https://www.mintscan.io/sentinel/validators/sentvaloper1hmdyt5tm6p2v68p2yxpxk4j2vkvvre840rgczk)
+
+
+Active Testnets: <br />
 - [Solana](https://www.validators.app/validators/testnet/28LgQ7MeEZVgNJfYRc6UnoAz2SnSjKbyCKM6sntCRotb?locale=en&order=score&refresh=)
-- [XX Network] (https://testnet.althea.aneka.io/validators/cosmosvaloper1dmdfgnp2m7pjfllyu62dp7v946cdjw04pzq9st)
-Testnet&Genesis
+- [XX Network](https://dashboard.xx.network/nodes/XOND7jkhfDbeWSjv47op9vH7l1Y_rjKK_oXGBd8kQcwC)
+- [Cyber](https://rebyc.cyber.page/network/bostrom/hero/bostromvaloper1en69twaxmv7xupy8lq7y539dpecx7yz8s43ceg)
+- [Moonbeam](https://moonbase.subscan.io/validator/0xa3D563203b7a46a545E5e1C812B54405DcD62680)
+- [Althea](https://testnet.althea.aneka.io/validators/altheavaloper1dmdfgnp2m7pjfllyu62dp7v946cdjw0455zswc)
+- [Rizon](https://testnet.mintscan.io/rizon/validators/rizonvaloper1pt3ea05tlzdxkhhegjvqda0ym62u0a2mpap4y0)
+- [Juno](https://testnet.juno.aneka.io/validators/junovaloper1jfdum9dvdaetcgrvzszq3ewtnwh26tp76ggsuj)
+- [Stargaze]()
+- [Kira]()
+- [Zeigeist](https://dashboard.xx.network/nodes/XOND7jkhfDbeWSjv47op9vH7l1Y_rjKK_oXGBd8kQcwC)
+- [DevxDAO]()
+- [Decentr](https://explorer.decentr.net/validators/decentrvaloper1par32he0v7kkyfu7q9jft633qfqfangt674a7l)
+- [NYM]()
+- [Minima]()
+- [Zenon]()
+- [Quadrans]()
+- [Findora]()
 
-Projects list:
-https://docs.google.com/spreadsheets/d/1CVwm1s5ksat35qlxcCB-tfpOYTu2t-VABd_pQz3JiCQ/edit#gid=306660801
+
+Finished Testnets
+- [Hopr]()
+- [IRIS]()
+- [NUcypher]()
+- [Blockstack]()
+- [Filecoin]()
+- [Swarm]()
+- [Casper]()
+- [Concordium]()
+- [Meter]()- 
+- [Phala]()
+- [PlatON]()
+- [Meter]()
+- [Bitcountry]()
+- [Galital]()
+- [Plasm]()
+- [Spacemesh]()
+- [Galital]()
+- [Cryptocom]()
+- [Akash]()
+- [Frontier]()
+
+
+Ambassador campaigns:
+- [TheGraph]()
+- [Covalent]()
+- [Moonbeam]()
+- [FreeTON]()
+- [MDEX]()
+- [Polygon]()
+- [Zeigeist]()
+- [Secret Network]()
+- [Persistence]()
+- [Sentinel]()
+- [Octopus Network]()
+- [Taraxa]()
+- [Sentinel]()
+- [Cyber]()
+- [ProximaX]()
+- [Hacken]()
+- [Genshiro]()
+
 
 More info soon... <br />

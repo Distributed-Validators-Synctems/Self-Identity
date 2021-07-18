@@ -40,7 +40,7 @@ Active Testnets: <br />
 - [Findora]()
 
 
-Finished Testnets
+Finished Testnets:
 - [Hopr]()
 - [IRIS]()
 - [NUcypher]()

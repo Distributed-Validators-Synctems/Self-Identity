@@ -86,7 +86,7 @@ Ambassador campaigns:
 More info soon... <br />
 
 My social links:
-- [https://y.at/😍❤️😱🙌🍦](https://y.at/😍❤️😱🙌🍦)
+- [Y.at](https://y.at/😍❤️😱🙌🍦)
 - [Twitter](https://twitter.com/vadyhodler777)
 - [3Box](https://3box.io/0x8847ebaaf29a18396e49191602f8d8d141b98aa7)
 - [ENS](https://app.ens.domains/name/cyberg.eth)

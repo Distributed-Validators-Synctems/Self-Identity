@@ -95,4 +95,4 @@ My social links:
 - [Bitcointalk](https://bitcointalk.org/index.php?action=profile;u=2646989)
 - [Instagram](https://www.instagram.com/vadim.k88/)
 - [Keybase](https://keybase.io/vgk8888)
-
+- [Telegram](https://t.me/cryptoq11)

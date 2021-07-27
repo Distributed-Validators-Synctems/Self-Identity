@@ -7,7 +7,7 @@
 - [Starname](https://www.mintscan.io/starname/validators/starvaloper1euslp8c2qadgs6jy6klwv6f332mj426qje6vsn)
 - [Persistence](https://www.mintscan.io/persistence/validators/persistencevaloper10sc98vt6saux8asexnsp2hgvkgmjmful8w5cuw)
 - [Fetch.ai](https://www.mintscan.io/fetchai/validators/fetchvaloper1y02hlwucl6csz4z02ksn46gzdkmref927l4mug)
-- [Ki Chain](https://blockchain.ki/validator/kivaloper1g2sr6x8hrtwwsaaqu8p8r7dzdfugdcsal08gq8)
+- [Ki Chain](https://www.mintscan.io/ki-chain/validators/kivaloper1g2sr6x8hrtwwsaaqu8p8r7dzdfugdcsal08gq8)
 - [Osmosis](https://www.mintscan.io/osmosis/validators/osmovaloper1e8238v24qccht9mqc2w0r4luq462yxttfpaeam)
 - [LikeCoin](https://likecoin.bigdipper.live/validator/cosmosvaloper13shmgwhlhw36sv6yfqz9llpcynu7pkqngsmeld)
 

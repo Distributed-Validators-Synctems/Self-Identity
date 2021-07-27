@@ -13,9 +13,10 @@
 - [Moonbeam](https://telemetry.polkadot.io/#list/Moonbase%20Alpha)
 - [Zeitgeist](https://telemetry.polkadot.io/#list/Zeitgeist%20Battery%20Park)
 - [Agoric](https://testnet.explorer.agoric.net/validator/agoricvaloper1kn328ztnhveulpk0hf8t0z5dhuj8ytekhldgxl)
-- [Aleo](Link on network)
-- [Ironfish](Link on network)
+- Aleo - Link will be added soon
+- Ironfish - Link will be added soon
 - [NYM](https://nodes.guru/nym/mixnodecheck?q=hal1sandvvcktrkp3hdptm0wwqmm5ekw47x6l6nv4p)
 - [Bit.Country](https://telemetry.polkadot.io/#list/Bit.Country%20Tewai%20Chain)
 
 Activities: <br />
+Will be added soon...

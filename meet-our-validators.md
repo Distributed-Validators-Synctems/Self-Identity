@@ -7,3 +7,5 @@
 - [OpenTech Staking](https://github.com/Distributed-Validators-Synctems/self-identity/blob/main/OpenTech_Staking.md)
 - [STAKR.space](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/stakr-space.md)
 - [Colinka](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/Colinka.md)
+- [papsan]
+- [moonsoon]

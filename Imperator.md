@@ -13,9 +13,10 @@ Test-nets: <br />
 - [BitCanna](https://testnet-explorer.bitcanna.io/validator/bcnavaloper15pvtfel6qgqjuplmq0xgy5jtqpptu0c0qeuv0r)
 - [Rizon Platform](https://testnet.mintscan.io/rizon/validators/rizonvaloper1xsrzc095jltsqgn5h6nurgr93tf25d28jpmkn3)
 
+Other Activity: <br />
+We'are creating [Osmosis Dashboard](https://osmosis.imperator.co/)
 
 Contacts: <br />
 - [Imperator Web-page](https://imperator.co/)
 
-Activity: <br />
-We'are creating [Osmosis Dashboard](https://osmosis.imperator.co/)
+

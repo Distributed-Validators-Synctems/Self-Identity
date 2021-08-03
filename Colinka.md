@@ -4,9 +4,9 @@
 
 3 main-nets: <br />
 
-- [Idena](https://scan.idena.io/identity/0x70aa61e47d11231b4d38fd1e83312854e5a5b15a)
 - [Solana](https://www.validators.app/validators/mainnet/8QLfmTYxnws98ogFfxdpvRSfSR7U9HLcighZHNfFNQwT)
 - [Mina Protocol](https://minaexplorer.com/wallet/B62qoKgbZLxduRtXiWrfM4zhmkicPQwsNtd4eqcizd7WPwD18aDH5hj)
+- [Idena](https://scan.idena.io/identity/0x70aa61e47d11231b4d38fd1e83312854e5a5b15a)
 
 8 test-nets: <br />
 

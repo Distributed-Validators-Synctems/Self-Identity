@@ -15,7 +15,7 @@ This is a system that didn't appear by anyone's will, but which self-created as 
 The word *"Organization"* is also not acceptable for our self-identity, since "organization" means the organizer (*center*). <br />
 Therefore, we use the word **"Synchronization"** not only as a verb, but also as a noun - *a union that arose in the process of synchronization*.
 
-At the moment, **DVS** synchronizes five validators, that are validating almost 50 networks, in the main-nets and in the test-nets.
+At the moment, [DVS Validators](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/meet-our-validators.md) are represented in almost 50 networks, in the main-nets and in the test-nets.
 
 If you are a staker (*delegator*), then you can always be sure that with the validators from the **DVS** you will receive not only a reward from the network, but also guarantees of compensation of funds in case of slashing of our validators, as well as *crypto-gifts* and *NTFs* in cases of significant events and achievements of new milestones. <br />
 All [DVS-validators](https://github.com/Distributed-Validators-Synctems/self-identity/blob/main/meet-our-validators.md) are public figures, and you can always communicate with them as with your friends and colleagues.

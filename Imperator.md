@@ -15,7 +15,7 @@ Test-nets: <br />
 
 
 Contacts: <br />
-- [Web-page](https://imperator.co/)
+- [Imperator Web-page](https://imperator.co/)
 
 Activity: <br />
-- [Osmosis Dashboard](https://osmosis.imperator.co/)
+We'are creating [Osmosis Dashboard](https://osmosis.imperator.co/)

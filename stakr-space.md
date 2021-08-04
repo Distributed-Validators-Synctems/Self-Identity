@@ -44,7 +44,7 @@ Activities: <br />
    FreeTON - [Devops](https://devops.gov.freeton.org/main) and [NFT](https://nft.gov.freeton.org/main) Subgovs Initial Member and Jury<br />
     Moonbeam - [Ambassador](https://moonbeam.network/community/ambassadors/)
 
-Contacts: <br />
+Reach out: <br />
 - [STAKR site](https://stakr.space)
 - [Blog](https://github.com/papanomad535/blog)
   

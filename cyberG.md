@@ -49,7 +49,6 @@ Finished Testnets:
 - [Swarm]()
 - [Casper]()
 - [Concordium]()
-- [Meter]()- 
 - [Phala]()
 - [PlatON]()
 - [Meter]()

@@ -16,7 +16,7 @@
 - [Cyber](https://rebyc.cyber.page/network/bostrom/hero/bostromvaloper1ccvpcq9ffy0qd2ca8nmmpzfamtyjfc9zt56fhc)
 - [Solana](https://www.validators.app/validators/testnet/HZX4MWsSDzRerGuV6kgtj5sGM3dcX9doaiN7qr5y9MAw?locale=en&order=score&refresh=)
 - [Juno Network](https://testnet.juno.aneka.io/validators/junovaloper1sxa5wu7d5p992nxq5teh0r0lzsecmz3ukhlgla)
-- [Rizon Platform](https://testnet.mintscan.io/rizon/validators/rizonvaloper1x8v879tfarnxe6anmwaj88djwlcautxhkn4h72)
+- [Rizon Platform](https://testnet.mintscan.io/rizon/validators/rizonvaloper1m05u6er59jlgn9gzr06nya0d7tfs4scw2xn99p)
 - [OmniFlix Network](https://explorer.omniflix.network/validator/omniflixvaloper16qyrz9gwr3dekf78c0e36tkwcelqsp8w2cdljz)
 
 

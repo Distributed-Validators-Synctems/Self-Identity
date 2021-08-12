@@ -4,7 +4,7 @@
 Passionate experts with over five years of expertise in decentralized technologies. Professional validator and full time enthusiast from 2015 with powerful knowledge and exhaustive experience in crypto industry, successfully participated in more than 50 testnets. Validate many known mainnet network such as Solana, MinaProtocol, Avalanche, TheGraph, CertiK, Sentinel, XX-network, FreeTON, Microtick, LikeCoin. Ambassador in Moonbeam, FreeTon (Jury in NFT Subgovarnance), Covalent networks, Polygon, Octopus, Sentinel, TheGraph curator. Co-founder of the rapidly developing crypto [consortium](https://koinsortium.com/). Feel free to familiarize yourself with the list of projects below to which I contributed my knowledge, skills and invaluable experience:
 
 ## Web34ever validate **many** different Networks
-Main-nets: <br />
+                                                                                                                                               Main-nets: <br />
 - [Certik](https://explorer.certik.foundation/validators/certikvaloper1036rphfnyw49fzm5ajfud743j2qutlk9flnnsq?net=shentu-1)		
 				
 - [Solana](https://www.validators.app/validators/testnet/M7Pcv3j8KpX8ZAkeSsvJnexgKrZbBAaMEcRTvf6t2Em?locale=en&order=score&refresh=)
@@ -42,9 +42,7 @@ Main-nets: <br />
 - [Regen Network](https://regen.aneka.io/validators?page=active)
 
 
-
-
-Test-nets: <br /> 
+                                                                                                                                                Test-nets: <br /> 
 
 Cosmos SDK projects:
 - [Cyber.papge](https://rebyc.cyber.page/network/bostrom/hero/bostromvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fh73g0j)

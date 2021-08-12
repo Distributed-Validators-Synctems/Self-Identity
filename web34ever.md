@@ -23,37 +23,43 @@ Main-nets: <br />
 - [Free TON](https://ton.live/depools/depoolDetails?id=0%3Ae108fbffddd3999898788f59b267a0641287703866845d1734be5cd7f637473c)
 - [Cryptocom](https://crypto.org/explorer/croeseid/validator/tcrocncl129xlqcjasyzqsc4364x7hc6m6t5w33ruqp53qx)
 - [Zeitgeist](https://telemetry.polkadot.io/#list/Zeitgeist%20Battery%20Park)
+- [Regen Network](https://regen.aneka.io/validators?page=active)
 
-{Blochains grow here}
+
+
 
 Test-nets: <br /> 
-Hopr <br />
-Regen	Testnet runner, delegator in mainnet <br />
-Althea	Testnet , Core-validaor	https://testnet.althea.aneka.io/validators/cosmosvaloper1hv0dcr9l2l090jxtuxu8nsa2jm6h307xfdcwsc <br />
-Casper	delta-10, delta-11 -genesis validator <br />
-Swarm <br />
-Covalent <br />
-Kira	https://github.com/KiraCore/testnet <br />
-Cyber	https://cyber.page/network/euler/hero/cybervaloper1nywu6z26tpcrr2kcqe8z7t235wrfkhfcdw7fzd <br />
-NYM <br />			
-Spacemesh	 <br />
-Radicle <br />
-Plasm	 <br />
-Juno	https://testnet.juno.aneka.io/validators/junovaloper1034x52hzw8flvtdc6r4984te2720q72c4vj3h5	 <br />
-Aleo <br />
-Gateway <br />
-Frontier <br />
-Iron Fish <br />
-Meter <br />
-IRIS <br />
-Taraxa <br />
-Akash	Testnet , deployed cybercongress.ai application in akash network				http://5k6rp916o9807flqte7ruq1bk0.ingress.ewr1p0.mainnet.akashian.io/	 <br />
-Concordium <br />	
-Nucypher <br />	
-Phala <br />
-Blockstack <br />
-Humanode <br />
-PlatON <br />
-Filecoin <br />
 
+Cosmos SDK projects:
+-[Cyber.papge](https://rebyc.cyber.page/network/bostrom/hero/bostromvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fh73g0j)
+-[Althea](https://testnet.althea.aneka.io/validators/cosmosvaloper1hv0dcr9l2l090jxtuxu8nsa2jm6h307xfdcwscj)
+-[Akash Network](http://5k6rp916o9807flqte7ruq1bk0.ingress.ewr1p0.mainnet.akashian.io/)
+-[Juno](https://juno.omniflix.co/)
+-[Althea](https://testnet.althea.aneka.io/validators/cosmosvaloper1hv0dcr9l2l090jxtuxu8nsa2jm6h307xfdcwscj)
+-[Kira](https://github.com/KiraCore/testnet)
+-[Frontier]()
+
+
+Others projects
+-[Hopr](https://telemetry.polkadot.io/#list/Zeitgeist%20Battery%20Park)
+-[Casper Network](https://github.com/cybernekit/casper-node)
+-[Filecoin]()
+-[Nucypher]()
+-[Swarm]()
+-[Covalent]()
+-[NYM]()	
+-[Spacemesh]()	
+-[Radicle]()	
+-[Plasm]()	
+-[Aleo]()	
+-[Gateway]()
+-[Iron Fish]()
+-[Meter]()
+-[Taraxa]()
+-[Phala]()
+-[Blockstack]()
+-[Humanode]()
+-[PlatON]()
+
+Blochains grow here
 More info soon... <br />

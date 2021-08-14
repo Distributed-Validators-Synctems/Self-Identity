@@ -63,6 +63,7 @@ Finished Testnets:
 Ambassador campaigns:
 - [Covalent]()
 - [Cyber]()
+- [dClimate]()
 - [FreeTON]()
 - [Genshiro]()
 - [Hacken]()

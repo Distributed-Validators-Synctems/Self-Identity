@@ -1,6 +1,6 @@
 ![IMG_1359](https://user-images.githubusercontent.com/38581319/121065657-4b437c80-c7c9-11eb-9be3-c88ae27a4e51.PNG)
 
-## POSTHUMAN validate 11 different Networks
+## POSTHUMAN validate 12 different Networks
 
 **Main-nets:** <br />
 
@@ -10,6 +10,7 @@
 - [Ki Chain](https://www.mintscan.io/ki-chain/validators/kivaloper1g2sr6x8hrtwwsaaqu8p8r7dzdfugdcsal08gq8)
 - [Osmosis](https://www.mintscan.io/osmosis/validators/osmovaloper1e8238v24qccht9mqc2w0r4luq462yxttfpaeam)
 - [LikeCoin](https://likecoin.bigdipper.live/validator/cosmosvaloper13shmgwhlhw36sv6yfqz9llpcynu7pkqngsmeld)
+- [MediBloc](https://www.mintscan.io/medibloc/validators/panaceavaloper190njxj69lmwdwjhhp0fw5kqsxsu6g876hzgp6z)
 
 **Test-nets:** <br />
 

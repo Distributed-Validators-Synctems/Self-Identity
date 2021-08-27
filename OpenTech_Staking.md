@@ -4,6 +4,7 @@
 
 Main-nets: <br />
 - [Starname](https://www.mintscan.io/starname/validators/starvaloper1gvt5u6ggvtcas4l7ez4lyvgusqdefckxqlj7lk)
+- [Medibloc](https://www.mintscan.io/medibloc/validators/panaceavaloper1kqz8nfz2cltecc3muwq9lgcqgps2lghurwj9zp)
 - [Straightedge](https://straightedge.bi23.com/validator/strvaloper18dy4q95wf5f7up7tpc5h3605h8xk6wtsrgpfnq)
 
 Testnets: <br />

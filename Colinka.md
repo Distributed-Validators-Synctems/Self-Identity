@@ -23,8 +23,8 @@
 - Hopr - Link will be added soon
 
 Activities: <br />
-MantaNetwork - Regional Commander
-Covalent - Alchemist
-Secret Network - Secret Agent
-Moonbeam - Ambassador
-Mina Protocol - GFM member
+- MantaNetwork - Regional Commander
+- Covalent - Alchemist
+- Secret Network - Secret Agent
+- Moonbeam - Ambassador
+- Mina Protocol - GFM member

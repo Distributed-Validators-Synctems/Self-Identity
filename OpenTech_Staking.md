@@ -9,3 +9,4 @@ Main-nets: <br />
 
 Testnets: <br />
 - [Juno Network](https://testnet.juno.aneka.io/validators/junovaloper1z484nexrw0q4grwl7zg8vf9f98ysf30qqydkp0)
+- [Umee Network](https://explorer-umee.nodes.guru/validator/umeevaloper1c65ksvf6xjmheg35gwyvcqlhhgxp2hhtkyqjvq) (Early phase)

@@ -60,6 +60,8 @@ Cosmos SDK projects:
 - [Althea](https://testnet.althea.aneka.io/validators/cosmosvaloper1hv0dcr9l2l090jxtuxu8nsa2jm6h307xfdcwscj)
 - [Decentr](https://explorer.decentr.net/validators/decentrvaloper1xmfyelmhajhswh4m2pqxw9vm6yjw3866j4nmls)
 - [Kira](https://github.com/KiraCore/testnet)
+- [Osmosis](https://github.com/osmosis-labs/networks) 
+- [Rizon](https://testnet.mintscan.io/rizon/validators/rizonvaloper15sn3ts9jpmf23eskx7730mngftq4gta82y32jf) 
 - [Frontier]()
 - [Cryptocom](https://crypto.org/explorer/croeseid/validator/tcrocncl129xlqcjasyzqsc4364x7hc6m6t5w33ruqp53qx)
 

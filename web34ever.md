@@ -27,7 +27,7 @@ Passionate experts with over five years of expertise in decentralized technologi
 
 - [Sentinel](https://explorer.sentinel.co/validator/sentvaloper1qx4p43c480wxsxt63wfdvupzqp4dduknxldygu)
 
-- [XX](https://dashboard.xx.network/nodes/sFMS0TKTK5FoignYUnhJDwWz9_Uotmzg3LI-szS3ixIC)
+- [XX-Network](https://dashboard.xx.network/nodes/sFMS0TKTK5FoignYUnhJDwWz9_Uotmzg3LI-szS3ixIC)
 
 - [Decentr](https://explorer.decentr.net/validators/decentrvaloper1xmfyelmhajhswh4m2pqxw9vm6yjw3866j4nmls)
  

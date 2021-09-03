@@ -32,6 +32,8 @@ Passionate experts with over five years of expertise in decentralized technologi
 - [Decentr](https://explorer.decentr.net/validators/decentrvaloper1xmfyelmhajhswh4m2pqxw9vm6yjw3866j4nmls)
  
 - [Moonbeam Collator](https://www.reddit.com/r/MoonbeamAmbassadors/comments/mu4gva/node_launch)
+
+- [DOK](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet-node.dock.io#/staking)
  		
 - [Likecoin](https://likecoin.bigdipper.live/validator/cosmosvaloper1yxzlyqmje82kc3l6nl3tpxhqs356vvh6eu6q5h)
  

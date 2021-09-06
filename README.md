@@ -10,7 +10,7 @@ We are living in a paradigm shift. <br />
 The words *"System"* and *"Organization"* are words from the old industrial paradigm, where everything had a center and a creator. A new paradigm requires new words, and therefore it is up to us to create them!
 
 The word **"Synctem"** comes from the word **"Synchronization"**. <br />
-This is a system that didn't appear by anyone's will, but which self-created as a result of synchronization.
+This is a system that didn't appear by anyone's will, but which is self-created in the process of synchronization.
 
 The word *"Organization"* is also not acceptable for our self-identity, since "organization" means the organizer (*center*). <br />
 Therefore, we use the word **"Synchronization"** not only as a verb, but also as a noun - *different parts that have become one as a result of synchronization*.

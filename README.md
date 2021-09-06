@@ -13,7 +13,7 @@ The word **"Synctem"** comes from the word **"Synchronization"**. <br />
 This is a system that didn't appear by anyone's will, but which self-created as a result of synchronization.
 
 The word *"Organization"* is also not acceptable for our self-identity, since "organization" means the organizer (*center*). <br />
-Therefore, we use the word **"Synchronization"** not only as a verb, but also as a noun - *a union that arose in the process of synchronization*.
+Therefore, we use the word **"Synchronization"** not only as a verb, but also as a noun - *different parts that have become one as a result of synchronization*.
 
 At the moment, [DVS Validators](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/meet-our-validators.md) are represented in almost 50 networks, in the main-nets and in the test-nets.
 

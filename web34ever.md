@@ -9,6 +9,8 @@ Passionate experts with over five years of expertise in decentralized technologi
 				
 - [Solana](https://www.validators.app/validators/testnet/M7Pcv3j8KpX8ZAkeSsvJnexgKrZbBAaMEcRTvf6t2Em?locale=en&order=score&refresh=)
 
+- [Velas](https://velasvalidators.com/AeH8nSJYDPVsEhXqEMi5Ujy8ZZ7CAs7zGXGwbBicPQnd)
+
 - [Avalanche](https://avascan.info/staking/validator/NodeID-Piko6i5MwfxKVSBQEeBWGP2gkYqrPwRNH)
 
 - [TheGraph](https://thegraph.com/explorer/profile?id=0x61fb0285da8609b17bd82675acf0fc0a60061d7d&view=Delegating)	

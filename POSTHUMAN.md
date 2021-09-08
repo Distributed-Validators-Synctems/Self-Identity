@@ -1,6 +1,6 @@
 ![IMG_1359](https://user-images.githubusercontent.com/38581319/121065657-4b437c80-c7c9-11eb-9be3-c88ae27a4e51.PNG)
 
-## POSTHUMAN validate 13 different Networks
+## POSTHUMAN validate 12 different Networks
 
 **Main-nets:** <br />
 
@@ -18,7 +18,6 @@
 - [Cyber](https://rebyc.cyber.page/network/bostrom/hero/bostromvaloper1ccvpcq9ffy0qd2ca8nmmpzfamtyjfc9zt56fhc)
 - [Solana](https://www.validators.app/validators/testnet/HZX4MWsSDzRerGuV6kgtj5sGM3dcX9doaiN7qr5y9MAw?locale=en&order=score&refresh=)
 - [Juno Network](https://testnet.juno.aneka.io/validators/junovaloper1sxa5wu7d5p992nxq5teh0r0lzsecmz3ukhlgla)
-- [Rizon Platform](https://testnet.mintscan.io/rizon/validators/rizonvaloper1m05u6er59jlgn9gzr06nya0d7tfs4scw2xn99p)
 - [OmniFlix Network] - test-net temporary stopped ()
 
 

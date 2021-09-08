@@ -9,7 +9,7 @@
 - [Fetch.ai](https://www.mintscan.io/fetchai/validators/fetchvaloper1y02hlwucl6csz4z02ksn46gzdkmref927l4mug) - 344,028 $FET
 - [Ki Chain](https://www.mintscan.io/ki-chain/validators/kivaloper1g2sr6x8hrtwwsaaqu8p8r7dzdfugdcsal08gq8) - 3,203,188 $XKI
 - [Osmosis](https://www.mintscan.io/osmosis/validators/osmovaloper1e8238v24qccht9mqc2w0r4luq462yxttfpaeam) - 122,577 $OSMO
-- [LikeCoin](https://likecoin.bigdipper.live/validators/cosmosvaloper13shmgwhlhw36sv6yfqz9llpcynu7pkqngsmeld) - 17,010,783,623 $LIKE
+- [LikeCoin](https://likecoin.bigdipper.live/validators/cosmosvaloper13shmgwhlhw36sv6yfqz9llpcynu7pkqngsmeld) - 17,010,783 $LIKE
 - [MediBloc](https://www.mintscan.io/medibloc/validators/panaceavaloper190njxj69lmwdwjhhp0fw5kqsxsu6g876hzgp6z) - 96,782 $MED
 - [Velas](https://velasvalidators.com/9Hj1BdkKHz9rGoDdqy82huZHpcvK2pAzXoBP1BbECqze) - 10 $VLX
 

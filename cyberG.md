@@ -8,7 +8,7 @@ Active Mainnets: <br />
 - [Certik](https://explorer.certik.foundation/validators/certikvaloper1yq8a2ksa7dz8wd8wlks3k8nqdmht76xdnrvehx?net=shentu-1)
 - [Free TON](https://ton.live/depools/depoolDetails?id=0%3Ae108fbffddd3999898788f59b267a0641287703866845d1734be5cd7f637473c)
 - [Idena](https://scan.idena.io/address/0x1e60fd65d9c231b47356ab30fcc32a804564fced)
-- [Likecoin](https://likecoin.bigdipper.live/validator/cosmosvaloper1rl0xnp30vd5xw4xcjya3zsq7lf3ya6ghusx0x4)
+- [Likecoin](https://likecoin.bigdipper.live/validators/cosmosvaloper1rl0xnp30vd5xw4xcjya3zsq7lf3ya6ghusx0x4)
 - [Microtick](https://explorer.microtick.zone/validator/microvaloper13vhfpt8hxvld2x7qfu8kft88zsn5e6rtknss3p)
 - [Mina Protocol](https://minaexplorer.com/wallet/B62qrgnUUduZy2z7zT8qCV8ngTJfSS1rK3Wh22SHUmrse3Tfqvrhx8q)
 - [ProximaX]()

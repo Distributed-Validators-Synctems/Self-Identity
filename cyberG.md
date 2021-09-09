@@ -11,9 +11,9 @@ Active Mainnets: <br />
 - [Likecoin](https://likecoin.bigdipper.live/validators/cosmosvaloper1rl0xnp30vd5xw4xcjya3zsq7lf3ya6ghusx0x4)
 - [Microtick](https://explorer.microtick.zone/validator/microvaloper13vhfpt8hxvld2x7qfu8kft88zsn5e6rtknss3p)
 - [Mina Protocol](https://minaexplorer.com/wallet/B62qrgnUUduZy2z7zT8qCV8ngTJfSS1rK3Wh22SHUmrse3Tfqvrhx8q)
-- [ProximaX]()
+- [ProximaX](https://explorer.xpxsirius.io)
 - [Solana](https://www.validators.app/?q=cyberg&network=mainnet&order=score&refresh=&commit=Search)
-- [Velas]()
+- [Velas](https://velasvalidators.com/7MYojjTNnFsyEs7Pb5Xv3pKeZxUGk6R1kJoLrtSKkSRy)
 
 Genesis validator, but not in active set: <br />
 - [Regen](https://regen.aneka.io/accounts/regen1qvn6ghe68l4g0k7s25rujr6yfpyrm6h3399jvu)

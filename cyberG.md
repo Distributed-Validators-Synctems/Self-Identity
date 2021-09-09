@@ -1,4 +1,4 @@
-![IMG_0280](https://user-images.githubusercontent.com/38581319/121066426-2996c500-c7ca-11eb-8508-a1e7b0ba1ac2.PNG)
+![IMG_0677](https://user-images.githubusercontent.com/38581319/132743817-e1efbae5-de17-4a9a-9ffe-392712ee9242.PNG)
 
 ## cyberG activity:
 

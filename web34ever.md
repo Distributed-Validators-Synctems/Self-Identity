@@ -48,7 +48,8 @@ Passionate experts with over five years of expertise in decentralized technologi
 - [Idena](https://scan.idena.io/address/0x8f13de3aad441684cdfb84c5410f845697cce378#rewards)
 
 
-                                                  Test-Networks
+                                                  Blochains grow here
+						    Test-Networks 
 
 Cosmos SDK projects:
 - [Cyber.papge](https://rebyc.cyber.page/network/bostrom/hero/bostromvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fh73g0j)
@@ -68,6 +69,7 @@ Cosmos SDK projects:
 - [Rizon](https://testnet.mintscan.io/rizon/validators/rizonvaloper15sn3ts9jpmf23eskx7730mngftq4gta82y32jf) 
 - [Frontier]()
 - [Cryptocom](https://crypto.org/explorer/croeseid/validator/tcrocncl129xlqcjasyzqsc4364x7hc6m6t5w33ruqp53qx)
+- [Omniflix](https://explorer.omniflix.network/validators)
 
 
 
@@ -91,6 +93,28 @@ Others projects
 - [Blockstack]()
 - [Humanode]()
 - [PlatON]()
+                                                   AMBASSADOR CAMPAIGNS
+						   
+						   
+- [Covalent]()
+- [Polygon]()
+- [Octopus Network]()
+- [FreeTON]()
+- [Cyber]()
+- [Qredo]()
+- [TheGraph]()
+- [Secret Network]()
+- [Moonbeam]()
 
-Blochains grow here
+
+                                                   My Contacts
+						   
+						   
+						   - [Telegram](https://t.me/hekit)
+						   - [Twitter](https://twitter.com/web34ever)
+						   - [Keybase](https://keybase.io/web34ever)
+						   - [GitHub](https://github.com/cybernekit)
+						   - [Website](https://web34ever.network/)
+						  
+						   
 More info soon... <br />

@@ -93,6 +93,8 @@ Others projects
 - [Blockstack]()
 - [Humanode]()
 - [PlatON]()
+
+
                                                    AMBASSADOR CAMPAIGNS
 						   
 						   
@@ -110,11 +112,11 @@ Others projects
                                                    My Contacts
 						   
 						   
-						   - [Telegram](https://t.me/hekit)
-						   - [Twitter](https://twitter.com/web34ever)
-						   - [Keybase](https://keybase.io/web34ever)
-						   - [GitHub](https://github.com/cybernekit)
-						   - [Website](https://web34ever.network/)
+ - [Telegram](https://t.me/hekit)
+ - [Twitter](https://twitter.com/web34ever)
+ - [Keybase](https://keybase.io/web34ever)
+ - [GitHub](https://github.com/cybernekit)
+ - [Website](https://web34ever.network/)
 						  
 						   
 More info soon... <br />

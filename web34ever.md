@@ -49,7 +49,7 @@ Passionate experts with over five years of expertise in decentralized technologi
 
 
                                                   Blochains grow here
-						    Test-Networks 
+						        Test-Networks 
 
 Cosmos SDK projects:
 - [Cyber.papge](https://rebyc.cyber.page/network/bostrom/hero/bostromvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fh73g0j)

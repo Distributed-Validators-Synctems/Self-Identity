@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/59205554/124520901-7df78980-ddf6-11eb-80a4-74a425e2771a.png" width="200" />
+![web34ever](https://user-images.githubusercontent.com/38581319/133357680-f1a21271-0d0d-4a8f-8254-8a7927b94332.png)
 
 ## Who am I?
 Passionate experts with over five years of expertise in decentralized technologies. Professional validator and full time enthusiast from 2015 with powerful knowledge and exhaustive experience in crypto industry, successfully participated in more than 50 testnets. Validate many known mainnet networks such as Solana, MinaProtocol, Avalanche, TheGraph, CertiK, Sentinel, XX-network, FreeTON, Microtick, LikeCoin. Ambassador in Moonbeam, FreeTon (Jury in NFT Subgovarnance), Covalent networks, Polygon, Octopus, Sentinel, TheGraph curator. Co-founder of the rapidly developing crypto [consortium](https://koinsortium.com/). Feel free to familiarize yourself with the list of projects below to which I contributed my knowledge, skills and invaluable experience:

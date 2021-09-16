@@ -1,6 +1,6 @@
 ![IMG_1359](https://user-images.githubusercontent.com/38581319/121065657-4b437c80-c7c9-11eb-9be3-c88ae27a4e51.PNG)
 
-## POSTHUMAN validate 12 different Networks
+## POSTHUMAN validate 14 different Networks
 
 **Main-nets:** <br />
 
@@ -11,7 +11,8 @@
 - [Osmosis](https://www.mintscan.io/osmosis/validators/osmovaloper1e8238v24qccht9mqc2w0r4luq462yxttfpaeam) - 122,577 $OSMO
 - [LikeCoin](https://likecoin.bigdipper.live/validators/cosmosvaloper13shmgwhlhw36sv6yfqz9llpcynu7pkqngsmeld) - 17,010,783 $LIKE
 - [MediBloc](https://www.mintscan.io/medibloc/validators/panaceavaloper190njxj69lmwdwjhhp0fw5kqsxsu6g876hzgp6z) - 96,782 $MED
-- [Velas](https://velasvalidators.com/9Hj1BdkKHz9rGoDdqy82huZHpcvK2pAzXoBP1BbECqze) - 10 $VLX
+- [Velas](https://velasvalidators.com/9Hj1BdkKHz9rGoDdqy82huZHpcvK2pAzXoBP1BbECqze) - 10,000,000 $VLX
+- [Solana](https://www.validators.app/validators/mainnet/9PViHDmiezXQfeYDveJrcfkXCQVCcsfhpo32cjHUeZVj) - 100 $SOL
 
 **Test-nets:** <br />
 

@@ -41,10 +41,10 @@ Soon:<br />
     [Rizon](https://www.hdactech.com/en/rizon/rizonPlatform.do)<br />
     [Stratos](https://www.thestratos.org)<br />
     [Vega](https://vega.xyz)<br />
-    [Porta](https://porta.network)
-    [Minima](https://minima.global)
-    [Umee](https://umee.cc)
-    [Kichain](https://foundation.ki/)
+    [Porta](https://porta.network)<br />
+    [Minima](https://minima.global)<br />
+    [Umee](https://umee.cc)<br />
+    [Kichain](https://foundation.ki/)<br />
     ...
   
 Activities: <br />

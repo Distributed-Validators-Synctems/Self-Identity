@@ -2,7 +2,7 @@
 
 ## STAKR.space participate in 31+ different Networks
 
-4 main-nets: <br />
+Main-nets: <br />
 [Solana](https://www.validators.app/validators/mainnet/E9hD3ikumJx1GVswDjnpCt6Uu4WG5mz1PDWCqdE5uhmo?locale=en&order=&refresh=) - Bocachica Approved<br />
 [Velas](https://velasvalidators.com/He8EzKJ7dmp37oecC7NnSGSicXdRubjjovd9xWR9UPYH) - Foundation Delegated<br />
 [Mina](https://mina.staketab.com/validator/B62qpsMTL1mTaQUQUTQzVM1qvyGTCLVAhr8whJc7tUfmnPEuZnanzUe) - Genesis Founding Member<br />

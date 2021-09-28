@@ -5,8 +5,8 @@
 4 main-nets: <br />
 [Solana](https://www.validators.app/validators/mainnet/E9hD3ikumJx1GVswDjnpCt6Uu4WG5mz1PDWCqdE5uhmo?locale=en&order=&refresh=) - Bocachica Approved<br />
 [Velas](https://velasvalidators.com/He8EzKJ7dmp37oecC7NnSGSicXdRubjjovd9xWR9UPYH) - Foundation Delegated<br />
-[Mina](https://mina.staketab.com/validator/B62qpsMTL1mTaQUQUTQzVM1qvyGTCLVAhr8whJc7tUfmnPEuZnanzUe)<br />
-[FreeTON - Magister Ludi winner](https://ton.live/accounts/accountDetails?id=0%3A91163b1721e5920726053b51baf39be62e9c058fc348913d3619503d6710f92b)<br />
+[Mina](https://mina.staketab.com/validator/B62qpsMTL1mTaQUQUTQzVM1qvyGTCLVAhr8whJc7tUfmnPEuZnanzUe) - Genesis Founding Member<br />
+[FreeTON](https://ton.live/accounts/accountDetails?id=0%3A91163b1721e5920726053b51baf39be62e9c058fc348913d3619503d6710f92b) - Magister Ludi winner<br />
 Soon:<br />
 [Hopr](https://hoprnet.org/)<br />
 [Tgrade](https://tgrade.finance)<br />

@@ -37,6 +37,9 @@
     [Rizon](https://www.hdactech.com/en/rizon/rizonPlatform.do)<br />
     [Stratos](https://www.thestratos.org)<br />
     [Vega](https://vega.xyz)<br />
+    [Porta](https://porta.network)
+    [Minima](https://minima.global)
+    [Umee](https://umee.cc)
     ...
   
 Activities: <br />

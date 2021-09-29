@@ -7,6 +7,7 @@
 - [Solana](https://www.validators.app/validators/mainnet/8QLfmTYxnws98ogFfxdpvRSfSR7U9HLcighZHNfFNQwT)
 - [Mina Protocol](https://minaexplorer.com/wallet/B62qoKgbZLxduRtXiWrfM4zhmkicPQwsNtd4eqcizd7WPwD18aDH5hj)
 - [Idena](https://scan.idena.io/identity/0x70aa61e47d11231b4d38fd1e83312854e5a5b15a)
+- [Velas](https://velasvalidators.com/96isFFVKbaEsdMgHnBGwaifSiuxF2DjnPMGURbHyrHrC)
 
 11 test-nets: <br />
 
@@ -28,3 +29,4 @@ Activities: <br />
 - Secret Network - Secret Agent
 - Moonbeam - Ambassador
 - Mina Protocol - GFM member
+- Flux - Ambassador

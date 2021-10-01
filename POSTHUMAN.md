@@ -1,6 +1,6 @@
 ![IMG_1359](https://user-images.githubusercontent.com/38581319/121065657-4b437c80-c7c9-11eb-9be3-c88ae27a4e51.PNG)
 
-## POSTHUMAN validate 15 different Networks
+## POSTHUMAN validate 14 different Networks
 
 **Main-nets:** <br />
 
@@ -14,15 +14,13 @@
 - [Cosmos Network](https://www.mintscan.io/cosmos/validators/cosmosvaloper157v7tczs40axfgejp2m43kwuzqe0wsy0rv8puv) - 13,579 $ATOM
 - [Solana](https://www.validators.app/validators/mainnet/9PViHDmiezXQfeYDveJrcfkXCQVCcsfhpo32cjHUeZVj) - 25,111 $SOL
 - [MediBloc](https://www.mintscan.io/medibloc/validators/panaceavaloper190njxj69lmwdwjhhp0fw5kqsxsu6g876hzgp6z) - 206,717 $MED
-
+- [Juno Network](https://junoscan.com/validators/junovaloper1e8238v24qccht9mqc2w0r4luq462yxttjzn7qt) - 10,566 $JUNO
 
 **Test-nets:** <br />
 
 - [Cyber](https://cyb.ai/network/bostrom/hero/bostromvaloper1ccvpcq9ffy0qd2ca8nmmpzfamtyjfc9zt56fhc)
 - [Solana](https://www.validators.app/validators/testnet/HZX4MWsSDzRerGuV6kgtj5sGM3dcX9doaiN7qr5y9MAw?locale=en&order=score&refresh=)
-- [Juno Network - Lucia](https://testnet.juno.aneka.io/validators/junovaloper1sxa5wu7d5p992nxq5teh0r0lzsecmz3ukhlgla)
-- [Juno Network - Hera](https://hera.juno.aneka.io/validators/junovaloper1e8238v24qccht9mqc2w0r4luq462yxttjzn7qt)
-- [OmniFlix Network - FlixNet2](https://explorer.omniflix.network/validator/omniflixvaloper16qyrz9gwr3dekf78c0e36tkwcelqsp8w2cdljz)
+- [OmniFlix Network - temporarly stopped]
 
 
 **Other Activities:** <br />

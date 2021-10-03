@@ -14,7 +14,7 @@
 - [Cosmos Network](https://www.mintscan.io/cosmos/validators/cosmosvaloper157v7tczs40axfgejp2m43kwuzqe0wsy0rv8puv) - 13,579 $ATOM
 - [Solana](https://www.validators.app/validators/mainnet/9PViHDmiezXQfeYDveJrcfkXCQVCcsfhpo32cjHUeZVj) - 25,111 $SOL
 - [MediBloc](https://www.mintscan.io/medibloc/validators/panaceavaloper190njxj69lmwdwjhhp0fw5kqsxsu6g876hzgp6z) - 206,717 $MED
-- [Juno Network](https://junoscan.com/validators/junovaloper1e8238v24qccht9mqc2w0r4luq462yxttjzn7qt) - 10,566 $JUNO
+- [Juno Network](https://juno.aneka.io/validators/junovaloper1e8238v24qccht9mqc2w0r4luq462yxttjzn7qt) - 42,064 $JUNO
 
 **Test-nets:** <br />
 

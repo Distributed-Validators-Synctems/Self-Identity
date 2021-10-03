@@ -4,17 +4,17 @@
 
 **Main-nets:** <br />
 
+- [Solana](https://www.validators.app/validators/mainnet/9PViHDmiezXQfeYDveJrcfkXCQVCcsfhpo32cjHUeZVj) - 25,125 $SOL
 - [Persistence](https://www.mintscan.io/persistence/validators/persistencevaloper10sc98vt6saux8asexnsp2hgvkgmjmful8w5cuw) - 304,339 $XPRT
 - [Velas](https://velasvalidators.com/9Hj1BdkKHz9rGoDdqy82huZHpcvK2pAzXoBP1BbECqze) - 10,043,651 $VLX
 - [Osmosis](https://www.mintscan.io/osmosis/validators/osmovaloper1e8238v24qccht9mqc2w0r4luq462yxttfpaeam) - 128,707 $OSMO
 - [Fetch.ai](https://www.mintscan.io/fetchai/validators/fetchvaloper1y02hlwucl6csz4z02ksn46gzdkmref927l4mug) - 804,821 $FET
 - [Ki Chain](https://www.mintscan.io/ki-chain/validators/kivaloper1g2sr6x8hrtwwsaaqu8p8r7dzdfugdcsal08gq8) - 3,191,533 $XKI
-- [LikeCoin](https://likecoin.bigdipper.live/validators/cosmosvaloper13shmgwhlhw36sv6yfqz9llpcynu7pkqngsmeld) - 15,010,813 $LIKE
-- [Starname](https://www.mintscan.io/starname/validators/starvaloper1euslp8c2qadgs6jy6klwv6f332mj426qje6vsn) - 1,719,773 $IOV
 - [Cosmos Network](https://www.mintscan.io/cosmos/validators/cosmosvaloper157v7tczs40axfgejp2m43kwuzqe0wsy0rv8puv) - 13,579 $ATOM
-- [Solana](https://www.validators.app/validators/mainnet/9PViHDmiezXQfeYDveJrcfkXCQVCcsfhpo32cjHUeZVj) - 25,111 $SOL
-- [MediBloc](https://www.mintscan.io/medibloc/validators/panaceavaloper190njxj69lmwdwjhhp0fw5kqsxsu6g876hzgp6z) - 206,717 $MED
+- [LikeCoin](https://likecoin.bigdipper.live/validators/cosmosvaloper13shmgwhlhw36sv6yfqz9llpcynu7pkqngsmeld) - 15,010,813 $LIKE
 - [Juno Network](https://juno.aneka.io/validators/junovaloper1e8238v24qccht9mqc2w0r4luq462yxttjzn7qt) - 42,064 $JUNO
+- [Starname](https://www.mintscan.io/starname/validators/starvaloper1euslp8c2qadgs6jy6klwv6f332mj426qje6vsn) - 1,719,773 $IOV
+- [MediBloc](https://www.mintscan.io/medibloc/validators/panaceavaloper190njxj69lmwdwjhhp0fw5kqsxsu6g876hzgp6z) - 206,717 $MED
 
 **Test-nets:** <br />
 

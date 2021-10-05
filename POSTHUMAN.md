@@ -12,7 +12,7 @@
 - [Ki Chain](https://www.mintscan.io/ki-chain/validators/kivaloper1g2sr6x8hrtwwsaaqu8p8r7dzdfugdcsal08gq8) - 3,191,533 $XKI
 - [Cosmos Network](https://www.mintscan.io/cosmos/validators/cosmosvaloper157v7tczs40axfgejp2m43kwuzqe0wsy0rv8puv) - 13,579 $ATOM
 - [LikeCoin](https://likecoin.bigdipper.live/validators/cosmosvaloper13shmgwhlhw36sv6yfqz9llpcynu7pkqngsmeld) - 15,010,813 $LIKE
-- [Juno Network](https://juno.aneka.io/validators/junovaloper1e8238v24qccht9mqc2w0r4luq462yxttjzn7qt) - 42,064 $JUNO
+- [Juno Network](https://www.mintscan.io/juno/validators/junovaloper1e8238v24qccht9mqc2w0r4luq462yxttjzn7qt) - 43,326 $JUNO
 - [Starname](https://www.mintscan.io/starname/validators/starvaloper1euslp8c2qadgs6jy6klwv6f332mj426qje6vsn) - 1,719,773 $IOV
 - [MediBloc](https://www.mintscan.io/medibloc/validators/panaceavaloper190njxj69lmwdwjhhp0fw5kqsxsu6g876hzgp6z) - 206,717 $MED
 

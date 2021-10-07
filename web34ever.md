@@ -1,6 +1,3 @@
-![web34ever](https://user-images.githubusercontent.com/38581319/133357680-f1a21271-0d0d-4a8f-8254-8a7927b94332.png)
-
-
 <img src="https://user-images.githubusercontent.com/38581319/133357680-f1a21271-0d0d-4a8f-8254-8a7927b94332.png" alt="web34ever" width="250" height="250">
 
 ## Who am I?

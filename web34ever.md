@@ -7,11 +7,11 @@ Passionate experts with over five years of expertise in decentralized technologi
                                                         Main-Networks
 								 	
 				
-- [Solana](https://www.validators.app/validators/testnet/M7Pcv3j8KpX8ZAkeSsvJnexgKrZbBAaMEcRTvf6t2Em?locale=en&order=score&refresh=)
+- [Solana](https://www.validators.app/validators/mainnet/7MTjmteQHhthwwTZhUzsc2dP4NBvGNRqj8jzdqNxHFGE?locale=en&order=&refresh=)
 
 - [Velas](https://velasvalidators.com/AeH8nSJYDPVsEhXqEMi5Ujy8ZZ7CAs7zGXGwbBicPQnd)
 
-- [Avalanche](https://avascan.info/staking/validator/NodeID-Piko6i5MwfxKVSBQEeBWGP2gkYqrPwRNH)
+- [Avalanche](https://avascan.info/staking/validator/NodeID-GcWopGJ9HZAJSBSw5vVGxd7r9rntKj21Q)
 
 - [TheGraph](https://thegraph.com/explorer/profile?id=0x61fb0285da8609b17bd82675acf0fc0a60061d7d&view=Delegating)	
 

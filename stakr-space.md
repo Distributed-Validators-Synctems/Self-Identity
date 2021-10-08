@@ -1,4 +1,4 @@
-![IMG_0431](https://user-images.githubusercontent.com/38581319/123712181-1b404400-d872-11eb-9213-9cde86c03d73.PNG)
+![IMG_0431](https://stakr.space)
 
 ## STAKR.space participate in 31+ different Networks
 

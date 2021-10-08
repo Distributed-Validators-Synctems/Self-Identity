@@ -1,4 +1,4 @@
-![https://stakr.space](https://user-images.githubusercontent.com/38581319/123712181-1b404400-d872-11eb-9213-9cde86c03d73.PNG)
+<img src="https://user-images.githubusercontent.com/38581319/123712181-1b404400-d872-11eb-9213-9cde86c03d73.PNG" href="https://stakr.space">(https://stakr.space)
 
 ## STAKR.space participate in 31+ different Networks
 

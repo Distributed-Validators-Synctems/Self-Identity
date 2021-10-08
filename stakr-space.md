@@ -1,4 +1,4 @@
-<a href="https://stakr.space"><img src="https://user-images.githubusercontent.com/38581319/123712181-1b404400-d872-11eb-9213-9cde86c03d73.PNG" width="200" height="200" /></a>
+<a href="https://stakr.space"><img src="https://user-images.githubusercontent.com/38581319/123712181-1b404400-d872-11eb-9213-9cde86c03d73.PNG" width="300" height="300" /></a>
 
 ## STAKR.space participate in 31+ different Networks
 
@@ -53,6 +53,6 @@ Activities: <br />
     Moonbeam - [Ambassador](https://moonbeam.network/community/ambassadors/)
 
 Reach out: <br />
-- [STAKR site](https://stakr.space)
+- [STAKR site](https://stakr.space#contact)
 - [Blog](https://github.com/papanomad535/blog)
   

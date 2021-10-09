@@ -9,6 +9,12 @@
 - [Idena](https://scan.idena.io/identity/0x70aa61e47d11231b4d38fd1e83312854e5a5b15a)
 - [Velas](https://velasvalidators.com/96isFFVKbaEsdMgHnBGwaifSiuxF2DjnPMGURbHyrHrC)
 
+  Soon: <br />
+
+- [Hopr](https://hoprnet.org/ru)
+- [Agoric](https://testnet.explorer.agoric.net/validator/agoricvaloper1kn328ztnhveulpk0hf8t0z5dhuj8ytekhldgxl)
+
+
 12 test-nets: <br />
 
 - [Solana](https://www.validators.app/?q=9tbzUabDi5D62Kkpd6oQs9r28Ts7TFJHLvx3pFJshZRA&network=testnet&order=&refresh=&commit=Search)

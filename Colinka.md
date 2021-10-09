@@ -22,6 +22,7 @@
 - [Omniflix](https://explorer.omniflix.network/validator/omniflixvaloper152aapd503ne9nf3pd2nzt6a47fekngs7j8qa0z)
 - [Umee](https://explorer-umee.nodes.guru/validator/umeevaloper160q6m7nhck6zdw66v999us9zqun5z9vlrzxfqy)
 - Hopr - Link will be added soon
+- [KYVE](https://app.kyve.network/pool/0xbBBfbE9A731634eDdf84C67A106CEE1F981F3f7e/accounts)
 
 Activities: <br />
 - MantaNetwork - Regional Commander

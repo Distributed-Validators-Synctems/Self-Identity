@@ -1,6 +1,6 @@
 ![Colinka](https://user-images.githubusercontent.com/38581319/127103374-84ef15b3-0999-4073-bd53-2a8cd31a19f3.png)
 
-## Colinka validate 15 different Networks
+## Colinka validate 16 different Networks
 
 4 main-nets: <br />
 

@@ -9,7 +9,7 @@
 - [Idena](https://scan.idena.io/identity/0x70aa61e47d11231b4d38fd1e83312854e5a5b15a)
 - [Velas](https://velasvalidators.com/96isFFVKbaEsdMgHnBGwaifSiuxF2DjnPMGURbHyrHrC)
 
-11 test-nets: <br />
+12 test-nets: <br />
 
 - [Solana](https://www.validators.app/?q=9tbzUabDi5D62Kkpd6oQs9r28Ts7TFJHLvx3pFJshZRA&network=testnet&order=&refresh=&commit=Search)
 - [Moonbeam](https://telemetry.polkadot.io/#list/Moonbase%20Alpha)

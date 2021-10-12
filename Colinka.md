@@ -32,7 +32,7 @@ Soon: <br />
 - [Umee](https://explorer-umee.nodes.guru/validator/umeevaloper160q6m7nhck6zdw66v999us9zqun5z9vlrzxfqy)
 - [Hopr](https://hoprnet.org/ru)
 - [KYVE](https://app.kyve.network/pool/0xbBBfbE9A731634eDdf84C67A106CEE1F981F3f7e/accounts)
-- [Evoms](https://www.evoms.com/)
+- [Evmos](https://evmos.dev/)
 
 Activities: <br />
 - MantaNetwork - Regional Commander

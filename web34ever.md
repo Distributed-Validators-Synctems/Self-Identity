@@ -1,9 +1,13 @@
 <img src="https://user-images.githubusercontent.com/38581319/133357680-f1a21271-0d0d-4a8f-8254-8a7927b94332.png" alt="web34ever" width="250" height="250">
 
-## Who am I?
+## Who am I? WEB34EVER VALIDATING SINCE 2018
+🌇 FROM MORNING TILL EVENING - FROM SUNSET TILL SUNRISE
+
 Passionate experts with over five years of expertise in decentralized technologies. Professional validator and full time enthusiast from 2015 with powerful knowledge and exhaustive experience in crypto industry, successfully participated in more than 50 testnets. Validate many known mainnet networks such as Solana, Velas, MinaProtocol, Avalanche, TheGraph, CertiK, Juno, Rizon , Sentinel, XX-network, FreeTON, Microtick, LikeCoin. Ambassador in Moonbeam, FreeTon (Jury in NFT Subgovarnance), Covalent networks, Polygon, Octopus, Sentinel, TheGraph curator. Co-founder of the rapidly developing crypto [consortium](https://koinsortium.com/). Feel free to familiarize yourself with the list of projects below to which I contributed my knowledge, skills and invaluable experience:
 
 ## Web34ever validate **many** different Networks
+(Bee familiar with the validator web34ever, you can be sure that your stake is totaly safe! For all delegators, there is an "Anti-Slashing" protection: full compensation for lost funds in case of slashing through the fault of the validator!)
+
                                                         Main-Networks
 								 	
 				

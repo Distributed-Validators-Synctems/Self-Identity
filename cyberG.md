@@ -1,5 +1,7 @@
 ![IMG_0677](https://user-images.githubusercontent.com/38581319/132743817-e1efbae5-de17-4a9a-9ffe-392712ee9242.PNG)
 
+https://www.cyberg.digital/
+
 ## cyberG activity:
 
 Active Mainnets: <br />
@@ -92,7 +94,6 @@ Ambassador campaigns:
 - [Biconomy]()
 - [Flux]()
 
-More info soon... <br />
 
 My social links:
 - [Y.at](https://y.at/😍❤️😱🙌🍦)

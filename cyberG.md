@@ -5,6 +5,7 @@
 ## cyberG activity:
 
 Active Mainnets: <br />
+- [Algorand]() relayer
 - [Avalanche](https://avascan.info/staking/validator/NodeID-Jm1k2q2WAkH99w4ZBEgzrmm6Kte39qCWJ)
 - [Bitsong](https://explorebitsong.com/staking/bitsongvaloper1m8ps45ltlt0vejjm2hqtu26jkd8rfkz9vwu5tw)
 - [Certik](https://explorer.certik.foundation/validators/certikvaloper1yq8a2ksa7dz8wd8wlks3k8nqdmht76xdnrvehx?net=shentu-1)
@@ -12,7 +13,7 @@ Active Mainnets: <br />
 - [Idena](https://scan.idena.io/address/0x1e60fd65d9c231b47356ab30fcc32a804564fced)
 - [Juno](https://junoscan.com/validators/junovaloper1353ewfc0v7pnn3xre6v9lraghxrhenswmsjhv0)
 - [Quadrans]()
-- [Microtick](https://explorer.microtick.zone/validator/microvaloper13vhfpt8hxvld2x7qfu8kft88zsn5e6rtknss3p)
+- [Microtick](https://explorer.microtick.zone/validators/microvaloper1z7crvuuks7yk33qwx4nv68nzhwznkmt96ddm5l)
 - [Mina Protocol](https://minaexplorer.com/wallet/B62qrgnUUduZy2z7zT8qCV8ngTJfSS1rK3Wh22SHUmrse3Tfqvrhx8q)
 - [ProximaX](https://explorer.xpxsirius.io)
 - [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1swmud649t386j2csz0gah7ku2zpfu0w7trzr09)
@@ -40,11 +41,11 @@ Active Testnets: <br />
 - [Massa]()
 - [Moonbeam](https://moonbase.subscan.io/validator/0xa3D563203b7a46a545E5e1C812B54405DcD62680)
 - [NYM]()
-- [Pylons]()
+- [Pylons](https://wallet.pylons.tech/validator/pylovaloper1tdmeurwdu9ew5rlw04wjsc65caaqug274h3fwx)
 - [Solana](https://www.validators.app/validators/testnet/28LgQ7MeEZVgNJfYRc6UnoAz2SnSjKbyCKM6sntCRotb?locale=en&order=score&refresh=)
 - [Umee]()
 - [XX Network](https://dashboard.xx.network/nodes/XOND7jkhfDbeWSjv47op9vH7l1Y_rjKK_oXGBd8kQcwC)
-- [Zeigeist](https://dashboard.xx.network/nodes/XOND7jkhfDbeWSjv47op9vH7l1Y_rjKK_oXGBd8kQcwC)
+- [Zeigeist]()
 - [Zenon]()
 
 

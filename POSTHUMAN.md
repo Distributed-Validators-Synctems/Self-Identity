@@ -4,7 +4,7 @@
 
 **Main-nets:** <br />
 
-- [Solana](https://www.validators.app/validators/mainnet/9PViHDmiezXQfeYDveJrcfkXCQVCcsfhpo32cjHUeZVj) - 134,918 $SOL
+- [Solana](https://www.validators.app/validators/9PViHDmiezXQfeYDveJrcfkXCQVCcsfhpo32cjHUeZVj) - 134,981 $SOL
 - [Persistence](https://www.mintscan.io/persistence/validators/persistencevaloper10sc98vt6saux8asexnsp2hgvkgmjmful8w5cuw) - 305,924 $XPRT
 - [Velas](https://velasvalidators.com/9Hj1BdkKHz9rGoDdqy82huZHpcvK2pAzXoBP1BbECqze) - 5,070,437 $VLX
 - [Osmosis](https://www.mintscan.io/osmosis/validators/osmovaloper1e8238v24qccht9mqc2w0r4luq462yxttfpaeam) - 130,248 $OSMO

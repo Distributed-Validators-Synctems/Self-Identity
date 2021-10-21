@@ -28,14 +28,14 @@
 
 **My Contributions (not full list!)** <br />
 
--[Cosmos Network](https://github.com/Antropocosmist/My-Contributions/blob/main/cosmos.md)
--[Osmosis](https://github.com/Antropocosmist/My-Contributions/blob/main/osmosis.md)
--[Persistence](https://github.com/Antropocosmist/My-Contributions/blob/main/persistence.md)
--[Starname](https://github.com/Antropocosmist/My-Contributions/blob/main/starname.md)
--[Fetch.ai](https://github.com/Antropocosmist/My-Contributions/blob/main/fetchAI.md)
--[LikeCoin](https://github.com/Antropocosmist/My-Contributions/blob/main/LikeCoin.md)
--[Solana](https://github.com/Antropocosmist/My-Contributions/blob/main/solana.md)
--[Juno Network](https://github.com/Antropocosmist/My-Contributions/blob/main/juno.md)
+- [Cosmos Network](https://github.com/Antropocosmist/My-Contributions/blob/main/cosmos.md)
+- [Osmosis](https://github.com/Antropocosmist/My-Contributions/blob/main/osmosis.md)
+- [Persistence](https://github.com/Antropocosmist/My-Contributions/blob/main/persistence.md)
+- [Starname](https://github.com/Antropocosmist/My-Contributions/blob/main/starname.md)
+- [Fetch.ai](https://github.com/Antropocosmist/My-Contributions/blob/main/fetchAI.md)
+- [LikeCoin](https://github.com/Antropocosmist/My-Contributions/blob/main/LikeCoin.md)
+- [Solana](https://github.com/Antropocosmist/My-Contributions/blob/main/solana.md)
+- [Juno Network](https://github.com/Antropocosmist/My-Contributions/blob/main/juno.md)
 
 Soon I will add more... <br />
 

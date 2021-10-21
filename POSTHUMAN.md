@@ -1,26 +1,29 @@
 ![IMG_1359](https://user-images.githubusercontent.com/38581319/121065657-4b437c80-c7c9-11eb-9be3-c88ae27a4e51.PNG)
 
+[Web-page](https://posthuman.digital) <br />
+
 ## POSTHUMAN validate 15 different Networks
 
 **Main-nets:** <br />
 
 - [Solana](https://www.validators.app/validators/9PViHDmiezXQfeYDveJrcfkXCQVCcsfhpo32cjHUeZVj) - 134,981 $SOL
-- [Persistence](https://www.mintscan.io/persistence/validators/persistencevaloper10sc98vt6saux8asexnsp2hgvkgmjmful8w5cuw) - 305,924 $XPRT
-- [Velas](https://velasvalidators.com/9Hj1BdkKHz9rGoDdqy82huZHpcvK2pAzXoBP1BbECqze) - 5,070,437 $VLX
-- [Osmosis](https://www.mintscan.io/osmosis/validators/osmovaloper1e8238v24qccht9mqc2w0r4luq462yxttfpaeam) - 130,248 $OSMO
-- [Fetch.ai](https://www.mintscan.io/fetchai/validators/fetchvaloper1y02hlwucl6csz4z02ksn46gzdkmref927l4mug) - 850,961 $FET
-- [Ki Chain](https://www.mintscan.io/ki-chain/validators/kivaloper1g2sr6x8hrtwwsaaqu8p8r7dzdfugdcsal08gq8) - 3,236,359 $XKI
-- [Cosmos Network](https://www.mintscan.io/cosmos/validators/cosmosvaloper157v7tczs40axfgejp2m43kwuzqe0wsy0rv8puv) - 17,233 $ATOM
-- [LikeCoin](https://likecoin.bigdipper.live/validators/cosmosvaloper13shmgwhlhw36sv6yfqz9llpcynu7pkqngsmeld) - 10,040,660 $LIKE
-- [Juno Network](https://www.mintscan.io/juno/validators/junovaloper1e8238v24qccht9mqc2w0r4luq462yxttjzn7qt) - 44,333 $JUNO
-- [Starname](https://www.mintscan.io/starname/validators/starvaloper1euslp8c2qadgs6jy6klwv6f332mj426qje6vsn) - 1,712,458 $IOV
+- [Persistence](https://www.mintscan.io/persistence/validators/persistencevaloper10sc98vt6saux8asexnsp2hgvkgmjmful8w5cuw) - 306,363 $XPRT
+- [Velas](https://velasvalidators.com/9Hj1BdkKHz9rGoDdqy82huZHpcvK2pAzXoBP1BbECqze) - 5,075,930 $VLX
+- [Fetch.ai](https://www.mintscan.io/fetchai/validators/fetchvaloper1y02hlwucl6csz4z02ksn46gzdkmref927l4mug) - 904,421 $FET
+- [Cosmos Network](https://www.mintscan.io/cosmos/validators/cosmosvaloper157v7tczs40axfgejp2m43kwuzqe0wsy0rv8puv) - 17,881 $ATOM
+- [Osmosis](https://www.mintscan.io/osmosis/validators/osmovaloper1e8238v24qccht9mqc2w0r4luq462yxttfpaeam) - 131,001 $OSMO
+- [Juno Network](https://www.mintscan.io/juno/validators/junovaloper1e8238v24qccht9mqc2w0r4luq462yxttjzn7qt) - 49,548 $JUNO
+- [Ki Chain](https://www.mintscan.io/ki-chain/validators/kivaloper1g2sr6x8hrtwwsaaqu8p8r7dzdfugdcsal08gq8) - 2,749,957 $XKI
+- [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1ckcup3mdvztrps2m788lpytxey47fyn9gkqhfw) - 2,250,078 $ATOLO
+- [LikeCoin](https://likecoin.bigdipper.live/validators/cosmosvaloper13shmgwhlhw36sv6yfqz9llpcynu7pkqngsmeld) - 5,044,330 $LIKE
+- [Starname](https://www.mintscan.io/starname/validators/starvaloper1euslp8c2qadgs6jy6klwv6f332mj426qje6vsn) - 1,517,713 $IOV
 - [MediBloc](https://www.mintscan.io/medibloc/validators/panaceavaloper190njxj69lmwdwjhhp0fw5kqsxsu6g876hzgp6z) - 446,036 $MED
-- [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1ckcup3mdvztrps2m788lpytxey47fyn9gkqhfw) - 78 $ATOLO
+
 
 **Test-nets:** <br />
 
 - [Cyber](https://cyb.ai/network/bostrom/hero/bostromvaloper1ccvpcq9ffy0qd2ca8nmmpzfamtyjfc9zt56fhc)
-- [Solana](https://www.validators.app/validators/testnet/HZX4MWsSDzRerGuV6kgtj5sGM3dcX9doaiN7qr5y9MAw?locale=en&order=score&refresh=)
+- [Solana](https://www.validators.app/validators/HZX4MWsSDzRerGuV6kgtj5sGM3dcX9doaiN7qr5y9MAw)
 - [OmniFlix Network - temporarly stopped]
 
 

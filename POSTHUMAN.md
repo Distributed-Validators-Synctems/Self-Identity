@@ -26,6 +26,18 @@
 - [Solana](https://www.validators.app/validators/HZX4MWsSDzRerGuV6kgtj5sGM3dcX9doaiN7qr5y9MAw)
 - [OmniFlix Network - temporarly stopped]
 
+**My Contributions (not full list!)** <br />
+
+-[Cosmos Network](https://github.com/Antropocosmist/My-Contributions/blob/main/cosmos.md)
+-[Osmosis](https://github.com/Antropocosmist/My-Contributions/blob/main/osmosis.md)
+-[Persistence](https://github.com/Antropocosmist/My-Contributions/blob/main/persistence.md)
+-[Starname](https://github.com/Antropocosmist/My-Contributions/blob/main/starname.md)
+-[Fetch.ai](https://github.com/Antropocosmist/My-Contributions/blob/main/fetchAI.md)
+-[LikeCoin](https://github.com/Antropocosmist/My-Contributions/blob/main/LikeCoin.md)
+-[Solana](https://github.com/Antropocosmist/My-Contributions/blob/main/solana.md)
+-[Juno Network](https://github.com/Antropocosmist/My-Contributions/blob/main/juno.md)
+
+Soon I will add more... <br />
 
 **Other Activities:** <br />
 
@@ -47,6 +59,8 @@
 - [Vote for sending tokens to the Black Hole | Starname | Cosmostation | Tokens burn](https://youtu.be/g4qygmIvljE)
 - [Keplr guide | How to vote with Ledger | Explain proposals | Cosmos Education](https://youtu.be/560sNt4Jfe4)
 - [How to get StakeDrop from Persistence using Keple and Ledger](https://youtu.be/tiJGu4_2ZPo)
+
+Soon I will add more... <br />
 
 Contacts: <br />
 - [GitHub](https://github.com/Antropocosmist/my_competencies) <br />

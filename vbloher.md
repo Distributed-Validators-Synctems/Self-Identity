@@ -6,6 +6,7 @@
 
 - [KiChain](https://www.mintscan.io/ki-chain/validators/kivaloper1ggrrt80qln07kqnfe5zppjgsrrqmkc4jpwvsgh)
 - [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1h7qgg8p52vdpcqzhxrt6wjsnyyfasaak588lrh)
+- [BitCanna](https://www.mintscan.io/bitcanna/validators/bcnavaloper19l7slf3853c9ul0vf24zefjvdq4l8930nulqp4)
 
 **Test-nets:** <br />
 - [Solana](https://www.validators.app/validators/testnet/6q4crDPH7SFp2kxAFNmRg16phDRpjtsW7QDk83EFwrLg?locale=en)

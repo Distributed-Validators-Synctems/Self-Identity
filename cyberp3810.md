@@ -6,7 +6,7 @@
 ## Contacts
 
 - [Telegram](https://t.me/p38iO)
-- [GitHub](https://github.com/atsiarenia)
+- [GitHub](https://github.com/p3810cyber)
 - [KeyBase](https://keybase.io/p38i0)
 
 More information will be added soon!

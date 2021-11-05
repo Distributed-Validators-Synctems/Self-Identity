@@ -24,7 +24,7 @@
 - [Solana](https://www.validators.app/validators/HZX4MWsSDzRerGuV6kgtj5sGM3dcX9doaiN7qr5y9MAw)
 - [OmniFlix Network - temporarly stopped]
 - [Umee]
-- 
+
 **My Contributions (not full list!)** <br />
 
 - [Cosmos Network](https://github.com/Antropocosmist/My-Contributions/blob/main/cosmos.md)

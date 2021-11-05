@@ -5,8 +5,8 @@
 
 ## Contacts
 
--[Telegram](https://t.me/p38iO)
--[GitHub](https://github.com/atsiarenia)
--[KeyBase](https://keybase.io/p38i0)
+- [Telegram](https://t.me/p38iO)
+- [GitHub](https://github.com/atsiarenia)
+- [KeyBase](https://keybase.io/p38i0)
 
 More information will be added soon!

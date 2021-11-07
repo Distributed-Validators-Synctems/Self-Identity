@@ -1,4 +1,4 @@
-# For now, Distributed Validators Synctems synchronize 10 different validators
+# For now, Distributed Validators Synctems synchronize 12 different validators
 
 - [web34ever](https://github.com/Distributed-Validators-Synctems/self-identity/blob/main/web34ever.md)
 - [cyberG](https://github.com/Distributed-Validators-Synctems/self-identity/blob/main/cyberG.md)
@@ -11,3 +11,4 @@
 - [moonsoon](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/moonsoon.md)
 - [vbloher](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/vbloher.md)
 - [cyberp3810](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/cyberp3810.md)
+- [DomaNodes](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/DomaNodes.md)

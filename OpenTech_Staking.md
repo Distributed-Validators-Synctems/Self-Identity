@@ -1,4 +1,5 @@
 ![opentech](https://user-images.githubusercontent.com/38581319/121074384-10931180-c7d4-11eb-8c61-1787630e866c.png | width=100)
+<img src="https://user-images.githubusercontent.com/38581319/121074384-10931180-c7d4-11eb-8c61-1787630e866c.png" data-canonical-src="https://user-images.githubusercontent.com/38581319/121074384-10931180-c7d4-11eb-8c61-1787630e866c.png" width="200" height="200" />
 
 ## OpenTech Staking validate 3 different Networks
 

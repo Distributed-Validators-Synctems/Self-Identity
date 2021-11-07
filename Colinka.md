@@ -4,14 +4,13 @@
 
 5 main-nets: <br />
 - [Solana](https://www.validators.app/validators/mainnet/8QLfmTYxnws98ogFfxdpvRSfSR7U9HLcighZHNfFNQwT)
-- [Mina Protocol](https://minaexplorer.com/wallet/B62qoKgbZLxduRtXiWrfM4zhmkicPQwsNtd4eqcizd7WPwD18aDH5hj)
+- [Mina Protocol](https://minaprotocol.com/)
 - [Idena](https://scan.idena.io/identity/0x70aa61e47d11231b4d38fd1e83312854e5a5b15a)
 - [Velas](https://velasvalidators.com/96isFFVKbaEsdMgHnBGwaifSiuxF2DjnPMGURbHyrHrC)
 - [Agoric](https://main.explorer.agoric.net/validator/agoricvaloper1llcs6xwp6gdv4t2krmyupfjjr0xyuwk9npyhzs)
 
 Soon: <br />
 - [Hopr](https://hoprnet.org/ru)
-- [Agoric](https://testnet.explorer.agoric.net/validator/agoricvaloper1kn328ztnhveulpk0hf8t0z5dhuj8ytekhldgxl)
 
 
 18 test-nets: <br />

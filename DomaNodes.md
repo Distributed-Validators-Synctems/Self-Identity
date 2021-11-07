@@ -11,5 +11,5 @@
 
 # Contacts
 
- -[GitHub](https://github.com/doma2k)
- -[Telegram](https://t.me/Senticc)
+- [GitHub](https://github.com/doma2k)
+- [Telegram](https://t.me/Senticc)

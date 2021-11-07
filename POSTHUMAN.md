@@ -19,7 +19,7 @@
 - [Cyber](https://cyb.ai/network/bostrom/hero/bostromvaloper1ccvpcq9ffy0qd2ca8nmmpzfamtyjfc9zt56fhc)
 
 
-## POSTHUMAN validate 3 different test-nets
+## POSTHUMAN validate 4 different test-nets
 
 - [Solana](https://www.validators.app/validators/HZX4MWsSDzRerGuV6kgtj5sGM3dcX9doaiN7qr5y9MAw)
 - [OmniFlix Network - temporarly stopped]

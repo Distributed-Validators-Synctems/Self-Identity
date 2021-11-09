@@ -22,6 +22,6 @@
 - [KYVE](https://www.kyve.network/)
 
 **Contacts:**
-- Site (coming soon)
+- [Web site](https://vbloher.com/)
 - [Keybase](https://keybase.io/vbloher)
 - [GitHub](https://github.com/tt1000vv)

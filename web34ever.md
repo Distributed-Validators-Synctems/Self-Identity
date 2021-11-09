@@ -1,13 +1,9 @@
 <img src="https://user-images.githubusercontent.com/38581319/133357680-f1a21271-0d0d-4a8f-8254-8a7927b94332.png" alt="web34ever" width="250" height="250">
 
-## Who am I? WEB34EVER VALIDATING SINCE 2018
-🌇 FROM MORNING TILL EVENING - FROM SUNSET TILL SUNRISE
-
-Passionate experts with over five years of expertise in decentralized technologies. Professional validator and full time enthusiast from 2015 with powerful knowledge and exhaustive experience in crypto industry, successfully participated in more than 50 testnets. Validate many known mainnet networks such as Solana, Velas, MinaProtocol, Avalanche, TheGraph, CertiK, Juno, Rizon , Sentinel, XX-network, FreeTON, Microtick, LikeCoin. Ambassador in Moonbeam, FreeTon (Jury in NFT Subgovarnance), Covalent networks, Polygon, Octopus, Sentinel, TheGraph curator. Co-founder of the rapidly developing crypto [consortium](https://koinsortium.com/). Feel free to familiarize yourself with the list of projects below to which I contributed my knowledge, skills and invaluable experience:
+## Who am I?
+Passionate experts with over five years of expertise in decentralized technologies. Professional validator and full time enthusiast from 2015 with powerful knowledge and exhaustive experience in crypto industry, successfully participated in more than 50 testnets. Validate many known mainnet networks such as Solana, MinaProtocol, Avalanche, TheGraph, CertiK, Sentinel, XX-network, FreeTON, Microtick, LikeCoin. Ambassador in Moonbeam, FreeTon (Jury in NFT Subgovarnance), Covalent networks, Polygon, Octopus, Sentinel, TheGraph curator. Co-founder of the rapidly developing crypto [consortium](https://koinsortium.com/). Feel free to familiarize yourself with the list of projects below to which I contributed my knowledge, skills and invaluable experience:
 
 ## Web34ever validate **many** different Networks
-(Bee familiar with the validator web34ever, you can be sure that your stake is totaly safe! For all delegators, there is an "Anti-Slashing" protection: full compensation for lost funds in case of slashing through the fault of the validator!)
-
                                                         Main-Networks
 								 	
 				
@@ -21,38 +17,28 @@ Passionate experts with over five years of expertise in decentralized technologi
 
 - [Mina Protocol](https://minaexplorer.com/wallet/B62qrnPdz8HpsDJfGHirDLpVrN2VeyeitdaTKBaccWtHpeVW9Hgwi75)
 
-- [Certik](https://explorer.certik.foundation/validators/certikvaloper1036rphfnyw49fzm5ajfud743j2qutlk9flnnsq?net=shentu-1)
-
 - [Juno](https://www.mintscan.io/juno/validators/junovaloper1mxpyg8u68k6a8wdu3hs5whcpw9q285pcpxm5yx)	
 
-- [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper17kpyk8nqwr0dkv4nz5j4d3r9umfm23we0fk8wj)	
+- [Certik](https://explorer.certik.foundation/validators/certikvaloper1036rphfnyw49fzm5ajfud743j2qutlk9flnnsq?net=shentu-1)	
  
 - [Microtick](https://explorer.microtick.zone/validator/microvaloper1mn8r3x4g2nmwmvsqqh3tsnzxp54c7qwrumgje2)
-
-- [Regen Network](https://regen.aneka.io/validators?page=active)
  
+- [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper17kpyk8nqwr0dkv4nz5j4d3r9umfm23we0fk8wj)
+ 
+- [BitCanna](https://www.mintscan.io/bitcanna/validators/bcnavaloper1ex2m0j9gc7l49lr5qgrhnp7vy83adq0k3uj8pk)
+
 - [ProximaX](https://github.com/proximax-storage/xpx-mainnet-chain-onboarding/tree/master/docker-method)
 
 - [Bitsong](https://explorebitsong.com/staking/bitsongvaloper139dppl6gyerq8yaweksajut3urwyygsz7r4ej4)
 
-- [Sentinel](https://explorer.sentinel.co/validator/sentvaloper1qx4p43c480wxsxt63wfdvupzqp4dduknxldygu)
-
 - [XX-Network](https://dashboard.xx.network/nodes/sFMS0TKTK5FoignYUnhJDwWz9_Uotmzg3LI-szS3ixIC)
 
-- [Decentr](https://explorer.decentr.net/validators/decentrvaloper1xmfyelmhajhswh4m2pqxw9vm6yjw3866j4nmls)
- 
-- [Moonbeam Collator](https://www.reddit.com/r/MoonbeamAmbassadors/comments/mu4gva/node_launch)
-
-- [DOCK](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet-node.dock.io#/staking)
- 		
+- [Moonbeam Collator](https://moonbase.subscan.io/validator/0xbd257396ed62526054f41be2065b3d1532485189)
+		
 - [Likecoin](https://likecoin.bigdipper.live/validator/cosmosvaloper1yxzlyqmje82kc3l6nl3tpxhqs356vvh6eu6q5h)
  
 - [Free TON](https://ton.live/depools/depoolDetails?id=0%3Ae108fbffddd3999898788f59b267a0641287703866845d1734be5cd7f637473c)
  
-- [Cryptocom](https://crypto.org/explorer/croeseid/validator/tcrocncl129xlqcjasyzqsc4364x7hc6m6t5w33ruqp53qx)
-
-- [Zeitgeist](https://telemetry.polkadot.io/#list/Zeitgeist%20Battery%20Park)
-
 - [Idena](https://scan.idena.io/address/0x8f13de3aad441684cdfb84c5410f845697cce378#rewards)
 
 
@@ -105,7 +91,6 @@ Others projects
 
                                                    AMBASSADOR CAMPAIGNS
 						   
-						   
 - [Covalent]()
 - [Polygon]()
 - [Octopus Network]()
@@ -115,7 +100,12 @@ Others projects
 - [TheGraph]()
 - [Secret Network]()
 - [Moonbeam]()
+- [Goldfinch finance]()
 
+Also please see my contribution 3d video content:
+
+- Cosmos Network https://www.youtube.com/watch?v=cIxdLwKAYYQ&t=6s&ab_channel=PapsanLysenko
+- FreeTON Network https://www.youtube.com/watch?v=gi47M7hE1yg&t=11s&ab_channel=PapsanLysenko
 
                                                    My Contacts
 						   

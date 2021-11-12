@@ -12,7 +12,7 @@ Soon:<br />
 [Tgrade](https://tgrade.finance)<br />
 [Sifchain](https://sifchain.finance)<br />
 
-25 finished test-nets: <br />
+25 finished or developing test-nets: <br />
   
   [Akash - Awesome Akash winner](https://akash.network/)<br />
     [Agoric](https://agoric.com)<br />

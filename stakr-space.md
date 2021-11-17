@@ -16,12 +16,12 @@ Soon:<br />
 
 32+ finished or developing test-nets: <br />
   
-  [Akash - Awesome Akash winner](https://akash.network/) [pull request](https://github.com/papanomad535/awesome-akash/tree/master/owncloud)<br />
+  [Akash - Awesome Akash winner](https://akash.network/) - [[pull request]](https://github.com/papanomad535/awesome-akash/tree/master/owncloud)<br />
     [Sentinel](https://sentinel.co)<br />
     [Iris](https://www.irisnet.org)<br />
     [Regen](https://www.regen.network)<br />
-    [Frontier](https://frontier.xyz) [gentx](https://github.com/papanomad535/frontier-chain-testnets/commit/e4d2fc77c03e556734d734302094412d4b474747)<br />
-    [Desmos](https://www.desmos.network) [gentx](https://github.com/papanomad535/morpheus/commit/1d6dab9b69beadc9075ee2f10704aa7a8aa3d472)<br />
+    [Frontier](https://frontier.xyz) - [[gentx]](https://github.com/papanomad535/frontier-chain-testnets/commit/e4d2fc77c03e556734d734302094412d4b474747)<br />
+    [Desmos](https://www.desmos.network) [[gentx]](https://github.com/papanomad535/morpheus/commit/1d6dab9b69beadc9075ee2f10704aa7a8aa3d472)<br />
     [Crust](https://crust.network)<br />
     [Bitcountry](https://bit.country)<br />
     [Galital](https://galital.com)<br />
@@ -38,19 +38,19 @@ Soon:<br />
     [Althea](https://althea.net)<br />
     [Meson](https://meson.network)<br />
     [Spacemesh](https://spacemesh.io)<br />
-    [Concordium](https://concordium.com) [pull requests](https://github.com/papanomad535/Testnet4-Challenges/commit/675b82ea3b7e1bc0c8186adb31809645692a57ad)<br />
+    [Concordium](https://concordium.com) - [[pull requests]](https://github.com/papanomad535/Testnet4-Challenges/commit/675b82ea3b7e1bc0c8186adb31809645692a57ad)<br />
     [Rizon](https://www.hdactech.com/en/rizon/rizonPlatform.do)<br />
-    [Stratos](https://www.thestratos.org) [gentx](https://github.com/papanomad535/testnets-4/tree/main/olympus_mons/gentxs)<br />
+    [Stratos](https://www.thestratos.org) - [[gentx]](https://github.com/papanomad535/testnets-4/tree/main/olympus_mons/gentxs)<br />
     [Vega](https://vega.xyz)<br />
     [Porta](https://porta.network)<br />
     [Minima](https://minima.global)<br />
-    [Umee](https://umee.cc) [gentx](https://github.com/papanomad535/testnets-2/commit/e4a8b99ad796ba5cc07e589478e0fc2239dcf404)<br />
-    [Kichain](https://foundation.ki/) [gentx](https://github.com/papanomad535/ki-networks/commit/b681e31b9c0fb98aa4d0a564e4ad88612ee685a6)<br />
-    [Evmos](https://evmos.org) [gentx](https://github.com/papanomad535/testnets-4/tree/main/olympus_mons/gentxs)<br />
+    [Umee](https://umee.cc) - [[gentx]](https://github.com/papanomad535/testnets-2/commit/e4a8b99ad796ba5cc07e589478e0fc2239dcf404)<br />
+    [Kichain](https://foundation.ki/) - [[gentx]](https://github.com/papanomad535/ki-networks/commit/b681e31b9c0fb98aa4d0a564e4ad88612ee685a6)<br />
+    [Evmos](https://evmos.org) - [[gentx]](https://github.com/papanomad535/testnets-4/tree/main/olympus_mons/gentxs)<br />
     [Taraxa](https://www.taraxa.io)<br />
     [Humanode](https://humanode.io)<br />
     [Realis](https://realis.network)<br />
-    [Omniflix](https://www.omniflix.network) [gentx](https://github.com/papanomad535/testnets-1)<br />
+    [Omniflix](https://www.omniflix.network) - [[gentx]](https://github.com/papanomad535/testnets-1)<br />
     ...
   
 Activities: <br />

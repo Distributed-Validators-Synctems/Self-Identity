@@ -1,6 +1,6 @@
 <a href="https://stakr.space"><img src="https://user-images.githubusercontent.com/38581319/123712181-1b404400-d872-11eb-9213-9cde86c03d73.PNG" width="300" height="300" /></a>
 
-## STAKR.space participate in 31+ different Networks
+## STAKR.space participate in 41+ different Networks
 
 Main-nets: <br />
 [Solana](https://www.validators.app/validators/mainnet/E9hD3ikumJx1GVswDjnpCt6Uu4WG5mz1PDWCqdE5uhmo?locale=en&order=&refresh=) - Bocachica Approved<br />
@@ -14,7 +14,7 @@ Soon:<br />
 [Tgrade](https://tgrade.finance) - Approved Mainnet Validator<br />
 
 
-25 finished or developing test-nets: <br />
+33+ finished or developing test-nets: <br />
   
   [Akash - Awesome Akash winner](https://akash.network/)<br />
     [Agoric](https://agoric.com)<br />

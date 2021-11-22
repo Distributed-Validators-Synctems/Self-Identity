@@ -8,6 +8,7 @@ Active Mainnets: <br />
 - [Algorand]() relayer
 - [Avalanche](https://avascan.info/staking/validator/NodeID-Jm1k2q2WAkH99w4ZBEgzrmm6Kte39qCWJ)
 - [Bitsong](https://explorebitsong.com/staking/bitsongvaloper1m8ps45ltlt0vejjm2hqtu26jkd8rfkz9vwu5tw)
+- [Bostrom](https://cyb.ai/network/bostrom/hero/bostromvaloper1en69twaxmv7xupy8lq7y539dpecx7yz8s43ceg)
 - [Certik](https://explorer.certik.foundation/validators/certikvaloper1yq8a2ksa7dz8wd8wlks3k8nqdmht76xdnrvehx?net=shentu-1)
 - [Free TON](https://ton.live/depools/depoolDetails?id=0%3Ae108fbffddd3999898788f59b267a0641287703866845d1734be5cd7f637473c)
 - [Idena](https://scan.idena.io/address/0x1e60fd65d9c231b47356ab30fcc32a804564fced)
@@ -18,6 +19,7 @@ Active Mainnets: <br />
 - [ProximaX](https://explorer.xpxsirius.io)
 - [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1swmud649t386j2csz0gah7ku2zpfu0w7trzr09)
 - [Solana](https://www.validators.app/?q=cyberg&network=mainnet&order=score&refresh=&commit=Search)
+- [Stargaze](https://explore.stargaze.zone/validators/starsvaloper1dtk6748uhvmhvakhleclrwprp27pe89vhhw44p)
 - [Velas](https://velasvalidators.com/7MYojjTNnFsyEs7Pb5Xv3pKeZxUGk6R1kJoLrtSKkSRy)
 
 
@@ -29,7 +31,6 @@ Genesis validator, but not in active set: <br />
 
 Active Testnets: <br />
 - [Althea](https://testnet.althea.aneka.io/validators/altheavaloper1dmdfgnp2m7pjfllyu62dp7v946cdjw0455zswc)
-- [Cyber](https://rebyc.cyber.page/network/bostrom/hero/bostromvaloper1en69twaxmv7xupy8lq7y539dpecx7yz8s43ceg)
 - [Cere](https://rebyc.cyber.page/network/bostrom/hero/bostromvaloper1en69twaxmv7xupy8lq7y539dpecx7yz8s43ceg)
 - [Decentr](https://explorer.decentr.net/validators/decentrvaloper1par32he0v7kkyfu7q9jft633qfqfangt674a7l)
 - [DevxDAO]()

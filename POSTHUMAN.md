@@ -2,7 +2,7 @@
 
 [Web-page](https://posthuman.digital) <br />
 
-## POSTHUMAN validate 13 different Main-nets
+## POSTHUMAN validate 14 different Main-nets
 
 - [Solana](https://www.validators.app/validators/9PViHDmiezXQfeYDveJrcfkXCQVCcsfhpo32cjHUeZVj)
 - [Persistence](https://www.mintscan.io/persistence/validators/persistencevaloper10sc98vt6saux8asexnsp2hgvkgmjmful8w5cuw)
@@ -17,6 +17,7 @@
 - [Starname](https://www.mintscan.io/starname/validators/starvaloper1euslp8c2qadgs6jy6klwv6f332mj426qje6vsn)
 - [MediBloc](https://www.mintscan.io/medibloc/validators/panaceavaloper190njxj69lmwdwjhhp0fw5kqsxsu6g876hzgp6z)
 - [Cyber](https://cyb.ai/network/bostrom/hero/bostromvaloper1ccvpcq9ffy0qd2ca8nmmpzfamtyjfc9zt56fhc)
+- [SifChain](https://www.mintscan.io/sifchain/validators/sifvaloper1lkctf0y8stlvshdkhra0lqcafd5hsq9aad35nm)
 
 
 ## POSTHUMAN validate 4 different test-nets
@@ -25,6 +26,7 @@
 - [OmniFlix Network - temporarly stopped]
 - [COMDEX](https://comets-test.comdex.one/validator/comdexvaloper1ha5regczwexcgcnkv30rd5tadffe6recs0w5cl)
 - [Umee]
+- [FirmaChain]
 
 **My Contributions (not full list!)** <br />
 

@@ -21,6 +21,7 @@ Active Mainnets: <br />
 - [Mina Protocol](https://minaexplorer.com/wallet/B62qrgnUUduZy2z7zT8qCV8ngTJfSS1rK3Wh22SHUmrse3Tfqvrhx8q)
 - [ProximaX](https://explorer.xpxsirius.io)
 - [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1swmud649t386j2csz0gah7ku2zpfu0w7trzr09)
+- [Sentinel](https://www.mintscan.io/sentinel/validators/sentvaloper1y8rgddpwlcmf3h2zpq9aq9qdmuvcscg0rj7vee)
 - [Solana](https://www.validators.app/?q=cyberg&network=mainnet&order=score&refresh=&commit=Search)
 - [Stargaze](https://explore.stargaze.zone/validators/starsvaloper1dtk6748uhvmhvakhleclrwprp27pe89vhhw44p)
 - [Velas](https://velasvalidators.com/7MYojjTNnFsyEs7Pb5Xv3pKeZxUGk6R1kJoLrtSKkSRy)
@@ -29,7 +30,7 @@ Active Mainnets: <br />
 
 Genesis validator, but not in active set: <br />
 - [Regen](https://regen.aneka.io/accounts/regen1qvn6ghe68l4g0k7s25rujr6yfpyrm6h3399jvu)
-- [Sentinel](https://www.mintscan.io/sentinel/validators/sentvaloper1hmdyt5tm6p2v68p2yxpxk4j2vkvvre840rgczk)
+
 
 
 Active Testnets: <br />

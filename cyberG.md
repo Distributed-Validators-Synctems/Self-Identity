@@ -9,11 +9,14 @@ Active Mainnets: <br />
 - [Avalanche](https://avascan.info/staking/validator/NodeID-Jm1k2q2WAkH99w4ZBEgzrmm6Kte39qCWJ)
 - [Bitsong](https://explorebitsong.com/staking/bitsongvaloper1m8ps45ltlt0vejjm2hqtu26jkd8rfkz9vwu5tw)
 - [Bostrom](https://cyb.ai/network/bostrom/hero/bostromvaloper1en69twaxmv7xupy8lq7y539dpecx7yz8s43ceg)
+- [Casper](https://cspr.live/validator/018dc552de3c403dbefe03a9c604e11346d96159ed49f9381a55c2e06c45197d43)
 - [Certik](https://explorer.certik.foundation/validators/certikvaloper1yq8a2ksa7dz8wd8wlks3k8nqdmht76xdnrvehx?net=shentu-1)
+- [Comdex]()
 - [Free TON](https://ton.live/depools/depoolDetails?id=0%3Ae108fbffddd3999898788f59b267a0641287703866845d1734be5cd7f637473c)
 - [Idena](https://scan.idena.io/address/0x1e60fd65d9c231b47356ab30fcc32a804564fced)
 - [Juno](https://junoscan.com/validators/junovaloper1353ewfc0v7pnn3xre6v9lraghxrhenswmsjhv0)
 - [Quadrans]()
+- [Likecoin]()
 - [Microtick](https://explorer.microtick.zone/validators/microvaloper1z7crvuuks7yk33qwx4nv68nzhwznkmt96ddm5l)
 - [Mina Protocol](https://minaexplorer.com/wallet/B62qrgnUUduZy2z7zT8qCV8ngTJfSS1rK3Wh22SHUmrse3Tfqvrhx8q)
 - [ProximaX](https://explorer.xpxsirius.io)
@@ -21,7 +24,7 @@ Active Mainnets: <br />
 - [Solana](https://www.validators.app/?q=cyberg&network=mainnet&order=score&refresh=&commit=Search)
 - [Stargaze](https://explore.stargaze.zone/validators/starsvaloper1dtk6748uhvmhvakhleclrwprp27pe89vhhw44p)
 - [Velas](https://velasvalidators.com/7MYojjTNnFsyEs7Pb5Xv3pKeZxUGk6R1kJoLrtSKkSRy)
-
+- [XX Network]()
 
 
 Genesis validator, but not in active set: <br />
@@ -30,13 +33,15 @@ Genesis validator, but not in active set: <br />
 
 
 Active Testnets: <br />
-- [Althea](https://testnet.althea.aneka.io/validators/altheavaloper1dmdfgnp2m7pjfllyu62dp7v946cdjw0455zswc)
+- [Aleo]()
+- [Althea]()
+- [Asset Mantle](https://test-mantle-1.explorer.persistence.one/validators/mantlevaloper1elfgdkn7gms9td9ktgyfkald7u62xq6h9zc3zv)
 - [Cere](https://rebyc.cyber.page/network/bostrom/hero/bostromvaloper1en69twaxmv7xupy8lq7y539dpecx7yz8s43ceg)
-- [Decentr](https://explorer.decentr.net/validators/decentrvaloper1par32he0v7kkyfu7q9jft633qfqfangt674a7l)
 - [DevxDAO]()
 - [Evmos]()
-- [GAME]()
+- [Firmachain]()
 - [Humanode]()
+- [Iron Fish]()
 - [Juno]()
 - [Kira]()
 - [Massa]()
@@ -45,9 +50,7 @@ Active Testnets: <br />
 - [Pylons](https://wallet.pylons.tech/validator/pylovaloper1tdmeurwdu9ew5rlw04wjsc65caaqug274h3fwx)
 - [Solana](https://www.validators.app/validators/testnet/28LgQ7MeEZVgNJfYRc6UnoAz2SnSjKbyCKM6sntCRotb?locale=en&order=score&refresh=)
 - [Umee]()
-- [XX Network](https://dashboard.xx.network/nodes/XOND7jkhfDbeWSjv47op9vH7l1Y_rjKK_oXGBd8kQcwC)
-- [Zeigeist]()
-- [Zenon]()
+
 
 
 Finished Testnets:
@@ -57,9 +60,11 @@ Finished Testnets:
 - [Casper]()
 - [Concordium]()
 - [Cryptocom]()
+- [Decentr]()
 - [Filecoin]()
 - [Frontier]()
 - [Galital]()
+- [GAME]()
 - [Hopr]()
 - [IRIS]()
 - [Likecoin]()
@@ -73,6 +78,8 @@ Finished Testnets:
 - [Spacemesh]()
 - [Stargaze]()
 - [Swarm]()
+- [Zeigeist]()
+- [Zenon]()
 
 
 

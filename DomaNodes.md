@@ -3,6 +3,7 @@
 # Validator DomaNodes validate 2 main-nets
 
 - [SifChain](https://www.mintscan.io/sifchain/validators/sifvaloper1egdnktas7ewzudyn2t4hxd2l2awsahkz7za26z)
+- [Juno](https://www.mintscan.io/juno/validators/junovaloper1eslgmvrdyfr7rzkur93q7u6wnknv56lrwsht0c)
 - [Kava](https://www.mintscan.io/kava/validators/kavavaloper1v4zkjz69pzu6avgap8dmff0g8gafu72lx67lwn)
 
 # Test-nets:
@@ -15,12 +16,13 @@
 
 - Help to [Kava Russian-Speaking Community](https://t.me/KavaRussian)
 
-# Contacts
-
-- [GitHub](https://github.com/doma2k)
-- [Telegram](https://t.me/Senticc)
-
 # Community Contributions:
 
 - [Alephium](https://medium.com/@alephium/time-for-an-alephium-development-recap-cdaa47ee95a)
+
+# Contacts
+
+- [GitHub](https://github.com/doma2k)
+- [Telegram](https://t.me/domanodes)
+
 

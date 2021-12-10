@@ -20,8 +20,10 @@
 - [FlixNet](https://github.com/OmniFlix/testnets)
 - [Meson](https://meson.network/)
 - [KYVE](https://www.kyve.network/)
+- [FirmaChain](https://firmachain.org/)
+- [Asset-Mantle](https://assetmantle.one/)
 
 **Contacts:**
 - [Web site](https://vbloher.com/)
 - [Keybase](https://keybase.io/vbloher)
-- [GitHub](https://github.com/tt1000vv)
+- [GitHub](https://github.com/vbloher)

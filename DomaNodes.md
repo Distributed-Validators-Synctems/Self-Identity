@@ -19,3 +19,8 @@
 
 - [GitHub](https://github.com/doma2k)
 - [Telegram](https://t.me/Senticc)
+
+# Community Contributions:
+
+- [Alephium](https://medium.com/@alephium/time-for-an-alephium-development-recap-cdaa47ee95a)
+

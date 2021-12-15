@@ -18,15 +18,16 @@
 - [MediBloc](https://www.mintscan.io/medibloc/validators/panaceavaloper190njxj69lmwdwjhhp0fw5kqsxsu6g876hzgp6z)
 - [Cyber](https://cyb.ai/network/bostrom/hero/bostromvaloper1ccvpcq9ffy0qd2ca8nmmpzfamtyjfc9zt56fhc)
 - [SifChain](https://www.mintscan.io/sifchain/validators/sifvaloper1lkctf0y8stlvshdkhra0lqcafd5hsq9aad35nm)
+- [ODIN Protocol](https://look.chillvalidation.com/odin/staking/odinvaloper1wuwhanclwh9ckpe6z6480t3pjjpk7dsj2trk9p)
 
 
 ## POSTHUMAN validate 4 different test-nets
 
 - [Solana](https://www.validators.app/validators/HZX4MWsSDzRerGuV6kgtj5sGM3dcX9doaiN7qr5y9MAw)
 - [OmniFlix Network - temporarly stopped]
-- [COMDEX](https://comets-test.comdex.one/validator/comdexvaloper1ha5regczwexcgcnkv30rd5tadffe6recs0w5cl)
 - [Umee]
 - [FirmaChain]
+- [SSV Network]
 
 **My Contributions (not full list!)** <br />
 

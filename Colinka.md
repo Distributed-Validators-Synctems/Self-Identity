@@ -1,6 +1,6 @@
 ![Colinka](https://user-images.githubusercontent.com/38581319/127103374-84ef15b3-0999-4073-bd53-2a8cd31a19f3.png)
 
-## Colinka validate 22 different Networks
+## Colinka validate 28 different Networks
 
 5 main-nets: <br />
 - [Solana](https://www.validators.app/validators/mainnet/8QLfmTYxnws98ogFfxdpvRSfSR7U9HLcighZHNfFNQwT)
@@ -13,7 +13,7 @@ Soon: <br />
 - [Hopr](https://hoprnet.org/ru)
 
 
-18 test-nets: <br />
+24 test-nets: <br />
 
 - [Solana](https://www.validators.app/?q=9tbzUabDi5D62Kkpd6oQs9r28Ts7TFJHLvx3pFJshZRA&network=testnet&order=&refresh=&commit=Search)
 - [Moonbeam](https://telemetry.polkadot.io/#list/Moonbase%20Alpha)
@@ -33,6 +33,12 @@ Soon: <br />
 - [Hopr](https://hoprnet.org/ru)
 - [KYVE](https://app.kyve.network/pool/0xbBBfbE9A731634eDdf84C67A106CEE1F981F3f7e/accounts)
 - [Evmos](https://evmos.dev/)
+- [Subsocial](https://subsocial.network/)
+- [Pontem](https://pontem.network/)
+- [AssetMantle](https://assetmantle.one/)
+- [Fluxprotocol](https://www.fluxprotocol.org/)
+- [Masa](https://masa.finance/)
+- [Massa](https://massa.net/)
 
 Activities: <br />
 - MantaNetwork - Regional Commander
@@ -41,3 +47,4 @@ Activities: <br />
 - Moonbeam - Ambassador
 - Mina Protocol - GFM member
 - Flux - Ambassador
+- Solana - Ambassador

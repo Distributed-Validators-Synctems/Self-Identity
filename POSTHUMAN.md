@@ -66,8 +66,9 @@ Soon I will add more... <br />
 Soon I will add more... <br />
 
 Contacts: <br />
+- [Web-page](https://posthuman.digital/) <br />
 - [GitHub](https://github.com/Antropocosmist/my_competencies) <br />
 - [Telegram](https://t.me/antropocosmist) <br />
-- [Twitter](https://twitter.com/ponimajushij) <br />
+- [Twitter](https://twitter.com/POSTHUMAN_DVS) <br />
 - [Medium](https://antropocosmist.medium.com/) <br />
-- [Facebook](https://facebook.com/vladimir.ponimajushij) <br />
+- Email: validator@posthuman.digital <br />

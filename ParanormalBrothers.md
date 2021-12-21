@@ -3,6 +3,7 @@
 ## Paranormal Brothers validate ??? different Main-nets
 
 - [BitCanna](https://www.mintscan.io/bitcanna/validators/bcnavaloper14h2x997gt54v7akrxdfakd33x9yxa5kh9t0r9a)
+
 Soon I will be added more... <br />
 
 ## Paranormal Brothers validate ??? different test-nets

@@ -20,5 +20,5 @@ Soon I will be added... <br />
 
 ### Contacts:
 
-- [GitHub](https://github.com/ParanormalBrothers) <br />
-- [Telegram](@nordhedgehog) <br
+- [GitHub](https://github.com/ParanormalBrothers)
+- [Telegram](@nordhedgehog)

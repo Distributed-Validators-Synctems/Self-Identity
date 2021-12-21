@@ -13,4 +13,4 @@
 - [cyberp3810](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/cyberp3810.md)
 - [DomaNodes](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/DomaNodes.md)
 - [Godshunter](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/Godshunter.md)
-- [Paranormal Brothers]()
+- [Paranormal Brothers](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/ParanormalBrothers.md)

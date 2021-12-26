@@ -42,7 +42,7 @@ Active Testnets: <br />
 - [Cere](https://rebyc.cyber.page/network/bostrom/hero/bostromvaloper1en69twaxmv7xupy8lq7y539dpecx7yz8s43ceg)
 - [Comdex]()
 - [DevxDAO]()
-- [Evmos]()
+- [Evmos](https://explorer.evmos.org/validators/evmosvaloper1kjeccze0hez4ud3hm60x3s388tqkl65rn809lw)
 - [Firmachain]()
 - [Humanode]()
 - [Iron Fish]()

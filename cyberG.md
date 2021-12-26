@@ -40,6 +40,7 @@ Active Testnets: <br />
 - [Althea]()
 - [Asset Mantle](https://test-mantle-1.explorer.persistence.one/validators/mantlevaloper1elfgdkn7gms9td9ktgyfkald7u62xq6h9zc3zv)
 - [Cere](https://rebyc.cyber.page/network/bostrom/hero/bostromvaloper1en69twaxmv7xupy8lq7y539dpecx7yz8s43ceg)
+- [Comdex]()
 - [DevxDAO]()
 - [Evmos]()
 - [Firmachain]()
@@ -50,7 +51,7 @@ Active Testnets: <br />
 - [Massa]()
 - [Moonbeam](https://moonbase.subscan.io/validator/0xa3D563203b7a46a545E5e1C812B54405DcD62680)
 - [NYM]()
-- [Pylons](https://wallet.pylons.tech/validator/pylovaloper1tdmeurwdu9ew5rlw04wjsc65caaqug274h3fwx)Comdex
+- [Pylons](https://wallet.pylons.tech/validator/pylovaloper1tdmeurwdu9ew5rlw04wjsc65caaqug274h3fwx)
 - [Solana](https://www.validators.app/validators/testnet/28LgQ7MeEZVgNJfYRc6UnoAz2SnSjKbyCKM6sntCRotb?locale=en&order=score&refresh=)
 - [Umee]()
 

@@ -88,22 +88,25 @@ Finished Testnets:
 Ambassador campaigns:
 - [Covalent]()
 - [Cyber]()
-- [dClimate]()
-- [FreeTON]()
-- [Genshiro]()
 - [Hacken]()
-- [Qredo]()
 - [Moonbeam]()
-- [Persistence]()
 - [Polygon]()
-- [Secret Network]()
-- [Sentinel]()
 - [TheGraph]()
 - [Zeigeist]()
 - [Yuser]()
+
+
+Past camapigns:
+- [dClimate]()
+- [FreeTON]()
+- [Genshiro]()
+- [Qredo]()
 - [Goldfinch]()
 - [Biconomy]()
 - [Flux]()
+- [Persistence]()
+- [Secret Network]()
+- [Sentinel]()
 
 
 My social links:

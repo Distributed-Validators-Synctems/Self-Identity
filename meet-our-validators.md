@@ -14,3 +14,4 @@
 - [DomaNodes](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/DomaNodes.md)
 - [Godshunter](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/Godshunter.md)
 - [Paranormal Brothers](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/ParanormalBrothers.md)
+- [👋 79anvi 🍀](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/79anvi.md)

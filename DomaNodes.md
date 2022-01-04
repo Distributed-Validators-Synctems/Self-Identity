@@ -4,7 +4,6 @@
 
 - [SifChain](https://www.mintscan.io/sifchain/validators/sifvaloper1egdnktas7ewzudyn2t4hxd2l2awsahkz7za26z)
 - [Juno](https://www.mintscan.io/juno/validators/junovaloper1eslgmvrdyfr7rzkur93q7u6wnknv56lrwsht0c)
-- [Kava](https://www.mintscan.io/kava/validators/kavavaloper1v4zkjz69pzu6avgap8dmff0g8gafu72lx67lwn)
 
 # Test-nets:
 
@@ -12,13 +11,13 @@
 - [KiraNetwork](https://kirastats.dragonstake.io/validator/kira1yfydl9qulwx0cvsptmxpwjgnrmgf9cqmp3a7l4)
 - [HumaNode](https://telemetry.humanode.io/#/0x61bccd6c10df37065e4337f294a5241c2ff6318c8a566211e3d0a482163e4a1f)
 
-# Other
-
-- Help to [Kava Russian-Speaking Community](https://t.me/KavaRussian)
-
 # Community Contributions:
 
 - [Alephium](https://medium.com/@alephium/time-for-an-alephium-development-recap-cdaa47ee95a)
+
+# Hackathons
+
+- [NearProtocol](https://twitter.com/zavodil_ru/status/1474128194815107075)
 
 # Contacts
 

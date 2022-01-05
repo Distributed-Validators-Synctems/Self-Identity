@@ -1,3 +1,4 @@
+![79anvi](https://user-images.githubusercontent.com/38581319/148276970-9142c5b1-4621-4355-b1bb-df36e8393769.png)
 
 # Validator 👋 79anvi 🍀 validate several main-nets:
 

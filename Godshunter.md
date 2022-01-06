@@ -2,13 +2,24 @@
 
 # Validator Godshunter validate 3 main-nets
 
-- [SifChain](https://www.mintscan.io/sifchain/validators/sifvaloper1yv52uehf6kjh7lul2rzus3xafdta6556j6zyd4)
-- [Solana]()
+- [Solana](https://www.validators.app/validators/FhtTzi7AjoBTY3RWydBaNQNmcQutpJBeiGYmBET4y1bG?locale=en&network=mainnet&order=&refresh=)
 - [Agoric](https://main.explorer.agoric.net/validator/agoricvaloper1cjs0sgxz709mvfyzje7tzsflyhcvrpxv04m2dl)
-
+- [Realis]
+- [Cyber]
 # Other
+- [AssetMantle](https://test-mantle-1.explorer.persistence.one/validators/mantlevaloper1an7h7zscggkd9lwcsr9kqsce6xvd6c6q2lgag9)
+- [Axelar]
+- [Casper](https://testnet.cspr.live/validator/016a542586d8b648abb243f37f7336572982d512a96c067476a147c4f9980fee5b)
+- [Massa]
+- [Bit.Country]
+- [Zeitgeist]
 
+# Ambassador
+- [Moonbeam/Moonriver]
+- [Interlay/Kintsugi]
+- [Zeitgeist]
 # Contacts
 
 - [GitHub](https://github.com/godshunter)
 - [Telegram](https://t.me/godshunter)
+- [Discord] GodsHunter | DOUBLE TOP#5319

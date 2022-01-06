@@ -6,7 +6,7 @@
 - [Agoric](https://main.explorer.agoric.net/validator/agoricvaloper1cjs0sgxz709mvfyzje7tzsflyhcvrpxv04m2dl)
 - [Realis]
 - [Cyber](https://cyb.ai/network/bostrom/hero/bostromvaloper1zaefvwrgk2g45k68a3ngahgq0xky5zgeluu86f)
-- 
+
 # Testnets
 - [AssetMantle](https://test-mantle-1.explorer.persistence.one/validators/mantlevaloper1an7h7zscggkd9lwcsr9kqsce6xvd6c6q2lgag9)
 - [Axelar]
@@ -16,10 +16,10 @@
 - [Zeitgeist]
 
 # Ambassador
-- [Moonbeam/Moonriver] Senior ambassador
-- [Interlay/Kintsugi] Councillor
-- [Zeitgeist] Herald
-- 
+- Moonbeam/Moonriver - Senior ambassador
+- Interlay/Kintsugi - Councillor
+- Zeitgeist - Herald
+ 
 # Contacts
 
 - [GitHub](https://github.com/godshunter)

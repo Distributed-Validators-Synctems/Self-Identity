@@ -114,6 +114,8 @@ My social links:
 - [Twitter](https://twitter.com/vadyhodler777)
 - [3Box](https://3box.io/0x8847ebaaf29a18396e49191602f8d8d141b98aa7)
 - [ENS](https://app.ens.domains/name/cyberg.eth)
+- [CyberConnect](https://app.cyberconnect.me/address/cyberg.eth)
+- [GM](https://gm.xyz/u/cyberg.eth)
 - [Reddit](https://www.reddit.com/user/cyberG88)
 - [Medium](https://88vgk88.medium.com/)
 - [Bitcointalk](https://bitcointalk.org/index.php?action=profile;u=2646989)

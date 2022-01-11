@@ -19,9 +19,10 @@
 - Moonbeam/Moonriver - Senior ambassador
 - Interlay/Kintsugi - Councillor
 - Zeitgeist - Herald
+- Author [Moonbeam RU YouTube channel](https://www.youtube.com/channel/UC1t2t8VqWmekToiPdbbytNQ)
  
 # Contacts
 
 - [GitHub](https://github.com/godshunter)
 - [Telegram](https://t.me/godshunter)
-- [Discord] GodsHunter | DOUBLE TOP#5319
+- Discord - GodsHunter | DOUBLE TOP#5319

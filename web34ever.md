@@ -19,7 +19,7 @@ Passionate experts with over five years of expertise in decentralized technologi
 
 - [Juno](https://www.mintscan.io/juno/validators/junovaloper1mxpyg8u68k6a8wdu3hs5whcpw9q285pcpxm5yx)	
 
-- [Certik](https://explorer.certik.foundation/validators/certikvaloper1036rphfnyw49fzm5ajfud743j2qutlk9flnnsq?net=shentu-1)	
+- [Certik](https://www.mintscan.io/certik/validators/certikvaloper1036rphfnyw49fzm5ajfud743j2qutlk9flnnsq)	
  
 - [Microtick](https://explorer.microtick.zone/validator/microvaloper1mn8r3x4g2nmwmvsqqh3tsnzxp54c7qwrumgje2)
 
@@ -33,7 +33,7 @@ Passionate experts with over five years of expertise in decentralized technologi
 
 - [Bitsong](https://explorebitsong.com/staking/bitsongvaloper139dppl6gyerq8yaweksajut3urwyygsz7r4ej4)
 
-- [XX-Network](https://dashboard.xx.network/nodes/sFMS0TKTK5FoignYUnhJDwWz9_Uotmzg3LI-szS3ixIC)
+- [XX-Network](https://dashboard.xx.network/nodes/CbbUZQAwfg7uSVebxdMLS76YQatTG9YZXp0OjmOpT8MC)
 
 - [Moonbeam Collator](https://moonbeam.subscan.io/waiting/0x47dd026c7e6c80c78b53811bf17c2cada73bf0d4)
 
@@ -58,12 +58,18 @@ Cosmos SDK projects:
 - [Regen Network](https://regen.aneka.io/validators?page=active)
 - [Likecoin](https://likecoin.bigdipper.live/validator/cosmosvaloper1yxzlyqmje82kc3l6nl3tpxhqs356vvh6eu6q5h)
 - [Sentinel](https://explorer.sentinel.co/validator/sentvaloper1qx4p43c480wxsxt63wfdvupzqp4dduknxldygu)
+- [Iris-Network]()
 - [Althea](https://testnet.althea.aneka.io/validators/cosmosvaloper1hv0dcr9l2l090jxtuxu8nsa2jm6h307xfdcwscj)
 - [Decentr](https://explorer.decentr.net/validators/decentrvaloper1xmfyelmhajhswh4m2pqxw9vm6yjw3866j4nmls)
 - [Kira](https://github.com/KiraCore/testnet)
 - [Osmosis](https://github.com/osmosis-labs/networks) 
 - [Rizon](https://testnet.mintscan.io/rizon/validators/rizonvaloper15sn3ts9jpmf23eskx7730mngftq4gta82y32jf) 
 - [Frontier]()
+- [Gravity-Bridge]()
+- [AssetMantle]()
+- [Ki-chain]()
+- [Pylons](https://wallet.pylons.tech/validator/pylovaloper18c2a42u3kfmey32nadk7a4qsc9wrrz8w83muu7)
+- [Game](https://neuron.game-explorer.io/validators/gamevaloper1v5nsfmmwkvj8t23s5vylzr5l7s6j6zjkppm48q)
 - [Cryptocom](https://crypto.org/explorer/croeseid/validator/tcrocncl129xlqcjasyzqsc4364x7hc6m6t5w33ruqp53qx)
 - [Omniflix](https://explorer.omniflix.network/validators)
 

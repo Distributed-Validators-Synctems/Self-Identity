@@ -14,10 +14,11 @@
 - [Massa]
 - [Bit.Country]
 - [Zeitgeist]
+- [NYM]
 
 # Ambassador
 - Moonbeam/Moonriver - Senior ambassador
-- Interlay/Kintsugi - Councillor
+- Interlay/Kintsugi - Councillor ambassador programm
 - Zeitgeist - Herald
 - Author [Moonbeam RU YouTube channel](https://www.youtube.com/channel/UC1t2t8VqWmekToiPdbbytNQ)
  

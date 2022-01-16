@@ -88,6 +88,7 @@ Finished Testnets:
 
 
 Ambassador campaigns:
+- [Clipper]()
 - [Covalent]()
 - [Cyber]()
 - [Hacken]()
@@ -102,6 +103,7 @@ Past camapigns:
 - [dClimate]()
 - [FreeTON]()
 - [Genshiro]()
+- [Goldfinch]()
 - [Qredo]()
 - [Goldfinch]()
 - [Biconomy]()

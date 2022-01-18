@@ -22,7 +22,7 @@
 - [Lum Network](https://www.mintscan.io/lum/validators/lumvaloper1z7ss5slnpjfkceahl323ag9tkf3a6yrs88h4ng)
 
 
-## POSTHUMAN validate 4 different test-nets
+## POSTHUMAN validate 5 different test-nets
 
 - [Solana](https://www.validators.app/validators/HZX4MWsSDzRerGuV6kgtj5sGM3dcX9doaiN7qr5y9MAw)
 - [OmniFlix Network - temporarly stopped]

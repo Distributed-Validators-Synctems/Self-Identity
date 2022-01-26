@@ -20,7 +20,7 @@
 - [SifChain](https://www.mintscan.io/sifchain/validators/sifvaloper1lkctf0y8stlvshdkhra0lqcafd5hsq9aad35nm)
 - [ODIN Protocol](https://look.chillvalidation.com/odin/staking/odinvaloper1wuwhanclwh9ckpe6z6480t3pjjpk7dsj2trk9p)
 - [Lum Network](https://www.mintscan.io/lum/validators/lumvaloper1z7ss5slnpjfkceahl323ag9tkf3a6yrs88h4ng)
-- [FirmaChain](https://explorer.firmachain.dev/accounts/firma143v9wpr870kt22gmtxgl7tc72twkd6z4eyllau)
+- [FirmaChain](https://explorer.firmachain.dev/validators/firmavaloper143v9wpr870kt22gmtxgl7tc72twkd6z48h5yaj)
 
 ## POSTHUMAN validate 4 different test-nets
 

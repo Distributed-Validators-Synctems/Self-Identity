@@ -2,11 +2,7 @@
 
 #Validator BananaMaker
 
-- [Gravity Bridge](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper18u9pws4989n7fmx5pduev7starj8wqgg4jcxr3)
-- [KiChain](https://www.mintscan.io/ki-chain/validators/kivaloper1mfr64h8rmnlg2g90m6qk3zw80vgxmuumq0ng9x)
-- [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1gke47wnpdnqqspju5xe5448gxmz36vt8fksjmc)
-- [Ixo](https://blockscan.ixo.world/validator/ixovaloper1680a2sy8z63cxczjl34xpzusv4es7yrn6y4f5x)
-- [Chihuahua](https://www.mintscan.io/chihuahua/validators/chihuahuavaloper1nh26fjk060g4umun5czgdkprws4qmzaxmeqmlc)
+- [MediBloc](https://www.mintscan.io/medibloc/validators/panaceavaloper1h7glzr6dn4hz0fethj59870gv8v8aqm87sz2k8)
 
 More nets going soon... <br />
 
@@ -26,5 +22,5 @@ More nets going soon... <br />
 ### Contacts:
 
 - [GitHub](https://github.com/Stalisnav)
-- [Telegram](https://t.me/Andrei2cards)
-- [Web-page](https://79anvi.com/)
+- [Telegram](https://t.me/Filantro)
+- [Web-page](https://bananamaker.net/)

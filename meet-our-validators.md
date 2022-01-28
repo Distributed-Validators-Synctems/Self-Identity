@@ -1,4 +1,4 @@
-# For now, Distributed Validators Synctems synchronize 13 different validators
+# For now, Distributed Validators Synctems synchronize 17 different validators
 
 - [web34ever](https://github.com/Distributed-Validators-Synctems/self-identity/blob/main/web34ever.md)
 - [cyberG](https://github.com/Distributed-Validators-Synctems/self-identity/blob/main/cyberG.md)
@@ -15,3 +15,5 @@
 - [Godshunter](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/Godshunter.md)
 - [Paranormal Brothers](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/ParanormalBrothers.md)
 - [👋 79anvi 🍀](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/79anvi.md)
+- [BananaMaker](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/BananaMaker.md)
+- [Auantum_AI]()

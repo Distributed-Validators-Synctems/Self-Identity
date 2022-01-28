@@ -16,4 +16,4 @@
 - [Paranormal Brothers](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/ParanormalBrothers.md)
 - [👋 79anvi 🍀](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/79anvi.md)
 - [BananaMaker](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/BananaMaker.md)
-- [Auantum_AI]()
+- [Auantum_AI](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/Quantum_AI.md)

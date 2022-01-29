@@ -11,7 +11,7 @@ Passionate experts with over five years of expertise in decentralized technologi
 
 - [Velas](https://velasvalidators.com/AeH8nSJYDPVsEhXqEMi5Ujy8ZZ7CAs7zGXGwbBicPQnd)
 
-- [Avalanche](https://avascan.info/staking/validator/NodeID-GcWopGJ9HZAJSBSw5vVGxd7r9rntKj21Q)
+- [Avalanche](https://avascan.info/staking/validator/NodeID-5uYQ6R4WF7kmGfraM9LtsUJG2CDmh78Lf)
 
 - [TheGraph Indexer](https://thegraph.com/explorer/profile?id=0xd93456bf656436e66a8e0a8835c43a6f59afbb37&view=Indexing)	
 
@@ -23,7 +23,7 @@ Passionate experts with over five years of expertise in decentralized technologi
  
 - [Microtick](https://explorer.microtick.zone/validator/microvaloper1mn8r3x4g2nmwmvsqqh3tsnzxp54c7qwrumgje2)
 
-- [Gravity-Bridge](https://gravity-bridge.skynetexplorers.com/validators/gravityvaloper1exksjeh9c0h03mxsvechrcc6axe56c5a56573y)
+- [Gravity-Bridge](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1exksjeh9c0h03mxsvechrcc6axe56c5a56573y)
  
 - [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper17kpyk8nqwr0dkv4nz5j4d3r9umfm23we0fk8wj)
 

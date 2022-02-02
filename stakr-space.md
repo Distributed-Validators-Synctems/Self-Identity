@@ -10,9 +10,20 @@ Main-nets: <br />
 [Sifchain](https://www.mintscan.io/sifchain/validators/sifvaloper1kx5hexg5fhskesdvkk9zycmwu8tym6gejns3ew)<br />
 [Hopr](https://hoprnet.org/) - Diamond Hodler<br />
 [Syntropy.network](https://telemetry-ui.syntropynet.com/#list/0x38d3fc98d685608c6d9bb707e729ec0b7f73de92e5d9c148a28b5c9decaeabd3) - Amber Chain Validator <br />
+
 Soon:<br />
 [Tgrade](https://tgrade.finance) - Approved Mainnet Validator<br />
-
+Omniflix - Approved Mainnet Validator<br />
+Band - preparing to run self-funded validator<br />
+Bitsong - preparing to run self-funded validator<br />
+Certik - preparing to run self-funded validator<br />
+E-money - preparing to run self-funded validator<br />
+Fetch.ai - preparing to run self-funded validator<br />
+Kava - preparing to run self-funded validator<br />
+Ki - preparing to run self-funded validator<br />
+Medibloc - preparing to run self-funded validator<br />
+Rizon - preparing to run self-funded validator<br />
+<br />
 
 32+ finished or developing test-nets: <br />
   [Umee] Umeevengers 7th place[[leaderboard]](https://leaderboard.umee.cc) Medium [[blogpost]](https://medium.com/umeeblog/rise-of-the-umeevengers-final-scores-and-closing-ceremony-f872eeba55bc) [[gentx1]](https://github.com/umee-network/testnets/pull/137) [[gentx2]](https://github.com/umee-network/testnets/pull/297)</br>

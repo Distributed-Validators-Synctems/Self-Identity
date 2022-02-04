@@ -9,10 +9,6 @@
 - [Velas](https://velasvalidators.com/96isFFVKbaEsdMgHnBGwaifSiuxF2DjnPMGURbHyrHrC)
 - [Agoric](https://main.explorer.agoric.net/validator/agoricvaloper1llcs6xwp6gdv4t2krmyupfjjr0xyuwk9npyhzs)
 
-Soon: <br />
-- [Hopr](https://hoprnet.org/ru)
-
-
 24 test-nets: <br />
 
 - [Solana](https://www.validators.app/?q=9tbzUabDi5D62Kkpd6oQs9r28Ts7TFJHLvx3pFJshZRA&network=testnet&order=&refresh=&commit=Search)

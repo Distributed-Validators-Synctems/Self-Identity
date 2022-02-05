@@ -15,8 +15,8 @@ test-nets: <br />
 - [Cyber](https://rebyc.cyber.page/network/bostrom/hero/bostromvaloper18naxcfp2s397a2ucav2m53f003uylk3q6lwnna)
 - [Solana](https://www.validators.app/validators/testnet/D6beCFAZeFtXoZKio6JZV1GUmJ99Nz4XhtxMePFvuJWN?locale=en&order=score&refresh=)
 - [Rizon Platform](https://testnet.mintscan.io/rizon/validators/rizonvaloper1pyvrsg4dj30rdgx4njnlcf7yapm954xwckae4t)
-- [Stargaze]
-- [Bitsong]
+- [Stargaze]()
+- [Bitsong]()
 
 Activities: <br />
 

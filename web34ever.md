@@ -13,8 +13,6 @@ Passionate experts with over five years of expertise in decentralized technologi
 
 - [Avalanche](https://avascan.info/staking/validator/NodeID-5uYQ6R4WF7kmGfraM9LtsUJG2CDmh78Lf)
 
-- [TheGraph Indexer](https://thegraph.com/explorer/profile?id=0xd93456bf656436e66a8e0a8835c43a6f59afbb37&view=Indexing)	
-
 - [Mina Protocol](https://minaexplorer.com/wallet/B62qrnPdz8HpsDJfGHirDLpVrN2VeyeitdaTKBaccWtHpeVW9Hgwi75)
 
 - [Juno](https://www.mintscan.io/juno/validators/junovaloper1mxpyg8u68k6a8wdu3hs5whcpw9q285pcpxm5yx)	
@@ -36,10 +34,10 @@ Passionate experts with over five years of expertise in decentralized technologi
 - [XX-Network](https://dashboard.xx.network/nodes/CbbUZQAwfg7uSVebxdMLS76YQatTG9YZXp0OjmOpT8MC)
 
 - [Moonbeam Collator](https://moonbeam.subscan.io/waiting/0x47dd026c7e6c80c78b53811bf17c2cada73bf0d4)
-
-- [ProximaX](https://github.com/proximax-storage/xpx-mainnet-chain-onboarding/tree/master/docker-method)
 		
 - [Free TON](https://ton.live/depools/depoolDetails?id=0%3Ae108fbffddd3999898788f59b267a0641287703866845d1734be5cd7f637473c)
+
+- [TheGraph Indexer](https://thegraph.com/explorer/profile?id=0xd93456bf656436e66a8e0a8835c43a6f59afbb37&view=Indexing)	
  
 - [Idena](https://scan.idena.io/address/0x8f13de3aad441684cdfb84c5410f845697cce378#rewards)
 
@@ -67,6 +65,7 @@ Cosmos SDK projects:
 - [Frontier]()
 - [Gravity-Bridge]()
 - [AssetMantle]()
+- [CosmicHorizon]()
 - [Ki-chain]()
 - [Pylons](https://wallet.pylons.tech/validator/pylovaloper18c2a42u3kfmey32nadk7a4qsc9wrrz8w83muu7)
 - [Game](https://neuron.game-explorer.io/validators/gamevaloper1v5nsfmmwkvj8t23s5vylzr5l7s6j6zjkppm48q)

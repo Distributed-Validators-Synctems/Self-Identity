@@ -6,6 +6,8 @@
 
 - [Solana](https://www.validators.app/validators/mainnet/syrs1ewkLaWrJ3VoXhFtZHZZSRNTRb6qQhkEhmXKbcC?locale=en&order=&refresh=)
 - [XX Network](https://dashboard.xx.network/nodes/Lv04Y-lIm5rKJ3hA2hc_SAdsKxwz1urEyeDSVOJD9loC)
+- [Cyber](https://cyb.ai/network/bostrom/hero/bostromvaloper18naxcfp2s397a2ucav2m53f003uylk3q6lwnna)
+- [Bitsong](https://www.mintscan.io/bitsong/validators/bitsongvaloper12gt92p97xhwd8xsp0f54nadzc7r2utakvverr8)
 
 3 test-nets: <br />
 

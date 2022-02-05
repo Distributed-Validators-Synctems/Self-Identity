@@ -46,8 +46,8 @@ Passionate experts with over five years of expertise in decentralized technologi
 							Blochains grow here
 
 Cosmos SDK projects:
-- [Cyber.papge](https://rebyc.cyber.page/network/bostrom/hero/bostromvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fh73g0j)
-- [Certik](https://explorer.certik.foundation/validators/certikvaloper1036rphfnyw49fzm5ajfud743j2qutlk9flnnsq?net=shentu-1)
+- [Cyber.papge](https://rebyc.cyber.page/network/bostrom/hero/bostromvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fh73g0j) - [Omniflix](https://explorer.omniflix.network/validators)
+- [Certik](https://explorer.certik.foundation/validators/certikvaloper1036rphfnyw49fzm5ajfud743j2qutlk9flnnsq?net=shentu-1) - [Cryptocom](https://crypto.org/explorer/croeseid/validator/tcrocncl129xlqcjasyzqsc4364x7hc6m6t5w33ruqp53qx)
 - [Bitsong](https://explorebitsong.com/staking/bitsongvaloper139dppl6gyerq8yaweksajut3urwyygsz7r4ej4)
 - [Althea](https://testnet.althea.aneka.io/validators/cosmosvaloper1hv0dcr9l2l090jxtuxu8nsa2jm6h307xfdcwscj)
 - [Akash Network](http://5k6rp916o9807flqte7ruq1bk0.ingress.ewr1p0.mainnet.akashian.io/)
@@ -70,7 +70,7 @@ Cosmos SDK projects:
 - [Pylons](https://wallet.pylons.tech/validator/pylovaloper18c2a42u3kfmey32nadk7a4qsc9wrrz8w83muu7)
 - [Game](https://neuron.game-explorer.io/validators/gamevaloper1v5nsfmmwkvj8t23s5vylzr5l7s6j6zjkppm48q)
 - [Cryptocom](https://crypto.org/explorer/croeseid/validator/tcrocncl129xlqcjasyzqsc4364x7hc6m6t5w33ruqp53qx)
-- [Omniflix](https://explorer.omniflix.network/validators)
+
 
 
 

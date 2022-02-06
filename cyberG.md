@@ -25,7 +25,7 @@ Active Mainnets: <br />
 - [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1swmud649t386j2csz0gah7ku2zpfu0w7trzr09)
 - [Sentinel](https://www.mintscan.io/sentinel/validators/sentvaloper1y8rgddpwlcmf3h2zpq9aq9qdmuvcscg0rj7vee)
 - [Solana](https://www.validators.app/?q=cyberg&network=mainnet&order=score&refresh=&commit=Search)
-- [Stargaze](https://explore.stargaze.zone/validators/starsvaloper1dtk6748uhvmhvakhleclrwprp27pe89vhhw44p)
+- [Stargaze](https://www.mintscan.io/stargaze/validators/starsvaloper1dtk6748uhvmhvakhleclrwprp27pe89vhhw44p)
 - [Velas](https://velasvalidators.com/7MYojjTNnFsyEs7Pb5Xv3pKeZxUGk6R1kJoLrtSKkSRy)
 - [XX Network]()
 

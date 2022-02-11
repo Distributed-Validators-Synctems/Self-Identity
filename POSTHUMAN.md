@@ -26,9 +26,9 @@
 ## POSTHUMAN validate 4 different test-nets
 
 - [Solana](https://www.validators.app/validators/HZX4MWsSDzRerGuV6kgtj5sGM3dcX9doaiN7qr5y9MAw)
+- [SSV Network](https://explorer.ssv.network/operators/a2a4abaa495ed8b81230750ba59a9617b52af23587670a3b939bc41cc4943570)
 - [OmniFlix Network - temporarly stopped]
 - [Umee]
-- [SSV Network]
 
 **My Contributions (not full list!)** <br />
 

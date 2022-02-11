@@ -17,3 +17,4 @@
 - [👋 79anvi 🍀](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/79anvi.md)
 - [BananaMaker](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/BananaMaker.md)
 - [Quantum_AI](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/Quantum_AI.md)
+- [bonded.zone](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/bonded_zone.md)

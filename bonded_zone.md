@@ -46,7 +46,7 @@
 
 
 ## Other Activities:
-I’m admin in this Tlegram groups:
+I’m admin in this Telegram groups:
 - https://t.me/rizon_atolo_ru
 
 ### Contacts:

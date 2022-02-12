@@ -24,7 +24,6 @@ Active Mainnets: <br />
 - [Moonbeam](https://moonbeam.subscan.io/waiting/0xe2962a1785f655eae3a8cd1f1b38d1d760a300e3)
 - [ProximaX](https://explorer.xpxsirius.io)
 - [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1swmud649t386j2csz0gah7ku2zpfu0w7trzr09)
-- [Sentinel](https://www.mintscan.io/sentinel/validators/sentvaloper1y8rgddpwlcmf3h2zpq9aq9qdmuvcscg0rj7vee)
 - [Solana](https://www.validators.app/?q=cyberg&network=mainnet&order=score&refresh=&commit=Search)
 - [Stargaze](https://www.mintscan.io/stargaze/validators/starsvaloper1dtk6748uhvmhvakhleclrwprp27pe89vhhw44p)
 - [Velas](https://velasvalidators.com/7MYojjTNnFsyEs7Pb5Xv3pKeZxUGk6R1kJoLrtSKkSRy)
@@ -33,34 +32,36 @@ Active Mainnets: <br />
 
 Genesis validator, but not in active set: <br />
 - [Regen](https://regen.aneka.io/accounts/regen1qvn6ghe68l4g0k7s25rujr6yfpyrm6h3399jvu)
+- [Sentinel]()
 
 
 
 Active Testnets: <br />
 - [Aleo]()
 - [Althea]()
-- [Arable]()
 - [Asset Mantle](https://test-mantle-1.explorer.persistence.one/validators/mantlevaloper1elfgdkn7gms9td9ktgyfkald7u62xq6h9zc3zv)
 - [Celestia]()
 - [Comdex](https://comets-test.comdex.one/validator/comdexvaloper1ha5regczwexcgcnkv30rd5tadffe6recs0w5cl)
 - [DevxDAO]()
 - [Evmos](https://explorer.evmos.org/validators/evmosvaloper1kjeccze0hez4ud3hm60x3s388tqkl65rn809lw)
+- [Gear]()
 - [Humanode]()
 - [Iron Fish]()
 - [Juno]()
 - [Kira]()
 - [Massa]()
 - [Moonbeam](https://moonbase.subscan.io/validator/0xa3D563203b7a46a545E5e1C812B54405DcD62680)
-- [NYM]()
 - [OmniFlix]()
+- [Passage]()
 - [Pylons](https://wallet.pylons.tech/validator/pylovaloper1tdmeurwdu9ew5rlw04wjsc65caaqug274h3fwx)
 - [Solana](https://www.validators.app/validators/testnet/28LgQ7MeEZVgNJfYRc6UnoAz2SnSjKbyCKM6sntCRotb?locale=en&order=score&refresh=)
-- [Umee]()
+
 
 
 
 Finished Testnets:
 - [Akash]()
+- [Arable]()
 - [Blockstack]()
 - [Bitcountry]()
 - [Cere]()
@@ -78,6 +79,7 @@ Finished Testnets:
 - [Meter]()
 - [Minima]()
 - [NUcypher]()
+- [NYM]()
 - [Phala]()
 - [Plasm]()
 - [PlatON]()
@@ -85,6 +87,8 @@ Finished Testnets:
 - [Swarm]()
 - [Zeigeist]()
 - [Zenon]()
+- [Umee]()
+
 
 
 

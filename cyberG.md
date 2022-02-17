@@ -38,7 +38,7 @@ Genesis validator, but not in active set: <br />
 
 
 Active Testnets: <br />
-- [Aleo]()
+
 - [Althea]()
 - [Asset Mantle](https://test-mantle-1.explorer.persistence.one/validators/mantlevaloper1elfgdkn7gms9td9ktgyfkald7u62xq6h9zc3zv)
 - [Celestia]()
@@ -62,6 +62,7 @@ Active Testnets: <br />
 
 Finished Testnets:
 - [Akash]()
+- [Aleo]()
 - [Arable]()
 - [Blockstack]()
 - [Bitcountry]()

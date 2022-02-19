@@ -10,7 +10,6 @@
 - [papsan](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/papsan.md)
 - [moonsoon](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/moonsoon.md)
 - [vbloher](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/vbloher.md)
-- [cyberp3810](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/cyberp3810.md)
 - [DomaNodes](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/DomaNodes.md)
 - [Godshunter](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/Godshunter.md)
 - [Paranormal Brothers](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/ParanormalBrothers.md)
@@ -18,3 +17,4 @@
 - [BananaMaker](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/BananaMaker.md)
 - [Quantum_AI](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/Quantum_AI.md)
 - [bonded.zone](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/bonded_zone.md)
+- [KURASH](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/KURASH.md)

@@ -1,3 +1,5 @@
+![kurash](https://user-images.githubusercontent.com/38581319/154812589-5af71295-27c0-45ca-9fea-b43278bed6bd.png)
+
 # Validator KURASH
 
 ## Active Mainnets:

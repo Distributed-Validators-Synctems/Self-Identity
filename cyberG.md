@@ -139,3 +139,4 @@ My social links:
 - [Orbis](https://orbis.club/profile/did:3:kjzl6cwe1jw14bjm2y05gw559hig35edxk28i3fywdi3iiv2j601pgzgpu2k58w)
 - [DeWork](https://app.dework.xyz/profile/4e2c052f-51d6-43f2-8d5d-6c7669f2246f)
 - [Cheers](https://cyberg.eth.cheers.bio/)
+- [Light](https://light.so/cyberg.eth)

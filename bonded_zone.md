@@ -38,6 +38,8 @@
 - [Guide - Configure State-Sync for the Rizon mainnet](https://bondedzone.medium.com/configure-state-sync-for-the-rizon-mainnet-9e1fd8c05d1f)
 
 #### Community
+- [Translation - RIZON домен интегрирован в STARNAME](https://bondedzone.medium.com/rizon-%D0%B4%D0%BE%D0%BC%D0%B5%D0%BD-%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD-%D0%B2-starname-b762a5e64ddb)
+- [Translation - RIZON заключил партнёрство с Citadel.one валидатором](https://bondedzone.medium.com/rizon-%D0%B7%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B8%D0%BB-%D0%BF%D0%B0%D1%80%D1%82%D0%BD%D1%91%D1%80%D1%81%D1%82%D0%B2%D0%BE-%D1%81-citadel-one-%D0%B2%D0%B0%D0%BB%D0%B8%D0%B4%D0%B0%D1%82%D0%BE%D1%80%D0%BE%D0%BC-86016b411a68)
 - [Translation - RIZON прошёл аудит CertiK](https://bondedzone.medium.com/rizon-%D0%BF%D1%80%D0%BE%D1%88%D1%91%D0%BB-%D0%B0%D1%83%D0%B4%D0%B8%D1%82-certik-4673046dd882)
 - [Translation - Как создавать, минтить и передавать NFT на Archway](https://bondedzone.medium.com/%D0%BA%D0%B0%D0%BA-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D1%8C-%D0%BC%D0%B8%D0%BD%D1%82%D0%B8%D1%82%D1%8C-%D0%B8-%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D1%8C-nft-%D0%BD%D0%B0-archway-fab67033e249)
 - [Translation - Как стейкать ATOLO с помощью кошелька Keplr на Omniflix](https://bondedzone.medium.com/%D0%BA%D0%B0%D0%BA-%D1%81%D1%82%D0%B5%D0%B9%D0%BA%D0%B0%D1%82%D1%8C-atolo-%D1%81-%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E-%D0%BA%D0%BE%D1%88%D0%B5%D0%BB%D1%8C%D0%BA%D0%B0-keplr-%D0%BD%D0%B0-omniflix-f7f4cbf67cd2)

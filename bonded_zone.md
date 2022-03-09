@@ -2,20 +2,21 @@
 
 # Validator bonded.zone
 
-###  Active Mainnets:
+###  Mainnets:
 - [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1jnjg9fl5hflwgjyu9vrht3j52nn68yjesxaqmr)
 
 ### Active Testnets:
+- [Penumbra](https://penumbra.zone/)
+- [Masa](https://masa.finance/)
+- [DWS](https://explore.deweb.services/deweb/staking/dewebvaloper199k3qk8hzatkpfdcmsx0gfqt7fe4298fk9tycz)
 - [Celestia](https://celestia.observer/validators/celesvaloper1r7tvvvhkxujcfld9l7u9nx7svy65hcjfnmzrdn)
 - [Cosmic Horizon](https://www.skynetexplorers.com/cosmic-horizon/staking/cohovaloper14zh296n4yk7d3mwc95hxgmlcwaxp08syh8kacz)
 - [Massa](https://massa.net/)
 - [Minima](https://minima.global/)
 - [Zeitgeist](https://zeitgeist.pm/)
-- [SSV](https://ssv.network/)
 - [Kyve](https://app.kyve.network/)
 - [Althea - temporarly stopped](https://testnet.mintscan.io/althea/validators/altheavaloper1rv6qck5vpc89xa2p06mnh2qz3393mk4qzm2xeh)
 - [Anoma - temporarly stopped](https://anoma.network/)
-- [Stratos - temporarly stopped](https://big-dipper-test.thestratos.org/validator/stvaloper1zamjm637j9ktphx8d363am3ayqw9ecfn8g8nms)
 - [Archway - in near future](https://www.archway.io/)
 
 ### Finished Testnets:
@@ -28,6 +29,8 @@
 - [Porta](https://porta.network/)
 - [Streamr](https://streamr.network/)
 - [Umee](https://www.umee.cc/)
+- [Stratos](https://big-dipper-test.thestratos.org/validator/stvaloper1zamjm637j9ktphx8d363am3ayqw9ecfn8g8nms)
+- [SSV](https://ssv.network/)
 
 ## Contributions (not full list!)
 

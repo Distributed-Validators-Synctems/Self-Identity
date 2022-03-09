@@ -6,6 +6,7 @@
 - [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1jnjg9fl5hflwgjyu9vrht3j52nn68yjesxaqmr)
 
 ### Active Testnets:
+- [Klever](https://testnet.kleverscan.org/validator/klv1q4ngqant0fgtr5egju0gjgnwxcdk08eg8m8dkwlq7sk0qkad4x3q0d7hc0)
 - [Penumbra](https://penumbra.zone/)
 - [Masa](https://masa.finance/)
 - [DWS](https://explore.deweb.services/deweb/staking/dewebvaloper199k3qk8hzatkpfdcmsx0gfqt7fe4298fk9tycz)
@@ -35,6 +36,7 @@
 ## Contributions (not full list!)
 
 #### Techcnical
+- [Guide - How to setup Klever validator](https://bondedzone.medium.com/how-to-setup-klever-validator-ff58b502e64d)
 - [Guide - Configure State-Sync for the Rizon mainnet](https://bondedzone.medium.com/configure-state-sync-for-the-rizon-mainnet-9e1fd8c05d1f)
 
 #### Community

@@ -3,18 +3,18 @@
 ## STAKR.space participate in 41+ different Networks
 
 Main-nets: <br />
-[Solana](https://www.validators.app/validators/mainnet/E9hD3ikumJx1GVswDjnpCt6Uu4WG5mz1PDWCqdE5uhmo?locale=en&order=&refresh=) - Bocachica Approved<br />
+[Solana](https://www.validators.app/validators/mainnet/E9hD3ikumJx1GVswDjnpCt6Uu4WG5mz1PDWCqdE5uhmo?locale=en&order=&refresh=) - Bocachica Approved, Foundation Delegated, Liquid Staking Delegated<br />
 [Velas](https://velasvalidators.com/He8EzKJ7dmp37oecC7NnSGSicXdRubjjovd9xWR9UPYH) - Foundation Delegated<br />
 [Mina](https://mina.staketab.com/validator/B62qpsMTL1mTaQUQUTQzVM1qvyGTCLVAhr8whJc7tUfmnPEuZnanzUe) - Genesis Founding Member, QA task force<br />
 [Everscale (exFreeTON)](https://ton.live/accounts/accountDetails?id=0%3A91163b1721e5920726053b51baf39be62e9c058fc348913d3619503d6710f92b) - Magister Ludi, Depool contest and RustCup winner<br />
 [Sifchain](https://www.mintscan.io/sifchain/validators/sifvaloper1kx5hexg5fhskesdvkk9zycmwu8tym6gejns3ew) - Self-funded validator<br />
 [Syntropy.network](https://telemetry-ui.syntropynet.com/#list/0x38d3fc98d685608c6d9bb707e729ec0b7f73de92e5d9c148a28b5c9decaeabd3) - Amber Chain Validator <br />
-[Umee](https://www.mintscan.io/umee/validators/umeevaloper15vjtlc389fujejjuulqw47fyqhvfupgs8ed905) - Self-funded validator, genesis participant<br />
+[Umee](https://www.mintscan.io/umee/validators/umeevaloper15vjtlc389fujejjuulqw47fyqhvfupgs8ed905) - Self-funded validator(inactive ATM), genesis participant<br />
+[Omniflix](https://www.skynetexplorers.com/omniflix/staking/omniflixvaloper1vcjmshcst9zjh4pydsvqdssg86nzheykssjh5m) - Approved Mainnet Validator<br />
 
 
 Soon:<br />
 [Tgrade](https://tgrade.finance) - Approved Mainnet Validator<br />
-Omniflix - Approved Mainnet Validator<br />
 Passage - Approved Mainnet Validator<br />
 [Hopr](https://hoprnet.org/) - Diamond Hodler<br />
 Band - preparing to run self-funded validator<br />
@@ -69,7 +69,7 @@ Rizon - preparing to run self-funded validator<br />
     Cosmic Horizon <br/>
     ...
   
-Activities: <br />
+[Activities:] (# Activities)<br />
   
    Everscale - [Devops](https://devops.gov.freeton.org/main) and [NFT](https://nft.gov.freeton.org/main) Subgovs Initial Member and Jury<br />
     Moonbeam - [Ambassador](https://moonbeam.network/community/ambassadors/)

@@ -29,7 +29,7 @@ Rizon - preparing to run self-funded validator<br />
 <br />
 
 32+ finished or developing test-nets: <br />
-  [Umee] Umeevengers 7th place[[leaderboard]](https://leaderboard.umee.cc) Medium [[blogpost]](https://medium.com/umeeblog/rise-of-the-umeevengers-final-scores-and-closing-ceremony-f872eeba55bc) [[gentx1]](https://github.com/umee-network/testnets/pull/137) [[gentx2]](https://github.com/umee-network/testnets/pull/297)</br>
+  [Umee](https://umee.cc) Umeevengers 7th place[[leaderboard]](https://leaderboard.umee.cc) Medium [[blogpost]](https://medium.com/umeeblog/rise-of-the-umeevengers-final-scores-and-closing-ceremony-f872eeba55bc) [[gentx1]](https://github.com/umee-network/testnets/pull/137) [[gentx2]](https://github.com/umee-network/testnets/pull/297)</br>
   [Akash - Awesome Akash winner](https://akash.network/) - [[pull request]](https://github.com/papanomad535/awesome-akash/tree/master/owncloud)<br />
     [Sentinel](https://sentinel.co)<br />
     [Iris](https://www.irisnet.org)<br />
@@ -68,11 +68,15 @@ Rizon - preparing to run self-funded validator<br />
     Minima <br/>
     Cosmic Horizon <br/>
     ...
-  
-[Activities:] (# Activities)<br />
+
+<a name="activity">
+Activities:</a>
+<br />
   
    Everscale - [Devops](https://devops.gov.freeton.org/main) and [NFT](https://nft.gov.freeton.org/main) Subgovs Initial Member and Jury<br />
     Moonbeam - [Ambassador](https://moonbeam.network/community/ambassadors/)
+    Umee - [Translation](https://synctems.medium.com/umee-faq-ru-4948f53ca423)
+    
 
 Reach out: <br />
 - [STAKR site](https://stakr.space#contact)

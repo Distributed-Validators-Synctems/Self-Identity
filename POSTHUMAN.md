@@ -70,6 +70,7 @@ Soon I will add more... <br />
 Contacts: <br />
 - [Web-page](https://posthuman.digital/) <br />
 - [GitHub](https://github.com/Antropocosmist/my_competencies) <br />
+- [InterPlanetary Community Chat](https://t.me/posthumanchat)
 - [Telegram](https://t.me/antropocosmist) <br />
 - [Twitter](https://twitter.com/POSTHUMAN_DVS) <br />
 - [Medium](https://antropocosmist.medium.com/) <br />

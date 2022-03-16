@@ -74,7 +74,7 @@ Activities:</a>
 <br />
   
    Everscale - [Devops](https://devops.gov.freeton.org/main) and [NFT](https://nft.gov.freeton.org/main) Subgovs Initial Member and Jury<br />
-    Moonbeam - [Ambassador](https://moonbeam.network/community/ambassadors/)
+    Moonbeam - [Ambassador](https://moonbeam.network/community/ambassadors/) </br>
     Umee - [Translation](https://synctems.medium.com/umee-faq-ru-4948f53ca423)
     
 

@@ -39,13 +39,11 @@ Genesis validator, but not in active set: <br />
 
 
 Active Testnets: <br />
-
-- [Althea]()
+- [Archway]()
 - [Asset Mantle](https://test-mantle-1.explorer.persistence.one/validators/mantlevaloper1elfgdkn7gms9td9ktgyfkald7u62xq6h9zc3zv)
 - [Celestia]()
 - [Comdex](https://comets-test.comdex.one/validator/comdexvaloper1ha5regczwexcgcnkv30rd5tadffe6recs0w5cl)
 - [DevxDAO]()
-- [Evmos](https://explorer.evmos.org/validators/evmosvaloper1kjeccze0hez4ud3hm60x3s388tqkl65rn809lw)
 - [Gear]()
 - [Humanode]()
 - [Iron Fish]()
@@ -65,12 +63,14 @@ Finished Testnets:
 - [Akash]()
 - [Aleo]()
 - [Arable]()
+- [Althea]()
 - [Blockstack]()
 - [Bitcountry]()
 - [Cere]()
 - [Concordium]()
 - [Cryptocom]()
 - [Decentr]()
+- [Evmos](https://explorer.evmos.org/validators/evmosvaloper1kjeccze0hez4ud3hm60x3s388tqkl65rn809lw)
 - [Filecoin]()
 - [Firmachain]()
 - [Frontier]()

@@ -39,11 +39,11 @@ Genesis validator, but not in active set: <br />
 
 
 Active Testnets: <br />
-- [Archway]()
+- [Archway](https://explorer.augusta-1.archway.tech/account/archway1seh5va4cl04q3nzlr65netmg2vd40yyudra7uq)
 - [Asset Mantle](https://test-mantle-1.explorer.persistence.one/validators/mantlevaloper1elfgdkn7gms9td9ktgyfkald7u62xq6h9zc3zv)
-- [Celestia]()
+- [Celestia](https://celestia.observer/validators/celesvaloper19m0wxcsmawds5ef9llh3973vrlvse9m9y205yx)
 - [Comdex](https://comets-test.comdex.one/validator/comdexvaloper1ha5regczwexcgcnkv30rd5tadffe6recs0w5cl)
-- [Craft]()
+- [Craft](https://test-craft.zenscan.io/validator.php?addr=craftvaloper1p79gj0hcg7wp74df8xaf969tr37gt0t9jtycxy)
 - [DevxDAO]()
 - [Gear]()
 - [Humanode]()

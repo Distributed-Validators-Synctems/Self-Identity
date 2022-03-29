@@ -22,7 +22,6 @@ Active Mainnets: <br />
 - [Microtick](https://explorer.microtick.zone/validators/microvaloper1z7crvuuks7yk33qwx4nv68nzhwznkmt96ddm5l)
 - [Mina Protocol](https://minaexplorer.com/wallet/B62qrgnUUduZy2z7zT8qCV8ngTJfSS1rK3Wh22SHUmrse3Tfqvrhx8q)
 - [OmniFlix](https://www.skynetexplorers.com/omniflix/staking/omniflixvaloper1dfjx8w65h359vy55dvm383ks2xevsne9crkh32)
-- [Moonbeam](https://moonbeam.subscan.io/waiting/0xe2962a1785f655eae3a8cd1f1b38d1d760a300e3)
 - [ProximaX](https://explorer.xpxsirius.io)
 - [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1swmud649t386j2csz0gah7ku2zpfu0w7trzr09)
 - [Solana](https://www.validators.app/?q=cyberg&network=mainnet&order=score&refresh=&commit=Search)
@@ -35,10 +34,12 @@ Active Mainnets: <br />
 Genesis validator, but not in active set: <br />
 - [Regen](https://regen.aneka.io/accounts/regen1qvn6ghe68l4g0k7s25rujr6yfpyrm6h3399jvu)
 - [Sentinel]()
-
+- [Moonbeam](https://moonbeam.subscan.io/waiting/0xe2962a1785f655eae3a8cd1f1b38d1d760a300e3)
 
 
 Active Testnets: <br />
+- [Aptos]()
+- [Anone](https://test-anone.zenscan.io/validator.php?addr=onevaloper1qvexpwgsav54wykncd03ky4k34h5qxv73pu2a3)
 - [Archway](https://explorer.augusta-1.archway.tech/account/archway1seh5va4cl04q3nzlr65netmg2vd40yyudra7uq)
 - [Asset Mantle](https://test-mantle-1.explorer.persistence.one/validators/mantlevaloper1elfgdkn7gms9td9ktgyfkald7u62xq6h9zc3zv)
 - [Celestia](https://celestia.observer/validators/celesvaloper19m0wxcsmawds5ef9llh3973vrlvse9m9y205yx)

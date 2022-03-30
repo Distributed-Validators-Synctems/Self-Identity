@@ -56,7 +56,7 @@ Active Testnets: <br />
 - [Passage]()
 - [Pylons](https://wallet.pylons.tech/validator/pylovaloper1tdmeurwdu9ew5rlw04wjsc65caaqug274h3fwx)
 - [Solana](https://www.validators.app/validators/testnet/28LgQ7MeEZVgNJfYRc6UnoAz2SnSjKbyCKM6sntCRotb?locale=en&order=score&refresh=)
-
+- [Uptick](https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1rk5lydrxykadmj8t692q47wtuqxx42l5gjjgpd)
 
 
 

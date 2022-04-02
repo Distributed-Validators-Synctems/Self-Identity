@@ -6,7 +6,11 @@
 - [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1jnjg9fl5hflwgjyu9vrht3j52nn68yjesxaqmr)
 
 ### Active Testnets:
-- [Rizon](https://explorer.chaintools.tech/rizon%20(groot-15)/staking/rizonvaloper1flcltn83whu6tzvagqhx4w95h96e8kyquxedl5)
+- [Uptick](https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1q4vdlk6ty7g04nylnnqdws8dffxtyns4l9uf9t)
+- [Subspace](https://subspace.network/)
+- [StarkNet](https://dashboard.alchemyapi.io/apps/joggtmt4hbvihz3r)
+- [Gear](https://www.gear-tech.io/)
+- [Aptos](https://aptoslabs.com/)
 - [Archway](https://explorer.augusta-1.archway.tech/validator/archwayvaloper1lrwmk86d0r58fgzk62hq0ew6f6ptud6nlgfgn7)
 - [Klever](https://testnet.kleverscan.org/validator/klv1q4ngqant0fgtr5egju0gjgnwxcdk08eg8m8dkwlq7sk0qkad4x3q0d7hc0)
 - [Penumbra](https://penumbra.zone/)
@@ -20,6 +24,7 @@
 - [Kyve](https://app.kyve.network/)
 
 ### Finished Testnets:
+- [Rizon](https://explorer.chaintools.tech/rizon%20(groot-15)/staking/rizonvaloper1flcltn83whu6tzvagqhx4w95h96e8kyquxedl5)
 - [Anoma](https://anoma.network/)
 - [Althea](https://testnet.mintscan.io/althea/validators/altheavaloper1rv6qck5vpc89xa2p06mnh2qz3393mk4qzm2xeh)
 - [OmniFlix](https://omniflix.network/)
@@ -41,6 +46,10 @@
 - [Guide - Configure State-Sync for the Rizon mainnet](https://bondedzone.medium.com/configure-state-sync-for-the-rizon-mainnet-9e1fd8c05d1f)
 
 #### Community
+- [Translation - Gear ежемесячный дайджест: март 2022 г.](https://bondedzone.medium.com/gear-%D0%B5%D0%B6%D0%B5%D0%BC%D0%B5%D1%81%D1%8F%D1%87%D0%BD%D1%8B%D0%B9-%D0%B4%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82-%D0%BC%D0%B0%D1%80%D1%82-2022-%D0%B3-61f4d43144e2)
+- [Translation - Обновление RIZON MAGNUS успешно завершено](https://bondedzone.medium.com/%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-rizon-magnus-%D1%83%D1%81%D0%BF%D0%B5%D1%88%D0%BD%D0%BE-%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D0%BE-738ad2b7e5df)
+- [Translation - Как стейкать ATOLO используя Citadel.one](https://bondedzone.medium.com/%D0%BA%D0%B0%D0%BA-%D1%81%D1%82%D0%B5%D0%B9%D0%BA%D0%B0%D1%82%D1%8C-atolo-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8F-citadel-one-17be9971fc0e)
+- [Translation - Анонс стимулированной тестовой сети Archway — Torii](https://bondedzone.medium.com/%D0%B0%D0%BD%D0%BE%D0%BD%D1%81-%D1%81%D1%82%D0%B8%D0%BC%D1%83%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B9-%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B9-%D1%81%D0%B5%D1%82%D0%B8-archway-torii-fff6c3bd569d)
 - [Translation - Как стейкать с помощью кошелька Cosmostation](https://bondedzone.medium.com/%D0%BA%D0%B0%D0%BA-%D1%81%D1%82%D0%B5%D0%B9%D0%BA%D0%B0%D1%82%D1%8C-%D1%81-%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E-%D0%BA%D0%BE%D1%88%D0%B5%D0%BB%D1%8C%D0%BA%D0%B0-cosmostation-b4d1bf8088df)
 - [Translation - Дорожная карта DWS и описание технологии](https://bondedzone.medium.com/%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D0%B0%D1%8F-%D0%BA%D0%B0%D1%80%D1%82%D0%B0-dws-%D0%B8-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8-d8f190c11811)
 - [Translation - Призыв к RIZON MAGNUS TESTNET (он же GROOT-15)](https://bondedzone.medium.com/%D0%BF%D1%80%D0%B8%D0%B7%D1%8B%D0%B2-%D0%BA-rizon-magnus-testnet-%D0%BE%D0%BD-%D0%B6%D0%B5-groot-15-6a6e27f88c1)

@@ -5,7 +5,7 @@
 Main-nets: <br />
 [Solana](https://www.validators.app/validators/mainnet/E9hD3ikumJx1GVswDjnpCt6Uu4WG5mz1PDWCqdE5uhmo?locale=en&order=&refresh=) - Bocachica Approved, Foundation Delegated, Liquid Staking Delegated<br />
 [Velas](https://velasvalidators.com/He8EzKJ7dmp37oecC7NnSGSicXdRubjjovd9xWR9UPYH) - Foundation Delegated<br />
-[Mina](https://mina.staketab.com/validator/B62qpsMTL1mTaQUQUTQzVM1qvyGTCLVAhr8whJc7tUfmnPEuZnanzUe) - Genesis Founding Member, QA task force<br />
+[Mina](https://mina.staketab.com/validator/B62qpsMTL1mTaQUQUTQzVM1qvyGTCLVAhr8whJc7tUfmnPEuZnanzUe) - Genesis Founding Member, QA task force - validator inactive ATM due to stake overconcentration in network<br />
 [Everscale (exFreeTON)](https://ton.live/accounts/accountDetails?id=0%3A91163b1721e5920726053b51baf39be62e9c058fc348913d3619503d6710f92b) - Magister Ludi, Depool contest and RustCup winner<br />
 [Sifchain](https://www.mintscan.io/sifchain/validators/sifvaloper1kx5hexg5fhskesdvkk9zycmwu8tym6gejns3ew) - Self-funded validator<br />
 [Syntropy.network](https://telemetry-ui.syntropynet.com/#list/0x38d3fc98d685608c6d9bb707e729ec0b7f73de92e5d9c148a28b5c9decaeabd3) - Amber Chain Validator <br />
@@ -15,8 +15,9 @@ Main-nets: <br />
 
 Soon:<br />
 [Tgrade](https://tgrade.finance) - Approved Mainnet Validator<br />
-Passage - Approved Mainnet Validator<br />
-[Hopr](https://hoprnet.org/) - Diamond Hodler<br />
+[Passage](https://passage3d.com) - Approved Mainnet Validator<br />
+[Hopr](https://hoprnet.org/) - Diamond Hodler<br /> 
+<!---
 Band - preparing to run self-funded validator<br />
 Bitsong - preparing to run self-funded validator<br />
 Certik - preparing to run self-funded validator<br />
@@ -25,7 +26,8 @@ Fetch.ai - preparing to run self-funded validator<br />
 Kava - preparing to run self-funded validator<br />
 Ki - preparing to run self-funded validator<br />
 Medibloc - preparing to run self-funded validator<br />
-Rizon - preparing to run self-funded validator<br />
+Rizon - preparing to run self-funded validator<br /> 
+--->
 <br />
 
 32+ finished or developing test-nets: <br />
@@ -67,6 +69,14 @@ Rizon - preparing to run self-funded validator<br />
     Persistense AssetMantle <br />
     Minima <br/>
     Cosmic Horizon <br/>
+    Klever<br/>
+    Kyve<br/>
+    Uptick<br/>
+    Subspace<br/>
+    Aptos<br/>
+    Gear<br/>
+    Archway<br/>
+    Gitopia<br/>
     ...
 
 <a name="activity">

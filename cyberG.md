@@ -40,7 +40,7 @@ Genesis validator, but not in active set: <br />
 Active Testnets: <br />
 - [Aptos]()
 - [Anone](https://test-anone.zenscan.io/validator.php?addr=onevaloper1qvexpwgsav54wykncd03ky4k34h5qxv73pu2a3)
-- [Archway](https://explorer.augusta-1.archway.tech/account/archway1seh5va4cl04q3nzlr65netmg2vd40yyudra7uq)
+- [Archway](https://explorer.augusta-1.archway.tech/validator/archwayvaloper1seh5va4cl04q3nzlr65netmg2vd40yyud85u3f)
 - [Asset Mantle](https://test-mantle-1.explorer.persistence.one/validators/mantlevaloper1elfgdkn7gms9td9ktgyfkald7u62xq6h9zc3zv)
 - [Celestia](https://celestia.observer/validators/celesvaloper19m0wxcsmawds5ef9llh3973vrlvse9m9y205yx)
 - [Comdex](https://comets-test.comdex.one/validator/comdexvaloper1ha5regczwexcgcnkv30rd5tadffe6recs0w5cl)

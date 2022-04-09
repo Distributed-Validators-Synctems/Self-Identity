@@ -26,9 +26,10 @@
 - [OmniFlix](https://www.skynetexplorers.com/omniflix/staking/omniflixvaloper1s3achxs70ysg8pf9xqyytu0m4had60khpuccxl)
 - [Cerberus Zone](https://www.skynetexplorers.com/Cerberus/staking/cerberusvaloper1td92z5qwl39f407gxf6lu2x80enat7t3jfefnf)
 
-## POSTHUMAN validates Comdex as part of the [DVS validator](https://validators.network/)
+## POSTHUMAN validates 2 Neworks as part of the [DVS validator](https://validators.network/)
 
 - [Comdex](https://www.mintscan.io/comdex/validators/comdexvaloper1963hcznh439kspqmjj5hv5h4nk2kphvats5ujk)
+- [Umee](https://www.mintscan.io/umee/validators/umeevaloper1qa5gkv8a4rzpncgkguv2szh5s83kh69l082zz3)
 
 ## POSTHUMAN validate 2 different test-nets
 

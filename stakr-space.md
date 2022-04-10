@@ -7,11 +7,12 @@ Main-nets: <br />
 [Velas](https://velasvalidators.com/He8EzKJ7dmp37oecC7NnSGSicXdRubjjovd9xWR9UPYH) - Foundation Delegated<br />
 [Mina](https://mina.staketab.com/validator/B62qpsMTL1mTaQUQUTQzVM1qvyGTCLVAhr8whJc7tUfmnPEuZnanzUe) - Genesis Founding Member, QA task force - validator inactive ATM due to stake overconcentration in network<br />
 [Everscale (exFreeTON)](https://ton.live/accounts/accountDetails?id=0%3A91163b1721e5920726053b51baf39be62e9c058fc348913d3619503d6710f92b) - Magister Ludi, Depool contest and RustCup winner<br />
-[Sifchain](https://www.mintscan.io/sifchain/validators/sifvaloper1kx5hexg5fhskesdvkk9zycmwu8tym6gejns3ew) - Self-funded validator<br />
-[Syntropy.network](https://telemetry-ui.syntropynet.com/#list/0x38d3fc98d685608c6d9bb707e729ec0b7f73de92e5d9c148a28b5c9decaeabd3) - Amber Chain Validator <br />
-[Umee](https://www.mintscan.io/umee/validators/umeevaloper15vjtlc389fujejjuulqw47fyqhvfupgs8ed905) - Self-funded validator(inactive ATM), genesis participant<br />
 [Omniflix](https://www.skynetexplorers.com/omniflix/staking/omniflixvaloper1vcjmshcst9zjh4pydsvqdssg86nzheykssjh5m) - Approved Mainnet Validator<br />
-
+<!---
+[Sifchain](https://www.mintscan.io/sifchain/validators/sifvaloper1kx5hexg5fhskesdvkk9zycmwu8tym6gejns3ew) - Self-funded validator
+[Syntropy.network](https://telemetry-ui.syntropynet.com/#list/0x38d3fc98d685608c6d9bb707e729ec0b7f73de92e5d9c148a28b5c9decaeabd3) - Amber Chain Validator 
+[Umee](https://www.mintscan.io/umee/validators/umeevaloper15vjtlc389fujejjuulqw47fyqhvfupgs8ed905) - Self-funded validator(inactive ATM), genesis participant 
+--->
 
 Soon:<br />
 [Tgrade](https://tgrade.finance) - Approved Mainnet Validator<br />

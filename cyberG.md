@@ -1,4 +1,4 @@
-![IMG_0677](https://user-images.githubusercontent.com/38581319/132743817-e1efbae5-de17-4a9a-9ffe-392712ee9242.PNG)
+![cyberG512](https://user-images.githubusercontent.com/38581319/162858452-c6127040-eab3-4dee-96c6-8ead3cd4636d.png)
 
                                             https://www.cyberg.digital/
 

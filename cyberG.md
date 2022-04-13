@@ -36,7 +36,7 @@ Genesis validator, but not in active set: <br />
 - [Moonbeam](https://moonbeam.subscan.io/waiting/0xe2962a1785f655eae3a8cd1f1b38d1d760a300e3)
 
 <details>
-  <summary>Active Testnets</summary>
+  <summary>Active Testnets</summary> <br />
 - [Aptos]()
 - [Anone](https://test-anone.zenscan.io/validator.php?addr=onevaloper1qvexpwgsav54wykncd03ky4k34h5qxv73pu2a3)
 - [Archway](https://explorer.augusta-1.archway.tech/validator/archwayvaloper1seh5va4cl04q3nzlr65netmg2vd40yyud85u3f)

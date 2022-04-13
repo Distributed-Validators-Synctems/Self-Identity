@@ -94,7 +94,6 @@ Active Testnets: <br />
 - [Zeigeist]()
 - [Zenon]()
 - [Umee]()
-
 </spoiler>
 
 

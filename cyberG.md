@@ -59,8 +59,9 @@ Active Testnets: <br />
 - [Solana](https://www.validators.app/validators/testnet/28LgQ7MeEZVgNJfYRc6UnoAz2SnSjKbyCKM6sntCRotb?locale=en&order=score&refresh=)
 - [Uptick](https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1rk5lydrxykadmj8t692q47wtuqxx42l5gjjgpd)
 
+<details>
+  <summary>Finished Testnets</summary>
 
-<spoiler title="Finished Testnets">
 - [Akash]()
 - [Aleo]()
 - [Arable]()
@@ -94,7 +95,10 @@ Active Testnets: <br />
 - [Zeigeist]()
 - [Zenon]()
 - [Umee]()
-</spoiler>
+
+</details>
+
+
 
 
 

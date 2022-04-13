@@ -60,8 +60,7 @@ Active Testnets: <br />
 - [Uptick](https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1rk5lydrxykadmj8t692q47wtuqxx42l5gjjgpd)
 
 
-
-Finished Testnets:
+<spoiler title="Finished Testnets">
 - [Akash]()
 - [Aleo]()
 - [Arable]()
@@ -95,6 +94,9 @@ Finished Testnets:
 - [Zeigeist]()
 - [Zenon]()
 - [Umee]()
+
+</spoiler>
+
 
 
 

@@ -12,6 +12,7 @@ Active Mainnets: <br />
 - [Casper](https://cspr.live/validator/018dc552de3c403dbefe03a9c604e11346d96159ed49f9381a55c2e06c45197d43)
 - [Certik](https://explorer.certik.foundation/validators/certikvaloper1yq8a2ksa7dz8wd8wlks3k8nqdmht76xdnrvehx?net=shentu-1)
 - [Comdex](https://www.mintscan.io/comdex/validators/comdexvaloper1963hcznh439kspqmjj5hv5h4nk2kphvats5ujk)
+- [Crescent](https://www.mintscan.io/crescent/validators/crevaloper1dlhrplxt2yanvs7d8mtzrsdpvczzqg4vyxrfej)
 - [Firmachain](https://explorer.firmachain.dev/validators/firmavaloper1rsnaurdhf8d93ugxpfr0xqjfhhj3rfyyu69qtw)
 - [Gravity](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1yeujyxulrf82age8c9q6mfqy0ueh0pjxa7hd20)
 - [Idena](https://scan.idena.io/address/0x1e60fd65d9c231b47356ab30fcc32a804564fced)

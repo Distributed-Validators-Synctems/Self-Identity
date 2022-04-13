@@ -99,7 +99,9 @@ Genesis validator, but not in active set: <br />
 - [Umee]()
 </details>
 
-Ambassador campaigns:
+<details>
+  <summary>Ambassador campaigns</summary>
+  
 - [Clipper]()
 - [Covalent]()
 - [Cyber]()
@@ -109,9 +111,11 @@ Ambassador campaigns:
 - [TheGraph]()
 - [Zeigeist]()
 - [Yuser]()
+</details>
 
-
-Past camapigns:
+<details>
+  <summary>Past camapigns</summary>
+  
 - [dClimate]()
 - [FreeTON]()
 - [Genshiro]()
@@ -123,7 +127,7 @@ Past camapigns:
 - [Persistence]()
 - [Secret Network]()
 - [Sentinel]()
-
+</details>
 
 My social links:
 - [Y.at](https://y.at/😍❤️😱🙌🍦)

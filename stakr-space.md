@@ -78,6 +78,7 @@ Rizon - preparing to run self-funded validator<br />
     Gear<br/>
     Archway<br/>
     Gitopia<br/>
+    [Another1](https://test-anone.zenscan.io/validator.php?addr=onevaloper1g2467695x0yacssvs8q6zc04ek8dg42lhqtkpx)</br>
     ...
 
 <a name="activity">

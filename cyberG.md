@@ -35,8 +35,8 @@ Genesis validator, but not in active set: <br />
 - [Sentinel]()
 - [Moonbeam](https://moonbeam.subscan.io/waiting/0xe2962a1785f655eae3a8cd1f1b38d1d760a300e3)
 
-
-Active Testnets: <br />
+<details>
+  <summary>Active Testnets</summary>
 - [Aptos]()
 - [Anone](https://test-anone.zenscan.io/validator.php?addr=onevaloper1qvexpwgsav54wykncd03ky4k34h5qxv73pu2a3)
 - [Archway](https://explorer.augusta-1.archway.tech/validator/archwayvaloper1seh5va4cl04q3nzlr65netmg2vd40yyud85u3f)
@@ -58,8 +58,9 @@ Active Testnets: <br />
 - [Pylons](https://wallet.pylons.tech/validator/pylovaloper1tdmeurwdu9ew5rlw04wjsc65caaqug274h3fwx)
 - [Solana](https://www.validators.app/validators/testnet/28LgQ7MeEZVgNJfYRc6UnoAz2SnSjKbyCKM6sntCRotb?locale=en&order=score&refresh=)
 - [Uptick](https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1rk5lydrxykadmj8t692q47wtuqxx42l5gjjgpd)
+</details>
 
-<details>
+  <details>
   <summary>Finished Testnets</summary>
 
 - [Akash]()

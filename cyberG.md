@@ -127,7 +127,9 @@ Genesis validator, but not in active set: <br />
 - [Sentinel]()
 </details>
 
-My social links:
+<details>
+  <summary>My social links</summary>
+
 - [Y.at](https://y.at/😍❤️😱🙌🍦)
 - [Twitter](https://twitter.com/vadyhodler777)
 - [3Box](https://3box.io/0x8847ebaaf29a18396e49191602f8d8d141b98aa7)
@@ -146,3 +148,4 @@ My social links:
 - [DeWork](https://app.dework.xyz/profile/4e2c052f-51d6-43f2-8d5d-6c7669f2246f)
 - [Cheers](https://cyberg.eth.cheers.bio/)
 - [Light](https://light.so/cyberg.eth)
+</details>

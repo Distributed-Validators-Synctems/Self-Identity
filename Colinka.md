@@ -1,8 +1,8 @@
 ![Colinka](https://user-images.githubusercontent.com/38581319/127103374-84ef15b3-0999-4073-bd53-2a8cd31a19f3.png)
 
-## Colinka validate 28 different Networks
+## Colinka validate 29 different Networks
 
-5 main-nets: <br />
+6 main-nets: <br />
 - [Solana](https://www.validators.app/validators/mainnet/8QLfmTYxnws98ogFfxdpvRSfSR7U9HLcighZHNfFNQwT)
 - [Mina Protocol](https://minaprotocol.com/)
 - [Idena](https://scan.idena.io/identity/0x70aa61e47d11231b4d38fd1e83312854e5a5b15a)

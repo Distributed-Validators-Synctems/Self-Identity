@@ -6,6 +6,7 @@
 - [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1jnjg9fl5hflwgjyu9vrht3j52nn68yjesxaqmr)
 
 ### Active Testnets:
+- [Galaxy](https://testnet.postcapitalist.io/Galaxy/staking/galaxyvaloper1q9qnqhqzys99fpeep03z2vlyk54aeq02jfly8x)
 - [Uptick](https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1q4vdlk6ty7g04nylnnqdws8dffxtyns4l9uf9t)
 - [Subspace](https://subspace.network/)
 - [StarkNet](https://dashboard.alchemyapi.io/apps/joggtmt4hbvihz3r)
@@ -46,6 +47,16 @@
 - [Guide - Configure State-Sync for the Rizon mainnet](https://bondedzone.medium.com/configure-state-sync-for-the-rizon-mainnet-9e1fd8c05d1f)
 
 #### Community
+- [Translation - Знакомство с Masa](https://bondedzone.medium.com/%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE-%D1%81-masa-dadd6099671b)
+- [Translation - Block-STM: как мы выполняем более 160 000 транзакций в секунду на блокчейне Aptos](https://bondedzone.medium.com/block-stm-%D0%BA%D0%B0%D0%BA-%D0%BC%D1%8B-%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D1%8F%D0%B5%D0%BC-%D0%B1%D0%BE%D0%BB%D0%B5%D0%B5-160-000-%D1%82%D1%80%D0%B0%D0%BD%D0%B7%D0%B0%D0%BA%D1%86%D0%B8%D0%B9-%D0%B2-%D1%81%D0%B5%D0%BA%D1%83%D0%BD%D0%B4%D1%83-%D0%BD%D0%B0-%D0%B1%D0%BB%D0%BE%D0%BA%D1%87%D0%B5%D0%B9%D0%BD%D0%B5-aptos-29fc6f94dc37)
+- [Translation - Бонусная программа Uptick NFT Marketplace](https://bondedzone.medium.com/%D0%B1%D0%BE%D0%BD%D1%83%D1%81%D0%BD%D0%B0%D1%8F-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0-uptick-nft-marketplace-32a7f79fdda3)
+- [Translation - Uptick Network | Новости разработки | апрель 2022](https://bondedzone.medium.com/uptick-network-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8-%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8C-2022-cdaf0940adcc)
+- [Translation - Обучение | Открываем мир Uptick EVM](https://bondedzone.medium.com/%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D0%B5%D0%BC-%D0%BC%D0%B8%D1%80-uptick-evm-d56164429551)
+- [Translation - Обзор контрибуций для RIZON и обновление веб-сайта](https://bondedzone.medium.com/%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%B8%D0%B1%D1%83%D1%86%D0%B8%D0%B9-%D0%B4%D0%BB%D1%8F-rizon-%D0%B8-%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D0%B1-%D1%81%D0%B0%D0%B9%D1%82%D0%B0-2ec3e08f8242)
+- [Translation - Детальный обзор Torii, стимулированная тестовая сеть Archway](https://bondedzone.medium.com/%D0%B4%D0%B5%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-torii-%D1%81%D1%82%D0%B8%D0%BC%D1%83%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F-%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D1%8F-%D1%81%D0%B5%D1%82%D1%8C-archway-2202bac93c98)
+- [Translation - Архивирование Polkadot в тестовой сети Subspace Aries](https://bondedzone.medium.com/%D0%B0%D1%80%D1%85%D0%B8%D0%B2%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-polkadot-%D0%B2-%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B9-%D1%81%D0%B5%D1%82%D0%B8-subspace-aries-2eeef9bd39d3)
+- [Translation - StarkGate Alpha](https://bondedzone.medium.com/starkgate-alpha-c392a36e0dc8)
+- [Translation - Проект воссоздания сообщества](https://bondedzone.medium.com/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-%D0%B2%D0%BE%D1%81%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F-%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0-8bdbc9dab3d5)
 - [Translation - Gear ежемесячный дайджест: март 2022 г.](https://bondedzone.medium.com/gear-%D0%B5%D0%B6%D0%B5%D0%BC%D0%B5%D1%81%D1%8F%D1%87%D0%BD%D1%8B%D0%B9-%D0%B4%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82-%D0%BC%D0%B0%D1%80%D1%82-2022-%D0%B3-61f4d43144e2)
 - [Translation - Обновление RIZON MAGNUS успешно завершено](https://bondedzone.medium.com/%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-rizon-magnus-%D1%83%D1%81%D0%BF%D0%B5%D1%88%D0%BD%D0%BE-%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D0%BE-738ad2b7e5df)
 - [Translation - Как стейкать ATOLO используя Citadel.one](https://bondedzone.medium.com/%D0%BA%D0%B0%D0%BA-%D1%81%D1%82%D0%B5%D0%B9%D0%BA%D0%B0%D1%82%D1%8C-atolo-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8F-citadel-one-17be9971fc0e)

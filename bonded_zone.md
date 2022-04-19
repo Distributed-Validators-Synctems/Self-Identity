@@ -79,8 +79,8 @@
 
 ## Other Activities:
 I’m admin in this Telegram groups and channels:
-- https://t.me/rizon_atolo_ru
-- https://t.me/CosmosEcosystemNews_ru
+- [https://t.me/rizon_atolo_ru](https://t.me/rizon_atolo_ru)
+- [https://t.me/CosmosEcosystemNews_ru](https://t.me/CosmosEcosystemNews_ru)
 
 ### Contacts:
 

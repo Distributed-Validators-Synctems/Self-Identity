@@ -43,6 +43,7 @@
 ## Contributions
 
 #### Technical
+- [State-Sync service](https://sync.bonded.zone/)
 - [Guide - How to setup Klever validator](https://bondedzone.medium.com/how-to-setup-klever-validator-ff58b502e64d)
 - [Guide - Configure State-Sync for the Rizon mainnet](https://bondedzone.medium.com/configure-state-sync-for-the-rizon-mainnet-9e1fd8c05d1f)
 

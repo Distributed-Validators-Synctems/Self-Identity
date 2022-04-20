@@ -15,6 +15,7 @@
 - [Bit.Country]
 - [Zeitgeist]
 - [NYM]
+- [ChainFlip]
 
 # Ambassador
 - Moonbeam/Moonriver - Senior ambassador

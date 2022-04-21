@@ -4,6 +4,7 @@
 
 **Genesis validator:** <br />
 - [FirmaChain](https://explorer.firmachain.dev/validators/firmavaloper1rkcxlv6t6tygmfnnp3v270qru3uq0lnxpatjst)
+- [AssetMantle](https://assetmantle.explorers.guru/validator/mantlevaloper12w4wch0vykgw6qyveurhqck75n3dnw0c0c4fje)
 
 **Mainnet validator:**  <br />
 - [Sifchain](https://www.mintscan.io/sifchain/validators/sifvaloper1tvy5apxqsf3jf0uhzknvj6qndy473smzjezvh9)
@@ -19,7 +20,6 @@
 - [Minima](https://minima.global/)
 - [Meson](https://meson.network/)
 - [KYVE](https://www.kyve.network/)
-- [Asset-Mantle](https://assetmantle.one/)
 - [Celestia](https://celestia.org/)
 - [Cosmic-horizon](https://www.cosmic-horizon.com/)
 - [Another-1](https://github.com/notional-labs/anone)
@@ -36,8 +36,17 @@
 - [FlixNet](https://www.omniflix.network/)
 - [FirmaChain](https://firmachain.org/)
 - [Taraxa](https://taraxa.io/)
+- [Asset-Mantle](https://assetmantle.one/)
 
-**Contacts:**
+## Contributions:
+### Technical:
+Easy to use monitoring stack - https://github.com/vbloher/monitoring-tool
+### Guides:
+- [How to bootstrap any tendermint (cosmos) node using State-Sync](https://teletype.in/@vbloher/state-sync-bootstrap)
+- [How to set up a Tendermint node for work as a State-Sync RPC server](https://teletype.in/@vbloher/state-sync-rpc)
+- [Sifchain Validator Monitoring with Grafana & Prometheus](https://medium.com/@vbloher/sifchain-validator-monitoring-with-grafana-prometheus-967f3c65f9cf)
+
+## Contacts:
 - [Web site](https://vbloher.com/)
 - [Keybase](https://keybase.io/vbloher)
 - [GitHub](https://github.com/vbloher)

@@ -2,7 +2,7 @@
 
 [Web-page](https://posthuman.digital) <br />
 
-## POSTHUMAN validate 21 different Main-nets
+## POSTHUMAN validate 23 different Main-nets
 
 - [Solana](https://www.validators.app/validators/9PViHDmiezXQfeYDveJrcfkXCQVCcsfhpo32cjHUeZVj)
 - [Persistence](https://www.mintscan.io/persistence/validators/persistencevaloper10sc98vt6saux8asexnsp2hgvkgmjmful8w5cuw)
@@ -25,11 +25,14 @@
 - [Chihuahua](https://www.mintscan.io/chihuahua/validators/chihuahuavaloper1fm68jvjpk0g7dvdq75czjynyszeaduxt5lc0a8)
 - [OmniFlix](https://www.skynetexplorers.com/omniflix/staking/omniflixvaloper1s3achxs70ysg8pf9xqyytu0m4had60khpuccxl)
 - [Cerberus Zone](https://www.skynetexplorers.com/Cerberus/staking/cerberusvaloper1td92z5qwl39f407gxf6lu2x80enat7t3jfefnf)
+- [AssetMantle](https://www.mintscan.io/asset-mantle/validators/mantlevaloper1xrvhlxasg3duvmz82gn5gggpc8wwry7luclvx9)
+- [Crescent Network](https://www.mintscan.io/crescent/validators/crevaloper12yudzhed4cqjpwkv52hwut7a5xn8h7j97gqhaq)
 
-## POSTHUMAN validates 2 Neworks as part of the [DVS validator](https://validators.network/)
+## POSTHUMAN validates 3 Neworks as part of the [DVS validator](https://validators.network/)
 
 - [Comdex](https://www.mintscan.io/comdex/validators/comdexvaloper1963hcznh439kspqmjj5hv5h4nk2kphvats5ujk)
 - [Umee](https://www.mintscan.io/umee/validators/umeevaloper1qa5gkv8a4rzpncgkguv2szh5s83kh69l082zz3)
+- [Stargaze](https://www.mintscan.io/stargaze/validators/starsvaloper14ftwwcfvhnp3qvxawesjan5duh8rmrkrzdvquy)
 
 ## POSTHUMAN validate 2 different test-nets
 

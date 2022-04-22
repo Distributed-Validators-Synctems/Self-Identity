@@ -35,7 +35,6 @@ Genesis validator, but not in active set: <br />
 <details>
   <summary>Active Testnets</summary>
   
-
 - [Anone](https://test-anone.zenscan.io/validator.php?addr=onevaloper1qvexpwgsav54wykncd03ky4k34h5qxv73pu2a3)
 - [Asset Mantle](https://test-mantle-1.explorer.persistence.one/validators/mantlevaloper1elfgdkn7gms9td9ktgyfkald7u62xq6h9zc3zv)
 - [Celestia](https://celestia.observer/validators/celesvaloper19m0wxcsmawds5ef9llh3973vrlvse9m9y205yx)
@@ -54,13 +53,18 @@ Genesis validator, but not in active set: <br />
 - [Uptick](https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1rk5lydrxykadmj8t692q47wtuqxx42l5gjjgpd)
 </details>
 
+<details>
+  <summary>Active non-Cosmos Testnets</summary>
+  
 - [Aptos]()
 - [DevxDAO]()
 - [Gear]()
 - [Masa]()
 - [Humanode]()
 - [StarkNet]()
+  </details>
 
+  
   <details>
   <summary>Finished Testnets</summary>
 

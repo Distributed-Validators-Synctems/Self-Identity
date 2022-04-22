@@ -15,6 +15,7 @@ Active Mainnets: <br />
 - [Chronic](https://www.skynetexplorers.com/chronic-token/staking/chronicvaloper1x8czjpdy2x9svz0s3u9hdgqxd06ta39y49lnd3)
 - [Firmachain](https://explorer.firmachain.dev/validators/firmavaloper1rsnaurdhf8d93ugxpfr0xqjfhhj3rfyyu69qtw)
 - [Gravity](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1yeujyxulrf82age8c9q6mfqy0ueh0pjxa7hd20)
+- [Galaxy]()
 - [Juno](https://www.mintscan.io/juno/validators/junovaloper1353ewfc0v7pnn3xre6v9lraghxrhenswmsjhv0)
 - [Microtick](https://explorer.microtick.zone/validators/microvaloper1z7crvuuks7yk33qwx4nv68nzhwznkmt96ddm5l)
 - [Mina Protocol](https://minaexplorer.com/wallet/B62qrgnUUduZy2z7zT8qCV8ngTJfSS1rK3Wh22SHUmrse3Tfqvrhx8q)
@@ -34,15 +35,14 @@ Genesis validator, but not in active set: <br />
 <details>
   <summary>Active Testnets</summary>
   
-- [Aptos]()
+
 - [Anone](https://test-anone.zenscan.io/validator.php?addr=onevaloper1qvexpwgsav54wykncd03ky4k34h5qxv73pu2a3)
 - [Asset Mantle](https://test-mantle-1.explorer.persistence.one/validators/mantlevaloper1elfgdkn7gms9td9ktgyfkald7u62xq6h9zc3zv)
 - [Celestia](https://celestia.observer/validators/celesvaloper19m0wxcsmawds5ef9llh3973vrlvse9m9y205yx)
 - [Comdex](https://comets-test.comdex.one/validator/comdexvaloper1ha5regczwexcgcnkv30rd5tadffe6recs0w5cl)
+- [Cosmic Horizon]()
 - [Craft](https://test-craft.zenscan.io/validator.php?addr=craftvaloper1p79gj0hcg7wp74df8xaf969tr37gt0t9jtycxy)
-- [DevxDAO]()
-- [Gear]()
-- [Humanode]()
+- [Defund](https://defund.explorers.guru/validator/defundvaloper1v0d46jupe9qehc7kpp8nv8hs4vwyujgctau8vz)
 - [Juno]()
 - [Kira]()
 - [Kyve](https://explorer.kyve.network/korellia/staking/kyvevaloper1ls4jk0en0cc4pn4kl9gymvh0d88plpn6k5vvdj)
@@ -53,6 +53,13 @@ Genesis validator, but not in active set: <br />
 - [Tgrade](https://dryrunnet.aneka.io/validators/tgrade16qsg7lnyqnfx7u8p4p0cum0wymeug2kxrgjk0f)
 - [Uptick](https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1rk5lydrxykadmj8t692q47wtuqxx42l5gjjgpd)
 </details>
+
+- [Aptos]()
+- [DevxDAO]()
+- [Gear]()
+- [Masa]()
+- [Humanode]()
+- [StarkNet]()
 
   <details>
   <summary>Finished Testnets</summary>

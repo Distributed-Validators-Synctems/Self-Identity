@@ -6,6 +6,7 @@
 - [Agoric](https://main.explorer.agoric.net/validator/agoricvaloper1cjs0sgxz709mvfyzje7tzsflyhcvrpxv04m2dl)
 - [Realis]
 - [Cyber](https://cyb.ai/network/bostrom/hero/bostromvaloper1zaefvwrgk2g45k68a3ngahgq0xky5zgeluu86f)
+- [Galaxy]
 
 # Testnets
 - [AssetMantle](https://test-mantle-1.explorer.persistence.one/validators/mantlevaloper1an7h7zscggkd9lwcsr9kqsce6xvd6c6q2lgag9)

@@ -23,7 +23,7 @@
 - Interlay/Kintsugi - Councillor ambassador programm
 - Zeitgeist - Herald
 - Author [Moonbeam RU YouTube channel](https://www.youtube.com/channel/UC1t2t8VqWmekToiPdbbytNQ)
- 
+- FirFly - ambassador
 # Contacts
 
 - [GitHub](https://github.com/godshunter)

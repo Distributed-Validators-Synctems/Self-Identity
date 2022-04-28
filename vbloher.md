@@ -4,6 +4,7 @@
 
 **Genesis validator:** <br />
 - [FirmaChain](https://explorer.firmachain.dev/validators/firmavaloper1rkcxlv6t6tygmfnnp3v270qru3uq0lnxpatjst)
+- [Galaxy](https://explorer.postcapitalist.io/Galaxy/staking/galaxyvaloper173mgkdad6f935ys7gd2yfj6z47khkwy6f9ce7n)
 - [AssetMantle](https://assetmantle.explorers.guru/validator/mantlevaloper12w4wch0vykgw6qyveurhqck75n3dnw0c0c4fje)
 
 **Mainnet validator:**  <br />
@@ -15,7 +16,6 @@
 **Active testnets:** <br />
 - [Solana](https://www.validators.app/validators/testnet/6q4crDPH7SFp2kxAFNmRg16phDRpjtsW7QDk83EFwrLg?locale=en)
 - [IronFish](https://ironfish.network/)
-- [Casper](https://casperlabs.io/)
 - [Massa](https://massa.net/)
 - [Minima](https://minima.global/)
 - [Meson](https://meson.network/)
@@ -23,7 +23,6 @@
 - [Celestia](https://celestia.org/)
 - [Cosmic-horizon](https://www.cosmic-horizon.com/)
 - [Another-1](https://github.com/notional-labs/anone)
-- [Akash](https://akash.network/)
 - [Masa finance](https://masa.finance/)
 - [Uptick Network](https://www.uptick.network/)
 - [Klever finance](https://klever.finance/)
@@ -37,6 +36,8 @@
 - [FirmaChain](https://firmachain.org/)
 - [Taraxa](https://taraxa.io/)
 - [Asset-Mantle](https://assetmantle.one/)
+- [Casper](https://casperlabs.io/)
+- [Akash](https://akash.network/)
 
 ## Contributions:
 ### Technical:

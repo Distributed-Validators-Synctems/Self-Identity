@@ -1,25 +1,28 @@
 <a href="https://stakr.space"><img src="https://user-images.githubusercontent.com/38581319/123712181-1b404400-d872-11eb-9213-9cde86c03d73.PNG" width="300" height="300" /></a>
 
-## STAKR.space participate in 41+ different Networks
+## STAKR.space participate in 65+ different Networks
 
-Main-nets: <br />
+Current mainnets: <br />
 [Solana](https://www.validators.app/validators/mainnet/E9hD3ikumJx1GVswDjnpCt6Uu4WG5mz1PDWCqdE5uhmo?locale=en&order=&refresh=) - Bocachica Approved, Foundation Delegated, Liquid Staking Delegated<br />
 [Velas](https://velasvalidators.com/He8EzKJ7dmp37oecC7NnSGSicXdRubjjovd9xWR9UPYH) - Foundation Delegated<br />
-[Mina](https://mina.staketab.com/validator/B62qpsMTL1mTaQUQUTQzVM1qvyGTCLVAhr8whJc7tUfmnPEuZnanzUe) - Genesis Founding Member, QA task force - validator inactive ATM due to stake overconcentration in network<br />
 [Everscale (exFreeTON)](https://ton.live/accounts/accountDetails?id=0%3A91163b1721e5920726053b51baf39be62e9c058fc348913d3619503d6710f92b) - Magister Ludi, Depool contest and RustCup winner<br />
 [Omniflix](https://www.skynetexplorers.com/omniflix/staking/omniflixvaloper1vcjmshcst9zjh4pydsvqdssg86nzheykssjh5m) - Approved Mainnet Validator<br />
-[AssetMantle](https://www.mintscan.io/asset-mantle/validators/mantlevaloper1z79zeeyvdgqddevdng3u8d3kqt87dtq3jhsqvq) - Approved Mainnet Validator<br />
-<!---
-[Sifchain](https://www.mintscan.io/sifchain/validators/sifvaloper1kx5hexg5fhskesdvkk9zycmwu8tym6gejns3ew) - Self-funded validator
-[Syntropy.network](https://telemetry-ui.syntropynet.com/#list/0x38d3fc98d685608c6d9bb707e729ec0b7f73de92e5d9c148a28b5c9decaeabd3) - Amber Chain Validator 
-[Umee](https://www.mintscan.io/umee/validators/umeevaloper15vjtlc389fujejjuulqw47fyqhvfupgs8ed905) - Self-funded validator(inactive ATM), genesis participant 
---->
+[Persistence AssetMantle](https://www.mintscan.io/asset-mantle/validators/mantlevaloper1z79zeeyvdgqddevdng3u8d3kqt87dtq3jhsqvq) - Approved Mainnet and Community Validator<br />
+[Galaxy](https://explorer.postcapitalist.io/Galaxy/staking/galaxyvaloper1wuem8vc5tmlm3m7gaqt00qn37dxe9vkuzqsn4j) - Approved Mainnet Validator<br />
 
 Soon:<br />
-[Tgrade](https://tgrade.finance) - Approved Mainnet Validator<br />
+[Tgrade](https://dryrunnet.aneka.io/validators/tgrade1dz487qtggarfaxja70grhs3lgfv02mpn0l9f3j) - Approved Mainnet Validator<br />
 [Passage](https://passage3d.com) - Approved Mainnet Validator<br />
 [Hopr](https://hoprnet.org/) - Diamond Hodler<br /> 
-Nym
+[Nym](https://nymtech.net) - Rewarded testnet validator
+
+Inactive mainnet validators due to stake discrimination: </br>
+[Mina](https://mina.staketab.com/validator/B62qpsMTL1mTaQUQUTQzVM1qvyGTCLVAhr8whJc7tUfmnPEuZnanzUe) - Genesis Founding Member, QA task force - redelegating ATM due to stake overconcentration in network<br />
+[Sifchain](https://www.mintscan.io/sifchain/validators/sifvaloper1kx5hexg5fhskesdvkk9zycmwu8tym6gejns3ew) - Self-funded and community validator</br>
+[Syntropy.network](https://telemetry-ui.syntropynet.com/#list/0x38d3fc98d685608c6d9bb707e729ec0b7f73de92e5d9c148a28b5c9decaeabd3) - Amber Chain self-funded validator</br> 
+[Umee](https://www.mintscan.io/umee/validators/umeevaloper15vjtlc389fujejjuulqw47fyqhvfupgs8ed905) - Self-funded validator, genesis participant </br>
+[Crescent](https://www.mintscan.io/crescent/validators/crevaloper1w7nqp7d9rvhn8axnvtc0lt64rr4rsqknh9jx5j) - Self-funded validator</br>
+
 <!---
 Band - preparing to run self-funded validator<br />
 Bitsong - preparing to run self-funded validator<br />
@@ -33,7 +36,7 @@ Rizon - preparing to run self-funded validator<br />
 --->
 <br />
 
-32+ finished or developing test-nets: <br />
+48+ finished or developing test-nets: <br />
   [Umee](https://umee.cc) Umeevengers 7th place[[leaderboard]](https://leaderboard.umee.cc) Medium [[blogpost]](https://medium.com/umeeblog/rise-of-the-umeevengers-final-scores-and-closing-ceremony-f872eeba55bc) [[gentx1]](https://github.com/umee-network/testnets/pull/137) [[gentx2]](https://github.com/umee-network/testnets/pull/297)</br>
   [Akash - Awesome Akash winner](https://akash.network/) - [[pull request]](https://github.com/papanomad535/awesome-akash/tree/master/owncloud)<br />
     [Sentinel](https://sentinel.co)<br />
@@ -81,6 +84,7 @@ Rizon - preparing to run self-funded validator<br />
     Archway<br/>
     Gitopia<br/>
     [Another1](https://test-anone.zenscan.io/validator.php?addr=onevaloper1g2467695x0yacssvs8q6zc04ek8dg42lhqtkpx)</br>
+    Craft</br>
     ...
 
 <a name="activity">
@@ -89,8 +93,9 @@ Activities:</a>
   
    Everscale - [Devops](https://devops.gov.freeton.org/main) and [NFT](https://nft.gov.freeton.org/main) Subgovs Initial Member and Jury<br />
     Moonbeam - [Ambassador](https://moonbeam.network/community/ambassadors/) </br>
-    Umee - [Translation](https://synctems.medium.com/umee-faq-ru-4948f53ca423)
-    
+    Umee - [Translation](https://synctems.medium.com/umee-faq-ru-4948f53ca423)</br>
+    Akash - [guides, essays](https://github.com/papanomad535/blog/blob/main/akash-deployment/deployments-and-persistent-storage.md)</br>
+    Klever - [guides, monitoring](https://github.com/papanomad535/blog/tree/main/klever-testnet)
 
 Reach out: <br />
 - [STAKR site](https://stakr.space#contact)

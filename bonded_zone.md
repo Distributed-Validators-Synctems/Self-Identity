@@ -3,10 +3,14 @@
 # Validator bonded.zone
 
 ###  Mainnets:
+- [Chronic](https://www.skynetexplorers.com/chronic-token/staking/chronicvaloper105rzlcracxe9r32h8flpn4kpw8waqueqfsne7g)
+- [Galaxy](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1vmgq4nsyc5e8x699k0y7nme3c6egdlv5ahj3xu)
 - [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1jnjg9fl5hflwgjyu9vrht3j52nn68yjesxaqmr)
 
 ### Active Testnets:
-- [Galaxy](https://testnet.postcapitalist.io/Galaxy/staking/galaxyvaloper1q9qnqhqzys99fpeep03z2vlyk54aeq02jfly8x)
+- [Quicksilver](https://quicksilver.zone/)
+- [Forta](https://explorer.forta.network/)
+- [Defund](https://defund.explorers.guru/validator/defundvaloper19jm0dqagnfpyav3w7msx06kq86q0y30pmqs60q)
 - [Uptick](https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1q4vdlk6ty7g04nylnnqdws8dffxtyns4l9uf9t)
 - [Subspace](https://subspace.network/)
 - [StarkNet](https://dashboard.alchemyapi.io/apps/joggtmt4hbvihz3r)
@@ -25,6 +29,7 @@
 - [Kyve](https://app.kyve.network/)
 
 ### Finished Testnets:
+- [Galaxy](https://testnet.postcapitalist.io/Galaxy/staking/galaxyvaloper1q9qnqhqzys99fpeep03z2vlyk54aeq02jfly8x)
 - [Rizon](https://explorer.chaintools.tech/rizon%20(groot-15)/staking/rizonvaloper1flcltn83whu6tzvagqhx4w95h96e8kyquxedl5)
 - [Anoma](https://anoma.network/)
 - [Althea](https://testnet.mintscan.io/althea/validators/altheavaloper1rv6qck5vpc89xa2p06mnh2qz3393mk4qzm2xeh)

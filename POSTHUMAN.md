@@ -39,7 +39,67 @@
 - [Solana](https://www.validators.app/validators/HZX4MWsSDzRerGuV6kgtj5sGM3dcX9doaiN7qr5y9MAw)
 - [SSV Network](https://explorer.ssv.network/operators/a2a4abaa495ed8b81230750ba59a9617b52af23587670a3b939bc41cc4943570)
 
-**My Contributions (not full list!)** <br />
+## POSTHUMAN supports next IBC-Relayers: <br />
+
+### Gravity Bridge
+- chihuahua
+- juno
+- fetchai
+- osmosis
+- umee
+- colosseum
+
+### FirmaChain
+ - g-bridge
+
+### Osmosis
+- chihuahua
+- juno
+- g-bridge
+- fetch-ai
+- umee
+- sifchain
+- omniflix
+
+### Fetch.ai
+- juno
+- g-bridge
+- osmosis
+
+### Umee
+- g-bridge
+- osmosis
+
+### Juno Network
+- chihuahua
+- omniflix
+- sifchain
+- fetchai
+- osmosis
+- g-bridge
+
+### SifChain
+- juno
+- omniflix
+- osmosis
+
+
+### Chihuahua Chain
+- omniflix
+- sifchain
+- osmosis
+- g-bridge
+- juno
+
+
+### OmniFlix Networ
+- osmosis
+- juno
+- gravity
+- chihuahua
+- sifchain
+
+## Our Contributions (not full list!) <br />
 
 - [Cosmos Network](https://github.com/Antropocosmist/My-Contributions/blob/main/cosmos.md)
 - [Osmosis](https://github.com/Antropocosmist/My-Contributions/blob/main/osmosis.md)
@@ -52,7 +112,7 @@
 
 Soon I will add more... <br />
 
-**Other Activities:** <br />
+## Other Activities: <br />
 
 - [Created a validators anthem](https://youtu.be/a90VyAxoGyY)
 - [Created a video about history of the money, and how we come to validating](https://youtu.be/Etp1EAf7Vzw)
@@ -75,7 +135,7 @@ Soon I will add more... <br />
 
 Soon I will add more... <br />
 
-Contacts: <br />
+## Contacts: <br />
 - [Web-page](https://posthuman.digital/) <br />
 - [GitHub](https://github.com/Antropocosmist/my_competencies) <br />
 - [InterPlanetary Community Chat](https://t.me/posthumanchat)

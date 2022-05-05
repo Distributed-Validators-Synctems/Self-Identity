@@ -8,8 +8,8 @@
 - [Ixo](https://explorer.ixo.earth/validators/ixovaloper1680a2sy8z63cxczjl34xpzusv4es7yrn6y4f5x)
 - [Chihuahua](https://www.mintscan.io/chihuahua/validators/chihuahuavaloper1nh26fjk060g4umun5czgdkprws4qmzaxmeqmlc)
 - [AssetMantle](https://explorer.assetmantle.one/validators/mantlevaloper1ppvfpcp7grhgpkvse4rk877ysuztg73r04y68z)
-- [Galaxy](galaxyvaloper1qeln3m90f3p0erclyyczspeeeujslcxy3kqe3k)
-- [Nomic] (nomic1m3v4485x3hld5vxthx6xcnx7y7l6l8kxgejh6v)
+- [Galaxy](https://galaxychain.zone/stake) galaxyvaloper1qeln3m90f3p0erclyyczspeeeujslcxy3kqe3k
+- [Nomic](https://app.nomic.io) nomic1m3v4485x3hld5vxthx6xcnx7y7l6l8kxgejh6v
 
 ### Contacts:
 

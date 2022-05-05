@@ -1,17 +1,18 @@
 ![Colinka](https://user-images.githubusercontent.com/38581319/127103374-84ef15b3-0999-4073-bd53-2a8cd31a19f3.png)
 
-## Colinka validate 30 different Networks
+## Colinka validate 43 different Networks
 
-6 main-nets: <br />
+8 main-nets: <br />
 - [Solana](https://www.validators.app/validators/mainnet/8QLfmTYxnws98ogFfxdpvRSfSR7U9HLcighZHNfFNQwT)
 - [Mina Protocol](https://minaprotocol.com/)
 - [Idena](https://scan.idena.io/identity/0x70aa61e47d11231b4d38fd1e83312854e5a5b15a)
 - [Velas](https://velasvalidators.com/96isFFVKbaEsdMgHnBGwaifSiuxF2DjnPMGURbHyrHrC)
 - [Agoric](https://main.explorer.agoric.net/validator/agoricvaloper1llcs6xwp6gdv4t2krmyupfjjr0xyuwk9npyhzs)
 - [AssetMantle](https://assetmantle.explorers.guru/validator/mantlevaloper1907n5d2xwy3av597y6347dsc2ktpl2d9uskpsf)
-- [Galaxy](https://galaxychain.zone/)
+- [Galaxy](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1h9n94zezpupvejarv0yfm5783xfpzuvzu4da72)
+- [NYM](https://mixnet.explorers.guru/mixnode/EW4w94rZBBhrH1eiwuAbySGWkmQ3kaviRqwE1PW5VY85)
 
-25 test-nets: <br />
+35 test-nets: <br />
 
 - [Solana](https://www.validators.app/?q=9tbzUabDi5D62Kkpd6oQs9r28Ts7TFJHLvx3pFJshZRA&network=testnet&order=&refresh=&commit=Search)
 - [Moonbeam](https://telemetry.polkadot.io/#list/Moonbase%20Alpha)
@@ -43,6 +44,11 @@
 - [Archway](https://archway.io/ru/)
 - [Penumbra](https://penumbra.zone/)
 - [Celestia](https://celestia.org/)
+- [SSV](https://ssv.network/)
+- [Humanode](https://humanode.io/)
+- [StarkNet](https://starknet.io/)
+- [Minima](https://www.minima.global/)
+- [Subspace](https://subspace.network/)
 
 Activities: <br />
 - MantaNetwork - Regional Commander

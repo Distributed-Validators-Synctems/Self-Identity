@@ -1,6 +1,6 @@
 ![Colinka](https://user-images.githubusercontent.com/38581319/127103374-84ef15b3-0999-4073-bd53-2a8cd31a19f3.png)
 
-## Colinka validate 29 different Networks
+## Colinka validate 30 different Networks
 
 6 main-nets: <br />
 - [Solana](https://www.validators.app/validators/mainnet/8QLfmTYxnws98ogFfxdpvRSfSR7U9HLcighZHNfFNQwT)
@@ -9,8 +9,9 @@
 - [Velas](https://velasvalidators.com/96isFFVKbaEsdMgHnBGwaifSiuxF2DjnPMGURbHyrHrC)
 - [Agoric](https://main.explorer.agoric.net/validator/agoricvaloper1llcs6xwp6gdv4t2krmyupfjjr0xyuwk9npyhzs)
 - [AssetMantle](https://assetmantle.explorers.guru/validator/mantlevaloper1907n5d2xwy3av597y6347dsc2ktpl2d9uskpsf)
+- [Galaxy](https://galaxychain.zone/)
 
-24 test-nets: <br />
+25 test-nets: <br />
 
 - [Solana](https://www.validators.app/?q=9tbzUabDi5D62Kkpd6oQs9r28Ts7TFJHLvx3pFJshZRA&network=testnet&order=&refresh=&commit=Search)
 - [Moonbeam](https://telemetry.polkadot.io/#list/Moonbase%20Alpha)

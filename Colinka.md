@@ -37,6 +37,12 @@
 - [Fluxprotocol](https://www.fluxprotocol.org/)
 - [Masa](https://masa.finance/)
 - [Massa](https://massa.net/)
+- [QuickSilver](https://quicksilver.zone/)
+- [Decentralized WebServices](https://deweb.services/)
+- [Aptos](https://aptoslabs.com/)
+- [Archway](https://archway.io/ru/)
+- [Penumbra](https://penumbra.zone/)
+- [Celestia](https://celestia.org/)
 
 Activities: <br />
 - MantaNetwork - Regional Commander

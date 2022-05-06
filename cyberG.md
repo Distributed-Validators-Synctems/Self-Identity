@@ -7,7 +7,7 @@
 Active Mainnets: <br />
 - [Algorand]() relayer
 - [Avalanche](https://avascan.info/staking/validator/NodeID-Jm1k2q2WAkH99w4ZBEgzrmm6Kte39qCWJ)
-- [Bitsong](https://explorebitsong.com/validators/bitsongvaloper1m8ps45ltlt0vejjm2hqtu26jkd8rfkz9vwu5tw)
+- [Bitsong](https://www.mintscan.io/bitsong/validators/bitsongvaloper1m8ps45ltlt0vejjm2hqtu26jkd8rfkz9vwu5tw)
 - [Bostrom](https://cyb.ai/network/bostrom/hero/bostromvaloper1en69twaxmv7xupy8lq7y539dpecx7yz8s43ceg)
 - [Casper](https://cspr.live/validator/018dc552de3c403dbefe03a9c604e11346d96159ed49f9381a55c2e06c45197d43)
 - [Certik](https://explorer.certik.foundation/validators/certikvaloper1yq8a2ksa7dz8wd8wlks3k8nqdmht76xdnrvehx?net=shentu-1)

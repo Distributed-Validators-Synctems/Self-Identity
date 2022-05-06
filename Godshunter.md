@@ -17,6 +17,7 @@
 - [Zeitgeist]
 - [NYM]
 - [ChainFlip]
+- [QuickSilver](https://quicksilver.explorers.guru/validator/quickvaloper13rcn36g28km83ycwtcna05nt4984zm0ynmhvux)
 
 # Ambassador
 - Moonbeam/Moonriver - Senior ambassador

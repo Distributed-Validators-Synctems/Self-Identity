@@ -6,7 +6,7 @@
 - [Agoric](https://main.explorer.agoric.net/validator/agoricvaloper1cjs0sgxz709mvfyzje7tzsflyhcvrpxv04m2dl)
 - [Realis]
 - [Cyber](https://cyb.ai/network/bostrom/hero/bostromvaloper1zaefvwrgk2g45k68a3ngahgq0xky5zgeluu86f)
-- [Galaxy]
+- [Galaxy](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1ray63rxppdh7wdg3symek4xvqkkudh0a92kgmq)
 
 # Testnets
 - [AssetMantle](https://test-mantle-1.explorer.persistence.one/validators/mantlevaloper1an7h7zscggkd9lwcsr9kqsce6xvd6c6q2lgag9)
@@ -21,10 +21,11 @@
 
 # Ambassador
 - Moonbeam/Moonriver - Senior ambassador
+- Author [Moonbeam RU YouTube channel](https://www.youtube.com/channel/UC1t2t8VqWmekToiPdbbytNQ)
 - Interlay/Kintsugi - Councillor ambassador programm
 - Zeitgeist - Herald
-- Author [Moonbeam RU YouTube channel](https://www.youtube.com/channel/UC1t2t8VqWmekToiPdbbytNQ)
 - FirFly - ambassador
+- Claystake - ambassador
 # Contacts
 
 - [GitHub](https://github.com/godshunter)

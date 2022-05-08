@@ -50,6 +50,7 @@ Genesis validator, but not in active set: <br />
 - [OmniFlix]()
 - [Passage]()
 - [Pylons](https://wallet.pylons.tech/validator/pylovaloper1u29z4l8ugjdwp2pm8luwntksh0p9n7dvq8zxs3)
+- [Quicksilver](https://quicksilver.explorers.guru/validator/quickvaloper1sgxklkmzdskprcv0xqjml0e789g3z8lu00w66w)
 - [Solana](https://www.validators.app/validators/testnet/28LgQ7MeEZVgNJfYRc6UnoAz2SnSjKbyCKM6sntCRotb?locale=en&order=score&refresh=)
 - [Tgrade](https://dryrunnet.aneka.io/validators/tgrade16qsg7lnyqnfx7u8p4p0cum0wymeug2kxrgjk0f)
 - [Uptick](https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1rk5lydrxykadmj8t692q47wtuqxx42l5gjjgpd)

@@ -4,7 +4,6 @@
 
 - [Solana](https://www.validators.app/validators/FhtTzi7AjoBTY3RWydBaNQNmcQutpJBeiGYmBET4y1bG?locale=en&network=mainnet&order=&refresh=)
 - [Agoric](https://main.explorer.agoric.net/validator/agoricvaloper1cjs0sgxz709mvfyzje7tzsflyhcvrpxv04m2dl)
-- [Realis]
 - [Cyber](https://cyb.ai/network/bostrom/hero/bostromvaloper1zaefvwrgk2g45k68a3ngahgq0xky5zgeluu86f)
 - [Galaxy](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1ray63rxppdh7wdg3symek4xvqkkudh0a92kgmq)
 
@@ -17,6 +16,7 @@
 - [Zeitgeist]
 - [NYM]
 - [ChainFlip]
+- [Realis]
 - [QuickSilver](https://quicksilver.explorers.guru/validator/quickvaloper13rcn36g28km83ycwtcna05nt4984zm0ynmhvux)
 
 # Ambassador

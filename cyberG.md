@@ -47,7 +47,7 @@ Genesis validator, but not in active set: <br />
 - [Deweb](https://explore.deweb.services/deweb/staking/dewebvaloper1assygaed22mh9ye98fp53y4gkxyx4cqaqd35ru)
 - [Juno]()
 - [Kira]()
-- [Kyve](https://explorer.kyve.network/korellia/staking/kyvevaloper1ls4jk0en0cc4pn4kl9gymvh0d88plpn6k5vvdj)
+- [Kyve](https://explorer.kyve.network/korellia/staking/kyvevaloper1fxh88ayzp4zghxcdh8la0kxwhx0v9w4e7nj60c)
 - [OmniFlix]()
 - [Passage]()
 - [Pylons](https://wallet.pylons.tech/validator/pylovaloper1u29z4l8ugjdwp2pm8luwntksh0p9n7dvq8zxs3)

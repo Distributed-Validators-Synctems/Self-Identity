@@ -1,3 +1,4 @@
+![IMG_0356](https://user-images.githubusercontent.com/38581319/168485007-2f644a93-19b9-4ed0-9a2a-e9199cdf9483.PNG)
 
 # Validator ECO Stake
 

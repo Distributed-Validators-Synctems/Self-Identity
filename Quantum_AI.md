@@ -6,10 +6,10 @@ Validation proceeds support my research.
 # Validator Quantum_AI
 
 ####  Active Mainnets:
-- [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1w0uaae4mq0xzf6slmels499u8f8ws7sx2mka2p) - ([Delegate](http://omniflix.rizon.world/stake))
+- [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper15xl0rsxunv9nvqvcec28hx0mmtctc6l04tl7m0) - ([Delegate](http://omniflix.rizon.world/stake))
 
 #### Active Testnets:
-- [Umee](https://testnet.mintscan.io/umee/validators/umeevaloper13rccpc8dqfaqf6c3ujt0kkmdj055wc3v8yzdac)
+- ...
 
 More nets going soon... <br />
 

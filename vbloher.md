@@ -15,6 +15,7 @@
 - [KiChain](https://www.mintscan.io/ki-chain/validators/kivaloper1ggrrt80qln07kqnfe5zppjgsrrqmkc4jpwvsgh)
 - [BitCanna](https://www.mintscan.io/bitcanna/validators/bcnavaloper19l7slf3853c9ul0vf24zefjvdq4l8930nulqp4)
 - [Chronic Token](https://www.skynetexplorers.com/chronic-token/staking/chronicvaloper1rwyn6w46u3067enhpdceqasg2um8dddtp9v3kx)
+- [NYM (mixnode)](https://mixnet.explorers.guru/mixnode/Jy9Cyw53NoPHjXYgdZUFWHctfyi6e1wKAEko8VjiwQP)
 
 <details>
   <summary>Active testnets</summary>

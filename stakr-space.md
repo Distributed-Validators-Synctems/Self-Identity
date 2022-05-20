@@ -9,12 +9,13 @@ Current mainnets: <br />
 [Omniflix](https://www.skynetexplorers.com/omniflix/staking/omniflixvaloper1vcjmshcst9zjh4pydsvqdssg86nzheykssjh5m) - Approved Mainnet Validator<br />
 [Persistence AssetMantle](https://www.mintscan.io/asset-mantle/validators/mantlevaloper1z79zeeyvdgqddevdng3u8d3kqt87dtq3jhsqvq) - Approved Mainnet and Community Validator<br />
 [Galaxy](https://explorer.postcapitalist.io/Galaxy/staking/galaxyvaloper1wuem8vc5tmlm3m7gaqt00qn37dxe9vkuzqsn4j) - Approved Mainnet Validator<br />
+[Nym Mixnode+Gateway](https://mixnet.explorers.guru/mixnode/6NdoxmY35ixxSitGSm9UcxzdNEgKiCc6dspXsjbRfvGr) - Rewarded testnet validator </br>
 
 Soon:<br />
 [Tgrade](https://dryrunnet.aneka.io/validators/tgrade1dz487qtggarfaxja70grhs3lgfv02mpn0l9f3j) - Approved Mainnet Validator<br />
 [Passage](https://passage3d.com) - Approved Mainnet Validator<br />
 [Hopr](https://hoprnet.org/) - Diamond Hodler<br /> 
-[Nym](https://nymtech.net) - Rewarded testnet validator
+
 
 Inactive mainnet validators due to stake discrimination: </br>
 [Mina](https://mina.staketab.com/validator/B62qpsMTL1mTaQUQUTQzVM1qvyGTCLVAhr8whJc7tUfmnPEuZnanzUe) - Genesis Founding Member, QA task force - redelegating ATM due to stake overconcentration in network<br />

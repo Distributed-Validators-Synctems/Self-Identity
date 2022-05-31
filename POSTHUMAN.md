@@ -1,4 +1,4 @@
-![Logo2-bw512](https://user-images.githubusercontent.com/38581319/168488369-a77cc502-f8ad-44c1-8cf7-9d41bf0d1760.png)
+![Logo3-512](https://user-images.githubusercontent.com/38581319/171294493-bf8b243c-94b5-4492-82bd-a1e9aed93420.png)
 
 [Web-page](https://posthuman.digital) <br />
 

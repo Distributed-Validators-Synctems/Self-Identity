@@ -8,6 +8,10 @@
 - [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1jnjg9fl5hflwgjyu9vrht3j52nn68yjesxaqmr)
 
 ### Active Testnets:
+- [Sei](https://sei.explorers.guru/validator/cosmosvaloper1p2yupn6x53a5thgnkcf852vcz55m9zrs85plxx)
+- [Peaq](https://www.peaq.network/agung-testnet)
+- [Oasys](https://www.oasys.games/)
+- [Aura](https://halo.aurascan.io/validators/auravaloper1nkg2dpscf8szhd96xvkxhye5h2tkfx2kwkg09x)
 - [Quicksilver](https://quicksilver.zone/)
 - [Forta](https://explorer.forta.network/)
 - [Defund](https://defund.explorers.guru/validator/defundvaloper19jm0dqagnfpyav3w7msx06kq86q0y30pmqs60q)
@@ -16,7 +20,6 @@
 - [StarkNet](https://dashboard.alchemyapi.io/apps/joggtmt4hbvihz3r)
 - [Gear](https://www.gear-tech.io/)
 - [Aptos](https://aptoslabs.com/)
-- [Archway](https://explorer.augusta-1.archway.tech/validator/archwayvaloper1lrwmk86d0r58fgzk62hq0ew6f6ptud6nlgfgn7)
 - [Klever](https://testnet.kleverscan.org/validator/klv1q4ngqant0fgtr5egju0gjgnwxcdk08eg8m8dkwlq7sk0qkad4x3q0d7hc0)
 - [Penumbra](https://penumbra.zone/)
 - [Masa](https://masa.finance/)
@@ -29,6 +32,7 @@
 - [Kyve](https://app.kyve.network/)
 
 ### Finished Testnets:
+- [Archway](https://explorer.augusta-1.archway.tech/validator/archwayvaloper1lrwmk86d0r58fgzk62hq0ew6f6ptud6nlgfgn7)
 - [Galaxy](https://testnet.postcapitalist.io/Galaxy/staking/galaxyvaloper1q9qnqhqzys99fpeep03z2vlyk54aeq02jfly8x)
 - [Rizon](https://explorer.chaintools.tech/rizon%20(groot-15)/staking/rizonvaloper1flcltn83whu6tzvagqhx4w95h96e8kyquxedl5)
 - [Anoma](https://anoma.network/)

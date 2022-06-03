@@ -48,7 +48,7 @@ Genesis validator, but not in active set: <br />
 - [Deweb](https://explore.deweb.services/deweb/staking/dewebvaloper1assygaed22mh9ye98fp53y4gkxyx4cqaqd35ru)
 - [Juno]()
 - [Kira]()
-- [Kujira](https://cosmosrun.info/kujira-harpoon-3/staking/kujiravaloper1nvvv95pxp6g29zdmsru040dzq2ntegvtpd2yem)
+- [Kujira](https://testnet.explorer.chaintools.tech/kujira%20(harpoon-3)/staking/kujiravaloper1nvvv95pxp6g29zdmsru040dzq2ntegvtpd2yem)
 - [Kyve](https://explorer.kyve.network/korellia/staking/kyvevaloper1fxh88ayzp4zghxcdh8la0kxwhx0v9w4e7nj60c)
 - [OmniFlix]()
 - [Passage]()

@@ -24,7 +24,7 @@
 - [Peaq](https://www.peaq.network/agung-testnet)
 - [Oasys](https://www.oasys.games/)
 - [Aura](https://halo.aurascan.io/validators/auravaloper1nkg2dpscf8szhd96xvkxhye5h2tkfx2kwkg09x)
-- [Quicksilver]([https://quicksilver.zone/](https://quicksilver.explorers.guru/validator/quickvaloper10hnwt92w3xmscpek8czu3xu4ttgu7fm5mqxy3m))
+- [Quicksilver](https://quicksilver.explorers.guru/validator/quickvaloper10hnwt92w3xmscpek8czu3xu4ttgu7fm5mqxy3m)
 - [Forta](https://explorer.forta.network/)
 - [Defund](https://defund.explorers.guru/validator/defundvaloper19jm0dqagnfpyav3w7msx06kq86q0y30pmqs60q)
 - [Uptick](https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1q4vdlk6ty7g04nylnnqdws8dffxtyns4l9uf9t)
@@ -103,11 +103,3 @@
 I’m admin in this Telegram groups and channels:
 - [https://t.me/rizon_atolo_ru](https://t.me/rizon_atolo_ru)
 - [https://t.me/CosmosEcosystemNews_ru](https://t.me/CosmosEcosystemNews_ru)
-
-## Contacts:
-- [Web-page](https://bonded.zone/)
-- [Medium](https://bondedzone.medium.com/)
-- [Twitter](https://twitter.com/SKosjakoff)
-- [Telegram](https://t.me/kosjakoff)
-- [Discord](https://discord.com/users/864778911548309506)
-- [Keybase](https://keybase.io/kosjakoff)

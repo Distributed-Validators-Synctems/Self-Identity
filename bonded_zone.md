@@ -2,17 +2,29 @@
 
 # Validator bonded.zone
 
+## Contacts:
+- [Web-page](https://bonded.zone/)
+- [Medium](https://bondedzone.medium.com/)
+- [Twitter](https://twitter.com/SKosjakoff)
+- [Telegram](https://t.me/kosjakoff)
+- [Discord](https://discord.com/users/864778911548309506)
+- [Keybase](https://keybase.io/kosjakoff)
+
 ###  Mainnets:
+- [BitCanna](https://www.mintscan.io/bitcanna/validators/bcnavaloper1yyps9aer7ldm8tjayft68q8ay5l4nch0waf4yh)
+- [Bitsong](https://www.mintscan.io/bitsong/validators/bitsongvaloper1pkepjd307346zadmlxpvs9wqrghkx735v0ehge)
 - [Chronic](https://www.skynetexplorers.com/chronic-token/staking/chronicvaloper105rzlcracxe9r32h8flpn4kpw8waqueqfsne7g)
+- [Desmos](https://www.mintscan.io/desmos/validators/desmosvaloper13has6wzwyfyuq6r9j48cwugl6ajqw44gv0fa6k)
 - [Galaxy](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1vmgq4nsyc5e8x699k0y7nme3c6egdlv5ahj3xu)
 - [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1jnjg9fl5hflwgjyu9vrht3j52nn68yjesxaqmr)
 
 ### Active Testnets:
+- [Kujira](https://kujira.explorers.guru/validator/kujiravaloper1fcer23fk86j2ys54ypxac2rlw9lw0z07j9anx2)
 - [Sei](https://sei.explorers.guru/validator/cosmosvaloper1p2yupn6x53a5thgnkcf852vcz55m9zrs85plxx)
 - [Peaq](https://www.peaq.network/agung-testnet)
 - [Oasys](https://www.oasys.games/)
 - [Aura](https://halo.aurascan.io/validators/auravaloper1nkg2dpscf8szhd96xvkxhye5h2tkfx2kwkg09x)
-- [Quicksilver](https://quicksilver.zone/)
+- [Quicksilver]([https://quicksilver.zone/](https://quicksilver.explorers.guru/validator/quickvaloper10hnwt92w3xmscpek8czu3xu4ttgu7fm5mqxy3m))
 - [Forta](https://explorer.forta.network/)
 - [Defund](https://defund.explorers.guru/validator/defundvaloper19jm0dqagnfpyav3w7msx06kq86q0y30pmqs60q)
 - [Uptick](https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1q4vdlk6ty7g04nylnnqdws8dffxtyns4l9uf9t)
@@ -23,9 +35,9 @@
 - [Klever](https://testnet.kleverscan.org/validator/klv1q4ngqant0fgtr5egju0gjgnwxcdk08eg8m8dkwlq7sk0qkad4x3q0d7hc0)
 - [Penumbra](https://penumbra.zone/)
 - [Masa](https://masa.finance/)
-- [DWS](https://explore.deweb.services/deweb/staking/dewebvaloper199k3qk8hzatkpfdcmsx0gfqt7fe4298fk9tycz)
-- [Celestia](https://celestia.observer/validators/celesvaloper1r7tvvvhkxujcfld9l7u9nx7svy65hcjfnmzrdn)
-- [Cosmic Horizon](https://www.skynetexplorers.com/cosmic-horizon/staking/cohovaloper14zh296n4yk7d3mwc95hxgmlcwaxp08syh8kacz)
+- [DWS](https://explore.deweb.services/deweb/staking/dewebvaloper1qnmxn96dgv8h09vtf8ke4sj3u7970eafurgk2j)
+- [Celestia](https://celestia.explorers.guru/validator/celestiavaloper1g4vlhwtjym0t6vpaxr3eyp78nkekxgx2vjhjf9)
+- [Cosmic Horizon](https://www.skynetexplorers.com/cosmic-horizon/staking/cohovaloper17cherjkvxf0lwfjsgf0tpfwzxuadkxvr49379m)
 - [Massa](https://massa.net/)
 - [Minima](https://minima.global/)
 - [Zeitgeist](https://zeitgeist.pm/)
@@ -92,8 +104,7 @@ I’m admin in this Telegram groups and channels:
 - [https://t.me/rizon_atolo_ru](https://t.me/rizon_atolo_ru)
 - [https://t.me/CosmosEcosystemNews_ru](https://t.me/CosmosEcosystemNews_ru)
 
-### Contacts:
-
+## Contacts:
 - [Web-page](https://bonded.zone/)
 - [Medium](https://bondedzone.medium.com/)
 - [Twitter](https://twitter.com/SKosjakoff)

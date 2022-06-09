@@ -1,4 +1,4 @@
-# For now, Distributed Validators Synctems synchronize 18 different validators
+# For now, Distributed Validators Synctems synchronize 20 different validators
 
 - [web34ever](https://github.com/Distributed-Validators-Synctems/self-identity/blob/main/web34ever.md)
 - [cyberG](https://github.com/Distributed-Validators-Synctems/self-identity/blob/main/cyberG.md)
@@ -18,3 +18,5 @@
 - [Quantum_AI](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/Quantum_AI.md)
 - [bonded.zone](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/bonded_zone.md)
 - [KURASH](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/KURASH.md)
+- [Artemis.Red](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/Artemis_red.md)
+- [ECO Stake](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/ECO_Stake.md)

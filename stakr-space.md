@@ -96,7 +96,8 @@ Activities:</a>
     Moonbeam - [Ambassador](https://moonbeam.network/community/ambassadors/) </br>
     Umee - [Translation](https://synctems.medium.com/umee-faq-ru-4948f53ca423)</br>
     Akash - [guides, essays](https://github.com/papanomad535/blog/blob/main/akash-deployment/deployments-and-persistent-storage.md)</br>
-    Klever - [guides, monitoring](https://github.com/papanomad535/blog/tree/main/klever-testnet)
+    Klever - [guides, monitoring](https://github.com/papanomad535/blog/tree/main/klever-testnet)</br>
+    DVS multisig web ui signer - [link](https://cosmos-multisig-6gcn2a7ce-dvs-app.vercel.app/)
 
 Reach out: <br />
 - [STAKR site](https://stakr.space#contact)

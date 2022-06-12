@@ -51,6 +51,7 @@ Genesis validator, but not in active set: <br />
 - [Kujira](https://testnet.explorer.chaintools.tech/kujira%20(harpoon-3)/staking/kujiravaloper1nvvv95pxp6g29zdmsru040dzq2ntegvtpd2yem)
 - [Kyve](https://explorer.kyve.network/korellia/staking/kyvevaloper1fxh88ayzp4zghxcdh8la0kxwhx0v9w4e7nj60c)
 - [OmniFlix]()
+- [Paloma](https://paloma.explorers.guru/validator/palomavaloper14kd965w29se5atw0fzmewr99gkjezk8gpvuu2x) 
 - [Passage]()
 - [Pylons](https://wallet.pylons.tech/validator/pylovaloper1u29z4l8ugjdwp2pm8luwntksh0p9n7dvq8zxs3)
 - [Quicksilver](https://quicksilver.explorers.guru/validator/quickvaloper1sgxklkmzdskprcv0xqjml0e789g3z8lu00w66w)

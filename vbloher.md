@@ -34,6 +34,10 @@
 - [Klever finance](https://klever.finance/)
 - [Aptos](https://aptos.dev/)
 - [Archway](https://www.archway.io/)
+- [Kujira](https://kujira.app/)
+- [Quicksilver](https://quicksilver.zone/)
+- [Sei](https://www.seinetwork.io/)
+  
   
 </details>
 

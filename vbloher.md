@@ -7,6 +7,7 @@
 **Genesis validator:** <br />
 - [FirmaChain](https://explorer.firmachain.dev/validators/firmavaloper1rkcxlv6t6tygmfnnp3v270qru3uq0lnxpatjst)
 - [Galaxy](https://explorer.postcapitalist.io/Galaxy/staking/galaxyvaloper173mgkdad6f935ys7gd2yfj6z47khkwy6f9ce7n)
+- [Chronic Token](https://www.skynetexplorers.com/chronic-token/staking/chronicvaloper1rwyn6w46u3067enhpdceqasg2um8dddtp9v3kx)
 - [AssetMantle](https://assetmantle.explorers.guru/validator/mantlevaloper12w4wch0vykgw6qyveurhqck75n3dnw0c0c4fje)
 
 **Mainnet validator:**  <br />
@@ -14,7 +15,6 @@
 - [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1h7qgg8p52vdpcqzhxrt6wjsnyyfasaak588lrh)
 - [KiChain](https://www.mintscan.io/ki-chain/validators/kivaloper1ggrrt80qln07kqnfe5zppjgsrrqmkc4jpwvsgh)
 - [BitCanna](https://www.mintscan.io/bitcanna/validators/bcnavaloper19l7slf3853c9ul0vf24zefjvdq4l8930nulqp4)
-- [Chronic Token](https://www.skynetexplorers.com/chronic-token/staking/chronicvaloper1rwyn6w46u3067enhpdceqasg2um8dddtp9v3kx)
 - [NYM (mixnode)](https://mixnet.explorers.guru/mixnode/Jy9Cyw53NoPHjXYgdZUFWHctfyi6e1wKAEko8VjiwQP)
 
 **Active testnets**
@@ -30,10 +30,14 @@
 - [Uptick Network](https://www.uptick.network/)
 - [Aptos](https://aptos.dev/)
 - [Archway](https://www.archway.io/)
+- [Humannode](https://humanode.io/)
 - [Kujira](https://kujira.app/)
 - [Quicksilver](https://quicksilver.zone/)
 - [Sei](https://www.seinetwork.io/)
 - [Paloma](https://www.palomachain.com/blog/)
+- [StafiHub](https://www.stafihub.io/)
+- [Aura](https://aura.network/)
+- [Craft-economy](https://crafteconomy.io/)
 
 <details>
   <summary>Ended testnets</summary>

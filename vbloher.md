@@ -17,9 +17,7 @@
 - [Chronic Token](https://www.skynetexplorers.com/chronic-token/staking/chronicvaloper1rwyn6w46u3067enhpdceqasg2um8dddtp9v3kx)
 - [NYM (mixnode)](https://mixnet.explorers.guru/mixnode/Jy9Cyw53NoPHjXYgdZUFWHctfyi6e1wKAEko8VjiwQP)
 
-<details>
-  <summary>Active testnets</summary>
-
+**Active testnets**
 - [Solana](https://www.validators.app/validators/testnet/6q4crDPH7SFp2kxAFNmRg16phDRpjtsW7QDk83EFwrLg?locale=en)
 - [IronFish](https://ironfish.network/)
 - [Massa](https://massa.net/)
@@ -27,19 +25,15 @@
 - [Meson](https://meson.network/)
 - [KYVE](https://www.kyve.network/)
 - [Celestia](https://celestia.org/)
-- [Cosmic-horizon](https://www.cosmic-horizon.com/)
 - [Another-1](https://github.com/notional-labs/anone)
 - [Masa finance](https://masa.finance/)
 - [Uptick Network](https://www.uptick.network/)
-- [Klever finance](https://klever.finance/)
 - [Aptos](https://aptos.dev/)
 - [Archway](https://www.archway.io/)
 - [Kujira](https://kujira.app/)
 - [Quicksilver](https://quicksilver.zone/)
 - [Sei](https://www.seinetwork.io/)
-  
-  
-</details>
+- [Paloma](https://www.palomachain.com/blog/)
 
 <details>
   <summary>Ended testnets</summary>
@@ -52,12 +46,16 @@
 - [Asset-Mantle](https://assetmantle.one/)
 - [Casper](https://casperlabs.io/)
 - [Akash](https://akash.network/)
+- [Cosmic-horizon](https://www.cosmic-horizon.com/)
+- [Klever finance](https://klever.finance/)
 
 </details>
 
 ## Contributions:
 ### Technical:
 Easy to use monitoring stack - https://github.com/vbloher/monitoring-tool
+### Video:
+- [How to set up monitoring for Kujira](https://www.youtube.com/watch?v=rWDLdVRx_Bs)
 ### Guides:
 - [How to bootstrap any tendermint (cosmos) node using State-Sync](https://teletype.in/@vbloher/state-sync-bootstrap)
 - [How to set up a Tendermint node for work as a State-Sync RPC server](https://teletype.in/@vbloher/state-sync-rpc)
@@ -65,6 +63,6 @@ Easy to use monitoring stack - https://github.com/vbloher/monitoring-tool
 
 ## Contacts:
 - [Web site](https://vbloher.com/)
-- [Keybase](https://keybase.io/vbloher)
-- [GitHub](https://github.com/vbloher)
 - [Telegram](https://t.me/vbloher)
+- [GitHub](https://github.com/vbloher)
+- [Keybase](https://keybase.io/vbloher)

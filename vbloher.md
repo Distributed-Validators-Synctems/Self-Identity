@@ -15,6 +15,7 @@
 - [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1h7qgg8p52vdpcqzhxrt6wjsnyyfasaak588lrh)
 - [KiChain](https://www.mintscan.io/ki-chain/validators/kivaloper1ggrrt80qln07kqnfe5zppjgsrrqmkc4jpwvsgh)
 - [BitCanna](https://www.mintscan.io/bitcanna/validators/bcnavaloper19l7slf3853c9ul0vf24zefjvdq4l8930nulqp4)
+- [Mises](https://gw.mises.site/validators)
 - [NYM (mixnode)](https://mixnet.explorers.guru/mixnode/Jy9Cyw53NoPHjXYgdZUFWHctfyi6e1wKAEko8VjiwQP)
 
 **Active testnets**

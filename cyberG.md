@@ -146,7 +146,7 @@ Genesis validator, but not in active set: <br />
 - [Sentinel]()
 </details>
 
-#<details>
+<details>
   <summary>My social links</summary>
 
 - [Y.at](https://y.at/😍❤️😱🙌🍦)

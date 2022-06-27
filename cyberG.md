@@ -5,7 +5,6 @@
 ## cyberG activity:
 
 Active Mainnets: <br />
-- [Algorand]() relayer
 - [Avalanche](https://avascan.info/staking/validator/NodeID-Jm1k2q2WAkH99w4ZBEgzrmm6Kte39qCWJ)
 - [Bitsong](https://www.mintscan.io/bitsong/validators/bitsongvaloper1m8ps45ltlt0vejjm2hqtu26jkd8rfkz9vwu5tw)
 - [Bostrom](https://cyb.ai/network/bostrom/hero/bostromvaloper1en69twaxmv7xupy8lq7y539dpecx7yz8s43ceg)
@@ -24,6 +23,7 @@ Active Mainnets: <br />
 - [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1swmud649t386j2csz0gah7ku2zpfu0w7trzr09)
 - [Solana](https://www.validators.app/?q=cyberg&network=mainnet&order=score&refresh=&commit=Search)
 - [Stargaze](https://www.mintscan.io/stargaze/validators/starsvaloper1dtk6748uhvmhvakhleclrwprp27pe89vhhw44p)
+- [Tgrade](https://tgrade.aneka.io/validators/tgrade1daujfmddygyty3pjsnr9xhz3vxymh6u00krlym)
 - [Velas](https://velasvalidators.com/7MYojjTNnFsyEs7Pb5Xv3pKeZxUGk6R1kJoLrtSKkSRy)
 - [XX Network](https://dashboard.xx.network/nodes/2C5ngNbgU_r2bUrvzvAGJddGOhNboOt2r5ZSmJ-GezgC)
 
@@ -32,7 +32,7 @@ Genesis validator, but not in active set: <br />
 - [Regen](https://regen.aneka.io/accounts/regen1qvn6ghe68l4g0k7s25rujr6yfpyrm6h3399jvu)
 - [Sentinel]()
 - [Moonbeam](https://moonbeam.subscan.io/waiting/0xe2962a1785f655eae3a8cd1f1b38d1d760a300e3)
-
+- [Algorand]() Relayer Programm paticipant
 <details>
   <summary>Active Testnets</summary>
   
@@ -58,7 +58,6 @@ Genesis validator, but not in active set: <br />
 - [Sei](https://sei.explorers.guru/validator/cosmosvaloper1cz28dzx8zcls720h2nnrd5x8a3kjqy95t3rd0c)  
 - [Solana](https://www.validators.app/validators/testnet/28LgQ7MeEZVgNJfYRc6UnoAz2SnSjKbyCKM6sntCRotb?locale=en&order=score&refresh=)
 - [Stafi](https://testnet-explorer.stafihub.io/stafi-hub-testnet/staking/stafivaloper1xrx6wtnttchfu98z3qw8n5u8gjel3wxsz6c8de) 
-- [Tgrade](https://dryrunnet.aneka.io/validators/tgrade16qsg7lnyqnfx7u8p4p0cum0wymeug2kxrgjk0f)
 - [Uptick](https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1rk5lydrxykadmj8t692q47wtuqxx42l5gjjgpd)
 </details>
 

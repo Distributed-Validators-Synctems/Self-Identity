@@ -76,7 +76,6 @@ Genesis validator, but not in active set: <br />
   
   <details>
   <summary>Finished Testnets</summary>
-
 - [Akash]()
 - [Aleo]()
 - [Arable]()

@@ -169,4 +169,5 @@ Genesis validator, but not in active set: <br />
 - [Light](https://light.so/cyberg.eth)
 - [Lens](https://www.lensfrens.xyz/cyberg.lens)
 - [Peepeth](https://peepeth.com/cyberG)
+- [Buidl](https://buildspace.so/@cyberg) 
 </details>

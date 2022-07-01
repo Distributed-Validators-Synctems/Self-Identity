@@ -45,7 +45,7 @@ Genesis validator, but not in active set: <br />
 - [Celestia](https://celestia.explorers.guru/validator/celestiavaloper1gjjqu6ykrfww43uqrv290zmr9j3t9rfnhdcffl)
 - [Clan](https://testnet.explorer.testnet.run/Clan%20Network/staking/clanvaloper1c9t2xur4sx7z5kerp8l8a978dl68fmdxrqegqc) 
 - [Comdex](https://comets-test.comdex.one/validator/comdexvaloper1ha5regczwexcgcnkv30rd5tadffe6recs0w5cl)
-  [Connext]()
+- [Connext]()
 - [Cosmic Horizon](https://coho.explorers.guru/validator/cohovaloper1ehfyz63cljfdvscreanfrxc4x5yu5v0u7py64j)
 - [Craft](https://test-craft.zenscan.io/validator.php?addr=craftvaloper1p79gj0hcg7wp74df8xaf969tr37gt0t9jtycxy)
 - [Defund](https://defund.explorers.guru/validator/defundvaloper1v0d46jupe9qehc7kpp8nv8hs4vwyujgctau8vz)

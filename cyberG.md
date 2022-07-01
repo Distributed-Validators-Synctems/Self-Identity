@@ -35,7 +35,7 @@ Genesis validator, but not in active set: <br />
 - [Sentinel]()
 - [Moonbeam](https://moonbeam.subscan.io/waiting/0xe2962a1785f655eae3a8cd1f1b38d1d760a300e3)
 - [Algorand]() Relayer Programm paticipant
-- -[Casper](https://cspr.live/validator/018dc552de3c403dbefe03a9c604e11346d96159ed49f9381a55c2e06c45197d43) Currently inactive
+- [Casper](https://cspr.live/validator/018dc552de3c403dbefe03a9c604e11346d96159ed49f9381a55c2e06c45197d43) Currently inactive
 <details>
   <summary>Active Testnets</summary>
   

@@ -8,7 +8,6 @@ Active Mainnets: <br />
 - [Avalanche](https://avascan.info/staking/validator/NodeID-Jm1k2q2WAkH99w4ZBEgzrmm6Kte39qCWJ)
 - [Bitsong](https://www.mintscan.io/bitsong/validators/bitsongvaloper1m8ps45ltlt0vejjm2hqtu26jkd8rfkz9vwu5tw)
 - [Bostrom](https://cyb.ai/network/bostrom/hero/bostromvaloper1en69twaxmv7xupy8lq7y539dpecx7yz8s43ceg)
-- [Casper](https://cspr.live/validator/018dc552de3c403dbefe03a9c604e11346d96159ed49f9381a55c2e06c45197d43)
 - [Certik](https://explorer.certik.foundation/validators/certikvaloper1yq8a2ksa7dz8wd8wlks3k8nqdmht76xdnrvehx?net=shentu-1)
 - [Comdex](https://www.mintscan.io/comdex/validators/comdexvaloper1963hcznh439kspqmjj5hv5h4nk2kphvats5ujk)
 - [Chronic](https://www.skynetexplorers.com/chronic-token/staking/chronicvaloper1x8czjpdy2x9svz0s3u9hdgqxd06ta39y49lnd3)
@@ -36,6 +35,7 @@ Genesis validator, but not in active set: <br />
 - [Sentinel]()
 - [Moonbeam](https://moonbeam.subscan.io/waiting/0xe2962a1785f655eae3a8cd1f1b38d1d760a300e3)
 - [Algorand]() Relayer Programm paticipant
+- -[Casper](https://cspr.live/validator/018dc552de3c403dbefe03a9c604e11346d96159ed49f9381a55c2e06c45197d43) Currently inactive
 <details>
   <summary>Active Testnets</summary>
   

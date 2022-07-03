@@ -37,6 +37,7 @@ Genesis validator, but not in active set: <br />
 - [Algorand]() Relayer Programm paticipant
 - [Casper](https://cspr.live/validator/018dc552de3c403dbefe03a9c604e11346d96159ed49f9381a55c2e06c45197d43) Currently inactive
 <details>
+  
   <summary>Active Testnets</summary>
   
 - [Anone](https://test-anone.zenscan.io/validator.php?addr=onevaloper1qvexpwgsav54wykncd03ky4k34h5qxv73pu2a3)
@@ -67,6 +68,7 @@ Genesis validator, but not in active set: <br />
   <summary>Active non-Cosmos Testnets</summary>
   
 - [Aptos]()
+- [BlockPi](http://testnet.explorer.blockpi.io/hypernode/0x626b57e2445e1e3cf13333349a9270f8203b901c?page=4&perPage=20)  
 - [DevxDAO]()
 - [Gear]()
 - [Masa]()

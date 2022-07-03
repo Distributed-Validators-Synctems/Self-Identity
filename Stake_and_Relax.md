@@ -21,6 +21,6 @@ More nets going soon... <br />
 
 ### Contacts:
 
-- [GitHub]([https://github.com/Artemisred](https://github.com/StakeandRelax-Validator/hello-world))
+- [GitHub](https://github.com/StakeandRelax-Validator/hello-world)
 - [Telegram](https://t.me/CryptoCakir)
 

@@ -1,4 +1,4 @@
-![paranormal](https://user-images.githubusercontent.com/38581319/146910126-235c3a7e-40cb-4b96-9bc9-959184c371e7.png)
+![paranormal](https://user-images.githubusercontent.com/93286644/177212414-c3de5505-afee-47c8-b81f-63570dd66e5d.png)
 
 ## Paranormal Brothers validate Main-nets
 

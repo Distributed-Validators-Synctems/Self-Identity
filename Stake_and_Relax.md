@@ -1,4 +1,5 @@
-LOGO WILL BE HERE
+[stake_relax](https://user-images.githubusercontent.com/38581319/177377412-3c85d103-f8e2-48e6-8080-e11cbf90e18d.png)
+
 
 # Validator Stake&Relax
 

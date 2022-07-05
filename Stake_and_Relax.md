@@ -1,5 +1,5 @@
-[stake_relax](https://user-images.githubusercontent.com/38581319/177377412-3c85d103-f8e2-48e6-8080-e11cbf90e18d.png)
 
+![stake_relax](https://user-images.githubusercontent.com/38581319/177377510-d4b10631-9b2e-4bc1-b42e-06457d5b6171.png)
 
 # Validator Stake&Relax
 

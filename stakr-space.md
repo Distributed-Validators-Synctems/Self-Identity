@@ -10,11 +10,8 @@ Current mainnets: <br />
 [Persistence AssetMantle](https://www.mintscan.io/asset-mantle/validators/mantlevaloper1z79zeeyvdgqddevdng3u8d3kqt87dtq3jhsqvq) - Approved Mainnet and Community Validator<br />
 [Galaxy](https://explorer.postcapitalist.io/Galaxy/staking/galaxyvaloper1wuem8vc5tmlm3m7gaqt00qn37dxe9vkuzqsn4j) - Approved Mainnet Validator<br />
 [Nym Mixnode+Gateway](https://mixnet.explorers.guru/mixnode/6NdoxmY35ixxSitGSm9UcxzdNEgKiCc6dspXsjbRfvGr) - Rewarded testnet validator </br>
-
-Soon:<br />
-[Tgrade](https://dryrunnet.aneka.io/validators/tgrade1dz487qtggarfaxja70grhs3lgfv02mpn0l9f3j) - Approved Mainnet Validator<br />
-[Passage](https://passage3d.com) - Approved Mainnet Validator<br />
-[Hopr](https://hoprnet.org/) - Diamond Hodler<br /> 
+[Tgrade](https://tgrade.aneka.io/validators/tgrade1dz487qtggarfaxja70grhs3lgfv02mpn0l9f3j) - Approved Mainnet Validator<br />[Passage](https://passage3d.com) - Approved Mainnet Validator<br />
+<!--- [Hopr](https://hoprnet.org/) - Diamond Hodler<br /> --->
 
 
 Inactive mainnet validators due to stake discrimination: </br>

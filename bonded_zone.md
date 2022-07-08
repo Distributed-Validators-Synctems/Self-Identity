@@ -10,16 +10,21 @@
 - [Discord](https://discord.com/users/864778911548309506)
 - [Keybase](https://keybase.io/kosjakoff)
 
-###  Mainnets:
+
+## Mainnets:
 - [BitCanna](https://www.mintscan.io/bitcanna/validators/bcnavaloper1yyps9aer7ldm8tjayft68q8ay5l4nch0waf4yh)
 - [Bitsong](https://www.mintscan.io/bitsong/validators/bitsongvaloper1pkepjd307346zadmlxpvs9wqrghkx735v0ehge)
 - [Chronic](https://www.skynetexplorers.com/chronic-token/staking/chronicvaloper105rzlcracxe9r32h8flpn4kpw8waqueqfsne7g)
 - [Desmos](https://www.mintscan.io/desmos/validators/desmosvaloper13has6wzwyfyuq6r9j48cwugl6ajqw44gv0fa6k)
 - [Galaxy](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1vmgq4nsyc5e8x699k0y7nme3c6egdlv5ahj3xu)
 - [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1jnjg9fl5hflwgjyu9vrht3j52nn68yjesxaqmr)
+- [Mises](https://gw.mises.site/validators)
 
-### Active Testnets:
-- [Kujira](https://kujira.explorers.guru/validator/kujiravaloper1fcer23fk86j2ys54ypxac2rlw9lw0z07j9anx2)
+## Active Testnets:
+- [Stride](https://poolparty.stride.zone/STRIDE/staking/stridevaloper1ee7vp86sqe3jx06l506sl0pdjs2s5vr4w2ken3)
+- [Sui](https://mystenlabs.com/)
+- [Clan Network](https://secretnodes.com/clan/chains/playstation-2/validators/clanvaloper1x447ekesws3fx5wghjkzmdzlemxhaam70qunak)
+- [Gno Land](https://gno.land/)
 - [Sei](https://sei.explorers.guru/validator/cosmosvaloper1p2yupn6x53a5thgnkcf852vcz55m9zrs85plxx)
 - [Peaq](https://www.peaq.network/agung-testnet)
 - [Oasys](https://www.oasys.games/)
@@ -32,18 +37,19 @@
 - [StarkNet](https://dashboard.alchemyapi.io/apps/joggtmt4hbvihz3r)
 - [Gear](https://www.gear-tech.io/)
 - [Aptos](https://aptoslabs.com/)
-- [Klever](https://testnet.kleverscan.org/validator/klv1q4ngqant0fgtr5egju0gjgnwxcdk08eg8m8dkwlq7sk0qkad4x3q0d7hc0)
 - [Penumbra](https://penumbra.zone/)
 - [Masa](https://masa.finance/)
 - [DWS](https://explore.deweb.services/deweb/staking/dewebvaloper1qnmxn96dgv8h09vtf8ke4sj3u7970eafurgk2j)
 - [Celestia](https://celestia.explorers.guru/validator/celestiavaloper1g4vlhwtjym0t6vpaxr3eyp78nkekxgx2vjhjf9)
-- [Cosmic Horizon](https://www.skynetexplorers.com/cosmic-horizon/staking/cohovaloper17cherjkvxf0lwfjsgf0tpfwzxuadkxvr49379m)
 - [Massa](https://massa.net/)
 - [Minima](https://minima.global/)
-- [Zeitgeist](https://zeitgeist.pm/)
-- [Kyve](https://app.kyve.network/)
 
-### Finished Testnets:
+## Finished Testnets:
+- [Kyve](https://app.kyve.network/)
+- [Zeitgeist](https://zeitgeist.pm/)
+- [Cosmic Horizon](https://www.skynetexplorers.com/cosmic-horizon/staking/cohovaloper17cherjkvxf0lwfjsgf0tpfwzxuadkxvr49379m)
+- [Klever](https://testnet.kleverscan.org/validator/klv1q4ngqant0fgtr5egju0gjgnwxcdk08eg8m8dkwlq7sk0qkad4x3q0d7hc0)
+- [Kujira](https://kujira.explorers.guru/validator/kujiravaloper1fcer23fk86j2ys54ypxac2rlw9lw0z07j9anx2)
 - [Archway](https://explorer.augusta-1.archway.tech/validator/archwayvaloper1lrwmk86d0r58fgzk62hq0ew6f6ptud6nlgfgn7)
 - [Galaxy](https://testnet.postcapitalist.io/Galaxy/staking/galaxyvaloper1q9qnqhqzys99fpeep03z2vlyk54aeq02jfly8x)
 - [Rizon](https://explorer.chaintools.tech/rizon%20(groot-15)/staking/rizonvaloper1flcltn83whu6tzvagqhx4w95h96e8kyquxedl5)
@@ -63,12 +69,20 @@
 
 ## Contributions
 
-#### Technical
+### Technical
 - [State-Sync service](https://sync.bonded.zone/)
 - [Guide - How to setup Klever validator](https://bondedzone.medium.com/how-to-setup-klever-validator-ff58b502e64d)
 - [Guide - Configure State-Sync for the Rizon mainnet](https://bondedzone.medium.com/configure-state-sync-for-the-rizon-mainnet-9e1fd8c05d1f)
 
-#### Community
+### Community
+- [Translation - Nicola Fasano — запускает свой FanToken ($FASANO) на Sinfonia от BitSong!](https://bondedzone.medium.com/nicola-fasano-%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D0%B0%D0%B5%D1%82-%D1%81%D0%B2%D0%BE%D0%B9-fantoken-fasano-%D0%BD%D0%B0-sinfonia-%D0%BE%D1%82-bitsong-e86742bc0ed7)
+- [Translation - ADAM CLAY — первый артист, запустивший свой FanToken ($CLAY) на Sinfonia от BitSong!](https://bondedzone.medium.com/adam-clay-%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9-%D0%B0%D1%80%D1%82%D0%B8%D1%81%D1%82-%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D1%82%D0%B8%D0%B2%D1%88%D0%B8%D0%B9-%D1%81%D0%B2%D0%BE%D0%B9-fantoken-clay-%D0%BD%D0%B0-sinfonia-%D0%BE%D1%82-bitsong-99b4f5ac7ada)
+- [Translation - Как пригласить друзей в Mises и получить реферальный бонус?](https://bondedzone.medium.com/%D0%BA%D0%B0%D0%BA-%D0%BF%D1%80%D0%B8%D0%B3%D0%BB%D0%B0%D1%81%D0%B8%D1%82%D1%8C-%D0%B4%D1%80%D1%83%D0%B7%D0%B5%D0%B9-%D0%B2-mises-%D0%B8-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C-%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%B1%D0%BE%D0%BD%D1%83%D1%81-d363e97c49db)
+- [Translation - Ежемесячный дайджест BitCanna — июнь 2022](https://bondedzone.medium.com/%D0%B5%D0%B6%D0%B5%D0%BC%D0%B5%D1%81%D1%8F%D1%87%D0%BD%D1%8B%D0%B9-%D0%B4%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82-bitcanna-%D0%B8%D1%8E%D0%BD%D1%8C-2022-d4ddfae064a4)
+- [Translation - Решение для “поддельной учетной записи Mises” и компенсация](https://bondedzone.medium.com/%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9-%D1%83%D1%87%D0%B5%D1%82%D0%BD%D0%BE%D0%B9-%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B8-mises-%D0%B8-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B5%D0%BD%D1%81%D0%B0%D1%86%D0%B8%D1%8F-299c9448cb1f)
+- [Translation - Платежи $BCNA в Royal Queen Seeds снова доступны!](https://bondedzone.medium.com/%D0%BF%D0%BB%D0%B0%D1%82%D0%B5%D0%B6%D0%B8-bcna-%D0%B2-royal-queen-seeds-%D1%81%D0%BD%D0%BE%D0%B2%D0%B0-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%BD%D1%8B-d63a21bac787)
+- [Translation - Chronic Chain: обновление в середине месяца — июнь](https://bondedzone.medium.com/chronic-chain-%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-%D1%81%D0%B5%D1%80%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5-%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B0-%D0%B8%D1%8E%D0%BD%D1%8C-ed417814f9bd)
+- [Translation - Sinfonia лидерборд, новости и FanToken аирдроп](https://bondedzone.medium.com/sinfonia-%D0%BB%D0%B8%D0%B4%D0%B5%D1%80%D0%B1%D0%BE%D1%80%D0%B4-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8-%D0%B8-fantoken-%D0%B0%D0%B8%D1%80%D0%B4%D1%80%D0%BE%D0%BF-284cbe2bcf9a)
 - [Translation - Знакомство с Masa](https://bondedzone.medium.com/%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE-%D1%81-masa-dadd6099671b)
 - [Translation - Block-STM: как мы выполняем более 160 000 транзакций в секунду на блокчейне Aptos](https://bondedzone.medium.com/block-stm-%D0%BA%D0%B0%D0%BA-%D0%BC%D1%8B-%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D1%8F%D0%B5%D0%BC-%D0%B1%D0%BE%D0%BB%D0%B5%D0%B5-160-000-%D1%82%D1%80%D0%B0%D0%BD%D0%B7%D0%B0%D0%BA%D1%86%D0%B8%D0%B9-%D0%B2-%D1%81%D0%B5%D0%BA%D1%83%D0%BD%D0%B4%D1%83-%D0%BD%D0%B0-%D0%B1%D0%BB%D0%BE%D0%BA%D1%87%D0%B5%D0%B9%D0%BD%D0%B5-aptos-29fc6f94dc37)
 - [Translation - Бонусная программа Uptick NFT Marketplace](https://bondedzone.medium.com/%D0%B1%D0%BE%D0%BD%D1%83%D1%81%D0%BD%D0%B0%D1%8F-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0-uptick-nft-marketplace-32a7f79fdda3)

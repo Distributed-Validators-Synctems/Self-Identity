@@ -70,8 +70,8 @@ Genesis validator, but not in active set: <br />
 - [BlockPi](http://testnet.explorer.blockpi.io/hypernode/0x626b57e2445e1e3cf13333349a9270f8203b901c?page=4&perPage=20)  
 - [DevxDAO]()
 - [Gear]()
-- [Masa]()
 - [Humanode]()
+ - [Masa]()
 - [Solana](https://www.validators.app/validators/testnet/28LgQ7MeEZVgNJfYRc6UnoAz2SnSjKbyCKM6sntCRotb?locale=en&order=score&refresh=)
 - [StarkNet]()
   </details>

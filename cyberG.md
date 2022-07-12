@@ -42,26 +42,24 @@ Genesis validator, but not in active set: <br />
   
 - [Anone](https://test-anone.zenscan.io/validator.php?addr=onevaloper1qvexpwgsav54wykncd03ky4k34h5qxv73pu2a3)
 - [Aura](https://halo.aurascan.io/validators/auravaloper1gnf4sxs2qnycrxxyd6gqk9wqa3xjf6h3efl7rz)
-- [BlockPi](https://testnet.explorer.blockpi.io/hypernode/0x626b57e2445e1e3cf13333349a9270f8203b901c?page=4&perPage=20)
+- [Cardchain]()
 - [Celestia](https://celestia.explorers.guru/validator/celestiavaloper1gjjqu6ykrfww43uqrv290zmr9j3t9rfnhdcffl)
 - [Clan](https://testnet.explorer.testnet.run/Clan%20Network/staking/clanvaloper1c9t2xur4sx7z5kerp8l8a978dl68fmdxrqegqc) 
 - [Comdex](https://comets-test.comdex.one/validator/comdexvaloper1ha5regczwexcgcnkv30rd5tadffe6recs0w5cl)
 - [Connext]()
-- [Cosmic Horizon](https://coho.explorers.guru/validator/cohovaloper1ehfyz63cljfdvscreanfrxc4x5yu5v0u7py64j)
-- [Craft](https://test-craft.zenscan.io/validator.php?addr=craftvaloper1p79gj0hcg7wp74df8xaf969tr37gt0t9jtycxy)
 - [Defund](https://defund.explorers.guru/validator/defundvaloper1v0d46jupe9qehc7kpp8nv8hs4vwyujgctau8vz)
 - [Deweb](https://explore.deweb.services/deweb/staking/dewebvaloper1assygaed22mh9ye98fp53y4gkxyx4cqaqd35ru)
-- [Juno]()
 - [Kira]()
 - [Kyve](https://explorer.kyve.network/korellia/staking/kyvevaloper1fxh88ayzp4zghxcdh8la0kxwhx0v9w4e7nj60c)
-- [OmniFlix]()
 - [Paloma](https://paloma.explorers.guru/validator/palomavaloper14kd965w29se5atw0fzmewr99gkjezk8gpvuu2x) 
 - [Passage]()
 - [Pylons](https://wallet.pylons.tech/validator/pylovaloper1u29z4l8ugjdwp2pm8luwntksh0p9n7dvq8zxs3)
 - [Quicksilver](https://quicksilver.explorers.guru/validator/quickvaloper1sgxklkmzdskprcv0xqjml0e789g3z8lu00w66w)
 - [Sei](https://sei.explorers.guru/validator/cosmosvaloper1cz28dzx8zcls720h2nnrd5x8a3kjqy95t3rd0c)  
-- [Solana](https://www.validators.app/validators/testnet/28LgQ7MeEZVgNJfYRc6UnoAz2SnSjKbyCKM6sntCRotb?locale=en&order=score&refresh=)
-- [Stafi](https://testnet-explorer.stafihub.io/stafi-hub-testnet/staking/stafivaloper1xrx6wtnttchfu98z3qw8n5u8gjel3wxsz6c8de) 
+- [Stride]() 
+- [Teritori]()  
+
+  
 - [Uptick](https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1rk5lydrxykadmj8t692q47wtuqxx42l5gjjgpd)
 </details>
 
@@ -74,6 +72,7 @@ Genesis validator, but not in active set: <br />
 - [Gear]()
 - [Masa]()
 - [Humanode]()
+- [Solana](https://www.validators.app/validators/testnet/28LgQ7MeEZVgNJfYRc6UnoAz2SnSjKbyCKM6sntCRotb?locale=en&order=score&refresh=)
 - [StarkNet]()
   </details>
 
@@ -91,6 +90,8 @@ Genesis validator, but not in active set: <br />
 - [Cere]()
 - [Concordium]()
 - [Chronic]()
+- [Cosmic Horizon](https://coho.explorers.guru/validator/cohovaloper1ehfyz63cljfdvscreanfrxc4x5yu5v0u7py64j)
+- [Craft](https://test-craft.zenscan.io/validator.php?addr=craftvaloper1p79gj0hcg7wp74df8xaf969tr37gt0t9jtycxy)
 - [Crescent]()
 - [Cryptocom]()
 - [Decentr]()

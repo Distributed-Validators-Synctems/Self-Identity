@@ -57,7 +57,7 @@ Genesis validator, but not in active set: <br />
 - [Quicksilver](https://quicksilver.explorers.guru/validator/quickvaloper1sgxklkmzdskprcv0xqjml0e789g3z8lu00w66w)
 - [Sei](https://sei.explorers.guru/validator/cosmosvaloper1cz28dzx8zcls720h2nnrd5x8a3kjqy95t3rd0c)  
 - [Stride]() 
-- [Teritori]()  
+
 
   
 - [Uptick](https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1rk5lydrxykadmj8t692q47wtuqxx42l5gjjgpd)

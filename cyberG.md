@@ -66,7 +66,7 @@ Genesis validator, but not in active set: <br />
 <details>
   <summary>Active non-Cosmos Testnets</summary>
   
-- [Aptos]()
+- [Aptos](https://explorer.devnet.aptos.dev/account/0xd8f711edb40b96cc8c27c0997640b4727e9cdaa408cbfc916413a2315bc9e3ef)
 - [BlockPi](http://testnet.explorer.blockpi.io/hypernode/0x626b57e2445e1e3cf13333349a9270f8203b901c?page=4&perPage=20)  
 - [DevxDAO]()
 - [Gear]()

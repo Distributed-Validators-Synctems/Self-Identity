@@ -72,7 +72,8 @@ Genesis validator, but not in active set: <br />
 - [DevxDAO]()
 - [Gear]()
 - [Humanode]()
- - [Masa]()
+- [Masa]()
+- [NYM]()
 - [Solana](https://www.validators.app/validators/testnet/28LgQ7MeEZVgNJfYRc6UnoAz2SnSjKbyCKM6sntCRotb?locale=en&order=score&refresh=)
 - [StarkNet]()
   </details>

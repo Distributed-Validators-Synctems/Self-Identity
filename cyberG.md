@@ -53,7 +53,7 @@ Genesis validator, but not in active set: <br />
 - [Paloma](https://paloma.explorers.guru/validator/palomavaloper14kd965w29se5atw0fzmewr99gkjezk8gpvuu2x) 
 - [Passage]()
 - [Pylons](https://wallet.pylons.tech/validator/pylovaloper1u29z4l8ugjdwp2pm8luwntksh0p9n7dvq8zxs3)
-- [Rebus](https://exp.nodeist.net/Rebus/staking/rebusvaloper14dv684ed57cgehl5apcl56n2mqsypr7vqrmpvx) 
+- [Rebus](https://rebus.explorers.guru/validator/rebusvaloper14dv684ed57cgehl5apcl56n2mqsypr7vqrmpvx)
 - [Sei](https://sei.explorers.guru/validator/cosmosvaloper1cz28dzx8zcls720h2nnrd5x8a3kjqy95t3rd0c)  
 - [Stride](https://poolparty.stride.zone/STRIDE/staking/stridevaloper136nl6lu4hvaus6l0lypzqq5gkd3dxvu5eaydk2) 
 - [Teritori](https://explorer.ericet.xyz/teritori/staking/torivaloper1jje55u2pxmxe5d6rckaj0jszal39ckscdrc6yd)

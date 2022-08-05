@@ -21,11 +21,13 @@ Active Mainnets: <br />
 - [Microtick](https://explorer.microtick.zone/validators/microvaloper1z7crvuuks7yk33qwx4nv68nzhwznkmt96ddm5l)
 - [Mina Protocol](https://minaexplorer.com/wallet/B62qrgnUUduZy2z7zT8qCV8ngTJfSS1rK3Wh22SHUmrse3Tfqvrhx8q)
 - [Mises](https://gw.mises.site/validator/misesvaloper1jdqtazvd3q35jqgy0radp6x9lsuzqgj456299t)
+- [NYM]()
 - [OmniFlix](https://www.skynetexplorers.com/omniflix/staking/omniflixvaloper1dfjx8w65h359vy55dvm383ks2xevsne9crkh32)
 - [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1swmud649t386j2csz0gah7ku2zpfu0w7trzr09)
 - [Solana](https://www.validators.app/?q=cyberg&network=mainnet&order=score&refresh=&commit=Search)
 - [Stargaze](https://www.mintscan.io/stargaze/validators/starsvaloper1dtk6748uhvmhvakhleclrwprp27pe89vhhw44p)
 - [Tgrade](https://tgrade.aneka.io/validators/tgrade1daujfmddygyty3pjsnr9xhz3vxymh6u00krlym)
+- [Umee](https://www.mintscan.io/umee/validators/umeevaloper1qa5gkv8a4rzpncgkguv2szh5s83kh69l082zz3)
 - [Velas](https://velasvalidators.com/7MYojjTNnFsyEs7Pb5Xv3pKeZxUGk6R1kJoLrtSKkSRy)
 - [XX Network](https://dashboard.xx.network/nodes/2C5ngNbgU_r2bUrvzvAGJddGOhNboOt2r5ZSmJ-GezgC)
 
@@ -57,9 +59,6 @@ Genesis validator, but not in active set: <br />
 - [Sei](https://sei.explorers.guru/validator/cosmosvaloper1cz28dzx8zcls720h2nnrd5x8a3kjqy95t3rd0c)  
 - [Stride](https://poolparty.stride.zone/STRIDE/staking/stridevaloper136nl6lu4hvaus6l0lypzqq5gkd3dxvu5eaydk2) 
 - [Teritori](https://explorer.ericet.xyz/teritori/staking/torivaloper1jje55u2pxmxe5d6rckaj0jszal39ckscdrc6yd)
-
-
-  
 - [Uptick](https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1rk5lydrxykadmj8t692q47wtuqxx42l5gjjgpd)
 </details>
 
@@ -70,10 +69,11 @@ Genesis validator, but not in active set: <br />
 - [BlockPi](http://testnet.explorer.blockpi.io/hypernode/0x626b57e2445e1e3cf13333349a9270f8203b901c?page=4&perPage=20)  
 - [DevxDAO]()
 - [Gear]()
-- [Humanode]()
 - [Masa]()
 - [NYM]()
+- [Obol]()
 - [Solana](https://www.validators.app/validators/testnet/28LgQ7MeEZVgNJfYRc6UnoAz2SnSjKbyCKM6sntCRotb?locale=en&order=score&refresh=)
+- [Sui]()
 - [StarkNet]()
   </details>
 
@@ -104,16 +104,14 @@ Genesis validator, but not in active set: <br />
 - [Galital]()
 - [GAME]()
 - [Hopr]()
+- [Humanode]()
 - [IRIS]()
 - [Iron Fish]()
 - [Quicksilver](https://quicksilver.explorers.guru/validator/quickvaloper1sgxklkmzdskprcv0xqjml0e789g3z8lu00w66w)
 - [Likecoin]()
-- [Massa]()
 - [Meter]()
 - [Minima]()
-- [Moonbeam]()
 - [NUcypher]()
-- [NYM]()
 - [Phala]()
 - [Plasm]()
 - [PlatON]()
@@ -121,7 +119,7 @@ Genesis validator, but not in active set: <br />
 - [Swarm]()
 - [Zeigeist]()
 - [Zenon]()
-- [Umee]()
+
 </details>
 
 <details>
@@ -134,8 +132,7 @@ Genesis validator, but not in active set: <br />
 - [Moonbeam]()
 - [Polygon]()
 - [TheGraph]()
-- [Zeigeist]()
-- [Yuser]()
+
 </details>
 
 <details>
@@ -143,15 +140,11 @@ Genesis validator, but not in active set: <br />
   
 - [dClimate]()
 - [FreeTON]()
-- [Genshiro]()
-- [Goldfinch]()
-- [Qredo]()
 - [Goldfinch]()
 - [Biconomy]()
-- [Flux]()
 - [Persistence]()
 - [Secret Network]()
-- [Sentinel]()
+
 </details>
 
 <details>

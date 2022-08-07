@@ -42,7 +42,6 @@ Genesis validator, but not in active set: <br />
   
   <summary>Active Testnets</summary>
   
-- [Anone](https://test-anone.zenscan.io/validator.php?addr=onevaloper1qvexpwgsav54wykncd03ky4k34h5qxv73pu2a3)
 - [Aura](https://testnet.owlstake.com/Aura-Network/staking/auravaloper1gnf4sxs2qnycrxxyd6gqk9wqa3xjf6h3efl7rz)
 - [Cardchain](https://explorers.acloud.pp.ua/cardchain/staking/ccvaloper1cvaf96kz8jz8u4435p0yrjgel0t8zgz3lhd6m8)
 - [Celestia](https://celestia.explorers.guru/validator/celestiavaloper1gjjqu6ykrfww43uqrv290zmr9j3t9rfnhdcffl)
@@ -82,6 +81,7 @@ Genesis validator, but not in active set: <br />
   <summary>Finished Testnets</summary>
 - [Akash]()
 - [Aleo]()
+- [Anone](https://test-anone.zenscan.io/validator.php?addr=onevaloper1qvexpwgsav54wykncd03ky4k34h5qxv73pu2a3)
 - [Arable]()
 - [Archway]()
 - [Asset Mantle]()

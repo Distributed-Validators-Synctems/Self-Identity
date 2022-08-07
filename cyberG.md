@@ -50,7 +50,6 @@ Genesis validator, but not in active set: <br />
 - [Defund](https://defund.explorers.guru/validator/defundvaloper1v0d46jupe9qehc7kpp8nv8hs4vwyujgctau8vz)
 - [Kira]()
 - [Deweb](https://explore.deweb.services/deweb/staking/dewebvaloper1assygaed22mh9ye98fp53y4gkxyx4cqaqd35ru)
-- [Kyve](https://explorer.kyve.network/korellia/staking/kyvevaloper1fxh88ayzp4zghxcdh8la0kxwhx0v9w4e7nj60c)
 - [Paloma](https://paloma.explorers.guru/validator/palomavaloper14kd965w29se5atw0fzmewr99gkjezk8gpvuu2x) 
 - [Passage]()
 - [Pylons](https://wallet.pylons.tech/validator/pylovaloper1u29z4l8ugjdwp2pm8luwntksh0p9n7dvq8zxs3)
@@ -73,7 +72,7 @@ Genesis validator, but not in active set: <br />
 - [Obol]()
 - [Solana](https://www.validators.app/validators/testnet/28LgQ7MeEZVgNJfYRc6UnoAz2SnSjKbyCKM6sntCRotb?locale=en&order=score&refresh=)
 - [Sui]()
-- [StarkNet]()
+
   </details>
 
   
@@ -108,6 +107,7 @@ Genesis validator, but not in active set: <br />
 - [IRIS]()
 - [Iron Fish]()
 - [Quicksilver](https://quicksilver.explorers.guru/validator/quickvaloper1sgxklkmzdskprcv0xqjml0e789g3z8lu00w66w)
+- [Kyve](https://explorer.kyve.network/korellia/staking/kyvevaloper1fxh88ayzp4zghxcdh8la0kxwhx0v9w4e7nj60c)
 - [Likecoin]()
 - [Meter]()
 - [Minima]()
@@ -116,6 +116,7 @@ Genesis validator, but not in active set: <br />
 - [Plasm]()
 - [PlatON]()
 - [Spacemesh]()
+- [StarkNet]()
 - [Swarm]()
 - [Zeigeist]()
 - [Zenon]()

@@ -54,7 +54,7 @@ Genesis validator, but not in active set: <br />
 - [Passage]()
 - [Pylons](https://wallet.pylons.tech/validator/pylovaloper1u29z4l8ugjdwp2pm8luwntksh0p9n7dvq8zxs3)
 - [Rebus](https://rebus.explorers.guru/validator/rebusvaloper14dv684ed57cgehl5apcl56n2mqsypr7vqrmpvx)
-- [Sei](https://sei.explorers.guru/validator/cosmosvaloper1cz28dzx8zcls720h2nnrd5x8a3kjqy95t3rd0c)  
+- [Sei](https://sei.explorers.guru/validator/seivaloper1cz28dzx8zcls720h2nnrd5x8a3kjqy95axhqy6)  
 - [Stride](https://poolparty.stride.zone/STRIDE/staking/stridevaloper136nl6lu4hvaus6l0lypzqq5gkd3dxvu5eaydk2) 
 - [Teritori](https://explorer.ericet.xyz/teritori/staking/torivaloper1jje55u2pxmxe5d6rckaj0jszal39ckscdrc6yd)
 - [Uptick](https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1rk5lydrxykadmj8t692q47wtuqxx42l5gjjgpd)

@@ -14,6 +14,7 @@ Active Mainnets: <br />
 - [Firmachain](https://explorer.firmachain.dev/validators/firmavaloper1rsnaurdhf8d93ugxpfr0xqjfhhj3rfyyu69qtw)
 - [Gravity](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1yeujyxulrf82age8c9q6mfqy0ueh0pjxa7hd20)
 - [Galaxy](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1f8tm4wspt687qg36c6rrrv8enuwhr5crsuqfjx)
+- [GenesisL1](https://ping.pub/genesisl1/staking/genesisvaloper1mu4sv02tjnelgmg30vd0nx5yd022ty5y69u5da)
 - [IDEP](https://chadscan.com/validators/idepvaloper1e6834a9qfzpp5l6n57wjsfqx5sl3m8a6a4saj6)
 - [Juno](https://www.mintscan.io/juno/validators/junovaloper1353ewfc0v7pnn3xre6v9lraghxrhenswmsjhv0)
 - [Kujira](https://cosmosrun.info/kujira/staking/kujiravaloper1tharcgrfu6j0dcwpe5y6ez3s904rhq2kmccm4k)

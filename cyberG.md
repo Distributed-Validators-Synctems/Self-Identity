@@ -47,7 +47,7 @@ Genesis validator, but not in active set: <br />
 - [Cardchain](https://explorers.acloud.pp.ua/cardchain/staking/ccvaloper1cvaf96kz8jz8u4435p0yrjgel0t8zgz3lhd6m8)
 - [Celestia](https://celestia.explorers.guru/validator/celestiavaloper1gjjqu6ykrfww43uqrv290zmr9j3t9rfnhdcffl)
 - [Clan](https://testnet.explorer.testnet.run/Clan%20Network/staking/clanvaloper1c9t2xur4sx7z5kerp8l8a978dl68fmdxrqegqc) 
-- [Comdex](https://comets-test.comdex.one/validator/comdexvaloper1ha5regczwexcgcnkv30rd5tadffe6recs0w5cl)
+- [Comdex](https://meteor-explorer.comdex.one/comdex-testnet/staking/comdexvaloper1ha5regczwexcgcnkv30rd5tadffe6recs0w5cl)
 - [Defund](https://defund.explorers.guru/validator/defundvaloper1v0d46jupe9qehc7kpp8nv8hs4vwyujgctau8vz)
 - [Kira]()
 - [Deweb](https://explore.deweb.services/deweb/staking/dewebvaloper1assygaed22mh9ye98fp53y4gkxyx4cqaqd35ru)

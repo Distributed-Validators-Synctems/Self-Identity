@@ -22,6 +22,7 @@ Active Mainnets: <br />
 - [Meme](https://ping.pub/meme/staking/memevaloper1g542uxlfqtx5qrcqy95pygn9n99jdtufjahnt2)
 - [Mina Protocol](https://minaexplorer.com/wallet/B62qrgnUUduZy2z7zT8qCV8ngTJfSS1rK3Wh22SHUmrse3Tfqvrhx8q)
 - [Mises](https://gw.mises.site/validator/misesvaloper1jdqtazvd3q35jqgy0radp6x9lsuzqgj456299t)
+- [Moonriver]() Orbiter
 - [NYM]()
 - [OmniFlix](https://www.skynetexplorers.com/omniflix/staking/omniflixvaloper1dfjx8w65h359vy55dvm383ks2xevsne9crkh32)
 - [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1swmud649t386j2csz0gah7ku2zpfu0w7trzr09)

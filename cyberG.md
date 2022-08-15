@@ -4,35 +4,37 @@
 
 ## cyberG activity:
 
-Active Mainnets: <br />
-- [Avalanche](https://avascan.info/staking/validator/NodeID-Jm1k2q2WAkH99w4ZBEgzrmm6Kte39qCWJ)
-- [Bitsong](https://www.mintscan.io/bitsong/validators/bitsongvaloper1mx3gct8chrssamkdfw8fkrdl93knllryalmxpm)
-- [Bostrom](https://cyb.ai/network/bostrom/hero/bostromvaloper1en69twaxmv7xupy8lq7y539dpecx7yz8s43ceg)
+Active Cosmo Mainnets: <br />
+- [Bitsong](https://www.mintscan.io/bitsong/validators/bitsongvaloper1mx3gct8chrssamkdfw8fkrdl93knllryalmxpm) Genesis validator
+- [Bostrom](https://cyb.ai/network/bostrom/hero/bostromvaloper1en69twaxmv7xupy8lq7y539dpecx7yz8s43ceg) Genesis validator
 - [Canto](https://explorer.nodestake.top/canto/staking/cantovaloper1yckfh3najzqhvzzrf4qj2ddkr9h4zav048hjwx)
-- [Certik](https://www.mintscan.io/certik/validators/certikvaloper1yq8a2ksa7dz8wd8wlks3k8nqdmht76xdnrvehx)
+- [Certik](https://www.mintscan.io/certik/validators/certikvaloper1yq8a2ksa7dz8wd8wlks3k8nqdmht76xdnrvehx) Genesis validator
 - [Comdex](https://www.mintscan.io/comdex/validators/comdexvaloper1963hcznh439kspqmjj5hv5h4nk2kphvats5ujk)
-- [Chronic](https://www.skynetexplorers.com/chronic-token/staking/chronicvaloper1x8czjpdy2x9svz0s3u9hdgqxd06ta39y49lnd3)
-- [Firmachain](https://explorer.firmachain.dev/validators/firmavaloper1rsnaurdhf8d93ugxpfr0xqjfhhj3rfyyu69qtw)
-- [Gravity](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1yeujyxulrf82age8c9q6mfqy0ueh0pjxa7hd20)
-- [Galaxy](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1f8tm4wspt687qg36c6rrrv8enuwhr5crsuqfjx)
+- [Chronic](https://www.skynetexplorers.com/chronic-token/staking/chronicvaloper1x8czjpdy2x9svz0s3u9hdgqxd06ta39y49lnd3) Genesis validator
+- [Firmachain](https://explorer.firmachain.dev/validators/firmavaloper1rsnaurdhf8d93ugxpfr0xqjfhhj3rfyyu69qtw) Genesis validator
+- [Gravity](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1yeujyxulrf82age8c9q6mfqy0ueh0pjxa7hd20) Genesis validator
+- [Galaxy](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1f8tm4wspt687qg36c6rrrv8enuwhr5crsuqfjx) Genesis validator
 - [GenesisL1](https://ping.pub/genesisl1/staking/genesisvaloper1mu4sv02tjnelgmg30vd0nx5yd022ty5y69u5da)
 - [IDEP](https://chadscan.com/validators/idepvaloper1e6834a9qfzpp5l6n57wjsfqx5sl3m8a6a4saj6)
 - [Juno](https://www.mintscan.io/juno/validators/junovaloper1353ewfc0v7pnn3xre6v9lraghxrhenswmsjhv0)
-- [Kujira](https://cosmosrun.info/kujira/staking/kujiravaloper1tharcgrfu6j0dcwpe5y6ez3s904rhq2kmccm4k)
+- [Kujira](https://cosmosrun.info/kujira/staking/kujiravaloper1tharcgrfu6j0dcwpe5y6ez3s904rhq2kmccm4k) Genesis validator
 - [Meme](https://ping.pub/meme/staking/memevaloper1g542uxlfqtx5qrcqy95pygn9n99jdtufjahnt2)
-- [Mina Protocol](https://minaexplorer.com/wallet/B62qrgnUUduZy2z7zT8qCV8ngTJfSS1rK3Wh22SHUmrse3Tfqvrhx8q)
 - [Mises](https://gw.mises.site/validator/misesvaloper1jdqtazvd3q35jqgy0radp6x9lsuzqgj456299t)
-- [Moonriver]() Orbiter
-- [NYM]()
-- [OmniFlix](https://www.skynetexplorers.com/omniflix/staking/omniflixvaloper1dfjx8w65h359vy55dvm383ks2xevsne9crkh32)
+- [OmniFlix](https://www.skynetexplorers.com/omniflix/staking/omniflixvaloper1dfjx8w65h359vy55dvm383ks2xevsne9crkh32) Genesis validator
+- [Passage]() Genesis validator
 - [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1swmud649t386j2csz0gah7ku2zpfu0w7trzr09)
-- [Solana](https://www.validators.app/?q=cyberg&network=mainnet&order=score&refresh=&commit=Search)
-- [Stargaze](https://www.mintscan.io/stargaze/validators/starsvaloper1dtk6748uhvmhvakhleclrwprp27pe89vhhw44p)
-- [Tgrade](https://tgrade.aneka.io/validators/tgrade1daujfmddygyty3pjsnr9xhz3vxymh6u00krlym)
+- [Stargaze](https://www.mintscan.io/stargaze/validators/starsvaloper1dtk6748uhvmhvakhleclrwprp27pe89vhhw44p) Genesis validator
+- [Tgrade](https://tgrade.aneka.io/validators/tgrade1daujfmddygyty3pjsnr9xhz3vxymh6u00krlym) Genesis validator
 - [Umee](https://www.mintscan.io/umee/validators/umeevaloper1qa5gkv8a4rzpncgkguv2szh5s83kh69l082zz3)
+
+
+Active non-Cosmo Mainnets: <br />
+- [Avalanche](https://avascan.info/staking/validator/NodeID-Jm1k2q2WAkH99w4ZBEgzrmm6Kte39qCWJ) 
+- [Mina Protocol](https://minaexplorer.com/wallet/B62qrgnUUduZy2z7zT8qCV8ngTJfSS1rK3Wh22SHUmrse3Tfqvrhx8q) GFM
+- [Moonriver]() Orbiter
+- [Solana](https://www.validators.app/?q=cyberg&network=mainnet&order=score&refresh=&commit=Search) Foundation Delegation, Marinade, Boca Chica
 - [Velas](https://velasvalidators.com/7MYojjTNnFsyEs7Pb5Xv3pKeZxUGk6R1kJoLrtSKkSRy)
 - [XX Network](https://dashboard.xx.network/nodes/2C5ngNbgU_r2bUrvzvAGJddGOhNboOt2r5ZSmJ-GezgC)
-
 
 Genesis validator, but not in active set: <br />
 - [Regen](https://regen.aneka.io/accounts/regen1qvn6ghe68l4g0k7s25rujr6yfpyrm6h3399jvu)
@@ -51,10 +53,10 @@ Genesis validator, but not in active set: <br />
 - [Clan](https://testnet.explorer.testnet.run/Clan%20Network/staking/clanvaloper1c9t2xur4sx7z5kerp8l8a978dl68fmdxrqegqc) 
 - [Comdex](https://meteor-explorer.comdex.one/comdex-testnet/staking/comdexvaloper1ha5regczwexcgcnkv30rd5tadffe6recs0w5cl)
 - [Defund](https://defund.explorers.guru/validator/defundvaloper1v0d46jupe9qehc7kpp8nv8hs4vwyujgctau8vz)
-- [Kira]()
 - [Deweb](https://explore.deweb.services/deweb/staking/dewebvaloper1assygaed22mh9ye98fp53y4gkxyx4cqaqd35ru)
+- [Kira]()
+- [NYM]()
 - [Paloma](https://paloma.explorers.guru/validator/palomavaloper14kd965w29se5atw0fzmewr99gkjezk8gpvuu2x) 
-- [Passage]()
 - [Pylons](https://wallet.pylons.tech/validator/pylovaloper1u29z4l8ugjdwp2pm8luwntksh0p9n7dvq8zxs3)
 - [Rebus](https://rebus.explorers.guru/validator/rebusvaloper14dv684ed57cgehl5apcl56n2mqsypr7vqrmpvx)
 - [Sei](https://sei.explorers.guru/validator/seivaloper1cz28dzx8zcls720h2nnrd5x8a3kjqy95axhqy6)  
@@ -66,12 +68,11 @@ Genesis validator, but not in active set: <br />
 <details>
   <summary>Active non-Cosmos Testnets</summary>
   
-- [Aptos](https://explorer.devnet.aptos.dev/account/0xd8f711edb40b96cc8c27c0997640b4727e9cdaa408cbfc916413a2315bc9e3ef)
+- [Aptos](https://explorer.devnet.aptos.dev/account/0xd8f711edb40b96cc8c27c0997640b4727e9cdaa408cbfc916413a2315bc9e3ef) AIT-2
 - [BlockPi](http://testnet.explorer.blockpi.io/hypernode/0x626b57e2445e1e3cf13333349a9270f8203b901c?page=4&perPage=20)  
 - [DevxDAO]()
 - [Gear]()
 - [Masa]()
-- [NYM]()
 - [Obol]()
 - [Solana](https://www.validators.app/validators/testnet/28LgQ7MeEZVgNJfYRc6UnoAz2SnSjKbyCKM6sntCRotb?locale=en&order=score&refresh=)
 - [Sui]()

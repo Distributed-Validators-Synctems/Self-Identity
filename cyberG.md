@@ -32,6 +32,7 @@ Active non-Cosmo Mainnets: <br />
 - [Avalanche](https://avascan.info/staking/validator/NodeID-Jm1k2q2WAkH99w4ZBEgzrmm6Kte39qCWJ) 
 - [Mina Protocol](https://minaexplorer.com/wallet/B62qrgnUUduZy2z7zT8qCV8ngTJfSS1rK3Wh22SHUmrse3Tfqvrhx8q) GFM
 - [Moonriver]() Orbiter
+- [NYM](https://mixnet.explorers.guru/gateways) Gateway and Requestor
 - [Solana](https://www.validators.app/?q=cyberg&network=mainnet&order=score&refresh=&commit=Search) Foundation Delegation, Marinade, Boca Chica
 - [Velas](https://velasvalidators.com/7MYojjTNnFsyEs7Pb5Xv3pKeZxUGk6R1kJoLrtSKkSRy)
 - [XX Network](https://dashboard.xx.network/nodes/2C5ngNbgU_r2bUrvzvAGJddGOhNboOt2r5ZSmJ-GezgC)
@@ -55,7 +56,6 @@ Genesis validator, but not in active set: <br />
 - [Defund](https://defund.explorers.guru/validator/defundvaloper1v0d46jupe9qehc7kpp8nv8hs4vwyujgctau8vz)
 - [Deweb](https://explore.deweb.services/deweb/staking/dewebvaloper1assygaed22mh9ye98fp53y4gkxyx4cqaqd35ru)
 - [Kira]()
-- [NYM]()
 - [Paloma](https://paloma.explorers.guru/validator/palomavaloper14kd965w29se5atw0fzmewr99gkjezk8gpvuu2x) 
 - [Pylons](https://wallet.pylons.tech/validator/pylovaloper1u29z4l8ugjdwp2pm8luwntksh0p9n7dvq8zxs3)
 - [Rebus](https://rebus.explorers.guru/validator/rebusvaloper14dv684ed57cgehl5apcl56n2mqsypr7vqrmpvx)
@@ -73,6 +73,7 @@ Genesis validator, but not in active set: <br />
 - [Casper](https://testnet.cspr.live/validator/010a6b601408889363dc003943c9234e1bcd9ac074da385c45ff2cd4aa2c9283ce)
 - [Gear]()
 - [Masa]()
+- [Mundis]()
 - [Obol]()
 - [Solana](https://www.validators.app/validators/testnet/28LgQ7MeEZVgNJfYRc6UnoAz2SnSjKbyCKM6sntCRotb?locale=en&order=score&refresh=)
 - [Sui]()

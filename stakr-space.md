@@ -1,17 +1,34 @@
 <a href="https://stakr.space"><img src="https://user-images.githubusercontent.com/38581319/123712181-1b404400-d872-11eb-9213-9cde86c03d73.PNG" width="300" height="300" /></a>
 
-## STAKR.space participates in 65+ different Networks
+## STAKR.space participates in 75+ different Networks
 
 Current mainnets: <br />
 [Solana](https://www.validators.app/validators/mainnet/E9hD3ikumJx1GVswDjnpCt6Uu4WG5mz1PDWCqdE5uhmo?locale=en&order=&refresh=) - Bocachica Approved, Foundation Delegated, Liquid Staking Delegated<br />
 [Velas](https://velasvalidators.com/He8EzKJ7dmp37oecC7NnSGSicXdRubjjovd9xWR9UPYH) - Foundation Delegated<br />
 [Everscale (exFreeTON)](https://ton.live/accounts/accountDetails?id=0%3A91163b1721e5920726053b51baf39be62e9c058fc348913d3619503d6710f92b) - Magister Ludi, Depool contest and RustCup winner<br />
+[Forta](https://api.forta.network/stats/sla/scanner/0x917b57D2D78e39978c25F9495e03Dc0F6c05Cc2d) - mainnet scanner, foundation delegated<br/>
 [Omniflix](https://www.skynetexplorers.com/omniflix/staking/omniflixvaloper1vcjmshcst9zjh4pydsvqdssg86nzheykssjh5m) - Approved Mainnet Validator<br />
 [Persistence AssetMantle](https://www.mintscan.io/asset-mantle/validators/mantlevaloper1z79zeeyvdgqddevdng3u8d3kqt87dtq3jhsqvq) - Approved Mainnet and Community Validator<br />
+[Nym Gateway+Requester service](https://explorer.nymtech.net/network-components/gateways) - NYM team selected grantee </br>
+[Tgrade](https://tgrade.aneka.io/validators/tgrade1dz487qtggarfaxja70grhs3lgfv02mpn0l9f3j) - Approved Mainnet Validator<br />
+[Passage](https://passage.aneka.io/validators/pasgvaloper1usm9f4udzle85670u7emgf5xlnqnsveujazh3h) - Approved Mainnet Validator<br />
 [Galaxy](https://explorer.postcapitalist.io/Galaxy/staking/galaxyvaloper1wuem8vc5tmlm3m7gaqt00qn37dxe9vkuzqsn4j) - Approved Mainnet Validator<br />
-[Nym Mixnode+Gateway](https://mixnet.explorers.guru/mixnode/6NdoxmY35ixxSitGSm9UcxzdNEgKiCc6dspXsjbRfvGr) - Rewarded testnet validator </br>
-[Tgrade](https://tgrade.aneka.io/validators/tgrade1dz487qtggarfaxja70grhs3lgfv02mpn0l9f3j) - Approved Mainnet Validator<br />[Passage](https://passage3d.com) - Approved Mainnet Validator<br />
 <!--- [Hopr](https://hoprnet.org/) - Diamond Hodler<br /> --->
+
+Actual testnets:<br/>
+Aptos - AIT2 selected validator<br/>
+Sui - testnet selected validator<br/>
+BlockPi - testnet selected operator<br/>
+Gitopia - testnet selected validator<br/>
+Sei - Seinami testnet selected validator<br/>
+Stride - testnet selected validator<br/>
+Rebus - testnet selected validator<br/>
+Aura - testnet selected validator<br/>
+Deweb - testnet participant<br/>
+Starknet - rust node testnet participant<br/>
+Aleph zero - testnet participant<br/>
+Gear - testnet participant<br/>
+
 
 
 Inactive mainnet validators due to stake discrimination: </br>
@@ -77,10 +94,7 @@ Rizon - preparing to run self-funded validator<br />
     Kyve<br/>
     Uptick<br/>
     Subspace<br/>
-    Aptos<br/>
-    Gear<br/>
     Archway<br/>
-    Gitopia<br/>
     [Another1](https://test-anone.zenscan.io/validator.php?addr=onevaloper1g2467695x0yacssvs8q6zc04ek8dg42lhqtkpx)</br>
     Craft</br>
     ...

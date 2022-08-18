@@ -1,6 +1,6 @@
 <a href="https://stakr.space"><img src="https://user-images.githubusercontent.com/38581319/123712181-1b404400-d872-11eb-9213-9cde86c03d73.PNG" width="300" height="300" /></a>
 
-## STAKR.space participates in 75+ different Networks
+## STAKR.space participates in 80+ different Networks
 
 Current mainnets: <br />
 [Solana](https://www.validators.app/validators/mainnet/E9hD3ikumJx1GVswDjnpCt6Uu4WG5mz1PDWCqdE5uhmo?locale=en&order=&refresh=) - Bocachica Approved, Foundation Delegated, Liquid Staking Delegated<br />
@@ -16,9 +16,12 @@ Current mainnets: <br />
 <!--- [Hopr](https://hoprnet.org/) - Diamond Hodler<br /> --->
 
 Actual testnets:<br/>
-Aptos - AIT2 selected validator<br/>
+Aptos - AIT2 selected and rewarded validator<br/>
 Sui - testnet selected validator<br/>
 BlockPi - testnet selected operator<br/>
+Mundis - testnet selected validator<br/>
+Obol - - testnet selected validator team<br/>
+Quicksilver - testnet rewarded validator<br/>
 Gitopia - testnet selected validator<br/>
 Sei - Seinami testnet selected validator<br/>
 Stride - testnet selected validator<br/>
@@ -28,6 +31,11 @@ Deweb - testnet participant<br/>
 Starknet - rust node testnet participant<br/>
 Aleph zero - testnet participant<br/>
 Gear - testnet participant<br/>
+Near - testnet participant<br/>
+Gnoland - testnet participant<br/>
+Espresso Systems - testnet participant<br/>
+Penumbra - testnet participant<br/>
+Celestia - testnet participant<br/>
 
 
 

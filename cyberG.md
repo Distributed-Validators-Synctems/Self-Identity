@@ -46,7 +46,7 @@ Genesis validator, but not in active set: <br />
 - [Microtick](https://explorer.microtick.zone/validators/microvaloper1z7crvuuks7yk33qwx4nv68nzhwznkmt96ddm5l) Migrated to Polygon
 <details>
   
-  <summary>Active Testnets</summary>
+  <summary>Active Cosmo Testnets</summary>
   
 - [Aura](https://testnet.owlstake.com/Aura-Network/staking/auravaloper1gnf4sxs2qnycrxxyd6gqk9wqa3xjf6h3efl7rz)
 - [Cardchain](https://explorers.acloud.pp.ua/cardchain/staking/ccvaloper1cvaf96kz8jz8u4435p0yrjgel0t8zgz3lhd6m8)

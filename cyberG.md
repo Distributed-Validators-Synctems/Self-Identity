@@ -83,7 +83,7 @@ Genesis validator, but not in active set: <br />
   </details>
   
   <details>
-  <summary>Testnet ffor Mainnet chains</summary>
+  <summary>Testnet for Mainnet chains</summary>
   
 - [Comdex](https://meteor-explorer.comdex.one/comdex-testnet/staking/comdexvaloper1ha5regczwexcgcnkv30rd5tadffe6recs0w5cl)
 - [Juno]()  

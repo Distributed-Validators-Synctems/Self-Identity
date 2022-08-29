@@ -54,9 +54,8 @@ Genesis validator, but not in active set: <br />
 - [Cardchain](https://explorers.acloud.pp.ua/cardchain/staking/ccvaloper1cvaf96kz8jz8u4435p0yrjgel0t8zgz3lhd6m8)
 - [Celestia](https://celestia.explorers.guru/validator/celestiavaloper1gjjqu6ykrfww43uqrv290zmr9j3t9rfnhdcffl)
 - [Clan](https://testnet.explorer.testnet.run/Clan%20Network/staking/clanvaloper1c9t2xur4sx7z5kerp8l8a978dl68fmdxrqegqc) 
-- [Comdex](https://meteor-explorer.comdex.one/comdex-testnet/staking/comdexvaloper1ha5regczwexcgcnkv30rd5tadffe6recs0w5cl)
-- [Defund](https://defund.explorers.guru/validator/defundvaloper1v0d46jupe9qehc7kpp8nv8hs4vwyujgctau8vz)
 - [Deweb](https://explore.deweb.services/deweb/staking/dewebvaloper1assygaed22mh9ye98fp53y4gkxyx4cqaqd35ru)
+- [Islamic](https://testnet.manticore.team/haqq/staking/haqqvaloper18dvg9hgl9ngqakewcse203rwrmgd0evqmz7sxk)
 - [Kira]()
 - [Paloma](https://paloma.explorers.guru/validator/palomavaloper14kd965w29se5atw0fzmewr99gkjezk8gpvuu2x) 
 - [Pylons](https://wallet.pylons.tech/validator/pylovaloper1u29z4l8ugjdwp2pm8luwntksh0p9n7dvq8zxs3)
@@ -82,6 +81,16 @@ Genesis validator, but not in active set: <br />
 - [Sui]()
 
   </details>
+  
+  <details>
+  <summary>Testnet ffor Mainnet chains</summary>
+  
+- [Comdex](https://meteor-explorer.comdex.one/comdex-testnet/staking/comdexvaloper1ha5regczwexcgcnkv30rd5tadffe6recs0w5cl)
+- [Juno]()  
+- [Omniflix]()
+- [Tgrade]()
+
+  </details>
 
   
   <details>
@@ -104,6 +113,7 @@ Genesis validator, but not in active set: <br />
 - [Crescent]()
 - [Cryptocom]()
 - [Decentr]()
+- [Defund](https://defund.explorers.guru/validator/defundvaloper1v0d46jupe9qehc7kpp8nv8hs4vwyujgctau8vz)
 - [Evmos]()
 - [Filecoin]()
 - [Firmachain]()

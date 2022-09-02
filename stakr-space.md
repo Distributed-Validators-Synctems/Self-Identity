@@ -5,7 +5,7 @@
 Current mainnets: <br />
 [Solana](https://www.validators.app/validators/mainnet/E9hD3ikumJx1GVswDjnpCt6Uu4WG5mz1PDWCqdE5uhmo?locale=en&order=&refresh=) - Bocachica Approved, Foundation Delegated, Liquid Staking Delegated<br />
 [Velas](https://velasvalidators.com/He8EzKJ7dmp37oecC7NnSGSicXdRubjjovd9xWR9UPYH) - Foundation Delegated<br />
-[Everscale (exFreeTON)](https://ton.live/accounts/accountDetails?id=0%3A91163b1721e5920726053b51baf39be62e9c058fc348913d3619503d6710f92b) - Magister Ludi, Depool contest and RustCup winner<br />
+[Everscale](https://ever.live/accounts/accountDetails?id=0%3A91163b1721e5920726053b51baf39be62e9c058fc348913d3619503d6710f92b) - Magister Ludi, Depool contest and RustCup winner<br />
 [Forta](https://api.forta.network/stats/sla/scanner/0x917b57D2D78e39978c25F9495e03Dc0F6c05Cc2d) - mainnet scanner, foundation delegated<br/>
 [Omniflix](https://www.skynetexplorers.com/omniflix/staking/omniflixvaloper1vcjmshcst9zjh4pydsvqdssg86nzheykssjh5m) - Approved Mainnet Validator<br />
 [Persistence AssetMantle](https://www.mintscan.io/asset-mantle/validators/mantlevaloper1z79zeeyvdgqddevdng3u8d3kqt87dtq3jhsqvq) - Approved Mainnet and Community Validator<br />

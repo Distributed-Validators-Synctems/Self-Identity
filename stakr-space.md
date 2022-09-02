@@ -16,28 +16,26 @@ Current mainnets: <br />
 <!--- [Hopr](https://hoprnet.org/) - Diamond Hodler<br /> --->
 
 Actual testnets:<br/>
-Aptos - AIT2 selected and rewarded validator<br/>
-Sui - testnet selected validator<br/>
-BlockPi - testnet selected operator<br/>
+[Aptos](https://explorer.devnet.aptos.dev/account/0x4449959032d51d85aae24c37ad6a9c5a27499b7d7b67dfd5327e61eb2bc3051c?network=ait3) - AIT2 selected and rewarded validator, AIT3 selected validator<br/>
+[BlockPi](https://testnet.explorer.blockpi.io/hypernode/0x491e08d6ed9ef3e3c84691ca66558682389f12af?page=1&perPage=100) - testnet selected operator<br/>
 Mundis - testnet selected validator<br/>
-Obol - - testnet selected validator team<br/>
+[Obol](http://65.109.25.49:3000/d/singlenode/single-charon-node-dashboard?orgId=1&refresh=10s) - testnet selected validator team<br/>
 Quicksilver - testnet rewarded validator<br/>
 Gitopia - testnet selected validator<br/>
-Sei - Seinami testnet selected validator<br/>
-Stride - testnet selected validator<br/>
-Rebus - testnet selected validator<br/>
-Aura - testnet selected validator<br/>
-Deweb - testnet participant<br/>
+[Sei](https://sei.explorers.guru/validator/seivaloper1ljat0ed6wufa7xmg8uuhu5rjyktn9f6qqxsu9v) - Seinami testnet selected validator<br/>
+[Stride](https://stride.explorers.guru/validator/stridevaloper1eameggr889lcvr3ftr7wmekkzuzvxn3kljljjw) - testnet selected validator<br/>
+[Rebus](https://rebus.explorers.guru/validator/rebusvaloper138fk9ls4asxy9a8tg48c9jwcext4h3k3mdfnj6) - testnet selected validator<br/>
+[Aura](https://euphoria.aurascan.io/validators/auravaloper1hpd5sq6p27d7vf4cpfex5m0r5evjp3jqckwsm3) - testnet selected validator<br/>
+[Deweb](https://explorer.postcapitalist.io/DWS/staking/dewebvaloper147uz794j7jvgeeef6vg2eekdx8r9nvluwcq6fk) - testnet participant<br/>
 Starknet - rust node testnet participant<br/>
-Aleph zero - testnet participant<br/>
-Gear - testnet participant<br/>
+[Aleph zero](https://telemetry.azero.dev/#/0x05d5279c52c484cc80396535a316add7d47b1c5b9e0398dd1f584149341460c5) - testnet participant<br/>
+[Gear](https://telemetry.gear-tech.io/#list/0x6cf0c78d265512c4f4e7d8c046ef25795f163fe476a838b64e7dbf2cdc164593) - testnet participant<br/>
+Sui - testnet validator<br/>
 Near - testnet participant<br/>
 Gnoland - testnet participant<br/>
 Espresso Systems - testnet participant<br/>
 Penumbra - testnet participant<br/>
 Celestia - testnet participant<br/>
-
-
 
 Inactive mainnet validators due to stake discrimination: </br>
 [Mina](https://mina.staketab.com/validator/B62qpsMTL1mTaQUQUTQzVM1qvyGTCLVAhr8whJc7tUfmnPEuZnanzUe) - Genesis Founding Member, QA task force - redelegating ATM due to stake overconcentration in network<br />
@@ -45,7 +43,6 @@ Inactive mainnet validators due to stake discrimination: </br>
 [Syntropy.network](https://telemetry-ui.syntropynet.com/#list/0x38d3fc98d685608c6d9bb707e729ec0b7f73de92e5d9c148a28b5c9decaeabd3) - Amber Chain self-funded validator</br> 
 [Umee](https://www.mintscan.io/umee/validators/umeevaloper15vjtlc389fujejjuulqw47fyqhvfupgs8ed905) - Self-funded validator, genesis participant </br>
 [Crescent](https://www.mintscan.io/crescent/validators/crevaloper1w7nqp7d9rvhn8axnvtc0lt64rr4rsqknh9jx5j) - Self-funded validator</br>
-
 <!---
 Band - preparing to run self-funded validator<br />
 Bitsong - preparing to run self-funded validator<br />
@@ -57,9 +54,7 @@ Ki - preparing to run self-funded validator<br />
 Medibloc - preparing to run self-funded validator<br />
 Rizon - preparing to run self-funded validator<br /> 
 --->
-<br />
-
-48+ finished or developing test-nets: <br />
+50+ finished or developing test-nets: <br />
   [Umee](https://umee.cc) Umeevengers 7th place[[leaderboard]](https://leaderboard.umee.cc) Medium [[blogpost]](https://medium.com/umeeblog/rise-of-the-umeevengers-final-scores-and-closing-ceremony-f872eeba55bc) [[gentx1]](https://github.com/umee-network/testnets/pull/137) [[gentx2]](https://github.com/umee-network/testnets/pull/297)</br>
   [Akash - Awesome Akash winner](https://akash.network/) - [[pull request]](https://github.com/papanomad535/awesome-akash/tree/master/owncloud)<br />
     [Sentinel](https://sentinel.co)<br />

@@ -37,6 +37,11 @@ Espresso Systems - testnet participant<br/>
 Penumbra - testnet participant<br/>
 Celestia - testnet participant<br/>
 
+Servers and architecture, technology stack:
+mostly AMD Ryzen 9 5950x, 128RAM, 7Tb NVME, 1Gbit+ network. Sentry nodes where necessary, apparmor/firewalls, ssh keys access, prometheus+node_exporter+grafana+telegram alerting.<br/>
+Baremetal servers located in EU(NL,DE,FI,RU) and US.
+
+
 Inactive mainnet validators due to stake discrimination: </br>
 [Mina](https://mina.staketab.com/validator/B62qpsMTL1mTaQUQUTQzVM1qvyGTCLVAhr8whJc7tUfmnPEuZnanzUe) - Genesis Founding Member, QA task force - redelegating ATM due to stake overconcentration in network<br />
 [Sifchain](https://www.mintscan.io/sifchain/validators/sifvaloper1kx5hexg5fhskesdvkk9zycmwu8tym6gejns3ew) - Self-funded and community validator</br>

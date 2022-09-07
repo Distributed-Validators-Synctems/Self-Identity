@@ -131,6 +131,8 @@ Some of NFT badges:<br/>
 [Guild of Guardians Founder Member](https://rarible.com/token/0x22c1f6050e56d2876009903609a2cc3fef83b415:290121?tab=overview)<br/>
 [Mstable Discord OG](https://rarible.com/token/0x22c1f6050e56d2876009903609a2cc3fef83b415:585018?tab=overview)<br/>
 
+<img src="https://s3.eu-central-1.amazonaws.com/nft.metakafe.xyz/images/09b339ad686d8f0f0db2273f42ddef23.png" width="150" height="150" /><img src="https://ipfs.io/ipfs/bafkreidgxnidgor7c5ovoskxmy5kp6iqloatsy7gvsc3vzwbq5eqvbnb24" width="150" height="150" /><img src="https://assets.poap.xyz/banklessru-gr9-supporter-2021-logo-1616446739452.png" width="150" height="150" /><img src="https://assets.poap.xyz/apprentice-alchemist-2021-logo-1627569332734.png" width="150" height="150" /><img src="https://assets.poap.xyz/guild-of-guardians-founder-badge-2021-logo-1622519386875.png" width="150" height="150" /><img src="https://assets.poap.xyz/mstable-welcome-to-discord-2021-logo-1626939147165.png" width="150" height="150" />
+
 Reach out: <br />
 - [STAKR site](https://stakr.space#contact)
 - [Blog](https://github.com/papanomad535/blog)

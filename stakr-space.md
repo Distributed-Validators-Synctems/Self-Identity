@@ -112,6 +112,19 @@ Activities:</a>
     Akash - [guides, essays](https://github.com/papanomad535/blog/blob/main/akash-deployment/deployments-and-persistent-storage.md)</br>
     Klever - [guides, monitoring](https://github.com/papanomad535/blog/tree/main/klever-testnet)</br>
     DVS multisig web ui signer - [link](https://cosmos-multisig-6gcn2a7ce-dvs-app.vercel.app/)
+<br/>
+
+Some of NFT badges:<br/>
+[Humanode](https://rarible.com/token/0x495f947276749ce646f68ac8c248420045cb7b5e:94545460772546067351514636360142996169945067548883410963222571441040706764920?tab=overview)<br/>
+[Gitcoin donor hero](https://rarible.com/token/polygon/0xefb8d4be4ff8cc3d7e3e0fe2773d620d5eb02181:51268?tab=overview)<br/>
+[Dataverse gitcoin donator](https://rarible.com/token/polygon/0x85e8a5a65fa9e73c93618c919134b5c51bac0339:14444?tab=overview)<br/>
+[BanklessRU GR9 contributor](https://rarible.com/token/0x22c1f6050e56d2876009903609a2cc3fef83b415:108361?tab=overview)<br/>
+[Arbitrum odyssey](https://rarible.com/token/polygon/0x1871464f087db27823cff66aa88599aa4815ae95:810663?tab=overview)<br/>
+[Forta scanners](https://rarible.com/token/polygon/0xbf2920129f83d75dec95d97a879942cce3dcd387:830554303943571607550592954065821301684320980013?tab=overview)<br/>
+[Goldfinch](https://rarible.com/token/0xba0439088dc1e75f58e0a7c107627942c15cbb41:0?tab=overview)<br/>
+[Covalent Apprentice Alchemist](https://rarible.com/token/0x22c1f6050e56d2876009903609a2cc3fef83b415:677998?tab=overview)<br/>
+[Guild of Guardians Founder Member](https://rarible.com/token/0x22c1f6050e56d2876009903609a2cc3fef83b415:290121?tab=overview)<br/>
+[Mstable Discord OG](https://rarible.com/token/0x22c1f6050e56d2876009903609a2cc3fef83b415:585018?tab=overview)<br/>
 
 Reach out: <br />
 - [STAKR site](https://stakr.space#contact)

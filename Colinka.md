@@ -11,6 +11,8 @@
 - [AssetMantle](https://assetmantle.explorers.guru/validator/mantlevaloper1907n5d2xwy3av597y6347dsc2ktpl2d9uskpsf)
 - [Galaxy](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1h9n94zezpupvejarv0yfm5783xfpzuvzu4da72)
 - [NYM](https://mixnet.explorers.guru/mixnode/EW4w94rZBBhrH1eiwuAbySGWkmQ3kaviRqwE1PW5VY85)
+- [Passage](https://www.skynetexplorers.com/passage/staking/pasgvaloper17yvc8wyvrwgk4j52dxagaf96akq4znu0rjjh3e)
+- [Rebus]
 
 35 test-nets: <br />
 

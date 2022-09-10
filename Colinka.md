@@ -2,7 +2,7 @@
 
 ## Colinka validate 43 different Networks
 
-8 main-nets: <br />
+10 main-nets: <br />
 - [Solana](https://www.validators.app/validators/mainnet/8QLfmTYxnws98ogFfxdpvRSfSR7U9HLcighZHNfFNQwT)
 - [Mina Protocol](https://minaprotocol.com/)
 - [Idena](https://scan.idena.io/identity/0x70aa61e47d11231b4d38fd1e83312854e5a5b15a)

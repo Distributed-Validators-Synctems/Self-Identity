@@ -2,7 +2,7 @@
 
 ## Colinka validate 45 different Networks
 
-10 main-nets: <br />
+12 main-nets: <br />
 - [Solana](https://www.validators.app/validators/mainnet/8QLfmTYxnws98ogFfxdpvRSfSR7U9HLcighZHNfFNQwT)
 - [Mina Protocol](https://minaprotocol.com/)
 - [Idena](https://scan.idena.io/identity/0x70aa61e47d11231b4d38fd1e83312854e5a5b15a)
@@ -13,6 +13,8 @@
 - [NYM](https://mixnet.explorers.guru/mixnode/EW4w94rZBBhrH1eiwuAbySGWkmQ3kaviRqwE1PW5VY85)
 - [Passage](https://www.skynetexplorers.com/passage/staking/pasgvaloper17yvc8wyvrwgk4j52dxagaf96akq4znu0rjjh3e)
 - [Rebus](https://rebus.explorers.guru/validator/rebusvaloper1ham7afp4h2za7nzmclkay62nv2tutsk028vcn3)
+- [Meme](https://ping.pub/meme/staking/memevaloper1g3pqepvuwmwe3whswpgu5fjs0sp9pshua5kkq6)
+- [Canto](https://explorer.nodestake.top/canto/staking/cantovaloper17wfkxgledvk6vqgjpx7nyjj5dedw6t5uky0sz6)
 
 35 test-nets: <br />
 

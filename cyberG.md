@@ -52,7 +52,7 @@ Genesis validator, but not in active set: <br />
   
   <summary>Active Cosmo Testnets</summary>
   
-- [Aura](https://testnet.owlstake.com/Aura-Network/staking/auravaloper1gnf4sxs2qnycrxxyd6gqk9wqa3xjf6h3efl7rz)
+
 - [Cardchain](https://explorers.acloud.pp.ua/cardchain/staking/ccvaloper1cvaf96kz8jz8u4435p0yrjgel0t8zgz3lhd6m8)
 - [Celestia](https://celestia.explorers.guru/validator/celestiavaloper1gjjqu6ykrfww43uqrv290zmr9j3t9rfnhdcffl)
 - [Clan](https://testnet.explorer.testnet.run/Clan%20Network/staking/clanvaloper1c9t2xur4sx7z5kerp8l8a978dl68fmdxrqegqc) 
@@ -69,13 +69,10 @@ Genesis validator, but not in active set: <br />
 <details>
   <summary>Active non-Cosmos Testnets</summary>
   
-- [Aptos](https://explorer.devnet.aptos.dev/account/0xd8f711edb40b96cc8c27c0997640b4727e9cdaa408cbfc916413a2315bc9e3ef) AIT-2 ,AIT-3
 - [BlockPi](http://testnet.explorer.blockpi.io/hypernode/0x626b57e2445e1e3cf13333349a9270f8203b901c?page=4&perPage=20)  
 - [Casper](https://testnet.cspr.live/validator/010a6b601408889363dc003943c9234e1bcd9ac074da385c45ff2cd4aa2c9283ce)
 - [Gear]()
 - [Masa]()
-- [Mundis]()
-- [Near]()
 - [Obol]()
 - [Solana](https://www.validators.app/validators/testnet/28LgQ7MeEZVgNJfYRc6UnoAz2SnSjKbyCKM6sntCRotb?locale=en&order=score&refresh=)
 - [Sui]()
@@ -98,10 +95,12 @@ Genesis validator, but not in active set: <br />
 - [Akash]()
 - [Aleo]()
 - [Anone](https://test-anone.zenscan.io/validator.php?addr=onevaloper1qvexpwgsav54wykncd03ky4k34h5qxv73pu2a3)
+- [Aptos](https://explorer.devnet.aptos.dev/account/0xd8f711edb40b96cc8c27c0997640b4727e9cdaa408cbfc916413a2315bc9e3ef) AIT-2 ,AIT-3
 - [Arable]()
 - [Archway]()
 - [Asset Mantle]()
 - [Althea]()
+- [Aura](https://testnet.owlstake.com/Aura-Network/staking/auravaloper1gnf4sxs2qnycrxxyd6gqk9wqa3xjf6h3efl7rz)
 - [Blockstack]()
 - [Bitcountry]()
 - [Cere]()
@@ -116,7 +115,6 @@ Genesis validator, but not in active set: <br />
 - [Defund](https://defund.explorers.guru/validator/defundvaloper1v0d46jupe9qehc7kpp8nv8hs4vwyujgctau8vz)
 - [Evmos]()
 - [Filecoin]()
-- [Firmachain]()
 - [Frontier]()
 - [Galital]()
 - [GAME]()
@@ -129,6 +127,8 @@ Genesis validator, but not in active set: <br />
 - [Likecoin]()
 - [Meter]()
 - [Minima]()
+- [Mundis]()
+- [Near]()
 - [NUcypher]()
 - [Phala]()
 - [Plasm]()

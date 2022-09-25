@@ -81,7 +81,7 @@ Genesis validator, but not in active set: <br />
   
   <details>
   <summary>Testnet for Mainnet chains</summary>
-  
+- [Avalanche](https://testnet.avascan.info/staking/validator/NodeID-FrTsGF9amKZvwcRdwY5mpmMKH4nrkDp7R) 
 - [Comdex](https://meteor-explorer.comdex.one/comdex-testnet/staking/comdexvaloper1ha5regczwexcgcnkv30rd5tadffe6recs0w5cl)
 - [Juno](https://testnet.mintscan.io/juno-testnet/validators/junovaloper1j225xp7w6336e2az256ty9cszlun9ze4ctmqqd)  
 - [Omniflix]()

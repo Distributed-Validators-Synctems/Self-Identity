@@ -36,7 +36,7 @@ Active non-Cosmo Mainnets: <br />
 - [Mina Protocol](https://minaexplorer.com/wallet/B62qrgnUUduZy2z7zT8qCV8ngTJfSS1rK3Wh22SHUmrse3Tfqvrhx8q) GFM
 - [Moonriver]() Orbiter
 - [NYM](https://mixnet.explorers.guru/gateways) Gateway and Requestor
-- [Solana](https://www.validators.app/?q=cyberg&network=mainnet&order=score&refresh=&commit=Search) Foundation Delegation, Marinade, Boca Chica
+- [Solana](https://www.validators.app/validators/GmZ7xFQ4GHDbQw4CSnFT9pAHa15u35qTN8e259UrBh9D?locale=en&network=mainnet&order=score&refresh=) Foundation Delegation, Marinade, Boca Chica
 - [TheGraph](https://thegraph.com/explorer/profile?id=0x1741aa86897ec6c66ff4522c0b0646962bc86d6e&view=Indexing) Cooperative Indexer
 - [Velas](https://velasvalidators.com/7MYojjTNnFsyEs7Pb5Xv3pKeZxUGk6R1kJoLrtSKkSRy)
 - [XX Network](https://dashboard.xx.network/nodes/2C5ngNbgU_r2bUrvzvAGJddGOhNboOt2r5ZSmJ-GezgC)

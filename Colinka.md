@@ -53,6 +53,7 @@
 - [StarkNet](https://starknet.io/)
 - [Minima](https://www.minima.global/)
 - [Subspace](https://subspace.network/)
+- [Joystream](https://www.joystream.org/)
 
 Activities: <br />
 - MantaNetwork - Regional Commander

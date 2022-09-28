@@ -2,9 +2,6 @@
 
 # Validator DomaNodes validate 2 main-nets
 
-- [SifChain](https://www.mintscan.io/sifchain/validators/sifvaloper1egdnktas7ewzudyn2t4hxd2l2awsahkz7za26z)
-- [Juno](https://www.mintscan.io/juno/validators/junovaloper1eslgmvrdyfr7rzkur93q7u6wnknv56lrwsht0c)
-
 # Test-nets:
 
 - [CasperLabs](https://testnet.cspr.live/validator/0158ed3b452164d0f79e65e05cec9052f6b0acb6c470159bd9ed41037bd20c0100)

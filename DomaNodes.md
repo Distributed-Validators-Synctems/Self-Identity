@@ -1,7 +1,7 @@
 ![DomaNodes](https://user-images.githubusercontent.com/38581319/140642783-1205824f-33ca-4f99-844b-805558ef15fd.png)
 
 # Validator DomaNodes 
-- [assetMantle](https://explorer.assetmantle.one/validators/mantlevaloper1g09pl3j043uqpw7zqkrdsxw3ve7u63efj2q0gy)
+- [AssetMantle](https://explorer.assetmantle.one/validators/mantlevaloper1g09pl3j043uqpw7zqkrdsxw3ve7u63efj2q0gy)
 
 # Test-nets:
 

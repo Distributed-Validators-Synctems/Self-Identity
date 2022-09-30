@@ -1,9 +1,11 @@
 <img src="https://user-images.githubusercontent.com/59205554/162392362-21426138-1f93-4563-a7a7-7fba06774134.PNG" alt="web34ever" width="250" height="250">
 
 ## Who am I?
-Passionate experts with over five years of expertise in decentralized technologies. Professional validator and full time enthusiast from 2015 with powerful knowledge and exhaustive experience in crypto industry, successfully participated in more than 50 testnets. Validate many known mainnet networks such as Solana, MinaProtocol, Avalanche, TheGraph, CertiK, Sentinel, XX-network, FreeTON, Microtick, LikeCoin. Ambassador in Moonbeam, FreeTon (Jury in NFT Subgovarnance), Covalent networks, Polygon, Octopus, Sentinel, TheGraph curator. Co-founder of the rapidly developing crypto [consortium](https://koinsortium.com/). Feel free to familiarize yourself with the list of projects below to which I contributed my knowledge, skills and invaluable experience:
+Passionate experts with over five years of expertise in decentralized technologies. Professional validator and full time enthusiast from 2015 with powerful knowledge and exhaustive experience in crypto industry. Co-founder of the rapidly developing crypto [Distributed Validator Synctems](https://validators.network/). Co-founder and mentor in [validator school](https://github.com/Distributed-Validators-Synctems/Validator-School).
 
-## Web34ever validate **many** different Networks
+Please feel free to familiarize with the list of projects below to which I contributed my knowledge, skills and invaluable experience:
+
+##                               # web34ever validate 26 main-nets
                                                         Main-Networks
 								 	
 				
@@ -41,7 +43,7 @@ Passionate experts with over five years of expertise in decentralized technologi
 
 - [Cyber](https://cyb.ai/network/bostrom/hero/bostromvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fh73g0j)
  
-- [Microtick](https://explorer.microtick.zone/validator/microvaloper1mn8r3x4g2nmwmvsqqh3tsnzxp54c7qwrumgje2)
+- [Microtick](https://explorer.microtick.zone/validators/microvaloper1mn8r3x4g2nmwmvsqqh3tsnzxp54c7qwrumgje2)
 
 - [Gravity-Bridge](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1exksjeh9c0h03mxsvechrcc6axe56c5a56573y)
  
@@ -51,16 +53,43 @@ Passionate experts with over five years of expertise in decentralized technologi
  
 - [BitCanna](https://www.mintscan.io/bitcanna/validators/bcnavaloper1ex2m0j9gc7l49lr5qgrhnp7vy83adq0k3uj8pk)
 
-- [Bitsong](https://explorebitsong.com/staking/bitsongvaloper139dppl6gyerq8yaweksajut3urwyygsz7r4ej4)
+- [Bitsong](https://www.mintscan.io/bitsong/validators/bitsongvaloper139dppl6gyerq8yaweksajut3urwyygsz7r4ej4)
  
 - [Chronic-Token](https://www.skynetexplorers.com/chronic-token/staking/chronicvaloper1mxpyg8u68k6a8wdu3hs5whcpw9q285pc9jh75t)
 
+- [Galaxy](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1vm9d3anadzxxw7sp6y57d98dtv2mayxvrxjgnp)
 
+- [Genesis](https://ping.pub/genesisl1/staking/genesisvaloper10x5stkzceeefj87ku75uvjvxyr6zu9rd5a8mp5)
 
+- [Passage](https://passage.aneka.io/validators/pasgvaloper14vyqdka2r444hl6hj29fspa7yta3hu4yc0kk2q)
 
 
 						        Test-Networks 
-							Blochains grow here
+							Blockchains grow here
+							
+							Active
+							         
+- [Quicksilver](https://quicksilver.explorers.guru/validator/quickvaloper1xz2le0jnrzv9eqedd9ldj3lsyf3qss4tj8xn4z)
+- [KQCOSMOS-1](https://testnet.explorer.testnet.run/kqcosmos-1/staking)
+- [Kyve](https://explorer.kyve.network/korellia/staking/kyvevaloper16hnse4c852xg4vxjnqhx648e02z32n72l66nv7)
+- [Sei](https://sei.explorers.guru/validator/seivaloper123ywh7wtrrcwx0q5pmwx585ayrgfym433qqhze)
+- [Paloma](https://paloma.explorers.guru/validator/palomavaloper1ysyl8t7ghue2gsdv82hr22mcrquekd0x5jtshf)
+- [Bundlr](https://bundlr.network/explorer/Ry2bDGfBIvYtvDPYnf0eg_ijH4A1EDKaaEEecyjbUQ4)
+- [Aura](https://testnet.owlstake.com/Aura-Network/staking/auravaloper1clwszjl2m0zjpu94lyzx8lpmzdv8vgv39xctwk)
+- [Cardchain](https://explorers.acloud.pp.ua/cardchain/staking)
+- [Teritory](https://explorer.ericet.xyz/teritori/staking/torivaloper15vwequkv7mflk86zucqj9kc2nzcfwckvy0nvfa)
+- [BlockPI](https://testnet.explorer.blockpi.io/hypernode/0xb3480a304a6a8247d6779b8d54fbc6cc14dffd8f?page=5&perPage=20)
+- [Stride](https://poolparty.stride.zone/STRIDE/staking/stridevaloper1qtxd3zqr8692qha8whjrndf36g4t5sgv7pxvdf)
+- [Masa](https://auth.masa.finance/)	
+- [Sui](https://explorer.devnet.sui.io/)
+- [Uptick](https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper18mcmka5np287fnv9803f8hly29s2yuygp0a5kx)
+- [Pylons](https://wallet.pylons.tech/validator/pylovaloper1tdmeurwdu9ew5rlw04wjsc65caaqug274h3fwx)
+- [chronic](https://www.skynetexplorers.com/chronic-token/staking/chronicvaloper1mxpyg8u68k6a8wdu3hs5whcpw9q285pc9jh75t)
+- [Near](https://explorer.shardnet.near.org/nodes/validators)
+
+
+
+                                                   Not  Active
 
 Cosmos SDK projects:
 - [Cyber.page](https://rebyc.cyber.page/network/bostrom/hero/bostromvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fh73g0j) 
@@ -97,6 +126,11 @@ Cosmos SDK projects:
 
 
 Others projects
+
+- [MinaProtocol- Genesis Member](https://mina.staketab.com/mina/mainnet/validator/B62qrnPdz8HpsDJfGHirDLpVrN2VeyeitdaTKBaccWtHpeVW9Hgwi75)
+- [TheGrap - Curator](https://app.poap.xyz/token/469757)
+- [BlockPi](https://testnet.explorer.blockpi.io/hypernode/0xb3480a304a6a8247d6779b8d54fbc6cc14dffd8f?networkId=8217&page=1&perPage=100)
+- [Near](https://explorer.shardnet.near)
 - [NeonLabs](https://neon-labs.org/)
 - [Hopr](https://telemetry.polkadot.io/#list/Zeitgeist%20Battery%20Park)
 - [Casper Network](https://github.com/cybernekit/casper-node)
@@ -121,21 +155,60 @@ Others projects
 
                                                    AMBASSADOR CAMPAIGNS
 						   
-- [Covalent]()
-- [Polygon]()
-- [Octopus Network]()
-- [FreeTON]()
-- [Cyber]()
-- [Qredo]()
-- [TheGraph]()
-- [Secret Network]()
-- [Moonbeam]()
-- [Goldfinch finance]()
+- [Covalent]
+- [Polygon]
+- [Octopus Network]
+- [FreeTON]
+- [Cyber]
+- [Qredo]
+- [TheGraph]
+- [Secret Network]
+- [Moonbeam]
+- [Goldfinch finance]
 
                                              My contribution 3d video works:
 
-- Cosmos Network https://www.youtube.com/watch?v=cIxdLwKAYYQ&t=6s&ab_channel=PapsanLysenko
-- FreeTON Network https://www.youtube.com/watch?v=gi47M7hE1yg&t=11s&ab_channel=PapsanLysenko
+- Cosmos Network - [YouTube link](https://www.youtube.com/watch?v=cIxdLwKAYYQ&t=6s&ab_channel=PapsanLysenko)
+- FreeTON Network - [YouTube link](https://www.youtube.com/watch?v=gi47M7hE1yg&t=11s&ab_channel=PapsanLysenko)
+
+                                             My contribution in projects
+
+Web3 validator provides much more than security! We are actively participating in the development of the Network and Community by providing informational, technical and humanitarian support! The Web3 Validator team has developed a very well thought out monitoring bot that can monitor your node and much more. We can implement it on various Cosmos SDK networks and will gladly add it to any new network!  
+It's just super convenient:
+* Without installing any software (grafana, tenderduty, prometheus or etc.)
+* That bot not only warns that the validator is already in jail but pings you when your validator start to skiping blocks to keep you out of jail !!! 
+* Сan tell you about the time left before being sent to jail.
+* Clear and pleasant GUI, and also a validator status check. Also this bot can be customizable and it may be add many other function. We already implement in many known cosmo-networks and all of them fully support us. You can see axample in my twitter:
+[link](https://twitter.com/web34ever/status/1570040696081420288),
+[link](https://twitter.com/web34ever/status/1568492719290433546),
+[link](https://twitter.com/web34ever/status/1573734639172308992)
+
+                                             RPC nodes:
+
+[http://omniflix.web3validator.info](http://omniflix.web3validator.info:26657/)
+
+                                             Monitoring Uptime bots:
+
+[@OmniflixUpTime_bot](https://t.me/OmniflixUpTime_bot)
+
+* Bugs have been fixed 
+* Has been added the function of reporting the time left before going to jail . 
+* The limit of validators for tracking has been increased.
+* Added a clear and pleasant GUI, and also a validator status check 
+
+[@Bostrom_UpTime_Checker](https://t.me/Bostrom_UpTime_Checker)
+
+Uptime-checker for Bostrom network! Productive monitoring for nodes with video computing
+
+
+[@JunoUpTime_bot](https://t.me/Bostrom_UpTime_Checker)
+
+Uptime-checker for Juno network! Check your uptime all day , all night!
+
+
+[Connext Router SetupGuide](https://github.com/cybernekit/RouterSetupGuide)
+I've created the video guide with my self made script ConnextNetwork
+
 
                                                    My Contacts						   
 						   
@@ -143,7 +216,8 @@ Others projects
  - [Twitter](https://twitter.com/web34ever)
  - [Keybase](https://keybase.io/web34ever)
  - [GitHub](https://github.com/cybernekit)
- - [Website](https://web34ever.network/)
+ - [Website](https://web3validator.info/)
+ - [Discord](https://discord.gg/bvd779GDBt)
 						  
 						  Infra
 Equinix Bare metal 
@@ -173,4 +247,3 @@ c3.medium.x86
 
 OVH 4x advance-4, 11x advance-5 ; Hetzner 3x AX41-NVME, 2x AX101 
 						   
-More info soon... <br />

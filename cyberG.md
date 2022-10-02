@@ -34,6 +34,7 @@ Active non-Cosmo Mainnets: <br />
 - [Avalanche](https://avascan.info/staking/validator/NodeID-Jm1k2q2WAkH99w4ZBEgzrmm6Kte39qCWJ) 
 - [Everscale](https://ever.live/depools/depoolDetails?id=0%3Ae108fbffddd3999898788f59b267a0641287703866845d1734be5cd7f637473c) Cooperative Depool
 - [Mina Protocol](https://minaexplorer.com/wallet/B62qrgnUUduZy2z7zT8qCV8ngTJfSS1rK3Wh22SHUmrse3Tfqvrhx8q) GFM
+- [Moonbeam]() Orbiter
 - [Moonriver]() Orbiter
 - [NYM](https://mixnet.explorers.guru/gateways) Gateway and Requestor
 - [Solana](https://www.validators.app/validators/GmZ7xFQ4GHDbQw4CSnFT9pAHa15u35qTN8e259UrBh9D?locale=en&network=mainnet&order=score&refresh=) Foundation Delegation, Marinade, Boca Chica
@@ -69,7 +70,7 @@ Genesis validator, but not in active set: <br />
 <details>
   <summary>Active non-Cosmos Testnets</summary>
   
-- [BlockPi](http://testnet.explorer.blockpi.io/hypernode/0x626b57e2445e1e3cf13333349a9270f8203b901c?page=4&perPage=20)  
+  
 - [Casper](https://testnet.cspr.live/validator/010a6b601408889363dc003943c9234e1bcd9ac074da385c45ff2cd4aa2c9283ce)
 - [Gear]()
 - [Masa]()
@@ -101,6 +102,7 @@ Genesis validator, but not in active set: <br />
 - [Asset Mantle]()
 - [Althea]()
 - [Aura](https://testnet.owlstake.com/Aura-Network/staking/auravaloper1gnf4sxs2qnycrxxyd6gqk9wqa3xjf6h3efl7rz)
+- [BlockPi](http://testnet.explorer.blockpi.io/hypernode/0x626b57e2445e1e3cf13333349a9270f8203b901c?page=4&perPage=20)
 - [Blockstack]()
 - [Bitcountry]()
 - [Cere]()

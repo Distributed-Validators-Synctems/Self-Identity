@@ -14,34 +14,26 @@
 ## Mainnets:
 - [BitCanna](https://www.mintscan.io/bitcanna/validators/bcnavaloper1yyps9aer7ldm8tjayft68q8ay5l4nch0waf4yh)
 - [Bitsong](https://www.mintscan.io/bitsong/validators/bitsongvaloper1pkepjd307346zadmlxpvs9wqrghkx735v0ehge)
-- [Chronic](https://www.skynetexplorers.com/chronic-token/staking/chronicvaloper105rzlcracxe9r32h8flpn4kpw8waqueqfsne7g)
+- [Terp Network](https://www.skynetexplorers.com/terpnetwork/staking/terpvaloper105rzlcracxe9r32h8flpn4kpw8waqueqj7xlcz)
 - [Desmos](https://www.mintscan.io/desmos/validators/desmosvaloper13has6wzwyfyuq6r9j48cwugl6ajqw44gv0fa6k)
-- [Forta](https://explorer.forta.network/)
 - [Galaxy](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1vmgq4nsyc5e8x699k0y7nme3c6egdlv5ahj3xu)
 - [Mises](https://gw.mises.site/validators)
 - [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1jnjg9fl5hflwgjyu9vrht3j52nn68yjesxaqmr)
 
 
 ## Active Testnets:
-- [Rebus](https://explorer.nodestake.top/rebus-testnet/staking/rebusvaloper1q9zj2t0jpkp2xd8ngnfhw9rw486stsr4gte220)
+- [Haqq](https://haqq.explorers.guru/validator/haqqvaloper1n4wscfmgzrx2l0ynefnt90ehmy0uyplukfh979)
+- [Obol](https://goerli.beaconcha.in/validator/0xb694a735117eaf0665a1b75dad154dc47d4ba5bbb29a792784834add2c44f6d4cc4247b90d31b0699cd71004ab90b061#deposits)
 - [Teritori](https://teritori.explorers.guru/validator/torivaloper14e9t9vrfmkuawv8mhxvt3ms8yxkc8z6rvaek8t)
 - [Bundlr](https://bundlr.network/explorer/Ry2bDGfBIvYtvDPYnf0eg_ijH4A1EDKaaEEecyjbUQ4)
-- [Mundis](http://metrics.devnet.mundis.io:3000/d/local/devnet-cluster-monitor?orgId=1&refresh=30s&var-datasource=default&var-testnet=devnet&var-hostid=5A9okhix93teUfPuAQvzvzDfccAsAgB9EMaQkeiXxu3q)
 - [Near](https://explorer.shardnet.near.org/nodes/validators)
 - [Sui](https://mystenlabs.com/)
 - [Clan Network](https://stake-testnet.clan.network/)
 - [Gno Land](https://gno.land/)
 - [Sei](https://sei.explorers.guru/validator/seivaloper1690wke4r04xk5mfuwmtst3eue26cd6qf5xnht7)
 - [Peaq](https://www.peaq.network/agung-testnet)
-- [Oasys](https://www.oasys.games/)
-- [Quicksilver](https://quicksilver.explorers.guru/validator/quickvaloper10hnwt92w3xmscpek8czu3xu4ttgu7fm5mqxy3m) (pause)
-- [Defund](https://defund.explorers.guru/validator/defundvaloper19jm0dqagnfpyav3w7msx06kq86q0y30pmqs60q) (pause)
-- [Uptick](https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1q4vdlk6ty7g04nylnnqdws8dffxtyns4l9uf9t)
-- [Subspace](https://subspace.network/)
 - [StarkNet](https://dashboard.alchemyapi.io/apps/joggtmt4hbvihz3r)
 - [Gear](https://www.gear-tech.io/)
-- [Aptos](https://aptoslabs.com/)
-- [Penumbra](https://penumbra.zone/)
 - [Masa](https://masa.finance/)
 - [DWS](https://explore.deweb.services/deweb/staking/dewebvaloper1qnmxn96dgv8h09vtf8ke4sj3u7970eafurgk2j)
 - [Celestia](https://celestia.explorers.guru/validator/celestiavaloper1g4vlhwtjym0t6vpaxr3eyp78nkekxgx2vjhjf9)
@@ -49,6 +41,15 @@
 - [Minima](https://minima.global/)
 
 ## Finished Testnets:
+- [Penumbra](https://penumbra.zone/)
+- [Aptos](https://aptoslabs.com/)
+- [Subspace](https://subspace.network/)
+- [Uptick](https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1q4vdlk6ty7g04nylnnqdws8dffxtyns4l9uf9t)
+- [Defund](https://defund.explorers.guru/validator/defundvaloper19jm0dqagnfpyav3w7msx06kq86q0y30pmqs60q)
+- [Quicksilver](https://quicksilver.explorers.guru/validator/quickvaloper10hnwt92w3xmscpek8czu3xu4ttgu7fm5mqxy3m)
+- [Oasys](https://www.oasys.games/)
+- [Mundis](http://metrics.devnet.mundis.io:3000/d/local/devnet-cluster-monitor?orgId=1&refresh=30s&var-datasource=default&var-testnet=devnet&var-hostid=5A9okhix93teUfPuAQvzvzDfccAsAgB9EMaQkeiXxu3q)
+- [Rebus](https://explorer.nodestake.top/rebus-testnet/staking/rebusvaloper1q9zj2t0jpkp2xd8ngnfhw9rw486stsr4gte220)
 - [Aura](https://halo.aurascan.io/validators/auravaloper1nkg2dpscf8szhd96xvkxhye5h2tkfx2kwkg09x)
 - [Stride](https://poolparty.stride.zone/STRIDE/staking/stridevaloper1ee7vp86sqe3jx06l506sl0pdjs2s5vr4w2ken3)
 - [Kyve](https://app.kyve.network/)
@@ -80,7 +81,11 @@
 - [Guide - How to setup Klever validator](https://bondedzone.medium.com/how-to-setup-klever-validator-ff58b502e64d)
 - [Guide - Configure State-Sync for the Rizon mainnet](https://bondedzone.medium.com/configure-state-sync-for-the-rizon-mainnet-9e1fd8c05d1f)
 
+
 ### Community
+- [Translation - RIZON: обзор 2022 года и новое приключение](https://bondedzone.medium.com/rizon-%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-2022-%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B8-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B5-%D0%BF%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-fda9b2ec7d31)
+- [Translation - Ежемесячный дайджест BitCanna — август 2022](https://bondedzone.medium.com/%D0%B5%D0%B6%D0%B5%D0%BC%D0%B5%D1%81%D1%8F%D1%87%D0%BD%D1%8B%D0%B9-%D0%B4%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82-bitcanna-%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82-2022-21a4cb4de7a0)
+- [Translation - Анонс обновления RIZON GARGANTUA](https://bondedzone.medium.com/%D0%B0%D0%BD%D0%BE%D0%BD%D1%81-%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-rizon-gargantua-f7f5ca7ad7e)
 - [Translation - Nicola Fasano — запускает свой FanToken ($FASANO) на Sinfonia от BitSong!](https://bondedzone.medium.com/nicola-fasano-%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D0%B0%D0%B5%D1%82-%D1%81%D0%B2%D0%BE%D0%B9-fantoken-fasano-%D0%BD%D0%B0-sinfonia-%D0%BE%D1%82-bitsong-e86742bc0ed7)
 - [Translation - ADAM CLAY — первый артист, запустивший свой FanToken ($CLAY) на Sinfonia от BitSong!](https://bondedzone.medium.com/adam-clay-%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9-%D0%B0%D1%80%D1%82%D0%B8%D1%81%D1%82-%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D1%82%D0%B8%D0%B2%D1%88%D0%B8%D0%B9-%D1%81%D0%B2%D0%BE%D0%B9-fantoken-clay-%D0%BD%D0%B0-sinfonia-%D0%BE%D1%82-bitsong-99b4f5ac7ada)
 - [Translation - Как пригласить друзей в Mises и получить реферальный бонус?](https://bondedzone.medium.com/%D0%BA%D0%B0%D0%BA-%D0%BF%D1%80%D0%B8%D0%B3%D0%BB%D0%B0%D1%81%D0%B8%D1%82%D1%8C-%D0%B4%D1%80%D1%83%D0%B7%D0%B5%D0%B9-%D0%B2-mises-%D0%B8-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C-%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%B1%D0%BE%D0%BD%D1%83%D1%81-d363e97c49db)
@@ -123,3 +128,4 @@
 I’m admin in this Telegram groups and channels:
 - [https://t.me/rizon_atolo_ru](https://t.me/rizon_atolo_ru)
 - [https://t.me/CosmosEcosystemNews_ru](https://t.me/CosmosEcosystemNews_ru)
+- [https://t.me/DVSynctems](https://t.me/DVSynctems)

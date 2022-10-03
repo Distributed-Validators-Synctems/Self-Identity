@@ -3,7 +3,7 @@
 # Validator DomaNodes 
 - [AssetMantle](https://explorer.assetmantle.one/validators/mantlevaloper1g09pl3j043uqpw7zqkrdsxw3ve7u63efj2q0gy)
 - [Galaxy](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1z4w50vutn5estqwnpvkcj4snctwtwytkmfzk00)
-- [FetchAi]Operator(https://www.mintscan.io/fetchai/validators/fetchvaloper1lc08skneh274vq5rm5hxwrnnhhgvkx2zeqsvkz)
+- [FetchAi](https://www.mintscan.io/fetchai/validators/fetchvaloper1lc08skneh274vq5rm5hxwrnnhhgvkx2zeqsvkz)(Operator) 
 # Test-nets:
 - [Another-1]
 - [KYVE]

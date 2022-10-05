@@ -55,7 +55,7 @@ Genesis validator, but not in active set: <br />
   <summary>Active Cosmo Testnets</summary>
   
 
-- [Cardchain](https://explorers.acloud.pp.ua/cardchain/staking/ccvaloper1cvaf96kz8jz8u4435p0yrjgel0t8zgz3lhd6m8)
+- [Cardchain](https://explorers.acloud.pp.ua/cardchain/staking/ccvaloper1wlmkgs6mckzphx42pxm8xaxwd9q997y2r5lrdl)
 - [Celestia](https://celestia.explorers.guru/validator/celestiavaloper1gjjqu6ykrfww43uqrv290zmr9j3t9rfnhdcffl)
 - [Clan](https://testnet.explorer.testnet.run/Clan%20Network/staking/clanvaloper1c9t2xur4sx7z5kerp8l8a978dl68fmdxrqegqc) 
 - [Deweb](https://explore.deweb.services/deweb/staking/dewebvaloper1vu9rvsu32zetvunve5l9qlx2gvrfg7fl2jkrsr)

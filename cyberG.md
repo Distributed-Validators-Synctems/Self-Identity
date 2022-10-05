@@ -32,7 +32,7 @@ Active Cosmo Mainnets: <br />
 
 
 Active non-Cosmo Mainnets: <br />
-- [Avalanche](https://avascan.info/staking/validator/NodeID-Jm1k2q2WAkH99w4ZBEgzrmm6Kte39qCWJ) 
+- [Avalanche](https://avascan.info/staking/validator/NodeID-Jm1k2q2WAkH99w4ZBEgzrmm6Kte39qCWJ)
 - [Everscale](https://ever.live/depools/depoolDetails?id=0%3Ae108fbffddd3999898788f59b267a0641287703866845d1734be5cd7f637473c) Cooperative Depool
 - [Mina Protocol](https://minaexplorer.com/wallet/B62qrgnUUduZy2z7zT8qCV8ngTJfSS1rK3Wh22SHUmrse3Tfqvrhx8q) GFM
 - [Moonbeam]() Orbiter
@@ -74,6 +74,7 @@ Genesis validator, but not in active set: <br />
   <summary>Active non-Cosmos Testnets</summary>
   
   
+- [Blast](https://houston.blastapi.io/explorer/0x8847ebaaf29a18396e49191602f8d8d141b98aa7) 
 - [Casper](https://testnet.cspr.live/validator/010a6b601408889363dc003943c9234e1bcd9ac074da385c45ff2cd4aa2c9283ce)
 - [Gear]()
 - [Masa]()

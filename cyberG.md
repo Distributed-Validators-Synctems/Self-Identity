@@ -23,6 +23,7 @@ Active Cosmo Mainnets: <br />
 - [Passage](https://passage.aneka.io/validators/pasgvaloper1w6mqsvguml3k4j0vry9jl8ur9qanhhr0g7qrvs) Genesis validator
 - [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1swmud649t386j2csz0gah7ku2zpfu0w7trzr09)
 - [Rebus](https://mainnet.manticore.team/rebus/staking/rebusvaloper14dv684ed57cgehl5apcl56n2mqsypr7vqrmpvx)
+- [Space Pussy](https://space-pussy.cyb.ai/network/bostrom/hero/pussyvaloper17zdyl3gfssc3vzzyxptnr0xl8z0pnte92zy8vy) Genesis validator
 - [Stargaze](https://www.mintscan.io/stargaze/validators/starsvaloper1dtk6748uhvmhvakhleclrwprp27pe89vhhw44p) Genesis validator
 - [Stride](https://www.mintscan.io/stride/validators/stridevaloper136nl6lu4hvaus6l0lypzqq5gkd3dxvu5eaydk2)
 - [Teritori](https://explorer.teritori.com/teritori/staking/torivaloper1z95myrxyf94qnnlu5hzz8km69yx95s8w08267g)

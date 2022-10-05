@@ -10,7 +10,6 @@ Active Cosmo Mainnets: <br />
 - [Canto](https://explorer.nodestake.top/canto/staking/cantovaloper1yckfh3najzqhvzzrf4qj2ddkr9h4zav048hjwx)
 - [Certik](https://www.mintscan.io/certik/validators/certikvaloper1yq8a2ksa7dz8wd8wlks3k8nqdmht76xdnrvehx) Genesis validator
 - [Comdex](https://www.mintscan.io/comdex/validators/comdexvaloper1963hcznh439kspqmjj5hv5h4nk2kphvats5ujk) Cooperative validator
-- [Chronic](https://www.skynetexplorers.com/chronic-token/staking/chronicvaloper1x8czjpdy2x9svz0s3u9hdgqxd06ta39y49lnd3) Genesis validator
 - [Firmachain](https://explorer.firmachain.dev/validators/firmavaloper1rsnaurdhf8d93ugxpfr0xqjfhhj3rfyyu69qtw) Genesis validator
 - [Gravity](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1yeujyxulrf82age8c9q6mfqy0ueh0pjxa7hd20) Genesis validator
 - [Galaxy](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1f8tm4wspt687qg36c6rrrv8enuwhr5crsuqfjx) Genesis validator
@@ -26,6 +25,7 @@ Active Cosmo Mainnets: <br />
 - [Rebus](https://mainnet.manticore.team/rebus/staking/rebusvaloper14dv684ed57cgehl5apcl56n2mqsypr7vqrmpvx)
 - [Stargaze](https://www.mintscan.io/stargaze/validators/starsvaloper1dtk6748uhvmhvakhleclrwprp27pe89vhhw44p) Genesis validator
 - [Stride](https://www.mintscan.io/stride/validators/stridevaloper136nl6lu4hvaus6l0lypzqq5gkd3dxvu5eaydk2)
+- [Teritori](https://explorer.teritori.com/teritori/staking/torivaloper1z95myrxyf94qnnlu5hzz8km69yx95s8w08267g)
 - [Tgrade](https://tgrade.aneka.io/validators/tgrade1daujfmddygyty3pjsnr9xhz3vxymh6u00krlym) Genesis validator
 - [Umee](https://www.mintscan.io/umee/validators/umeevaloper1qa5gkv8a4rzpncgkguv2szh5s83kh69l082zz3) Cooperative validator
 
@@ -49,6 +49,7 @@ Genesis validator, but not in active set: <br />
 - [Algorand]() Relayer Programm paticipant
 - [Casper](https://cspr.live/validator/018dc552de3c403dbefe03a9c604e11346d96159ed49f9381a55c2e06c45197d43) Currently inactive
 - [Microtick](https://explorer.microtick.zone/validators/microvaloper1z7crvuuks7yk33qwx4nv68nzhwznkmt96ddm5l) Migrated to Polygon
+- [Chronic](https://www.skynetexplorers.com/chronic-token/staking/chronicvaloper1x8czjpdy2x9svz0s3u9hdgqxd06ta39y49lnd3) Genesis validator
 <details>
   
   <summary>Active Cosmo Testnets</summary>
@@ -59,6 +60,7 @@ Genesis validator, but not in active set: <br />
 - [Clan](https://testnet.explorer.testnet.run/Clan%20Network/staking/clanvaloper1c9t2xur4sx7z5kerp8l8a978dl68fmdxrqegqc) 
 - [Deweb](https://explore.deweb.services/deweb/staking/dewebvaloper1vu9rvsu32zetvunve5l9qlx2gvrfg7fl2jkrsr)
 - [Haqq](https://haqq.explorers.guru/validator/haqqvaloper1rswq8qe22qcr28hhstpyc3j5anfk0g2yp20w5x)
+- [Hypersign](https://explorer.hypersign.id/hypersign-testnet/account/hid1n8aacwgdnk2s534f2hp9wkjfe982scjm2tqrss)
 - [Kira]()
 - [Paloma](https://paloma.explorers.guru/validator/palomavaloper14kd965w29se5atw0fzmewr99gkjezk8gpvuu2x) 
 - [Pylons](https://wallet.pylons.tech/validator/pylovaloper1u29z4l8ugjdwp2pm8luwntksh0p9n7dvq8zxs3)

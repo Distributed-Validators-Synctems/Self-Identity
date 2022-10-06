@@ -81,6 +81,7 @@ Genesis validator, but not in active set: <br />
 - [Obol]()
 - [Solana](https://www.validators.app/validators/testnet/28LgQ7MeEZVgNJfYRc6UnoAz2SnSjKbyCKM6sntCRotb?locale=en&order=score&refresh=)
 - [Sui]()
+- [TheGraph](https://testnet.thegraph.com/profile?id=0x8847ebaaf29a18396e49191602f8d8d141b98aa7&view=Indexing)
 
   </details>
   

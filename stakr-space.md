@@ -12,11 +12,19 @@ Current mainnets: <br />
 [Nym Gateway+Requester service](https://explorer.nymtech.net/network-components/gateways) - NYM team selected grantee </br>
 [Tgrade](https://tgrade.aneka.io/validators/tgrade1dz487qtggarfaxja70grhs3lgfv02mpn0l9f3j) - Approved Mainnet Validator<br />
 [Passage](https://passage.aneka.io/validators/pasgvaloper1usm9f4udzle85670u7emgf5xlnqnsveujazh3h) - Approved Mainnet Validator<br />
-[Galaxy](https://explorer.postcapitalist.io/Galaxy/staking/galaxyvaloper1wuem8vc5tmlm3m7gaqt00qn37dxe9vkuzqsn4j) - Approved Mainnet Validator<br />
 [Rebus](https://rebus.explorers.guru/validator/rebusvaloper1mjw2xy2l284z7psm0alpa658cxw9w5c2as35qc) - Mainnet Validator<br />
-<!--- [Hopr](https://hoprnet.org/) - Diamond Hodler<br /> --->
+<!--- [Galaxy](https://explorer.postcapitalist.io/Galaxy/staking/galaxyvaloper1wuem8vc5tmlm3m7gaqt00qn37dxe9vkuzqsn4j) - Approved Mainnet Validator<br />
+[Rebus](https://rebus.explorers.guru/validator/rebusvaloper1mjw2xy2l284z7psm0alpa658cxw9w5c2as35qc) - Mainnet Validator<br />
+ [Hopr](https://hoprnet.org/) - Diamond Hodler<br /> --->
 
 Actual testnets:<br/>
+Nois
+Ollo
+Source protocol
+Haqq
+Bundlr
+Empowerchain
+
 [Aptos](https://explorer.devnet.aptos.dev/account/0x4449959032d51d85aae24c37ad6a9c5a27499b7d7b67dfd5327e61eb2bc3051c?network=ait3) - AIT2 selected and rewarded validator, AIT3 selected validator<br/>
 [BlockPi](https://testnet.explorer.blockpi.io/hypernode/0x491e08d6ed9ef3e3c84691ca66558682389f12af?page=1&perPage=100) - testnet selected operator<br/>
 Mundis - testnet selected validator<br/>
@@ -61,6 +69,7 @@ Medibloc - preparing to run self-funded validator<br />
 Rizon - preparing to run self-funded validator<br /> 
 --->
 50+ finished or developing test-nets: <br />
+<img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/umee-leaderboard.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/syntropy-mainnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/persistence-asset-mantle-testnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/humanode-1st-testnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/evmos-testnet.png" width="200" height="150" /></br>
   [Umee](https://umee.cc) Umeevengers 7th place[[leaderboard]](https://leaderboard.umee.cc) Medium [[blogpost]](https://medium.com/umeeblog/rise-of-the-umeevengers-final-scores-and-closing-ceremony-f872eeba55bc) [[gentx1]](https://github.com/umee-network/testnets/pull/137) [[gentx2]](https://github.com/umee-network/testnets/pull/297)</br>
   [Akash - Awesome Akash winner](https://akash.network/) - [[pull request]](https://github.com/papanomad535/awesome-akash/tree/master/owncloud)<br />
     [Sentinel](https://sentinel.co)<br />

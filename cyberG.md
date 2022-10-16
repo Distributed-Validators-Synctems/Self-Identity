@@ -5,6 +5,7 @@
 ## cyberG activity:
 
 Active Cosmo Mainnets: <br />
+- [Asset Mantle](https://www.mintscan.io/asset-mantle/validators/mantlevaloper1munf9mvdu9zxh2zma8cvg6frse4kffafvlyzue) Genesis validator
 - [Bitsong](https://www.mintscan.io/bitsong/validators/bitsongvaloper1mx3gct8chrssamkdfw8fkrdl93knllryalmxpm) Genesis validator
 - [Bostrom](https://cyb.ai/network/bostrom/hero/bostromvaloper1en69twaxmv7xupy8lq7y539dpecx7yz8s43ceg) Genesis validator
 - [Canto](https://explorer.nodestake.top/canto/staking/cantovaloper1yckfh3najzqhvzzrf4qj2ddkr9h4zav048hjwx)

@@ -73,7 +73,8 @@ Genesis validator, but not in active set: <br />
 - [Ollo](https://testnet.manticore.team/ollo/staking/ollovaloper1pmuuvdjsgret3fwjd6eqrzyrhfq3j59yagzdcz)
 - [Paloma](https://paloma.explorers.guru/validator/palomavaloper14kd965w29se5atw0fzmewr99gkjezk8gpvuu2x) 
 - [Pylons](https://wallet.pylons.tech/validator/pylovaloper1u29z4l8ugjdwp2pm8luwntksh0p9n7dvq8zxs3)
-- [Sei](https://sei.explorers.guru/validator/seivaloper1cz28dzx8zcls720h2nnrd5x8a3kjqy95axhqy6)  
+- [Sei](https://sei.explorers.guru/validator/seivaloper1cz28dzx8zcls720h2nnrd5x8a3kjqy95axhqy6)
+- [Uptick](https://explorer.stavr.tech/uptick/staking/uptickvaloper1uwtmwh09qt2xtvfne6jmjehsedgycxqqyt3xje)
 
 
 </details>
@@ -153,7 +154,6 @@ Genesis validator, but not in active set: <br />
 - [Spacemesh]()
 - [StarkNet]()
 - [Swarm]()
-- [Uptick](https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1rk5lydrxykadmj8t692q47wtuqxx42l5gjjgpd)
 - [Zeigeist]()
 - [Zenon]()
 

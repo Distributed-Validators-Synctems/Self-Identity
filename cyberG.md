@@ -74,6 +74,7 @@ Genesis validator, but not in active set: <br />
 - [Paloma](https://paloma.explorers.guru/validator/palomavaloper14kd965w29se5atw0fzmewr99gkjezk8gpvuu2x) 
 - [Pylons](https://wallet.pylons.tech/validator/pylovaloper1u29z4l8ugjdwp2pm8luwntksh0p9n7dvq8zxs3)
 - [Sei](https://sei.explorers.guru/validator/seivaloper1cz28dzx8zcls720h2nnrd5x8a3kjqy95axhqy6)
+- [Terp](https://explorer.stavr.tech/terp-network/staking/terpvaloper1n3e4c8rdhdflrtuse0muapdy4tl7qrmxa8zsae)
 - [Uptick](https://explorer.stavr.tech/uptick/staking/uptickvaloper1uwtmwh09qt2xtvfne6jmjehsedgycxqqyt3xje)
 
 

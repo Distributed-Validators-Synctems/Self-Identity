@@ -14,7 +14,6 @@ Current mainnets: <br />
 [Passage](https://passage.aneka.io/validators/pasgvaloper1usm9f4udzle85670u7emgf5xlnqnsveujazh3h) - Approved Mainnet Validator<br />
 [Rebus](https://rebus.explorers.guru/validator/rebusvaloper1mjw2xy2l284z7psm0alpa658cxw9w5c2as35qc) - Mainnet Validator<br />
 <!--- [Galaxy](https://explorer.postcapitalist.io/Galaxy/staking/galaxyvaloper1wuem8vc5tmlm3m7gaqt00qn37dxe9vkuzqsn4j) - Approved Mainnet Validator<br />
-[Rebus](https://rebus.explorers.guru/validator/rebusvaloper1mjw2xy2l284z7psm0alpa658cxw9w5c2as35qc) - Mainnet Validator<br />
  [Hopr](https://hoprnet.org/) - Diamond Hodler<br /> --->
 
 Actual testnets:<br/>
@@ -28,7 +27,7 @@ Bundlr<br/>
 [Aptos](https://explorer.devnet.aptos.dev/account/0x4449959032d51d85aae24c37ad6a9c5a27499b7d7b67dfd5327e61eb2bc3051c?network=ait3) - AIT2 selected and rewarded validator, AIT3 selected validator<br/>
 [BlockPi](https://testnet.explorer.blockpi.io/hypernode/0x491e08d6ed9ef3e3c84691ca66558682389f12af?page=1&perPage=100) - testnet selected operator<br/>
 Mundis - testnet selected validator<br/>
-[Obol](http://65.109.25.49:3000/d/singlenode/single-charon-node-dashboard?orgId=1&refresh=10s) - testnet selected validator team<br/>
+[Obol](https://app.poap.xyz/token/5771874) - testnet selected validator team<br/>
 Quicksilver - testnet rewarded validator<br/>
 Gitopia - testnet selected validator<br/>
 [Sei](https://sei.explorers.guru/validator/seivaloper1ljat0ed6wufa7xmg8uuhu5rjyktn9f6qqxsu9v) - Seinami testnet selected validator<br/>

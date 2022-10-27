@@ -5,29 +5,21 @@
 # vbloher validator activity
 
 ### Mainnet genesis validator 
-- [FirmaChain](https://explorer.firmachain.dev/validators/firmavaloper1rkcxlv6t6tygmfnnp3v270qru3uq0lnxpatjst)
-- [Galaxy](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper173mgkdad6f935ys7gd2yfj6z47khkwy6f9ce7n)
-- [Chronic Token](https://www.skynetexplorers.com/chronic-token/staking/chronicvaloper1rwyn6w46u3067enhpdceqasg2um8dddtp9v3kx)
 - [Kujira](https://cosmos.mintthemoon.xyz/kujira/staking/kujiravaloper1yafsywsluqdvlhtp30tcdhw496vg6ey3zs4u84)
+- [FirmaChain](https://explorer.firmachain.dev/validators/firmavaloper1rkcxlv6t6tygmfnnp3v270qru3uq0lnxpatjst)
+- [Rebus](https://rebus.explorers.guru/validator/rebusvaloper1kc5qhsmzxy69hsmz6zkp3emaytfdewur4g50yl)
 - [Passage](https://www.mintscan.io/passage/validators/pasgvaloper1xp70wy9t4cqal2guacy7n8tmjf7avz8yz95kpn)
-- [AssetMantle](https://assetmantle.explorers.guru/validator/mantlevaloper12w4wch0vykgw6qyveurhqck75n3dnw0c0c4fje)
+- [Galaxy](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper173mgkdad6f935ys7gd2yfj6z47khkwy6f9ce7n)
+- [AssetMantle (not in active set)](https://assetmantle.explorers.guru/validator/mantlevaloper12w4wch0vykgw6qyveurhqck75n3dnw0c0c4fje)
 
 ### Mainnet validator 
-- [Sifchain](https://www.mintscan.io/sifchain/validators/sifvaloper1tvy5apxqsf3jf0uhzknvj6qndy473smzjezvh9)
-- [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1h7qgg8p52vdpcqzhxrt6wjsnyyfasaak588lrh)
-- [KiChain](https://www.mintscan.io/ki-chain/validators/kivaloper1ggrrt80qln07kqnfe5zppjgsrrqmkc4jpwvsgh)
-- [BitCanna](https://www.mintscan.io/bitcanna/validators/bcnavaloper19l7slf3853c9ul0vf24zefjvdq4l8930nulqp4)
 - [Mises](https://gw.mises.site/validators)
-- [NYM (mixnode)](https://mixnet.explorers.guru/mixnode/Jy9Cyw53NoPHjXYgdZUFWHctfyi6e1wKAEko8VjiwQP)
 
 **Active testnets**
-- [Solana](https://www.validators.app/validators/testnet/6q4crDPH7SFp2kxAFNmRg16phDRpjtsW7QDk83EFwrLg?locale=en)
 - [IronFish](https://ironfish.network/)
 - [Massa](https://massa.net/)
 - [Minima](https://minima.global/)
-- [Celestia](https://celestia.org/)
 - [Masa finance](https://masa.finance/)
-- [Aptos](https://aptos.dev/)
 - [Sei](https://www.seinetwork.io/)
 - [Paloma](https://www.palomachain.com/blog/)
 - [Craft-economy](https://crafteconomy.io/)
@@ -56,7 +48,7 @@
 - [KYVE](https://www.kyve.network/)
 - [Humannode](https://humanode.io/)
 - [Quicksilver](https://quicksilver.zone/)
-
+- [Aptos](https://aptos.dev/)
 </details>
 
 ## Contributions:

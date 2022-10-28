@@ -14,7 +14,6 @@
 ## Mainnets:
 - [BitCanna](https://www.mintscan.io/bitcanna/validators/bcnavaloper1yyps9aer7ldm8tjayft68q8ay5l4nch0waf4yh)
 - [Bitsong](https://www.mintscan.io/bitsong/validators/bitsongvaloper1pkepjd307346zadmlxpvs9wqrghkx735v0ehge)
-- [Terp Network](https://www.skynetexplorers.com/terpnetwork/staking/terpvaloper105rzlcracxe9r32h8flpn4kpw8waqueqj7xlcz)
 - [Desmos](https://www.mintscan.io/desmos/validators/desmosvaloper13has6wzwyfyuq6r9j48cwugl6ajqw44gv0fa6k)
 - [Galaxy](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1vmgq4nsyc5e8x699k0y7nme3c6egdlv5ahj3xu)
 - [Mises](https://gw.mises.site/validators)
@@ -22,17 +21,15 @@
 
 
 ## Active Testnets:
-- [Haqq](https://haqq.explorers.guru/validator/haqqvaloper1n4wscfmgzrx2l0ynefnt90ehmy0uyplukfh979)
-- [Obol](https://goerli.beaconcha.in/validator/0xb694a735117eaf0665a1b75dad154dc47d4ba5bbb29a792784834add2c44f6d4cc4247b90d31b0699cd71004ab90b061#deposits)
-- [Teritori](https://teritori.explorers.guru/validator/torivaloper14e9t9vrfmkuawv8mhxvt3ms8yxkc8z6rvaek8t)
+- [Uptick](https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1q4vdlk6ty7g04nylnnqdws8dffxtyns4l9uf9t)
+- [Multichain](https://testnet.multichain.tools/)
+- [Terp Network](https://www.skynetexplorers.com/terpnetwork/staking/terpvaloper105rzlcracxe9r32h8flpn4kpw8waqueqj7xlcz)
 - [Bundlr](https://bundlr.network/explorer/Ry2bDGfBIvYtvDPYnf0eg_ijH4A1EDKaaEEecyjbUQ4)
-- [Near](https://explorer.shardnet.near.org/nodes/validators)
 - [Sui](https://mystenlabs.com/)
 - [Clan Network](https://stake-testnet.clan.network/)
 - [Gno Land](https://gno.land/)
 - [Sei](https://sei.explorers.guru/validator/seivaloper1690wke4r04xk5mfuwmtst3eue26cd6qf5xnht7)
 - [Peaq](https://www.peaq.network/agung-testnet)
-- [StarkNet](https://dashboard.alchemyapi.io/apps/joggtmt4hbvihz3r)
 - [Gear](https://www.gear-tech.io/)
 - [Masa](https://masa.finance/)
 - [DWS](https://explore.deweb.services/deweb/staking/dewebvaloper1qnmxn96dgv8h09vtf8ke4sj3u7970eafurgk2j)
@@ -41,6 +38,11 @@
 - [Minima](https://minima.global/)
 
 ## Finished Testnets:
+- [Obol](https://goerli.beaconcha.in/validator/0xb694a735117eaf0665a1b75dad154dc47d4ba5bbb29a792784834add2c44f6d4cc4247b90d31b0699cd71004ab90b061#deposits)
+- [Haqq](https://haqq.explorers.guru/validator/haqqvaloper1n4wscfmgzrx2l0ynefnt90ehmy0uyplukfh979)
+- [Teritori](https://teritori.explorers.guru/validator/torivaloper14e9t9vrfmkuawv8mhxvt3ms8yxkc8z6rvaek8t)
+- [Near](https://explorer.shardnet.near.org/nodes/validators)
+- [StarkNet](https://dashboard.alchemyapi.io/apps/joggtmt4hbvihz3r)
 - [Penumbra](https://penumbra.zone/)
 - [Aptos](https://aptoslabs.com/)
 - [Subspace](https://subspace.network/)

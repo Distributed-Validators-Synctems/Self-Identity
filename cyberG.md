@@ -13,9 +13,9 @@ Active Cosmo Mainnets: <br />
 - [Comdex](https://www.mintscan.io/comdex/validators/comdexvaloper1963hcznh439kspqmjj5hv5h4nk2kphvats5ujk) Cooperative validator
 - [Firmachain](https://explorer.firmachain.dev/validators/firmavaloper1rsnaurdhf8d93ugxpfr0xqjfhhj3rfyyu69qtw) Genesis validator
 - [Gravity](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1yeujyxulrf82age8c9q6mfqy0ueh0pjxa7hd20) Genesis validator
-- [Galaxy](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1f8tm4wspt687qg36c6rrrv8enuwhr5crsuqfjx) Genesis validator
 - [GenesisL1](https://ping.pub/genesisl1/staking/genesisvaloper1mu4sv02tjnelgmg30vd0nx5yd022ty5y69u5da)
 - [IDEP](https://chadscan.com/validators/idepvaloper1e6834a9qfzpp5l6n57wjsfqx5sl3m8a6a4saj6)
+- [Jackal](https://explorer.bccnodes.com/jackal/staking/jklvaloper1r5hzfdwzej0fazngsx84dqt094vt9wqu2s2ert)
 - [Juno](https://www.mintscan.io/juno/validators/junovaloper1353ewfc0v7pnn3xre6v9lraghxrhenswmsjhv0)
 - [Kujira](https://cosmosrun.info/kujira/staking/kujiravaloper1tharcgrfu6j0dcwpe5y6ez3s904rhq2kmccm4k) Genesis validator
 - [Lambda](https://explorer.nodestake.top/lambda/staking/lambvaloper1zj8ynfvv0drhgjukxd0z8w5ge3t66ypqtg6e43)
@@ -53,10 +53,11 @@ Genesis validator, but not in active set: <br />
 - [Casper](https://cspr.live/validator/018dc552de3c403dbefe03a9c604e11346d96159ed49f9381a55c2e06c45197d43) Currently inactive
 - [Microtick](https://explorer.microtick.zone/validators/microvaloper1z7crvuuks7yk33qwx4nv68nzhwznkmt96ddm5l) Migrated to Polygon
 - [Chronic](https://www.skynetexplorers.com/chronic-token/staking/chronicvaloper1x8czjpdy2x9svz0s3u9hdgqxd06ta39y49lnd3) Genesis validator
+- [Galaxy](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1f8tm4wspt687qg36c6rrrv8enuwhr5crsuqfjx) halted
 <details>
   
   <summary>Active Cosmo Testnets</summary>
-  
+- [Andromeda](https://explorer.stavr.tech/andromeda/staking/andrvaloper1gyuky8x5cy7sz99hlhj3lystra97hwag2qxtxd)  
 - [Aura](https://testnet.owlstake.com/Aura-Network/staking/auravaloper1gnf4sxs2qnycrxxyd6gqk9wqa3xjf6h3efl7rz)
 - [Cardchain](https://explorers.acloud.pp.ua/cardchain/staking/ccvaloper1wlmkgs6mckzphx42pxm8xaxwd9q997y2r5lrdl)
 - [Celestia](https://celestia.explorers.guru/validator/celestiavaloper1gjjqu6ykrfww43uqrv290zmr9j3t9rfnhdcffl)
@@ -71,9 +72,12 @@ Genesis validator, but not in active set: <br />
 - [Mun](https://blockexplorer.mun.money/validators/munvaloper15ywjwwtpx0t5jmhnqpvrn6rh02kehahunwvkn0)
 - [Nois](https://explorer.stavr.tech/nois/staking/noisvaloper15r3u4crd9vm6as0mhlyrtc4nlrh3q6juqk05me)
 - [Ollo](https://testnet.manticore.team/ollo/staking/ollovaloper1pmuuvdjsgret3fwjd6eqrzyrhfq3j59yagzdcz)
+- [Okp4](https://explorer.stavr.tech/okp4/staking/okp4valoper1k9gu5y8eeafz9zl68usfskhmm0zqjyxt0rgrl8)
 - [Paloma](https://paloma.explorers.guru/validator/palomavaloper14kd965w29se5atw0fzmewr99gkjezk8gpvuu2x) 
 - [Pylons](https://wallet.pylons.tech/validator/pylovaloper1u29z4l8ugjdwp2pm8luwntksh0p9n7dvq8zxs3)
+- [Realio](https://explorer.stavr.tech/realio/staking/realiovaloper1hw3hq66urcvxxmlgxkn9cs4ht93m4zh9ky7378)
 - [Sei](https://sei.explorers.guru/validator/seivaloper1cz28dzx8zcls720h2nnrd5x8a3kjqy95axhqy6)
+- [Source](https://explorer.stavr.tech/source/staking/sourcevaloper120pps8apulyxne209hp33u6r66mae4knks4hke)
 - [Terp](https://explorer.stavr.tech/terp-network/staking/terpvaloper1n3e4c8rdhdflrtuse0muapdy4tl7qrmxa8zsae)
 - [Uptick](https://explorer.stavr.tech/uptick/staking/uptickvaloper1uwtmwh09qt2xtvfne6jmjehsedgycxqqyt3xje)
 

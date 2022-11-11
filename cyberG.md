@@ -73,6 +73,7 @@ Genesis validator, but not in active set: <br />
 - [Kyve](https://kyve-beta.netlify.app/#/validators/kyve1qshg789ash8pjfwrs5tzq4d42w5pg94c4uxj6c) Protocol node 
 - [Mande](https://texplorer.stavr.tech/mande-chain/staking/mandevaloper13klmmsa5w39szy0fn2gwczd5jef6s9ndzu7ltl)
 - [Mun](https://blockexplorer.mun.money/validators/munvaloper15ywjwwtpx0t5jmhnqpvrn6rh02kehahunwvkn0)
+- [Neutron](https://neutron.explorers.guru/validator/neutronvaloper1e5pam4kern2x8s9xr90hdqahdsfnkwrdt3npzk)
 - [Nibiru](https://explorer.stavr.tech/nibiru/staking/nibivaloper1ykvqd6jkz7c9hdr36eayys7ekkwcey4uu6jm5a)
 - [Nois](https://explorer.stavr.tech/nois/staking/noisvaloper15r3u4crd9vm6as0mhlyrtc4nlrh3q6juqk05me)
 - [Ollo](https://testnet.manticore.team/ollo/staking/ollovaloper1pmuuvdjsgret3fwjd6eqrzyrhfq3j59yagzdcz)

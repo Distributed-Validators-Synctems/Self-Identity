@@ -7,23 +7,23 @@ Current mainnets: <br />
 [Velas](https://velasvalidators.com/He8EzKJ7dmp37oecC7NnSGSicXdRubjjovd9xWR9UPYH) - Foundation Delegated<br />
 [Everscale](https://ever.live/accounts/accountDetails?id=0%3A91163b1721e5920726053b51baf39be62e9c058fc348913d3619503d6710f92b) - Magister Ludi, Depool contest and RustCup winner<br />
 
-[Omniflix](https://www.skynetexplorers.com/omniflix/staking/omniflixvaloper1vcjmshcst9zjh4pydsvqdssg86nzheykssjh5m) - Approved Mainnet Validator<br />
-[Persistence AssetMantle](https://www.mintscan.io/asset-mantle/validators/mantlevaloper1z79zeeyvdgqddevdng3u8d3kqt87dtq3jhsqvq) - Approved Mainnet and Community Validator<br />
+[Omniflix](https://www.skynetexplorers.com/omniflix/staking/omniflixvaloper1vcjmshcst9zjh4pydsvqdssg86nzheykssjh5m) - Genesis Mainnet Validator<br />
+[Persistence AssetMantle](https://www.mintscan.io/asset-mantle/validators/mantlevaloper1z79zeeyvdgqddevdng3u8d3kqt87dtq3jhsqvq) - Genesis Mainnet and Community Validator<br />
 [Nym Gateway+Requester service](https://explorer.nymtech.net/network-components/gateways) - NYM team selected grantee </br>
-[Tgrade](https://tgrade.aneka.io/validators/tgrade1dz487qtggarfaxja70grhs3lgfv02mpn0l9f3j) - Approved Mainnet Validator<br />
-[Passage](https://passage.aneka.io/validators/pasgvaloper1usm9f4udzle85670u7emgf5xlnqnsveujazh3h) - Approved Mainnet Validator<br />
-[Rebus](https://rebus.explorers.guru/validator/rebusvaloper1mjw2xy2l284z7psm0alpa658cxw9w5c2as35qc) - Mainnet Validator<br />
-[Galaxy](https://explorer.postcapitalist.io/Galaxy/staking/galaxyvaloper1wuem8vc5tmlm3m7gaqt00qn37dxe9vkuzqsn4j) - Approved Mainnet Validator<br />
+[Tgrade](https://tgrade.aneka.io/validators/tgrade1dz487qtggarfaxja70grhs3lgfv02mpn0l9f3j) - Genesis Mainnet Validator<br />
+[Passage](https://passage.aneka.io/validators/pasgvaloper1usm9f4udzle85670u7emgf5xlnqnsveujazh3h) - Genesis Mainnet Validator<br />
+[Rebus](https://rebus.explorers.guru/validator/rebusvaloper1mjw2xy2l284z7psm0alpa658cxw9w5c2as35qc) - Genesis Mainnet Validator<br />
+[Galaxy](https://explorer.postcapitalist.io/Galaxy/staking/galaxyvaloper1wuem8vc5tmlm3m7gaqt00qn37dxe9vkuzqsn4j) - Genesis Mainnet Validator<br />
  <!--- [Hopr](https://hoprnet.org/) - Diamond Hodler<br /> --->
 
 Actual testnets:<br/>
 [Sui](https://explorer.sui.io/?network=http%3A%2F%2F162.55.245.79%3A9000)</br>
-[Neutron](https://testnet.mintscan.io/neutron-testnet/validators/neutronvaloper12jlq7gy7zn9rrs04g3rtg06uuu9hhr7udk959m) - testnet selected validator</br>
+[Neutron](https://testnet.mintscan.io/neutron-testnet/validators/neutronvaloper12jlq7gy7zn9rrs04g3rtg06uuu9hhr7udk959m) - genesis testnet validator</br>
 [Gitopia](https://explorer.gitopia.com/validators/gitopiavaloper1nf5jh8wk2sdlv7ltvg7e9klkpjt45tzgtd7pg2) - testnet selected validator<br/>
-[Uptick](https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1ln4chyv9maucwkhfdd0zh54nu93p9jw60wyhx2) - testnet selected validator</br>
+[Uptick](https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1ln4chyv9maucwkhfdd0zh54nu93p9jw60wyhx2) - genesis testnet validator</br>
 [Mande](https://explorer.jambulmerah.dev/mande-testnet/staking/mandevaloper1acepfkj6qgfj6d5d57nwd2wtxx5l67uj8rwq44) - testnet selected validator</br>
 [Okp4](https://okp4.explorers.guru/validator/okp4valoper1m88t450gg3jrc87xh4u00sasdjls7fdl7tlrde)</br>
-[Nois](https://explorer.nodestake.top/nois-testnet/staking/noisvaloper1j2p6k6dz8hq0wdusvd0kpm45v259uk8c4vv4wd) and [drand bot](https://randomness.nois.network) <br/>
+[Nois](https://explorer.nodestake.top/nois-testnet/staking/noisvaloper1j2p6k6dz8hq0wdusvd0kpm45v259uk8c4vv4wd) testnet selected validator and [drand bot](https://randomness.nois.network) <br/>
 [Ollo](https://explorer.kjnodes.com/ollo/staking/ollovaloper135vurxmr3hrrnqwfj9cdh3te5nym4a76332rv9)<br/>
 [Source protocol](https://explorer.testnet.sourceprotocol.io/source/staking/sourcevaloper1k4kfsus9zp7alc803mtsaqnxwvc4y79tkv5cus)<br/>
 [Haqq](https://haqq.explorers.guru/validator/haqqvaloper1vwphqq8lcutu5zqfqqfktahhnvyyqpk3q6x765)<br/>

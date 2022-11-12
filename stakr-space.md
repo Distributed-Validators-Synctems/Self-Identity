@@ -13,27 +13,29 @@ Current mainnets: <br />
 [Tgrade](https://tgrade.aneka.io/validators/tgrade1dz487qtggarfaxja70grhs3lgfv02mpn0l9f3j) - Approved Mainnet Validator<br />
 [Passage](https://passage.aneka.io/validators/pasgvaloper1usm9f4udzle85670u7emgf5xlnqnsveujazh3h) - Approved Mainnet Validator<br />
 [Rebus](https://rebus.explorers.guru/validator/rebusvaloper1mjw2xy2l284z7psm0alpa658cxw9w5c2as35qc) - Mainnet Validator<br />
-<!--- [Galaxy](https://explorer.postcapitalist.io/Galaxy/staking/galaxyvaloper1wuem8vc5tmlm3m7gaqt00qn37dxe9vkuzqsn4j) - Approved Mainnet Validator<br />
- [Hopr](https://hoprnet.org/) - Diamond Hodler<br /> --->
+[Galaxy](https://explorer.postcapitalist.io/Galaxy/staking/galaxyvaloper1wuem8vc5tmlm3m7gaqt00qn37dxe9vkuzqsn4j) - Approved Mainnet Validator<br />
+ <!--- [Hopr](https://hoprnet.org/) - Diamond Hodler<br /> --->
 
 Actual testnets:<br/>
-Neutron</br>
-[Mande](https://explorer.jambulmerah.dev/mande-testnet/staking/mandevaloper1acepfkj6qgfj6d5d57nwd2wtxx5l67uj8rwq44)</br>
+[Sui](https://explorer.sui.io/?network=http%3A%2F%2F162.55.245.79%3A9000)</br>
+[Neutron](https://testnet.mintscan.io/neutron-testnet/validators/neutronvaloper12jlq7gy7zn9rrs04g3rtg06uuu9hhr7udk959m) - testnet selected validator</br>
+[Gitopia](https://explorer.gitopia.com/validators/gitopiavaloper1nf5jh8wk2sdlv7ltvg7e9klkpjt45tzgtd7pg2) - testnet selected validator<br/>
+[Uptick](https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1ln4chyv9maucwkhfdd0zh54nu93p9jw60wyhx2) - testnet selected validator</br>
+[Mande](https://explorer.jambulmerah.dev/mande-testnet/staking/mandevaloper1acepfkj6qgfj6d5d57nwd2wtxx5l67uj8rwq44) - testnet selected validator</br>
 [Okp4](https://okp4.explorers.guru/validator/okp4valoper1m88t450gg3jrc87xh4u00sasdjls7fdl7tlrde)</br>
-[Nois](https://explorer.nodestake.top/nois-testnet/staking/noisvaloper1j2p6k6dz8hq0wdusvd0kpm45v259uk8c4vv4wd)<br/>
+[Nois](https://explorer.nodestake.top/nois-testnet/staking/noisvaloper1j2p6k6dz8hq0wdusvd0kpm45v259uk8c4vv4wd) and [drand bot](https://randomness.nois.network) <br/>
 [Ollo](https://explorer.kjnodes.com/ollo/staking/ollovaloper135vurxmr3hrrnqwfj9cdh3te5nym4a76332rv9)<br/>
 [Source protocol](https://explorer.testnet.sourceprotocol.io/source/staking/sourcevaloper1k4kfsus9zp7alc803mtsaqnxwvc4y79tkv5cus)<br/>
 [Haqq](https://haqq.explorers.guru/validator/haqqvaloper1vwphqq8lcutu5zqfqqfktahhnvyyqpk3q6x765)<br/>
 Bundlr<br/>
 [Empowerchain](https://empower.explorers.guru/validator/empowervaloper1mltc0s3asan3rpfg7jdvfmwpmvtmwvqj7svvk6)<br/>
 [Cardchain](https://explorer.kjnodes.com/cardchain/staking/ccvaloper178g3555nt2ks6t7fqrzzt566yrzqfxexcjkjzu)</br>
-
+[Defund](https://defund.explorers.guru/validator/defundvaloper17ad0z9p9n5m642pu9szpfxrgm46d3nydckqarm)</br>
 [Aptos](https://explorer.devnet.aptos.dev/account/0x4449959032d51d85aae24c37ad6a9c5a27499b7d7b67dfd5327e61eb2bc3051c?network=ait3) - AIT2 selected and rewarded validator, AIT3 selected validator<br/>
 [BlockPi](https://testnet.explorer.blockpi.io/hypernode/0x491e08d6ed9ef3e3c84691ca66558682389f12af?page=1&perPage=100) - testnet selected operator<br/>
 Mundis - testnet selected validator<br/>
 [Obol](https://app.poap.xyz/token/5771874) - testnet selected validator team<br/>
 Quicksilver - testnet rewarded validator<br/>
-Gitopia - testnet selected validator<br/>
 [Sei](https://sei.explorers.guru/validator/seivaloper1ljat0ed6wufa7xmg8uuhu5rjyktn9f6qqxsu9v) - Seinami testnet selected validator<br/>
 [Stride](https://stride.explorers.guru/validator/stridevaloper1eameggr889lcvr3ftr7wmekkzuzvxn3kljljjw) - testnet selected validator<br/>
 [Rebus](https://rebus.explorers.guru/validator/rebusvaloper138fk9ls4asxy9a8tg48c9jwcext4h3k3mdfnj6) - testnet selected validator<br/>
@@ -42,7 +44,6 @@ Gitopia - testnet selected validator<br/>
 Starknet - rust node testnet participant<br/>
 [Aleph zero](https://telemetry.azero.dev/#/0x05d5279c52c484cc80396535a316add7d47b1c5b9e0398dd1f584149341460c5) - testnet participant<br/>
 [Gear](https://telemetry.gear-tech.io/#list/0x6cf0c78d265512c4f4e7d8c046ef25795f163fe476a838b64e7dbf2cdc164593) - testnet participant<br/>
-Sui - testnet validator<br/>
 Near - testnet participant<br/>
 Gnoland - testnet participant<br/>
 Espresso Systems - testnet participant<br/>

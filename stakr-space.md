@@ -152,4 +152,5 @@ Some of NFT badges:<br/>
 Reach out: <br />
 - [STAKR site](https://stakr.space#contact)
 - [Blog](https://github.com/papanomad535/blog)
+- [STAKR.space Telegram](https://t.me/stakrspace)
   

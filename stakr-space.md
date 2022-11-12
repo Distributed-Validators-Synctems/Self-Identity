@@ -132,8 +132,9 @@ Validators.network - [School mentor](https://validators.network)<br/>
     Umee - [Translation](https://synctems.medium.com/umee-faq-ru-4948f53ca423)</br>
     Akash - [guides, essays](https://github.com/papanomad535/blog/blob/main/akash-deployment/deployments-and-persistent-storage.md)</br>
     Klever - [guides, monitoring](https://github.com/papanomad535/blog/tree/main/klever-testnet)</br>
-    DVS multisig web ui signer - [link](https://cosmos-multisig-6gcn2a7ce-dvs-app.vercel.app/)
+    DVS multisig [web ui signer](https://cosmos-multisig-6gcn2a7ce-dvs-app.vercel.app/)
 <br/>
+Tgrade network - private RPC provider
 
 Some of NFT badges:<br/>
 [Humanode](https://rarible.com/token/0x495f947276749ce646f68ac8c248420045cb7b5e:94545460772546067351514636360142996169945067548883410963222571441040706764920?tab=overview)<br/>

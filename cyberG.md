@@ -67,6 +67,7 @@ Genesis validator, but not in active set: <br />
 - [Clan](https://testnet.explorer.testnet.run/Clan%20Network/staking/clanvaloper1c9t2xur4sx7z5kerp8l8a978dl68fmdxrqegqc) 
 - [Deweb](https://explore.deweb.services/deweb/staking/dewebvaloper1vu9rvsu32zetvunve5l9qlx2gvrfg7fl2jkrsr)
 - [Empower](https://empower.explorers.guru/validator/empowervaloper1amptmm5tx36pe3txndavm2au0murreauh04kpz)
+- [Gitopia](https://explorer.gitopia.com/validators/gitopiavaloper1fruvmyjvdq4399zq7dg2hn3ymdmrckakapeppc)
 - [Haqq](https://haqq.explorers.guru/validator/haqqvaloper1rswq8qe22qcr28hhstpyc3j5anfk0g2yp20w5x)
 - [Hypersign](https://explorer.hypersign.id/hypersign-testnet/account/hid1n8aacwgdnk2s534f2hp9wkjfe982scjm2tqrss)
 - [Kyve](https://explorer.beta.kyve.network/kyve-betanet/staking/kyvevaloper1fxh88ayzp4zghxcdh8la0kxwhx0v9w4e7nj60c) Chain node

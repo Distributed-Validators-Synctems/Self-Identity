@@ -216,6 +216,7 @@ Genesis validator, but not in active set: <br />
 - [DeWork](https://app.dework.xyz/profile/4e2c052f-51d6-43f2-8d5d-6c7669f2246f)
 - [Cheers](https://cyberg.eth.cheers.bio/)
 - [Light](https://light.so/cyberg.eth)
+- [Link3](https://link3.to/cyberg))
 - [Lens](https://www.lensfrens.xyz/cyberg.lens)
 - [Peepeth](https://peepeth.com/cyberG)
 - [Buidl](https://buildspace.so/@cyberg) 

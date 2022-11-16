@@ -6,6 +6,7 @@
 - [Cyber](https://cyb.ai/network/bostrom/hero/bostromvaloper1zaefvwrgk2g45k68a3ngahgq0xky5zgeluu86f)
 - [Galaxy](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1ray63rxppdh7wdg3symek4xvqkkudh0a92kgmq)
 - [Lambda](https://explorer.nodestake.top/lambda/staking/lambvaloper16wcltp9yx3pfhyu7zcf9r3jau9syjdl05nvhk5)
+- [Joystream](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.joystream.org%3A9944#/staking)
 - [Solana](https://www.validators.app/validators/FhtTzi7AjoBTY3RWydBaNQNmcQutpJBeiGYmBET4y1bG?locale=en&network=mainnet&order=&refresh=)
 
 # Testnets

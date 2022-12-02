@@ -9,6 +9,7 @@ Active Cosmo Mainnets: <br />
 - [Asset Mantle](https://www.mintscan.io/asset-mantle/validators/mantlevaloper1munf9mvdu9zxh2zma8cvg6frse4kffafvlyzue) Genesis validator
 - [Bitsong](https://www.mintscan.io/bitsong/validators/bitsongvaloper1mx3gct8chrssamkdfw8fkrdl93knllryalmxpm) Genesis validator
 - [Bostrom](https://cyb.ai/network/bostrom/hero/bostromvaloper1en69twaxmv7xupy8lq7y539dpecx7yz8s43ceg) Genesis validator
+- [C4E](https://explorer.nodestake.top/chain4energy/staking/c4evaloper1mvw0rmngtp9r7598m9lms48j6wyucke8m2wa68)
 - [Canto](https://explorer.nodestake.top/canto/staking/cantovaloper1yckfh3najzqhvzzrf4qj2ddkr9h4zav048hjwx)
 - [Certik](https://www.mintscan.io/certik/validators/certikvaloper1yq8a2ksa7dz8wd8wlks3k8nqdmht76xdnrvehx) Genesis validator
 - [Comdex](https://www.mintscan.io/comdex/validators/comdexvaloper1963hcznh439kspqmjj5hv5h4nk2kphvats5ujk) Cooperative validator
@@ -26,6 +27,7 @@ Active Cosmo Mainnets: <br />
 - [Passage](https://passage.aneka.io/validators/pasgvaloper1w6mqsvguml3k4j0vry9jl8ur9qanhhr0g7qrvs) Genesis validator
 - [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1swmud649t386j2csz0gah7ku2zpfu0w7trzr09)
 - [Rebus](https://mainnet.manticore.team/rebus/staking/rebusvaloper14dv684ed57cgehl5apcl56n2mqsypr7vqrmpvx)
+- [Sommelier](https://www.mintscan.io/sommelier/validators/sommvaloper1x52lteqqkspn5fshujd6duqrw773jqzl2hu8et)
 - [Space Pussy](https://space-pussy.cyb.ai/network/bostrom/hero/pussyvaloper17zdyl3gfssc3vzzyxptnr0xl8z0pnte92zy8vy) Genesis validator
 - [Stargaze](https://www.mintscan.io/stargaze/validators/starsvaloper1dtk6748uhvmhvakhleclrwprp27pe89vhhw44p) Genesis validator
 - [Stride](https://www.mintscan.io/stride/validators/stridevaloper136nl6lu4hvaus6l0lypzqq5gkd3dxvu5eaydk2)
@@ -37,6 +39,7 @@ Active Cosmo Mainnets: <br />
 Active non-Cosmo Mainnets: <br />
 - [Avalanche](https://avascan.info/staking/validator/NodeID-Jm1k2q2WAkH99w4ZBEgzrmm6Kte39qCWJ)
 - [Everscale](https://ever.live/depools/depoolDetails?id=0%3Ae108fbffddd3999898788f59b267a0641287703866845d1734be5cd7f637473c) Cooperative Depool
+- [Humanode]() 
 - [Mina Protocol](https://minaexplorer.com/wallet/B62qrgnUUduZy2z7zT8qCV8ngTJfSS1rK3Wh22SHUmrse3Tfqvrhx8q) GFM
 - [Moonbeam]() Orbiter
 - [Moonriver]() Orbiter
@@ -61,12 +64,9 @@ Genesis validator, but not in active set: <br />
   
 
 - [Andromeda](https://explorer.stavr.tech/andromeda/staking/andrvaloper1gyuky8x5cy7sz99hlhj3lystra97hwag2qxtxd)
-- [Aura](https://testnet.owlstake.com/Aura-Network/staking/auravaloper1gnf4sxs2qnycrxxyd6gqk9wqa3xjf6h3efl7rz)
 - [Cardchain](https://explorers.acloud.pp.ua/cardchain/staking/ccvaloper1wlmkgs6mckzphx42pxm8xaxwd9q997y2r5lrdl)
 - [Celestia](https://celestia.explorers.guru/validator/celestiavaloper1gjjqu6ykrfww43uqrv290zmr9j3t9rfnhdcffl)
 - [Clan](https://testnet.explorer.testnet.run/Clan%20Network/staking/clanvaloper1c9t2xur4sx7z5kerp8l8a978dl68fmdxrqegqc) 
-- [Deweb](https://explore.deweb.services/deweb/staking/dewebvaloper1vu9rvsu32zetvunve5l9qlx2gvrfg7fl2jkrsr)
-- [Empower](https://empower.explorers.guru/validator/empowervaloper1amptmm5tx36pe3txndavm2au0murreauh04kpz)
 - [Gitopia](https://explorer.gitopia.com/validators/gitopiavaloper1fruvmyjvdq4399zq7dg2hn3ymdmrckakapeppc)
 - [Haqq](https://haqq.explorers.guru/validator/haqqvaloper1rswq8qe22qcr28hhstpyc3j5anfk0g2yp20w5x)
 - [Hypersign](https://explorer.hypersign.id/hypersign-testnet/account/hid1n8aacwgdnk2s534f2hp9wkjfe982scjm2tqrss)
@@ -77,7 +77,6 @@ Genesis validator, but not in active set: <br />
 - [Neutron](https://neutron.explorers.guru/validator/neutronvaloper1e5pam4kern2x8s9xr90hdqahdsfnkwrdt3npzk)
 - [Nibiru](https://explorer.stavr.tech/nibiru/staking/nibivaloper1ykvqd6jkz7c9hdr36eayys7ekkwcey4uu6jm5a)
 - [Nois](https://explorer.stavr.tech/nois/staking/noisvaloper15r3u4crd9vm6as0mhlyrtc4nlrh3q6juqk05me)
-- [Ollo](https://testnet.manticore.team/ollo/staking/ollovaloper1pmuuvdjsgret3fwjd6eqrzyrhfq3j59yagzdcz)
 - [Okp4](https://explorer.stavr.tech/okp4/staking/okp4valoper1k9gu5y8eeafz9zl68usfskhmm0zqjyxt0rgrl8)
 - [Paloma](https://paloma.explorers.guru/validator/palomavaloper14kd965w29se5atw0fzmewr99gkjezk8gpvuu2x) 
 - [Pylons](https://wallet.pylons.tech/validator/pylovaloper1u29z4l8ugjdwp2pm8luwntksh0p9n7dvq8zxs3)
@@ -93,11 +92,11 @@ Genesis validator, but not in active set: <br />
 <details>
   <summary>Active non-Cosmos Testnets</summary>
   
-  
+- [Aleo]() 
 - [Blast](https://houston.blastapi.io/explorer/0x8847ebaaf29a18396e49191602f8d8d141b98aa7) 
 - [Casper](https://testnet.cspr.live/validator/010a6b601408889363dc003943c9234e1bcd9ac074da385c45ff2cd4aa2c9283ce)
-- [Gear]()
-- [Masa]()
+- [Chainflip]()
+- [Joystream]()
 - [Solana](https://www.validators.app/validators/testnet/28LgQ7MeEZVgNJfYRc6UnoAz2SnSjKbyCKM6sntCRotb?locale=en&order=score&refresh=)
 - [Sui]()
 - [TheGraph](https://testnet.thegraph.com/profile?id=0x8847ebaaf29a18396e49191602f8d8d141b98aa7&view=Indexing)
@@ -140,11 +139,15 @@ Genesis validator, but not in active set: <br />
 - [Cryptocom]()
 - [Decentr]()
 - [Defund](https://defund.explorers.guru/validator/defundvaloper1v0d46jupe9qehc7kpp8nv8hs4vwyujgctau8vz)
+- [Deweb](https://explore.deweb.services/deweb/staking/dewebvaloper1vu9rvsu32zetvunve5l9qlx2gvrfg7fl2jkrsr)
+- [Empower](https://empower.explorers.guru/validator/empowervaloper1amptmm5tx36pe3txndavm2au0murreauh04kpz)
 - [Evmos]()
 - [Filecoin]()
 - [Frontier]()
 - [Galital]()
 - [GAME]()
+- [Gear]()
+- [Masa]()
 - [Hopr]()
 - [Humanode]()
 - [IRIS]()
@@ -159,6 +162,7 @@ Genesis validator, but not in active set: <br />
 - [Near]()
 - [NUcypher]()
 - [Obol]()
+- [Ollo](https://testnet.manticore.team/ollo/staking/ollovaloper1pmuuvdjsgret3fwjd6eqrzyrhfq3j59yagzdcz)
 - [Phala]()
 - [Plasm]()
 - [PlatON]()

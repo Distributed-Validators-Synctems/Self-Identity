@@ -97,6 +97,7 @@ Genesis validator, but not in active set: <br />
 - [Casper](https://testnet.cspr.live/validator/010a6b601408889363dc003943c9234e1bcd9ac074da385c45ff2cd4aa2c9283ce)
 - [Chainflip]()
 - [Joystream]()
+- [Parastate]()
 - [Solana](https://www.validators.app/validators/testnet/28LgQ7MeEZVgNJfYRc6UnoAz2SnSjKbyCKM6sntCRotb?locale=en&order=score&refresh=)
 - [Sui]()
 - [TheGraph](https://testnet.thegraph.com/profile?id=0x8847ebaaf29a18396e49191602f8d8d141b98aa7&view=Indexing)

@@ -69,7 +69,7 @@ Genesis validator, but not in active set: <br />
 - [Clan](https://testnet.explorer.testnet.run/Clan%20Network/staking/clanvaloper1c9t2xur4sx7z5kerp8l8a978dl68fmdxrqegqc) 
 - [Gitopia](https://explorer.gitopia.com/validators/gitopiavaloper1fruvmyjvdq4399zq7dg2hn3ymdmrckakapeppc)
 - [Haqq](https://haqq.explorers.guru/validator/haqqvaloper1rswq8qe22qcr28hhstpyc3j5anfk0g2yp20w5x)
-- [Hypersign](https://explorer.hypersign.id/hypersign-testnet/account/hid1n8aacwgdnk2s534f2hp9wkjfe982scjm2tqrss)
+- [Hypersign](https://explorer.hypersign.id/hypersign-testnet/staking/hidvaloper1n8aacwgdnk2s534f2hp9wkjfe982scjm4fhfc0)
 - [Kyve](https://explorer.beta.kyve.network/kyve-betanet/staking/kyvevaloper1fxh88ayzp4zghxcdh8la0kxwhx0v9w4e7nj60c) Chain node
 - [Kyve](https://kyve-beta.netlify.app/#/validators/kyve1qshg789ash8pjfwrs5tzq4d42w5pg94c4uxj6c) Protocol node 
 - [Mande](https://texplorer.stavr.tech/mande-chain/staking/mandevaloper13klmmsa5w39szy0fn2gwczd5jef6s9ndzu7ltl)

@@ -3,24 +3,29 @@
 # Validator bonded.zone
 
 ## Contacts:
-- [Web-page](https://bonded.zone/)
 - [Medium](https://bondedzone.medium.com/)
 - [Twitter](https://twitter.com/SKosjakoff)
 - [Telegram](https://t.me/kosjakoff)
 - [Discord](https://discord.com/users/864778911548309506)
+- [Web-page](https://bonded.zone/)
 - [Keybase](https://keybase.io/kosjakoff)
 
+---
 
 ## Mainnets:
 - [BitCanna](https://www.mintscan.io/bitcanna/validators/bcnavaloper1yyps9aer7ldm8tjayft68q8ay5l4nch0waf4yh)
-- [Bitsong](https://www.mintscan.io/bitsong/validators/bitsongvaloper1pkepjd307346zadmlxpvs9wqrghkx735v0ehge)
+- [BitSong](https://www.mintscan.io/bitsong/validators/bitsongvaloper1pkepjd307346zadmlxpvs9wqrghkx735v0ehge)
 - [Desmos](https://www.mintscan.io/desmos/validators/desmosvaloper13has6wzwyfyuq6r9j48cwugl6ajqw44gv0fa6k)
 - [Galaxy](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1vmgq4nsyc5e8x699k0y7nme3c6egdlv5ahj3xu)
-- [Mises](https://gw.mises.site/validators)
+- [Mises](https://explorer.stavr.tech/mises/staking/misesvaloper1edkk3yut79ef27ev7g7aap02dyfmyp8r85lt3q)
 - [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1jnjg9fl5hflwgjyu9vrht3j52nn68yjesxaqmr)
 
 
 ## Active Testnets:
+- [Gitopia](https://explorer.gitopia.com/validators/gitopiavaloper1aj3jvnk7z2wglyshlt49x9unwq755nzlmjj2u0)
+- [Okp4](https://okp4.explorers.guru/validator/okp4valoper10ethqu3jh7etkplzywc8gw62dv77mc3qz54ufw)
+- [Desmos](https://morpheus.desmos.network/validators/desmosvaloper1y7rmhvep06d9elxjzypasj00ajv3uf0dgyn6el)
+- [BitCanna](https://testnet.ping.pub/bitcanna/staking/bcnavaloper14vy4wdx5e8q8us456kqzcejcvxsk2dnmj8np7t)
 - [Uptick](https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1q4vdlk6ty7g04nylnnqdws8dffxtyns4l9uf9t)
 - [Multichain](https://testnet.multichain.tools/)
 - [Terp Network](https://www.skynetexplorers.com/terpnetwork/staking/terpvaloper105rzlcracxe9r32h8flpn4kpw8waqueqj7xlcz)
@@ -32,12 +37,13 @@
 - [Peaq](https://www.peaq.network/agung-testnet)
 - [Gear](https://www.gear-tech.io/)
 - [Masa](https://masa.finance/)
-- [DWS](https://explore.deweb.services/deweb/staking/dewebvaloper1qnmxn96dgv8h09vtf8ke4sj3u7970eafurgk2j)
 - [Celestia](https://celestia.explorers.guru/validator/celestiavaloper1g4vlhwtjym0t6vpaxr3eyp78nkekxgx2vjhjf9)
 - [Massa](https://massa.net/)
 - [Minima](https://minima.global/)
 
+
 ## Finished Testnets:
+- [DWS](https://explore.deweb.services/deweb/staking/dewebvaloper1qnmxn96dgv8h09vtf8ke4sj3u7970eafurgk2j)
 - [Obol](https://goerli.beaconcha.in/validator/0xb694a735117eaf0665a1b75dad154dc47d4ba5bbb29a792784834add2c44f6d4cc4247b90d31b0699cd71004ab90b061#deposits)
 - [Haqq](https://haqq.explorers.guru/validator/haqqvaloper1n4wscfmgzrx2l0ynefnt90ehmy0uyplukfh979)
 - [Teritori](https://teritori.explorers.guru/validator/torivaloper14e9t9vrfmkuawv8mhxvt3ms8yxkc8z6rvaek8t)
@@ -76,6 +82,8 @@
 - [Stratos](https://big-dipper-test.thestratos.org/validator/stvaloper1zamjm637j9ktphx8d363am3ayqw9ecfn8g8nms)
 - [SSV](https://ssv.network/)
 
+---
+
 ## Contributions
 
 ### Technical
@@ -85,6 +93,14 @@
 
 
 ### Community
+- [Translation - RIZON CosmWasm Smart Contract тестнет](https://bondedzone.medium.com/rizon-cosmwasm-smart-contract-%D1%82%D0%B5%D1%81%D1%82%D0%BD%D0%B5%D1%82-70f77d61e7cb)
+- [Translation - Анонс выпуска стейблкойна RIZON (RCHF)](https://bondedzone.medium.com/%D0%B0%D0%BD%D0%BE%D0%BD%D1%81-%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%B0-%D1%81%D1%82%D0%B5%D0%B9%D0%B1%D0%BB%D0%BA%D0%BE%D0%B9%D0%BD%D0%B0-rizon-rchf-8d8d7817187b)
+- [Translation - Ежемесячный дайджест BitCanna — ноябрь 2022](https://bondedzone.medium.com/%D0%B5%D0%B6%D0%B5%D0%BC%D0%B5%D1%81%D1%8F%D1%87%D0%BD%D1%8B%D0%B9-%D0%B4%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82-bitcanna-%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8C-2022-6cff43722bc9)
+- [Translation - 🚨Анонс розыгрыша ФанТокена $D9X](https://bondedzone.medium.com/%D0%B0%D0%BD%D0%BE%D0%BD%D1%81-%D1%80%D0%BE%D0%B7%D1%8B%D0%B3%D1%80%D1%8B%D1%88%D0%B0-%D1%84%D0%B0%D0%BD%D1%82%D0%BE%D0%BA%D0%B5%D0%BD%D0%B0-d9x-29e03ad7e123)
+- [Translation - Ежемесячный дайджест BitCanna — октябрь 2022](https://bondedzone.medium.com/%D0%B5%D0%B6%D0%B5%D0%BC%D0%B5%D1%81%D1%8F%D1%87%D0%BD%D1%8B%D0%B9-%D0%B4%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82-bitcanna-%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8C-2022-888b863cabd4)
+- [Translation - 🚨 Анонс розыгрыша $CLAY](https://bondedzone.medium.com/%D0%B0%D0%BD%D0%BE%D0%BD%D1%81-%D1%80%D0%BE%D0%B7%D1%8B%D0%B3%D1%80%D1%8B%D1%88%D0%B0-clay-be64e6cbb7f5)
+- [Translation - BitCanna пул для чемпионата мира по футболу 2022](https://bondedzone.medium.com/bitcanna-%D0%BF%D1%83%D0%BB-%D0%B4%D0%BB%D1%8F-%D1%87%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82%D0%B0-%D0%BC%D0%B8%D1%80%D0%B0-%D0%BF%D0%BE-%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83-2022-c4996afcbb12)
+- [Translation - Анонс CosmWasm тестнета на BitSong](https://bondedzone.medium.com/%D0%B0%D0%BD%D0%BE%D0%BD%D1%81-cosmwasm-%D1%82%D0%B5%D1%81%D1%82%D0%BD%D0%B5%D1%82%D0%B0-%D0%BD%D0%B0-bitsong-aeccbbf6d0e5)
 - [Translation - RIZON: обзор 2022 года и новое приключение](https://bondedzone.medium.com/rizon-%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-2022-%D0%B3%D0%BE%D0%B4%D0%B0-%D0%B8-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B5-%D0%BF%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-fda9b2ec7d31)
 - [Translation - Ежемесячный дайджест BitCanna — август 2022](https://bondedzone.medium.com/%D0%B5%D0%B6%D0%B5%D0%BC%D0%B5%D1%81%D1%8F%D1%87%D0%BD%D1%8B%D0%B9-%D0%B4%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82-bitcanna-%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82-2022-21a4cb4de7a0)
 - [Translation - Анонс обновления RIZON GARGANTUA](https://bondedzone.medium.com/%D0%B0%D0%BD%D0%BE%D0%BD%D1%81-%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-rizon-gargantua-f7f5ca7ad7e)
@@ -125,9 +141,11 @@
 - [Translation - Представляем Archway в сети Cosmos](https://bondedzone.medium.com/%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC-archway-%D0%B2-%D1%81%D0%B5%D1%82%D0%B8-cosmos-d11c9bdd06b5)
 - [Translation - Hdac Technology выпускает Стейблкоин в соответствии с финансовым регулированием Швейцарии](https://bondedzone.medium.com/hdac-technology-%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%B0%D0%B5%D1%82-%D1%81%D1%82%D0%B5%D0%B9%D0%BB%D0%B1%D0%BA%D0%BE%D0%B8%D0%BD-%D0%B2-%D1%81%D0%BE%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B8%D0%B8-%D1%81-%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D0%BC-%D1%80%D0%B5%D0%B3%D1%83%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC-%D1%88%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D0%B8-44816caa8934)
 
+---
 
 ## Other Activities:
 I’m admin in this Telegram groups and channels:
-- [https://t.me/rizon_atolo_ru](https://t.me/rizon_atolo_ru)
-- [https://t.me/CosmosEcosystemNews_ru](https://t.me/CosmosEcosystemNews_ru)
-- [https://t.me/DVSynctems](https://t.me/DVSynctems)
+- [RIZON ($ATOLO)](https://t.me/rizon_atolo_ru)
+- [Cosmos Ecosystem News ru](https://t.me/CosmosEcosystemNews_ru)
+- [Distributed Validators Synctems chat](https://t.me/DVSynctems)
+- [Bitsong RU](https://t.me/bitsongru)

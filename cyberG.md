@@ -61,7 +61,6 @@ Validator, but not in active set: <br />
 
   <summary>Active Cosmo Testnets</summary>
   
-
 - [Andromeda](https://explorer.stavr.tech/andromeda/staking/andrvaloper1gyuky8x5cy7sz99hlhj3lystra97hwag2qxtxd)
 - [Cardchain](https://explorers.acloud.pp.ua/cardchain/staking/ccvaloper1wlmkgs6mckzphx42pxm8xaxwd9q997y2r5lrdl)
 - [Celestia](https://celestia.explorers.guru/validator/celestiavaloper1gjjqu6ykrfww43uqrv290zmr9j3t9rfnhdcffl)
@@ -69,9 +68,12 @@ Validator, but not in active set: <br />
 - [Gitopia](https://explorer.gitopia.com/validators/gitopiavaloper1fruvmyjvdq4399zq7dg2hn3ymdmrckakapeppc)
 - [Hypersign](https://explorer.hypersign.id/hypersign-testnet/staking/hidvaloper1n8aacwgdnk2s534f2hp9wkjfe982scjm4fhfc0)
 - [Kyve]() Chain node
-- [Kyve]() Protocol node 
+- [Kyve]() Protocol node
+- [Lava](https://lava.explorers.guru/validator/lava@valoper124qy4zcm8ws09meezeuvrjs9ev4zzld4qsqgcw) 
 - [Mande](https://texplorer.stavr.tech/mande-chain/staking/mandevaloper13klmmsa5w39szy0fn2gwczd5jef6s9ndzu7ltl)
+- [Mars](https://mars.explorers.guru/validator/marsvaloper1lmxyyq2unwfhquz48s6g0pvezu2ma4rua6vssc)
 - [Mun](https://blockexplorer.mun.money/validators/munvaloper15ywjwwtpx0t5jmhnqpvrn6rh02kehahunwvkn0)
+- [Namada]()
 - [Nibiru](https://explorer.stavr.tech/nibiru/staking/nibivaloper1ykvqd6jkz7c9hdr36eayys7ekkwcey4uu6jm5a)
 - [Nois](https://explorer.stavr.tech/nois/staking/noisvaloper15r3u4crd9vm6as0mhlyrtc4nlrh3q6juqk05me)
 - [Okp4](https://explorer.stavr.tech/okp4/staking/okp4valoper1k9gu5y8eeafz9zl68usfskhmm0zqjyxt0rgrl8)

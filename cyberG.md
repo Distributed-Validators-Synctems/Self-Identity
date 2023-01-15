@@ -20,19 +20,17 @@ Active Cosmo Mainnets: <br />
 - [Juno](https://www.mintscan.io/juno/validators/junovaloper1353ewfc0v7pnn3xre6v9lraghxrhenswmsjhv0)
 - [Kujira](https://cosmosrun.info/kujira/staking/kujiravaloper1tharcgrfu6j0dcwpe5y6ez3s904rhq2kmccm4k) Genesis validator
 - [Lambda](https://explorer.nodestake.top/lambda/staking/lambvaloper1zj8ynfvv0drhgjukxd0z8w5ge3t66ypqtg6e43)
-- [Mantle](https://www.mintscan.io/asset-mantle/validators/mantlevaloper1munf9mvdu9zxh2zma8cvg6frse4kffafvlyzue) Genesis validator
 - [Meme](https://ping.pub/meme/staking/memevaloper1g542uxlfqtx5qrcqy95pygn9n99jdtufjahnt2)
 - [Mises](https://explorer.stavr.tech/mises/staking/misesvaloper1jdqtazvd3q35jqgy0radp6x9lsuzqgj456299t)
 - [OmniFlix](https://www.skynetexplorers.com/omniflix/staking/omniflixvaloper1dfjx8w65h359vy55dvm383ks2xevsne9crkh32) Genesis validator
 - [Quicksilver](https://quicksilver.explorers.guru/validator/quickvaloper1sgxklkmzdskprcv0xqjml0e789g3z8lu00w66w)
 - [Passage](https://passage.aneka.io/validators/pasgvaloper1w6mqsvguml3k4j0vry9jl8ur9qanhhr0g7qrvs) Genesis validator
-- [Pylons](https://wallet.pylons.tech/validator/pylovaloper1u29z4l8ugjdwp2pm8luwntksh0p9n7dvq8zxs3)
+- [Pylons](https://pylons.explorers.guru/validator/pylovaloper1u29z4l8ugjdwp2pm8luwntksh0p9n7dvq8zxs3)
 - [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1swmud649t386j2csz0gah7ku2zpfu0w7trzr09)
 - [Rebus](https://mainnet.manticore.team/rebus/staking/rebusvaloper14dv684ed57cgehl5apcl56n2mqsypr7vqrmpvx)
 - [Sommelier](https://www.mintscan.io/sommelier/validators/sommvaloper1x52lteqqkspn5fshujd6duqrw773jqzl2hu8et)
 - [Space Pussy](https://space-pussy.cyb.ai/network/bostrom/hero/pussyvaloper17zdyl3gfssc3vzzyxptnr0xl8z0pnte92zy8vy) Genesis validator
 - [Stargaze](https://www.mintscan.io/stargaze/validators/starsvaloper1dtk6748uhvmhvakhleclrwprp27pe89vhhw44p) Genesis validator
-- [Stride](https://www.mintscan.io/stride/validators/stridevaloper136nl6lu4hvaus6l0lypzqq5gkd3dxvu5eaydk2)
 - [Teritori](https://explorer.teritori.com/teritori/staking/torivaloper1z95myrxyf94qnnlu5hzz8km69yx95s8w08267g)
 - [Tgrade](https://tgrade.aneka.io/validators/tgrade1daujfmddygyty3pjsnr9xhz3vxymh6u00krlym) Genesis validator
 - [Umee](https://www.mintscan.io/umee/validators/umeevaloper1qa5gkv8a4rzpncgkguv2szh5s83kh69l082zz3) Cooperative validator
@@ -51,17 +49,16 @@ Active non-Cosmo Mainnets: <br />
 - [Velas](https://velasvalidators.com/7MYojjTNnFsyEs7Pb5Xv3pKeZxUGk6R1kJoLrtSKkSRy)
 - [XX Network](https://dashboard.xx.network/nodes/2C5ngNbgU_r2bUrvzvAGJddGOhNboOt2r5ZSmJ-GezgC)
 
-Genesis validator, but not in active set: <br />
-- [Regen](https://regen.aneka.io/accounts/regen1qvn6ghe68l4g0k7s25rujr6yfpyrm6h3399jvu)
-- [Sentinel]()
+Validator, but not in active set: <br />
+- [Regen](https://regen.aneka.io/accounts/regen1qvn6ghe68l4g0k7s25rujr6yfpyrm6h3399jvu) Genesis validator
+- [Sentinel]() genesis validator
 - [Moonbeam](https://moonbeam.subscan.io/waiting/0xe2962a1785f655eae3a8cd1f1b38d1d760a300e3)
 - [Algorand]() Relayer Programm paticipant
 - [Casper](https://cspr.live/validator/018dc552de3c403dbefe03a9c604e11346d96159ed49f9381a55c2e06c45197d43) Currently inactive
-- [Microtick](https://explorer.microtick.zone/validators/microvaloper1z7crvuuks7yk33qwx4nv68nzhwznkmt96ddm5l) Migrated to Polygon
-- [Chronic](https://www.skynetexplorers.com/chronic-token/staking/chronicvaloper1x8czjpdy2x9svz0s3u9hdgqxd06ta39y49lnd3) Genesis validator
-- [Galaxy](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1f8tm4wspt687qg36c6rrrv8enuwhr5crsuqfjx) halted
+- [Stride](https://www.mintscan.io/stride/validators/stridevaloper136nl6lu4hvaus6l0lypzqq5gkd3dxvu5eaydk2)
+- [Mantle](https://www.mintscan.io/asset-mantle/validators/mantlevaloper1munf9mvdu9zxh2zma8cvg6frse4kffafvlyzue) Genesis validator
 <details>
-  
+
   <summary>Active Cosmo Testnets</summary>
   
 
@@ -154,6 +151,9 @@ Genesis validator, but not in active set: <br />
 - [IRIS]()
 - [Iron Fish]()
 - [Quicksilver](https://quicksilver.explorers.guru/validator/quickvaloper1sgxklkmzdskprcv0xqjml0e789g3z8lu00w66w)
+- [Microtick](https://explorer.microtick.zone/validators/microvaloper1z7crvuuks7yk33qwx4nv68nzhwznkmt96ddm5l) Migrated to Polygon
+- [Chronic](https://www.skynetexplorers.com/chronic-token/staking/chronicvaloper1x8czjpdy2x9svz0s3u9hdgqxd06ta39y49lnd3) Genesis validator
+- [Galaxy](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1f8tm4wspt687qg36c6rrrv8enuwhr5crsuqfjx) halted
 - [Kira]()
 - [Kyve](https://explorer.kyve.network/korellia/staking/kyvevaloper1fxh88ayzp4zghxcdh8la0kxwhx0v9w4e7nj60c)
 - [Likecoin]()

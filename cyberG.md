@@ -45,7 +45,7 @@ Active non-Cosmo Mainnets: <br />
 - [Moonbeam]() Orbiter
 - [Moonriver]() Orbiter
 - [NYM](https://mixnet.explorers.guru/gateways) Gateway and Requestor
-- [Solana](https://www.validators.app/validators/GmZ7xFQ4GHDbQw4CSnFT9pAHa15u35qTN8e259UrBh9D?locale=en&network=mainnet&order=score&refresh=) Foundation Delegation, Marinade, Boca Chica
+- [Solana](https://solanacompass.com/validators/9jJNuZE4EHTrz8xiTzmDGjJnCn5dGmruCyUwG1vgdHZR) Foundation Delegation, Marinade, Boca Chica
 - [TheGraph](https://thegraph.com/explorer/profile/0xfc6660fb369e595a0e22a29d93847b3eb83b8c55?view=Indexing)
 - [Velas](https://velasvalidators.com/7MYojjTNnFsyEs7Pb5Xv3pKeZxUGk6R1kJoLrtSKkSRy)
 - [XX Network](https://dashboard.xx.network/nodes/2C5ngNbgU_r2bUrvzvAGJddGOhNboOt2r5ZSmJ-GezgC)

@@ -71,8 +71,6 @@ Validator, but not in active set: <br />
 - [Kyve]() Chain node
 - [Kyve]() Protocol node
 - [Lava](https://lava.explorers.guru/validator/lava@valoper124qy4zcm8ws09meezeuvrjs9ev4zzld4qsqgcw) 
-- [Mande](https://texplorer.stavr.tech/mande-chain/staking/mandevaloper13klmmsa5w39szy0fn2gwczd5jef6s9ndzu7ltl)
-- [Mars](https://mars.explorers.guru/validator/marsvaloper1lmxyyq2unwfhquz48s6g0pvezu2ma4rua6vssc)
 - [Mun](https://blockexplorer.mun.money/validators/munvaloper15ywjwwtpx0t5jmhnqpvrn6rh02kehahunwvkn0)
 - [Namada]()
 - [Nibiru](https://explorer.stavr.tech/nibiru/staking/nibivaloper1ykvqd6jkz7c9hdr36eayys7ekkwcey4uu6jm5a)
@@ -160,6 +158,8 @@ Validator, but not in active set: <br />
 - [Kira]()
 - [Kyve](https://explorer.kyve.network/korellia/staking/kyvevaloper1fxh88ayzp4zghxcdh8la0kxwhx0v9w4e7nj60c)
 - [Likecoin]()
+- [Mande](https://texplorer.stavr.tech/mande-chain/staking/mandevaloper13klmmsa5w39szy0fn2gwczd5jef6s9ndzu7ltl)
+- [Mars](https://mars.explorers.guru/validator/marsvaloper1lmxyyq2unwfhquz48s6g0pvezu2ma4rua6vssc)
 - [Meter]()
 - [Minima]()
 - [Mundis]()

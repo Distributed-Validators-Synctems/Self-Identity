@@ -1,6 +1,6 @@
 ![cyberG512](https://user-images.githubusercontent.com/38581319/162858452-c6127040-eab3-4dee-96c6-8ead3cd4636d.png)
 
-                                            https://www.cyberg.eth.limo/
+                                            https://www.cyberg.digital/ https://cyberg.eth.limo/
 
 ## cyberG activity:
 

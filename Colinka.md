@@ -48,12 +48,12 @@
 - [Archway](https://archway.io/ru/)
 - [Penumbra](https://penumbra.zone/)
 - [Celestia](https://celestia.org/)
-- [SSV](https://ssv.network/)
 - [Humanode](https://humanode.io/)
 - [StarkNet](https://starknet.io/)
 - [Minima](https://www.minima.global/)
 - [Subspace](https://subspace.network/)
 - [Joystream](https://www.joystream.org/)
+- [Obol](https://obol.tech/)
 
 Activities: <br />
 - MantaNetwork - Regional Commander

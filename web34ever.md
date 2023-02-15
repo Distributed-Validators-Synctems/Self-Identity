@@ -1,33 +1,36 @@
-<img src="https://user-images.githubusercontent.com/59205554/162392362-21426138-1f93-4563-a7a7-7fba06774134.PNG" alt="web34ever" width="250" height="250">
 
-## Who am I?
-Passionate experts with over five years of expertise in decentralized technologies. Professional validator and full time enthusiast from 2015 with powerful knowledge and exhaustive experience in crypto industry. Co-founder of the rapidly developing crypto [Distributed Validator Synctems](https://validators.network/). Co-founder and mentor in [validator school](https://github.com/Distributed-Validators-Synctems/Validator-School).
+<img src="https://user-images.githubusercontent.com/59205554/217953492-bdb6892e-918b-4981-8968-cf8b6f263ddd.png" alt="web34ever" width="250" height="250">
+
+## [web3validator.info](https://web3validator.info/)
+Passionate experts with over five years of expertise in decentralized technologies. Professional validator and full time enthusiast from 2018 with powerful knowledge and exhaustive experience in crypto industry.
+Member of the [POSTHUMAN](https://posthuman.digital/team) core-team.
+Co-founder of the rapidly developing [Distributed Validator Synctems](https://validators.network/). 
+Co-founder and mentor in [validator school](https://github.com/Distributed-Validators-Synctems/Validator-School). 
+
 
 Please feel free to familiarize with the list of projects below to which I contributed my knowledge, skills and invaluable experience:
 
-##                               # web34ever validate 26 main-nets
+##                                web3validator validate many known main networks
                                                         Main-Networks
 								 	
 				
 - [Solana](https://www.validators.app/validators/mainnet/7MTjmteQHhthwwTZhUzsc2dP4NBvGNRqj8jzdqNxHFGE?locale=en&order=&refresh=)
 
-- [Velas](https://velasvalidators.com/AeH8nSJYDPVsEhXqEMi5Ujy8ZZ7CAs7zGXGwbBicPQnd)
+- [Moonriver Orbiter](https://moonriver.subscan.io/extrinsic/0x48bbd6a6ac37db20ffabf8a33e737c5fbaab26cc5272e5186690b8ccfa379e22)
 
 - [Avalanche](https://avascan.info/staking/validator/NodeID-5uYQ6R4WF7kmGfraM9LtsUJG2CDmh78Lf)
 
 - [Mina Protocol](https://minaexplorer.com/wallet/B62qrnPdz8HpsDJfGHirDLpVrN2VeyeitdaTKBaccWtHpeVW9Hgwi75)
-
-- [Moonbeam Collator](https://moonbeam.subscan.io/waiting/0x47dd026c7e6c80c78b53811bf17c2cada73bf0d4)
 		
 - [Everscale](https://ton.live/depools/depoolDetails?id=0%3Ae108fbffddd3999898788f59b267a0641287703866845d1734be5cd7f637473c)
 
 - [TheGraph Indexer](https://thegraph.com/explorer/profile?id=0xd93456bf656436e66a8e0a8835c43a6f59afbb37&view=Indexing)	
 
 - [Casper](https://cspr.live/account/018dc552de3c403dbefe03a9c604e11346d96159ed49f9381a55c2e06c45197d43)
- 
-- [Idena](https://scan.idena.io/address/0x8f13de3aad441684cdfb84c5410f845697cce378#rewards)
 
-- [XX-Network](https://dashboard.xx.network/nodes/CbbUZQAwfg7uSVebxdMLS76YQatTG9YZXp0OjmOpT8MC)
+- [XX-Network](https://explorer.xx.network/accounts/6VaJ35ts5timzFThyYYyFAcswZ2zs73hzS2RsADPWyXcNwnM)
+
+- [Moonbeam Collator](https://moonbeam.subscan.io/waiting/0x47dd026c7e6c80c78b53811bf17c2cada73bf0d4) (not active)
 
 #Cosmos Networks
 
@@ -49,13 +52,13 @@ Please feel free to familiarize with the list of projects below to which I contr
  
 - [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper17kpyk8nqwr0dkv4nz5j4d3r9umfm23we0fk8wj)
 
-- [Likecoin](https://likecoin.bigdipper.live/validator/cosmosvaloper1yxzlyqmje82kc3l6nl3tpxhqs356vvh6eu6q5h)
- 
+- [Likecoin](https://www.mintscan.io/likecoin/validators/likevaloper1yxzlyqmje82kc3l6nl3tpxhqs356vvh6emyftv)
+
 - [BitCanna](https://www.mintscan.io/bitcanna/validators/bcnavaloper1ex2m0j9gc7l49lr5qgrhnp7vy83adq0k3uj8pk)
 
 - [Bitsong](https://www.mintscan.io/bitsong/validators/bitsongvaloper139dppl6gyerq8yaweksajut3urwyygsz7r4ej4)
  
-- [Chronic-Token](https://www.skynetexplorers.com/chronic-token/staking/chronicvaloper1mxpyg8u68k6a8wdu3hs5whcpw9q285pc9jh75t)
+- [Terp](https://www.skynetexplorers.com/terpnetwork/staking/terpvaloper1y2euvdy8rvtr989tyf0u9atttt8yxa733y9te2)
 
 - [Galaxy](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1vm9d3anadzxxw7sp6y57d98dtv2mayxvrxjgnp)
 
@@ -63,13 +66,22 @@ Please feel free to familiarize with the list of projects below to which I contr
 
 - [Passage](https://passage.aneka.io/validators/pasgvaloper14vyqdka2r444hl6hj29fspa7yta3hu4yc0kk2q)
 
+- [Teritori](https://teritori.explorers.guru/validator/torivaloper1x6vfjy754fvzrlug2kxsp6s54yfj753sjtr70f)
+
+- [Rebus](https://rebus.explorers.guru/validator/rebusvaloper17xkn5uj7nmdgz8d3t6k4pg44d9j7xdh2ll0fyu)
+
+- [Acrechain](https://cosmosrun.info/acre-mainnet/staking/acrevaloper12242xw27r9v2dplr9hhy3ftpgn55tehg8fvz56)
 
 						        Test-Networks 
 							Blockchains grow here
 							
-							Active
-							         
-- [Quicksilver](https://quicksilver.explorers.guru/validator/quickvaloper1xz2le0jnrzv9eqedd9ldj3lsyf3qss4tj8xn4z)
+							Active						         
+
+- [Casper](https://testnet.cspr.live/validator/010a6b601408889363dc003943c9234e1bcd9ac074da385c45ff2cd4aa2c9283ce)
+- [Near](https://explorer.shardnet.near.org/nodes/validators)
+- [Blast Api](https://houston.blastapi.io/explorer/0xc398f4c0e22c86b5997c089244f8e335ab3edefd)
+- [Moonbase Collator](https://moonbase.subscan.io/account/0xBD257396eD62526054f41Be2065b3d1532485189)
+- [Androma](https://explorer.bccnodes.com/androma/staking/andrvaloper125a32hafpqvxzaxk2rk582ejpua8jk072udnfe)
 - [KQCOSMOS-1](https://testnet.explorer.testnet.run/kqcosmos-1/staking)
 - [Kyve](https://explorer.kyve.network/korellia/staking/kyvevaloper16hnse4c852xg4vxjnqhx648e02z32n72l66nv7)
 - [Sei](https://sei.explorers.guru/validator/seivaloper123ywh7wtrrcwx0q5pmwx585ayrgfym433qqhze)
@@ -85,7 +97,7 @@ Please feel free to familiarize with the list of projects below to which I contr
 - [Uptick](https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper18mcmka5np287fnv9803f8hly29s2yuygp0a5kx)
 - [Pylons](https://wallet.pylons.tech/validator/pylovaloper1tdmeurwdu9ew5rlw04wjsc65caaqug274h3fwx)
 - [chronic](https://www.skynetexplorers.com/chronic-token/staking/chronicvaloper1mxpyg8u68k6a8wdu3hs5whcpw9q285pc9jh75t)
-- [Near](https://explorer.shardnet.near.org/nodes/validators)
+- [Quicksilver](https://quicksilver.explorers.guru/validator/quickvaloper1xz2le0jnrzv9eqedd9ldj3lsyf3qss4tj8xn4z)
 
 
 
@@ -154,6 +166,7 @@ Others projects
 
 
                                                    AMBASSADOR CAMPAIGNS
+My ambassador portfolio -> [here](https://docs.google.com/document/d/1oxpMh1xUdl2tv-KxstnPIuO8ujJ2GmI_q5mD5gsSfQU/edit)
 						   
 - [Covalent]
 - [Polygon]
@@ -172,42 +185,21 @@ Others projects
 - FreeTON Network - [YouTube link](https://www.youtube.com/watch?v=gi47M7hE1yg&t=11s&ab_channel=PapsanLysenko)
 
                                              My contribution in projects
+					     
+Web3 validator provides much more than security! We are actively participating in the development of the Network and Community by providing informational, technical and humanitarian support! 
 
-Web3 validator provides much more than security! We are actively participating in the development of the Network and Community by providing informational, technical and humanitarian support! The Web3 Validator team has developed a very well thought out monitoring bot that can monitor your node and much more. We can implement it on various Cosmos SDK networks and will gladly add it to any new network!  
-It's just super convenient:
-* Without installing any software (grafana, tenderduty, prometheus or etc.)
-* That bot not only warns that the validator is already in jail but pings you when your validator start to skiping blocks to keep you out of jail !!! 
-* Сan tell you about the time left before being sent to jail.
-* Clear and pleasant GUI, and also a validator status check. Also this bot can be customizable and it may be add many other function. We already implement in many known cosmo-networks and all of them fully support us. You can see axample in my twitter:
-[link](https://twitter.com/web34ever/status/1570040696081420288),
-[link](https://twitter.com/web34ever/status/1568492719290433546),
-[link](https://twitter.com/web34ever/status/1573734639172308992)
+Please check the list on my [website...](https://web3validator.info/#contribution)
 
-                                             RPC nodes:
+The Web3 Validator team has developed the checker bot that can monitor your node uptime. We can implement it on various Cosmos SDK networks and will gladly add it to any new network! It's just super convenient:
 
-[http://omniflix.web3validator.info](http://omniflix.web3validator.info:26657/)
-
-                                             Monitoring Uptime bots:
-
-[@OmniflixUpTime_bot](https://t.me/OmniflixUpTime_bot)
-
-* Bugs have been fixed 
-* Has been added the function of reporting the time left before going to jail . 
-* The limit of validators for tracking has been increased.
-* Added a clear and pleasant GUI, and also a validator status check 
-
-[@Bostrom_UpTime_Checker](https://t.me/Bostrom_UpTime_Checker)
-
-Uptime-checker for Bostrom network! Productive monitoring for nodes with video computing
+*Without installing any software (grafana, tenderduty, prometheus or etc.)
+*That bot not only warns that the validator is already in jail but pings you when your validator starts skipping blocks to keep you out of jail !!!
+*Сan tell you about the time left before being sent to jail.
+*Clear and pleasant GUI, and also a validator status check. Also this bot can be customizable and it may add many other functions. We already implement many known cosmo-networks and all of them fully support us. Here is the examples:
+https://twitter.com/web34ever/status/1570040696081420288
+https://twitter.com/web34ever/status/1580155425990680576
 
 
-[@JunoUpTime_bot](https://t.me/Bostrom_UpTime_Checker)
-
-Uptime-checker for Juno network! Check your uptime all day , all night!
-
-
-[Connext Router SetupGuide](https://github.com/cybernekit/RouterSetupGuide)
-I've created the video guide with my self made script ConnextNetwork
 
 
                                                    My Contacts						   
@@ -219,7 +211,7 @@ I've created the video guide with my self made script ConnextNetwork
  - [Website](https://web3validator.info/)
  - [Discord](https://discord.gg/bvd779GDBt)
 						  
-						  Infra
+						  Infrastructure
 Equinix Bare metal 
 
 m3.large.x86                                                  
@@ -245,5 +237,6 @@ c3.medium.x86
 64GB RAM                                                    ;       
 2x 10Gbps                                                   ; 
 
-OVH 4x advance-4, 11x advance-5 ; Hetzner 3x AX41-NVME, 2x AX101 
-						   
+StackPath,Edgevanna,OVH
+
+Our team validates a huge number of mainnets and participates in various testnet programs. We are very interested  in projects in which we can contribute and gain/give additional knowledge.					   

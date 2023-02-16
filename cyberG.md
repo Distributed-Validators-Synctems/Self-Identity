@@ -115,16 +115,8 @@ Validator, but not in active set: <br />
 
   </details>
 
-Blast API
+### Blast API https://github.com/Vgk88/blastapi/blob/main/blastapi.md
 
-RPC
-
-```http://141.95.65.26:9650/```
-
-WSS
-
-```ws://141.95.65.26:9650/```
-  
   <details>
   <summary>Finished Testnets</summary>
 - [Akash]()

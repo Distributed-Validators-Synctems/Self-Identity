@@ -115,6 +115,15 @@ Validator, but not in active set: <br />
 
   </details>
 
+Blast API
+
+RPC
+
+```http://141.95.65.26:9650/```
+
+WSS
+
+```ws://141.95.65.26:9650/```
   
   <details>
   <summary>Finished Testnets</summary>

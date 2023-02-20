@@ -54,6 +54,7 @@
 - [Subspace](https://subspace.network/)
 - [Joystream](https://www.joystream.org/)
 - [Obol](https://obol.tech/)
+- [Lava](https://lavanet.xyz/)
 
 Activities: <br />
 - MantaNetwork - Regional Commander

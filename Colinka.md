@@ -55,6 +55,7 @@
 - [Joystream](https://www.joystream.org/)
 - [Obol](https://obol.tech/)
 - [Lava](https://lavanet.xyz/)
+- [Andromeda](https://andromedaprotocol.io/)
 
 Activities: <br />
 - MantaNetwork - Regional Commander

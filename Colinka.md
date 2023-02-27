@@ -16,7 +16,7 @@
 - [Meme](https://ping.pub/meme/staking/memevaloper1g3pqepvuwmwe3whswpgu5fjs0sp9pshua5kkq6)
 - [Canto](https://explorer.nodestake.top/canto/staking/cantovaloper17wfkxgledvk6vqgjpx7nyjj5dedw6t5uky0sz6)
 
-37 test-nets: <br />
+38 test-nets: <br />
 
 - [Solana](https://www.validators.app/?q=9tbzUabDi5D62Kkpd6oQs9r28Ts7TFJHLvx3pFJshZRA&network=testnet&order=&refresh=&commit=Search)
 - [Moonbeam](https://telemetry.polkadot.io/#list/Moonbase%20Alpha)

@@ -117,7 +117,8 @@ Validator, but not in active set: <br />
 ### Blast API https://github.com/Vgk88/blastapi/blob/main/blastapi.md
 
   <details>
-  <summary>Finished Testnets</summary>
+  <summary>Finished Testnets</summary> 
+  
 - [Akash]()
 - [Aleo]()
 - [Anone](https://test-anone.zenscan.io/validator.php?addr=onevaloper1qvexpwgsav54wykncd03ky4k34h5qxv73pu2a3)

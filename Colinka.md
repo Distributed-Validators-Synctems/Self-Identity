@@ -14,7 +14,6 @@
 - [Passage](https://www.skynetexplorers.com/passage/staking/pasgvaloper17yvc8wyvrwgk4j52dxagaf96akq4znu0rjjh3e)
 - [Rebus](https://rebus.explorers.guru/validator/rebusvaloper1ham7afp4h2za7nzmclkay62nv2tutsk028vcn3)
 - [Meme](https://ping.pub/meme/staking/memevaloper1g3pqepvuwmwe3whswpgu5fjs0sp9pshua5kkq6)
-- [Canto](https://explorer.nodestake.top/canto/staking/cantovaloper17wfkxgledvk6vqgjpx7nyjj5dedw6t5uky0sz6)
 
 38 test-nets: <br />
 

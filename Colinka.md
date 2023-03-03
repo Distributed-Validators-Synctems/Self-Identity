@@ -63,4 +63,4 @@ Activities: <br />
 - Moonbeam - Ambassador
 - Mina Protocol - GFM member
 - Flux - Ambassador
-- Solana - Ambassador
+- Solana - Ambassador + Validator

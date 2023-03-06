@@ -55,6 +55,7 @@
 - [Obol](https://obol.tech/)
 - [Lava](https://lavanet.xyz/)
 - [Andromeda](https://andromedaprotocol.io/)
+- [Sui](https://sui.io/)
 
 Activities: <br />
 - MantaNetwork - Regional Commander

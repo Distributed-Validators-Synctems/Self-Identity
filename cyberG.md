@@ -64,7 +64,7 @@ Validator, but not in active set: <br />
  
 - [Androma](https://explorer.stavr.tech/andromedad-testnet/staking/andrvaloper13y3gwu0pnlflx9u2qmeyh2ckmyf9yqrxs0ut6x)
 - [Andromeda](https://explorer.stavr.tech/andromeda/staking/andrvaloper1gyuky8x5cy7sz99hlhj3lystra97hwag2qxtxd)
-- [Cardchain](https://explorers.acloud.pp.ua/cardchain/staking/ccvaloper1wlmkgs6mckzphx42pxm8xaxwd9q997y2r5lrdl)
+- [Cardchain](https://explorer.stavr.tech/cardchain/staking/ccvaloper1wlmkgs6mckzphx42pxm8xaxwd9q997y2r5lrdl)
 - [Defund](https://defund.explorers.guru/validator/defundvaloper1v0d46jupe9qehc7kpp8nv8hs4vwyujgctau8vz)
 - [Dymension](https://explorer.stavr.tech/dymension-testnet/staking/dymvaloper17s2u6vllw7xwfn2m52935qv3q5k625eucnwjqj)
 - [Gitopia](https://explorer.gitopia.com/validators/gitopiavaloper1fruvmyjvdq4399zq7dg2hn3ymdmrckakapeppc)

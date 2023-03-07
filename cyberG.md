@@ -78,7 +78,7 @@ Validator, but not in active set: <br />
 - [Namada]()
 - [Nibiru](https://explorer.stavr.tech/nibiru/staking/nibivaloper1ykvqd6jkz7c9hdr36eayys7ekkwcey4uu6jm5a)
 - [Nois](https://explorer.stavr.tech/nois/staking/noisvaloper15r3u4crd9vm6as0mhlyrtc4nlrh3q6juqk05me)
-- [Okp4](https://explorer.stavr.tech/okp4/staking/okp4valoper1k9gu5y8eeafz9zl68usfskhmm0zqjyxt0rgrl8)
+- [Okp4](https://explorer.stavr.tech/okp4-testnet/staking/okp4valoper1vr4azc9sjcphjv66z7g5f9p7lct3z88s0ewct8)
 - [Ojo](https://sauron.ojo.network/ojo-devnet-1/staking/ojovaloper15dwaawdusyxuac2ta2h658hz566c452rpk2dsa)
 - [Realio](https://explorer.stavr.tech/realio/staking/realiovaloper1hw3hq66urcvxxmlgxkn9cs4ht93m4zh9ky7378)
 - [Sei](https://sei.explorers.guru/validator/seivaloper184x4k75u2c5aycl7jdd9dk95pzkttszw52a0w8)

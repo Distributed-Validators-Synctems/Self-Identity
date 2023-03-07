@@ -74,7 +74,7 @@ Validator, but not in active set: <br />
 - [Lava](https://lava.explorers.guru/validator/lava@valoper124qy4zcm8ws09meezeuvrjs9ev4zzld4qsqgcw)
 - [Mande]()
 - [Mun](https://blockexplorer.mun.money/validators/munvaloper15ywjwwtpx0t5jmhnqpvrn6rh02kehahunwvkn0)
-- [Mythos]()
+- [Mythos](https://testnet.explorer.provable.dev/mythos/staking/mythos14ul8vxlfr84uhf65vhgqhjm0e4fcmv4wa5yz95)
 - [Namada]()
 - [Nibiru](https://explorer.stavr.tech/nibiru/staking/nibivaloper1ykvqd6jkz7c9hdr36eayys7ekkwcey4uu6jm5a)
 - [Nois](https://explorer.stavr.tech/nois/staking/noisvaloper15r3u4crd9vm6as0mhlyrtc4nlrh3q6juqk05me)

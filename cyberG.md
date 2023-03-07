@@ -62,15 +62,15 @@ Validator, but not in active set: <br />
 
   <summary>Active Cosmo Testnets</summary>
  
-
+- [Androma](https://explorer.stavr.tech/andromedad-testnet/staking/andrvaloper13y3gwu0pnlflx9u2qmeyh2ckmyf9yqrxs0ut6x)
 - [Andromeda](https://explorer.stavr.tech/andromeda/staking/andrvaloper1gyuky8x5cy7sz99hlhj3lystra97hwag2qxtxd)
 - [Cardchain](https://explorers.acloud.pp.ua/cardchain/staking/ccvaloper1wlmkgs6mckzphx42pxm8xaxwd9q997y2r5lrdl)
 - [Defund](https://defund.explorers.guru/validator/defundvaloper1v0d46jupe9qehc7kpp8nv8hs4vwyujgctau8vz)
-- [Dymension]()
+- [Dymension](https://explorer.stavr.tech/dymension-testnet/staking/dymvaloper17s2u6vllw7xwfn2m52935qv3q5k625eucnwjqj)
 - [Gitopia](https://explorer.gitopia.com/validators/gitopiavaloper1fruvmyjvdq4399zq7dg2hn3ymdmrckakapeppc)
 - [Humans]()
 - [Hypersign](https://explorer.hypersign.id/hypersign-testnet/staking/hidvaloper1n8aacwgdnk2s534f2hp9wkjfe982scjm4fhfc0)
-- [Kyve]() Chain node
+- [Kyve](https://explorer.stavr.tech/kyve-kaon/staking/kyvevaloper1fxh88ayzp4zghxcdh8la0kxwhx0v9w4e7nj60c)
 - [Lava](https://lava.explorers.guru/validator/lava@valoper124qy4zcm8ws09meezeuvrjs9ev4zzld4qsqgcw)
 - [Mande]()
 - [Mun](https://blockexplorer.mun.money/validators/munvaloper15ywjwwtpx0t5jmhnqpvrn6rh02kehahunwvkn0)
@@ -79,6 +79,7 @@ Validator, but not in active set: <br />
 - [Nibiru](https://explorer.stavr.tech/nibiru/staking/nibivaloper1ykvqd6jkz7c9hdr36eayys7ekkwcey4uu6jm5a)
 - [Nois](https://explorer.stavr.tech/nois/staking/noisvaloper15r3u4crd9vm6as0mhlyrtc4nlrh3q6juqk05me)
 - [Okp4](https://explorer.stavr.tech/okp4/staking/okp4valoper1k9gu5y8eeafz9zl68usfskhmm0zqjyxt0rgrl8)
+- [Ojo](https://sauron.ojo.network/ojo-devnet-1/staking/ojovaloper15dwaawdusyxuac2ta2h658hz566c452rpk2dsa)
 - [Realio](https://explorer.stavr.tech/realio/staking/realiovaloper1hw3hq66urcvxxmlgxkn9cs4ht93m4zh9ky7378)
 - [Sei](https://sei.explorers.guru/validator/seivaloper184x4k75u2c5aycl7jdd9dk95pzkttszw52a0w8)
 - [Source](https://explorer.stavr.tech/source/staking/sourcevaloper120pps8apulyxne209hp33u6r66mae4knks4hke)

@@ -62,7 +62,7 @@ Validator, but not in active set: <br />
 
   <summary>Active Cosmo Testnets</summary>
  
-- [Andromeda](https://explorer.stavr.tech/andromeda/staking/andrvaloper1gyuky8x5cy7sz99hlhj3lystra97hwag2qxtxd)
+
 - [Andromeda](https://explorer.stavr.tech/andromeda/staking/andrvaloper1gyuky8x5cy7sz99hlhj3lystra97hwag2qxtxd)
 - [Cardchain](https://explorers.acloud.pp.ua/cardchain/staking/ccvaloper1wlmkgs6mckzphx42pxm8xaxwd9q997y2r5lrdl)
 - [Defund](https://defund.explorers.guru/validator/defundvaloper1v0d46jupe9qehc7kpp8nv8hs4vwyujgctau8vz)

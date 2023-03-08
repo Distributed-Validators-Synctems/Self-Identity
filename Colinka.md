@@ -56,6 +56,7 @@
 - [Lava](https://lavanet.xyz/)
 - [Andromeda](https://andromedaprotocol.io/)
 - [Sui](https://sui.io/)
+- [Ojo](https://ojo.network/)
 
 Activities: <br />
 - MantaNetwork - Regional Commander

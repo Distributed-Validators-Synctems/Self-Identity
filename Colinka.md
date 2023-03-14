@@ -57,6 +57,7 @@
 - [Andromeda](https://andromedaprotocol.io/)
 - [Sui](https://sui.io/)
 - [Ojo](https://ojo.network/)
+- [Aptos](https://aptoslabs.com/)
 
 Activities: <br />
 - MantaNetwork - Regional Commander

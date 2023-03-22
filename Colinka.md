@@ -15,7 +15,7 @@
 - [Rebus](https://rebus.explorers.guru/validator/rebusvaloper1ham7afp4h2za7nzmclkay62nv2tutsk028vcn3)
 - [Meme](https://ping.pub/meme/staking/memevaloper1g3pqepvuwmwe3whswpgu5fjs0sp9pshua5kkq6)
 
-40 test-nets: <br />
+39 test-nets: <br />
 
 - [Solana](https://www.validators.app/?q=9tbzUabDi5D62Kkpd6oQs9r28Ts7TFJHLvx3pFJshZRA&network=testnet&order=&refresh=&commit=Search)
 - [Moonbeam](https://telemetry.polkadot.io/#list/Moonbase%20Alpha)

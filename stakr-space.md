@@ -13,10 +13,35 @@ Current mainnets: <br />
 [Tgrade](https://tgrade.aneka.io/validators/tgrade1dz487qtggarfaxja70grhs3lgfv02mpn0l9f3j) - Genesis Mainnet Validator<br />
 [Passage](https://passage.aneka.io/validators/pasgvaloper1usm9f4udzle85670u7emgf5xlnqnsveujazh3h) - Genesis Mainnet Validator<br />
 [Rebus](https://rebus.explorers.guru/validator/rebusvaloper1mjw2xy2l284z7psm0alpa658cxw9w5c2as35qc) - Genesis Mainnet Validator<br />
-[Galaxy](https://explorer.postcapitalist.io/Galaxy/staking/galaxyvaloper1wuem8vc5tmlm3m7gaqt00qn37dxe9vkuzqsn4j) - Genesis Mainnet Validator<br />
- <!--- [Hopr](https://hoprnet.org/) - Diamond Hodler<br /> --->
+[Nois](https://nois.explorers.guru/validator/noisvaloper1j2p6k6dz8hq0wdusvd0kpm45v259uk8c4vv4wd) - Genesis Mainnet Validator<br />
+[Aura](https://aura.exploreme.pro/validator/auravaloper132wmyj4e4fysecckwn9yfh52dk2cc4gkrw2yz2) - Genesis Mainnet Validator<br />
+[Uptick](https://uptick.explorers.guru/validator/uptickvaloper1ln4chyv9maucwkhfdd0zh54nu93p9jw60wyhx2) - Genesis Mainnet Validator<br />
 
 Actual testnets:<br/>
+[Humans.ai](https://linktr.ee/humansdotai) - genesis testnet validator</br>
+[Chainflip](https://blocks-perseverance.chainflip.io/validator/cFKEHcvhggcZy7C2jVZH9PCCdNnLd2ieikGWjzi74wMN66ujQ)</br>
+[Namada](https://namada.explorers.guru/validators)</br>
+[Lava](https://lava.exploreme.pro/validator/lava@valoper10xj0aas6lxrwq8vew7ps3e8ycgrmred25yky8z)</br>
+[Ojo](https://ojo.exploreme.pro/validator/ojovaloper15kz5rmzaxyuvsmsrx5nkru9zw9jk3he42futcv) - genesis testnet validator </br>
+[Andromeda](https://andromeda.exploreme.pro/validator/andrvaloper12zv58n00cx4vtd9efdltwaydq028ruccsh7rp2)</br>
+[Nolus](https://nolus.exploreme.pro/validator/nolusvaloper10uzey0tuyumlmduds70fqm59rj66x65ef9w7pu)</br>
+
+
+Servers and architecture, technology stack:
+mostly AMD Ryzen 9 5950x, 128RAM, 7Tb NVME, 1Gbit+ network. Sentry nodes where necessary, apparmor/firewalls, ssh keys access, prometheus+node_exporter+grafana+telegram alerting.<br/>
+Baremetal servers located in EU(NL,DE,FI,RU) and US.
+
+
+Inactive mainnet validators: </br>
+[Forta](https://api.forta.network/stats/sla/scanner/0x917b57D2D78e39978c25F9495e03Dc0F6c05Cc2d) - mainnet scanner, foundation delegated<br/>
+[Mina](https://mina.staketab.com/validator/B62qpsMTL1mTaQUQUTQzVM1qvyGTCLVAhr8whJc7tUfmnPEuZnanzUe) - Genesis Founding Member, QA task force - redelegating ATM due to stake overconcentration in network<br />
+[Sifchain](https://www.mintscan.io/sifchain/validators/sifvaloper1kx5hexg5fhskesdvkk9zycmwu8tym6gejns3ew) - Self-funded and community validator</br>
+[Syntropy.network](https://telemetry-ui.syntropynet.com/#list/0x38d3fc98d685608c6d9bb707e729ec0b7f73de92e5d9c148a28b5c9decaeabd3) - Amber Chain self-funded validator</br> 
+[Umee](https://www.mintscan.io/umee/validators/umeevaloper15vjtlc389fujejjuulqw47fyqhvfupgs8ed905) - Self-funded validator, genesis participant </br>
+[Crescent](https://www.mintscan.io/crescent/validators/crevaloper1w7nqp7d9rvhn8axnvtc0lt64rr4rsqknh9jx5j) - Self-funded validator</br>
+
+50+ finished or developing test-nets: <br />
+<img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/umee-leaderboard.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/syntropy-mainnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/persistence-asset-mantle-testnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/humanode-1st-testnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/evmos-testnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/obol-team-captain.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/beaconchain-prater-validator.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/ironfish-testnet1.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/ironfish-testnet2.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/sourcechain-testnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/nois-testnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/empowerchain-testnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/deweb-testnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/sei-testnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/haqq-testnet.png" width="200" height="150" /></br>
 [Sui](https://explorer.sui.io/?network=http%3A%2F%2F162.55.245.79%3A9000)</br>
 [Neutron](https://testnet.mintscan.io/neutron-testnet/validators/neutronvaloper12jlq7gy7zn9rrs04g3rtg06uuu9hhr7udk959m) - genesis testnet validator</br>
 [Gitopia](https://explorer.gitopia.com/validators/gitopiavaloper1nf5jh8wk2sdlv7ltvg7e9klkpjt45tzgtd7pg2) - testnet selected validator<br/>
@@ -49,32 +74,6 @@ Gnoland - testnet participant<br/>
 Espresso Systems - testnet participant<br/>
 Penumbra - testnet participant<br/>
 Celestia - testnet participant<br/>
-
-Servers and architecture, technology stack:
-mostly AMD Ryzen 9 5950x, 128RAM, 7Tb NVME, 1Gbit+ network. Sentry nodes where necessary, apparmor/firewalls, ssh keys access, prometheus+node_exporter+grafana+telegram alerting.<br/>
-Baremetal servers located in EU(NL,DE,FI,RU) and US.
-
-
-Inactive mainnet validators: </br>
-[Forta](https://api.forta.network/stats/sla/scanner/0x917b57D2D78e39978c25F9495e03Dc0F6c05Cc2d) - mainnet scanner, foundation delegated<br/>
-[Mina](https://mina.staketab.com/validator/B62qpsMTL1mTaQUQUTQzVM1qvyGTCLVAhr8whJc7tUfmnPEuZnanzUe) - Genesis Founding Member, QA task force - redelegating ATM due to stake overconcentration in network<br />
-[Sifchain](https://www.mintscan.io/sifchain/validators/sifvaloper1kx5hexg5fhskesdvkk9zycmwu8tym6gejns3ew) - Self-funded and community validator</br>
-[Syntropy.network](https://telemetry-ui.syntropynet.com/#list/0x38d3fc98d685608c6d9bb707e729ec0b7f73de92e5d9c148a28b5c9decaeabd3) - Amber Chain self-funded validator</br> 
-[Umee](https://www.mintscan.io/umee/validators/umeevaloper15vjtlc389fujejjuulqw47fyqhvfupgs8ed905) - Self-funded validator, genesis participant </br>
-[Crescent](https://www.mintscan.io/crescent/validators/crevaloper1w7nqp7d9rvhn8axnvtc0lt64rr4rsqknh9jx5j) - Self-funded validator</br>
-<!---
-Band - preparing to run self-funded validator<br />
-Bitsong - preparing to run self-funded validator<br />
-Certik - preparing to run self-funded validator<br />
-E-money - preparing to run self-funded validator<br />
-Fetch.ai - preparing to run self-funded validator<br />
-Kava - preparing to run self-funded validator<br />
-Ki - preparing to run self-funded validator<br />
-Medibloc - preparing to run self-funded validator<br />
-Rizon - preparing to run self-funded validator<br /> 
---->
-50+ finished or developing test-nets: <br />
-<img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/umee-leaderboard.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/syntropy-mainnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/persistence-asset-mantle-testnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/humanode-1st-testnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/evmos-testnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/obol-team-captain.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/beaconchain-prater-validator.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/ironfish-testnet1.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/ironfish-testnet2.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/sourcechain-testnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/nois-testnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/empowerchain-testnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/deweb-testnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/sei-testnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/haqq-testnet.png" width="200" height="150" /></br>
   [Umee](https://umee.cc) Umeevengers 7th place[[leaderboard]](https://leaderboard.umee.cc) Medium [[blogpost]](https://medium.com/umeeblog/rise-of-the-umeevengers-final-scores-and-closing-ceremony-f872eeba55bc) [[gentx1]](https://github.com/umee-network/testnets/pull/137) [[gentx2]](https://github.com/umee-network/testnets/pull/297)</br>
   [Akash - Awesome Akash winner](https://akash.network/) - [[pull request]](https://github.com/papanomad535/awesome-akash/tree/master/owncloud)<br />
     [Sentinel](https://sentinel.co)<br />

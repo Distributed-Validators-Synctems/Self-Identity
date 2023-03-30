@@ -2,10 +2,9 @@
 
 ## Colinka validate 45 different Networks
 
-12 main-nets: <br />
+11 main-nets: <br />
 - [Solana](https://www.validators.app/validators/mainnet/8QLfmTYxnws98ogFfxdpvRSfSR7U9HLcighZHNfFNQwT)
 - [Mina Protocol](https://minaprotocol.com/)
-- [Idena](https://scan.idena.io/identity/0x70aa61e47d11231b4d38fd1e83312854e5a5b15a)
 - [Velas](https://velasvalidators.com/96isFFVKbaEsdMgHnBGwaifSiuxF2DjnPMGURbHyrHrC)
 - [Agoric](https://main.explorer.agoric.net/validator/agoricvaloper1llcs6xwp6gdv4t2krmyupfjjr0xyuwk9npyhzs)
 - [AssetMantle](https://assetmantle.explorers.guru/validator/mantlevaloper1907n5d2xwy3av597y6347dsc2ktpl2d9uskpsf)

@@ -241,5 +241,6 @@ Validator, but not in active set: <br />
 - [Link3](https://link3.to/cyberg))
 - [Lens](https://www.lensfrens.xyz/cyberg.lens)
 - [Peepeth](https://peepeth.com/cyberG)
-- [Buidl](https://buildspace.so/@cyberg) 
+- [Buidl](https://buildspace.so/@cyberg)
+- [Bfrens](https://bfre.nz/u/cyberg)
 </details>

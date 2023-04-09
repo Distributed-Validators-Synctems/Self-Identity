@@ -34,6 +34,7 @@ Active Cosmo Mainnets: <br />
 - [Stargaze](https://www.mintscan.io/stargaze/validators/starsvaloper1dtk6748uhvmhvakhleclrwprp27pe89vhhw44p) Genesis validator
 - [Teritori](https://www.mintscan.io/teritori/validators/torivaloper1z95myrxyf94qnnlu5hzz8km69yx95s8w08267g)
 - [Tgrade](https://www.mintscan.io/tgrade/validators/tgrade1daujfmddygyty3pjsnr9xhz3vxymh6u00krlym) Genesis validator
+- [Uptick](https://uptick.exploreme.pro/validator/uptickvaloper1uwtmwh09qt2xtvfne6jmjehsedgycxqqyt3xje)
 - [Umee](https://www.mintscan.io/umee/validators/umeevaloper1qa5gkv8a4rzpncgkguv2szh5s83kh69l082zz3) Cooperative validator
 
 

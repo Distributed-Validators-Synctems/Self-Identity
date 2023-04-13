@@ -22,4 +22,5 @@ Activities: <br />
 
 - [FreeTON contest winner #1](https://gov.freeton.org/submission?proposalAddress=0%3Adc39814b06b04bf7763dc01716f1ff0e6361d1a9dd79c79314c5e30c701da38e&submissionId=26)
 - [FreeTON contest winner #2](https://gov.freeton.org/submission?proposalAddress=0%3Ac26da8b9e2628d909c389a1d6bbf7024d3ad8a0a31cd85ee13ce35f07dff388e&submissionId=33)
-- [FreeTON contest winner #2](https://wd.gov.freeton.org/submission?proposalAddress=0%3A4d1bd7f494bb23c63c10142f32fee89bf87b1db74e49717253e2adc07f3de880&submissionId=41)
+- [FreeTON contest winner #3](https://wd.gov.freeton.org/submission?proposalAddress=0%3A4d1bd7f494bb23c63c10142f32fee89bf87b1db74e49717253e2adc07f3de880&submissionId=41)
+- [Atom contest winner](https://www.youtube.com/watch?v=cIxdLwKAYYQ&ab_channel=PapsanLysenko)

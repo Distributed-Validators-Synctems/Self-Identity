@@ -4,7 +4,7 @@
 
 10 main-nets: <br />
 - [Solana](https://www.validators.app/validators/mainnet/8QLfmTYxnws98ogFfxdpvRSfSR7U9HLcighZHNfFNQwT)
-- [Mina Protocol](https://minaprotocol.com/)
+- [Mina Protocol]([https://minaprotocol.com/](https://minaexplorer.com/wallet/B62qno46y6XVMCANMW6YtHdqAzLapeSxwX6jGoKUx5htpnrXkcz1EYR))
 - [Velas](https://velasvalidators.com/96isFFVKbaEsdMgHnBGwaifSiuxF2DjnPMGURbHyrHrC)
 - [Agoric](https://main.explorer.agoric.net/validator/agoricvaloper1llcs6xwp6gdv4t2krmyupfjjr0xyuwk9npyhzs)
 - [AssetMantle](https://assetmantle.explorers.guru/validator/mantlevaloper1907n5d2xwy3av597y6347dsc2ktpl2d9uskpsf)

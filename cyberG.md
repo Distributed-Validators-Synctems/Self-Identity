@@ -6,12 +6,10 @@
 
 Active Cosmo Mainnets: <br />
 
-- [Asset Mantle](https://www.mintscan.io/asset-mantle/validators/mantlevaloper1munf9mvdu9zxh2zma8cvg6frse4kffafvlyzue) Genesis validator
 - [Bitsong](https://www.mintscan.io/bitsong/validators/bitsongvaloper1mx3gct8chrssamkdfw8fkrdl93knllryalmxpm) Genesis validator
 - [Bostrom](https://cyb.ai/network/bostrom/hero/bostromvaloper1en69twaxmv7xupy8lq7y539dpecx7yz8s43ceg) Genesis validator
 - [C4E](https://mainnet.manticore.team/chain4energy/staking/c4evaloper1mvw0rmngtp9r7598m9lms48j6wyucke8m2wa68)
 - [Canto](https://mainnet.manticore.team/canto/staking/cantovaloper1yckfh3najzqhvzzrf4qj2ddkr9h4zav048hjwx)
-- [Certik](https://www.mintscan.io/certik/validators/certikvaloper1yq8a2ksa7dz8wd8wlks3k8nqdmht76xdnrvehx) Genesis validator
 - [Comdex](https://www.mintscan.io/comdex/validators/comdexvaloper1963hcznh439kspqmjj5hv5h4nk2kphvats5ujk) Cooperative validator
 - [Firmachain](https://explorer.firmachain.dev/validators/firmavaloper1rsnaurdhf8d93ugxpfr0xqjfhhj3rfyyu69qtw) Genesis validator
 - [Gravity](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1yeujyxulrf82age8c9q6mfqy0ueh0pjxa7hd20) Genesis validator
@@ -24,10 +22,10 @@ Active Cosmo Mainnets: <br />
 - [Meme](https://mainnet.manticore.team/meme/staking/memevaloper1g542uxlfqtx5qrcqy95pygn9n99jdtufjahnt2)
 - [Mises](https://explorer.stavr.tech/mises/staking/misesvaloper1jdqtazvd3q35jqgy0radp6x9lsuzqgj456299t)
 - [OmniFlix](https://www.mintscan.io/omniflix/validators/omniflixvaloper1dfjx8w65h359vy55dvm383ks2xevsne9crkh32) Genesis validator
-- [Quicksilver](https://www.mintscan.io/quicksilver/validators/quickvaloper1sgxklkmzdskprcv0xqjml0e789g3z8lu00w66w)
 - [Passage](https://www.mintscan.io/passage/validators/pasgvaloper1w6mqsvguml3k4j0vry9jl8ur9qanhhr0g7qrvs) Genesis validator
 - [Pylons](https://pylons.explorers.guru/validator/pylovaloper1u29z4l8ugjdwp2pm8luwntksh0p9n7dvq8zxs3)
 - [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1swmud649t386j2csz0gah7ku2zpfu0w7trzr09)
+- [Shentu](https://www.mintscan.io/certik/validators/certikvaloper1yq8a2ksa7dz8wd8wlks3k8nqdmht76xdnrvehx) Genesis validator
 - [Rebus](https://mainnet.manticore.team/rebus/staking/rebusvaloper14dv684ed57cgehl5apcl56n2mqsypr7vqrmpvx)
 - [Sommelier](https://www.mintscan.io/sommelier/validators/sommvaloper1x52lteqqkspn5fshujd6duqrw773jqzl2hu8et)
 - [Space Pussy](https://cyb.ai/network/bostrom/hero/pussyvaloper17zdyl3gfssc3vzzyxptnr0xl8z0pnte92zy8vy) Genesis validator
@@ -52,12 +50,14 @@ Active non-Cosmo Mainnets: <br />
 - [XX Network](https://dashboard.xx.network/nodes/2C5ngNbgU_r2bUrvzvAGJddGOhNboOt2r5ZSmJ-GezgC)
 
 Validator, but not in active set: <br />
+- [Asset Mantle](https://www.mintscan.io/asset-mantle/validators/mantlevaloper1munf9mvdu9zxh2zma8cvg6frse4kffafvlyzue) Genesis validator
 - [Regen](https://regen.aneka.io/accounts/regen1qvn6ghe68l4g0k7s25rujr6yfpyrm6h3399jvu) Genesis validator
 - [Sentinel]() genesis validator
 - [Moonbeam](https://moonbeam.subscan.io/waiting/0xe2962a1785f655eae3a8cd1f1b38d1d760a300e3)
 - [Algorand]() Relayer Programm paticipant
 - [Casper](https://cspr.live/validator/018dc552de3c403dbefe03a9c604e11346d96159ed49f9381a55c2e06c45197d43) Currently inactive
 - [Stride](https://www.mintscan.io/stride/validators/stridevaloper136nl6lu4hvaus6l0lypzqq5gkd3dxvu5eaydk2)
+- [Quicksilver](https://www.mintscan.io/quicksilver/validators/quickvaloper1sgxklkmzdskprcv0xqjml0e789g3z8lu00w66w)
 
 <details>
 

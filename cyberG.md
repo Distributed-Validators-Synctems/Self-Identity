@@ -18,6 +18,7 @@ Active Cosmo Mainnets: <br />
 - [Jackal](https://mainnet.manticore.team/jackal/staking/jklvaloper1r5hzfdwzej0fazngsx84dqt094vt9wqu2s2ert)
 - [Juno](https://www.mintscan.io/juno/validators/junovaloper1353ewfc0v7pnn3xre6v9lraghxrhenswmsjhv0)
 - [Kujira](https://blue.kujira.app/stake/kujiravaloper1tharcgrfu6j0dcwpe5y6ez3s904rhq2kmccm4k) Genesis validator
+- [Kyve](https://www.mintscan.io/kyve/validators/kyvevaloper1fxh88ayzp4zghxcdh8la0kxwhx0v9w4e7nj60c)
 - [Lambda](https://mainnet.manticore.team/lambda/staking/lambvaloper1zj8ynfvv0drhgjukxd0z8w5ge3t66ypqtg6e43)
 - [Meme](https://mainnet.manticore.team/meme/staking/memevaloper1g542uxlfqtx5qrcqy95pygn9n99jdtufjahnt2)
 - [Mises](https://explorer.stavr.tech/mises/staking/misesvaloper1jdqtazvd3q35jqgy0radp6x9lsuzqgj456299t)

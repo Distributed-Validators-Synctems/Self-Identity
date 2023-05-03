@@ -52,8 +52,7 @@ Active non-Cosmo Mainnets: <br />
 - [XX Network](https://dashboard.xx.network/nodes/2C5ngNbgU_r2bUrvzvAGJddGOhNboOt2r5ZSmJ-GezgC)
 
 <details>
-
-<summary>Validator, but not in active set</summary>
+  <summary>Validator not in the active set</summary>
 
 - [Asset Mantle](https://www.mintscan.io/asset-mantle/validators/mantlevaloper1munf9mvdu9zxh2zma8cvg6frse4kffafvlyzue) Genesis validator
 - [Regen](https://regen.aneka.io/accounts/regen1qvn6ghe68l4g0k7s25rujr6yfpyrm6h3399jvu) Genesis validator
@@ -63,9 +62,8 @@ Active non-Cosmo Mainnets: <br />
 - [Casper](https://cspr.live/validator/018dc552de3c403dbefe03a9c604e11346d96159ed49f9381a55c2e06c45197d43) Currently inactive
 - [Stride](https://www.mintscan.io/stride/validators/stridevaloper136nl6lu4hvaus6l0lypzqq5gkd3dxvu5eaydk2)
 - [Quicksilver](https://www.mintscan.io/quicksilver/validators/quickvaloper1sgxklkmzdskprcv0xqjml0e789g3z8lu00w66w)
- 
-  <details>
-
+  
+ </details>
 
 <details>
   <summary>Active Cosmo Testnets</summary>

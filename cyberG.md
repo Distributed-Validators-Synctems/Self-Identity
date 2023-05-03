@@ -65,6 +65,7 @@ Validator, but not in active set: <br />
 
   <summary>Active Cosmo Testnets</summary>
  
+- [Althea]()
 - [Androma](https://explorer.stavr.tech/andromedad-testnet/staking/andrvaloper13y3gwu0pnlflx9u2qmeyh2ckmyf9yqrxs0ut6x)
 - [Andromeda](https://explorer.stavr.tech/andromeda/staking/andrvaloper1gyuky8x5cy7sz99hlhj3lystra97hwag2qxtxd)
 - [Cardchain](https://explorer.stavr.tech/cardchain/staking/ccvaloper1wlmkgs6mckzphx42pxm8xaxwd9q997y2r5lrdl)

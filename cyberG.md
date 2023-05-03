@@ -103,6 +103,8 @@ Validator, but not in active set: <br />
 - [Wormholes]()
 - [Shardereum]()
 - [Fleek]()
+- [Muon]()
+- [Elixir]()
 
   </details>
   

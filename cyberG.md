@@ -99,6 +99,7 @@ Validator, but not in active set: <br />
 - [Casper](https://testnet.cspr.live/validator/010a6b601408889363dc003943c9234e1bcd9ac074da385c45ff2cd4aa2c9283ce)
 - [Chainflip]()
 - [Obol()
+- [Kusama]()
 - [Parastate]()
 - [Sarcophagus]()
 - [Solana](https://www.validators.app/validators/testnet/28LgQ7MeEZVgNJfYRc6UnoAz2SnSjKbyCKM6sntCRotb?locale=en&order=score&refresh=)

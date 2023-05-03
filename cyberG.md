@@ -41,6 +41,7 @@ Active non-Cosmo Mainnets: <br />
 - [Avalanche](https://avascan.info/staking/validator/NodeID-Jm1k2q2WAkH99w4ZBEgzrmm6Kte39qCWJ)
 - [Blast](https://houston.blastapi.io/explorer/0x8847ebaaf29a18396e49191602f8d8d141b98aa7)
 - [Joystream]()
+- [Kusama]()
 - [Mina Protocol](https://minaexplorer.com/wallet/B62qrgnUUduZy2z7zT8qCV8ngTJfSS1rK3Wh22SHUmrse3Tfqvrhx8q) GFM
 - [Moonbeam](https://moonbeam.subscan.io/account/0x6b454e6a5D5DcEF0ce666160883a50BC2a7AdaCA?tab=orbiter_reward) Orbiter
 - [Moonriver](https://moonriver.subscan.io/account/0x292A6460a9C61c5ccDfc79cB2d68Ae54FFb95da5?tab=orbiter_reward) Orbiter
@@ -99,7 +100,6 @@ Validator, but not in active set: <br />
 - [Casper](https://testnet.cspr.live/validator/010a6b601408889363dc003943c9234e1bcd9ac074da385c45ff2cd4aa2c9283ce)
 - [Chainflip]()
 - [Obol()
-- [Kusama]()
 - [Parastate]()
 - [Sarcophagus]()
 - [Solana](https://www.validators.app/validators/testnet/28LgQ7MeEZVgNJfYRc6UnoAz2SnSjKbyCKM6sntCRotb?locale=en&order=score&refresh=)

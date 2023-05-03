@@ -96,9 +96,6 @@ Validator, but not in active set: <br />
 
 <details>
   <summary>Active non-Cosmos Testnets</summary>
-  
- 
- 
 
 - [Parastate]()
 - [Sarcophagus]()
@@ -114,12 +111,14 @@ Validator, but not in active set: <br />
   
   <details>
   <summary>Testnet for Mainnet chains</summary>
+  
 - [Avalanche](https://testnet.avascan.info/staking/validator/NodeID-FrTsGF9amKZvwcRdwY5mpmMKH4nrkDp7R) 
 - [Comdex](https://meteor-explorer.comdex.one/comdex-testnet/staking/comdexvaloper1ha5regczwexcgcnkv30rd5tadffe6recs0w5cl)
 - [Juno](https://testnet.mintscan.io/juno-testnet/validators/junovaloper1j225xp7w6336e2az256ty9cszlun9ze4ctmqqd)  
-- [Omniflix]()
+- [Omniflix](https://ping-pub-explorer.omniflix.io/omniflix-testnet-flixnet-4/staking/omniflixvaloper10v849tlwk53ea8avxn4ulh8awee9swjmuklwdh)
 - [Teritori](https://explorer.ericet.xyz/teritori/staking/torivaloper1jje55u2pxmxe5d6rckaj0jszal39ckscdrc6yd)
 - [Tgrade]()
+- [Uptick](https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1uwtmwh09qt2xtvfne6jmjehsedgycxqqyt3xje)
 
   </details>
 

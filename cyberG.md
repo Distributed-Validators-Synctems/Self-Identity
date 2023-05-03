@@ -71,7 +71,7 @@ Validator, but not in active set: <br />
 - [Defund](https://defund.explorers.guru/validator/defundvaloper1v0d46jupe9qehc7kpp8nv8hs4vwyujgctau8vz)
 - [Dymension](https://explorer.stavr.tech/dymension-testnet/staking/dymvaloper17s2u6vllw7xwfn2m52935qv3q5k625eucnwjqj)
 - [Gitopia](https://explorer.gitopia.com/validators/gitopiavaloper1fruvmyjvdq4399zq7dg2hn3ymdmrckakapeppc)
-- [Humans]()
+- [Humans](https://humans.explorers.guru/validator/humanvaloper1wcns48jcn0enlupatp2gxfyl342cm8w26frp66)
 - [Hypersign](https://explorer.hypersign.id/hypersign-testnet/staking/hidvaloper1n8aacwgdnk2s534f2hp9wkjfe982scjm4fhfc0)
 - [Kyve](https://explorer.stavr.tech/kyve-kaon/staking/kyvevaloper1fxh88ayzp4zghxcdh8la0kxwhx0v9w4e7nj60c)
 - [Lava](https://lava.explorers.guru/validator/lava@valoper124qy4zcm8ws09meezeuvrjs9ev4zzld4qsqgcw)

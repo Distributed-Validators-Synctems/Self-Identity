@@ -94,13 +94,10 @@ Validator, but not in active set: <br />
   
  
  
-- [Casper](https://testnet.cspr.live/validator/010a6b601408889363dc003943c9234e1bcd9ac074da385c45ff2cd4aa2c9283ce)
-- [Chainflip]()
-- [Obol()
+
 - [Parastate]()
 - [Sarcophagus]()
 - [Solana](https://www.validators.app/validators/testnet/28LgQ7MeEZVgNJfYRc6UnoAz2SnSjKbyCKM6sntCRotb?locale=en&order=score&refresh=)
-- [Sui]()
 - [TheGraph](https://goerli.graphscan.io/profile?id=0x8847ebaaf29a18396e49191602f8d8d141b98aa7#delegator-details)
 - [Wormholes]()
 - [Shardereum]()
@@ -165,7 +162,10 @@ Validator, but not in active set: <br />
 - [Microtick](https://explorer.microtick.zone/validators/microvaloper1z7crvuuks7yk33qwx4nv68nzhwznkmt96ddm5l) Migrated to Polygon
 - [Chronic](https://www.skynetexplorers.com/chronic-token/staking/chronicvaloper1x8czjpdy2x9svz0s3u9hdgqxd06ta39y49lnd3) Genesis validator
 - [Galaxy](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1f8tm4wspt687qg36c6rrrv8enuwhr5crsuqfjx) halted
- - [Humanode]()
+- [Humanode]()
+- [Casper](https://testnet.cspr.live/validator/010a6b601408889363dc003943c9234e1bcd9ac074da385c45ff2cd4aa2c9283ce)
+- [Chainflip]()
+- [Obol]()
 - [Kira]()
 - [Kyve](https://explorer.kyve.network/korellia/staking/kyvevaloper1fxh88ayzp4zghxcdh8la0kxwhx0v9w4e7nj60c)
 - [Likecoin]()
@@ -185,8 +185,9 @@ Validator, but not in active set: <br />
 - [Plasm]()
 - [PlatON]()
 - [Realio](https://explorer.stavr.tech/realio/staking/realiovaloper1hw3hq66urcvxxmlgxkn9cs4ht93m4zh9ky7378)
- - [Spacemesh]()
+- [Spacemesh]()
 - [StarkNet]()
+- [Sui]()
 - [Terra]()
 - [Terp](https://explorer.stavr.tech/terp-network/staking/terpvaloper1n3e4c8rdhdflrtuse0muapdy4tl7qrmxa8zsae)
 - [Swarm]()

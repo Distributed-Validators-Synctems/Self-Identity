@@ -63,10 +63,11 @@ Active non-Cosmo Mainnets: <br />
 - [Casper](https://cspr.live/validator/018dc552de3c403dbefe03a9c604e11346d96159ed49f9381a55c2e06c45197d43) Currently inactive
 - [Stride](https://www.mintscan.io/stride/validators/stridevaloper136nl6lu4hvaus6l0lypzqq5gkd3dxvu5eaydk2)
 - [Quicksilver](https://www.mintscan.io/quicksilver/validators/quickvaloper1sgxklkmzdskprcv0xqjml0e789g3z8lu00w66w)
-- 
+ 
+  <details>
+
 
 <details>
-
   <summary>Active Cosmo Testnets</summary>
  
 - [Althea](https://www.skynetexplorers.com/althea/staking/altheavaloper1e8fvgd3pwcuxlr7r5wy0cuu38dnavxnf3se6qq)

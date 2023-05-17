@@ -73,7 +73,7 @@ Active non-Cosmo Mainnets: <br />
 - [Andromeda](https://explorer.stavr.tech/andromeda/staking/andrvaloper1gyuky8x5cy7sz99hlhj3lystra97hwag2qxtxd)
 - [BlockX](https://ping.blockxnet.com/blockx-testnet/staking/blockxvaloper14m0tkkquzufuqzdpvzm79xta9uqyu4zxxtsux3)
 - [Cardchain](https://explorer.stavr.tech/cardchain/staking/ccvaloper1wlmkgs6mckzphx42pxm8xaxwd9q997y2r5lrdl)
-- [Cascadia](https://explorer.stavr.tech/cardchain/staking/ccvaloper1wlmkgs6mckzphx42pxm8xaxwd9q997y2r5lrdl)
+- [Cascadia](https://testnet.cascadia.explorers.guru/validator/cascadiavaloper1qyxf9zze9ppvrzl85957ahf40wyk9pl4ylz56y)
 - [Compossable](https://explorer.nodestake.top/composable-testnet/staking/banksyvaloper1ug8wc9h64gmt7kz9wrtqqz3mgfdmyuu2uunumu)
 - [Defund](https://defund.explorers.guru/validator/defundvaloper1v0d46jupe9qehc7kpp8nv8hs4vwyujgctau8vz)
 - [Dymension](https://explorer.stavr.tech/dymension-testnet/staking/dymvaloper17s2u6vllw7xwfn2m52935qv3q5k625eucnwjqj)

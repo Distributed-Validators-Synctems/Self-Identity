@@ -14,6 +14,7 @@ Active Cosmo Mainnets: <br />
 - [Firmachain](https://explorer.firmachain.dev/validators/firmavaloper1rsnaurdhf8d93ugxpfr0xqjfhhj3rfyyu69qtw) Genesis validator
 - [Gravity](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1yeujyxulrf82age8c9q6mfqy0ueh0pjxa7hd20) Genesis validator
 - [GenesisL1](https://ping.pub/genesisl1/staking/genesisvaloper1mu4sv02tjnelgmg30vd0nx5yd022ty5y69u5da)
+- [Gitopia](https://ping.pub/gitopia/staking/gitopiavaloper1fruvmyjvdq4399zq7dg2hn3ymdmrckakapeppc)
 - [IDEP](https://atomscan.com/idep/validators/idepvaloper1e6834a9qfzpp5l6n57wjsfqx5sl3m8a6a4saj6)
 - [Jackal](https://mainnet.manticore.team/jackal/staking/jklvaloper1r5hzfdwzej0fazngsx84dqt094vt9wqu2s2ert)
 - [Juno](https://www.mintscan.io/juno/validators/junovaloper1353ewfc0v7pnn3xre6v9lraghxrhenswmsjhv0)
@@ -39,7 +40,7 @@ Active Cosmo Mainnets: <br />
 
 Active non-Cosmo Mainnets: <br />
 - [Avalanche](https://avascan.info/staking/validator/NodeID-Jm1k2q2WAkH99w4ZBEgzrmm6Kte39qCWJ)
-- [Blast](https://houston.blastapi.io/explorer/0x8847ebaaf29a18396e49191602f8d8d141b98aa7)
+- [Blast](https://blastapi.io/explorer/0x0ee85c30ff1797d9f041261b88c4a58d6d68fbbf/4)
 - [Joystream]()
 - [Kusama](https://metaspan.io/kusama/candidate/GAjCmzPYQySBaQ36YmBJxonQacRTBwxrfPP6ihgZMJGTwwy)
 - [Mina Protocol](https://minaexplorer.com/wallet/B62qrgnUUduZy2z7zT8qCV8ngTJfSS1rK3Wh22SHUmrse3Tfqvrhx8q) GFM

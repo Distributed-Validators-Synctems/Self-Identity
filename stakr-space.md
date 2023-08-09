@@ -10,7 +10,7 @@ Current mainnets: <br />
 [Omniflix](https://www.mintscan.io/omniflix/validators/omniflixvaloper1vcjmshcst9zjh4pydsvqdssg86nzheykssjh5m) - Genesis Mainnet Validator<br />
 [Persistence AssetMantle](https://www.mintscan.io/asset-mantle/validators/mantlevaloper1z79zeeyvdgqddevdng3u8d3kqt87dtq3jhsqvq) - Genesis Mainnet and Community Validator<br />
 [Nym Gateway+Requester service](https://explorer.nymtech.net/network-components/gateways) - NYM team selected grantee </br>
-[Tgrade](https://tgrade.aneka.io/validators/tgrade1dz487qtggarfaxja70grhs3lgfv02mpn0l9f3j) - Genesis Mainnet Validator<br />
+[Tgrade](https://www.mintscan.io/tgrade/validators/tgrade1dz487qtggarfaxja70grhs3lgfv02mpn0l9f3j) - Genesis Mainnet Validator<br />
 [Rebus](https://rebus.explorers.guru/validator/rebusvaloper1mjw2xy2l284z7psm0alpa658cxw9w5c2as35qc) - Genesis Mainnet Validator<br />
 [Nois](https://nois.explorers.guru/validator/noisvaloper1j2p6k6dz8hq0wdusvd0kpm45v259uk8c4vv4wd) - Genesis Mainnet Validator<br />
 [Aura](https://aura.exploreme.pro/validator/auravaloper132wmyj4e4fysecckwn9yfh52dk2cc4gkrw2yz2) - Genesis Mainnet Validator<br />
@@ -18,6 +18,7 @@ Current mainnets: <br />
 [Gitopia](https://gitopia.exploreme.pro/validator/gitopiavaloper1nf5jh8wk2sdlv7ltvg7e9klkpjt45tzgtd7pg2) - Genesis Mainnet Validator<br />
 [Empower](https://empowerchain.exploreme.pro/validator/empowervaloper1ju6852rl229h0va0na0rdwes4g5jwnql700tgg) - Genesis Mainnet Validator<br />
 [Humans AI](https://humansai.exploreme.pro/validator/humanvaloper1udzzjmtx8elfdnd0m9qn9v2j7hfxkq283q3aaa) - Genesis Mainnet Validator<br />
+[Passage](https://passage.aneka.io/validators/pasgvaloper1usm9f4udzle85670u7emgf5xlnqnsveujazh3h) - Genesis Mainnet Validator<br />
 
 
 Actual testnets:<br/>
@@ -25,8 +26,8 @@ Actual testnets:<br/>
 [Namada](https://namada.explorers.guru/validators) - genesis testnet validator</br>
 [Lava](https://lava.exploreme.pro/validator/lava@valoper10xj0aas6lxrwq8vew7ps3e8ycgrmred25yky8z)</br>
 [Ojo](https://ojo.explorers.guru/validator/ojovaloper15kz5rmzaxyuvsmsrx5nkru9zw9jk3he42futcv) - genesis testnet validator </br>
-[Andromeda](https://andromeda.exploreme.pro/validator/andrvaloper12zv58n00cx4vtd9efdltwaydq028ruccsh7rp2)</br>
-
+[Cascadia](https://testnet.cascadia.explorers.guru/validator/cascadiavaloper18wz8t62mc53vffhew4qfjhpzysutcgn5rfn9ad)</br>
+[Cardchain](https://crowdcontrol.exploreme.pro/validator/ccvaloper178g3555nt2ks6t7fqrzzt566yrzqfxexcjkjzu)</br>
 
 Servers and architecture, technology stack:
 mostly AMD Ryzen 9 5950x, 128RAM, 7Tb NVME, 1Gbit+ network. Sentry nodes where necessary, apparmor/firewalls, ssh keys access, prometheus+node_exporter+grafana+telegram alerting.<br/>
@@ -34,7 +35,6 @@ Baremetal servers located in EU(NL,DE,FI,RU) and US.
 
 
 Inactive mainnet validators: </br>
-[Passage](https://passage.aneka.io/validators/pasgvaloper1usm9f4udzle85670u7emgf5xlnqnsveujazh3h) - Genesis Mainnet Validator<br />
 [Forta](https://api.forta.network/stats/sla/scanner/0x917b57D2D78e39978c25F9495e03Dc0F6c05Cc2d) - mainnet scanner, foundation delegated<br/>
 [Mina](https://mina.staketab.com/validator/B62qpsMTL1mTaQUQUTQzVM1qvyGTCLVAhr8whJc7tUfmnPEuZnanzUe) - Genesis Founding Member, QA task force - redelegating ATM due to stake overconcentration in network<br />
 [Sifchain](https://www.mintscan.io/sifchain/validators/sifvaloper1kx5hexg5fhskesdvkk9zycmwu8tym6gejns3ew) - Self-funded and community validator</br>
@@ -44,6 +44,7 @@ Inactive mainnet validators: </br>
 
 50+ finished or developing test-nets: <br />
 <img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/umee-leaderboard.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/syntropy-mainnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/persistence-asset-mantle-testnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/humanode-1st-testnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/evmos-testnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/obol-team-captain.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/beaconchain-prater-validator.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/ironfish-testnet1.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/ironfish-testnet2.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/sourcechain-testnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/nois-testnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/empowerchain-testnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/deweb-testnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/sei-testnet.png" width="200" height="150" /><img src="https://github.com/papanomad535/stakr.space-validator-identity/blob/main/telemetry/haqq-testnet.png" width="200" height="150" /></br>
+[Andromeda](https://andromeda.exploreme.pro/validator/andrvaloper12zv58n00cx4vtd9efdltwaydq028ruccsh7rp2)</br>
 [Sui](https://explorer.sui.io/?network=http%3A%2F%2F162.55.245.79%3A9000)</br>
 [Neutron](https://testnet.mintscan.io/neutron-testnet/validators/neutronvaloper12jlq7gy7zn9rrs04g3rtg06uuu9hhr7udk959m) - genesis testnet validator</br>
 [Nolus](https://nolus.exploreme.pro/validator/nolusvaloper10uzey0tuyumlmduds70fqm59rj66x65ef9w7pu)</br>

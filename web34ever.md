@@ -1,6 +1,7 @@
 
 <img src="https://user-images.githubusercontent.com/59205554/217953492-bdb6892e-918b-4981-8968-cf8b6f263ddd.png" alt="web34ever" width="250" height="250">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=700&lines=web34ever+is+a+staking+service+that+is+online+all+the+time!)](https://git.io/typing-svg)
 ## [web3validator.info](https://web3validator.info/)
 Passionate experts with over five years of expertise in decentralized technologies. Professional validator and full time enthusiast from 2018 with powerful knowledge and exhaustive experience in crypto industry.
 Member of the [POSTHUMAN](https://posthuman.digital/team) core-team.
@@ -10,27 +11,29 @@ Co-founder and mentor in [validator school](https://github.com/Distributed-Valid
 
 Please feel free to familiarize with the list of projects below to which I contributed my knowledge, skills and invaluable experience:
 
-##                                web3validator validate many known main networks
+##                                web3validator validate 26 main networks
                                                         Main-Networks
 								 	
 				
-- [Solana](https://www.validators.app/validators/mainnet/7MTjmteQHhthwwTZhUzsc2dP4NBvGNRqj8jzdqNxHFGE?locale=en&order=&refresh=)
+- [Solana](https://stage.validators.app/validators/7MTjmteQHhthwwTZhUzsc2dP4NBvGNRqj8jzdqNxHFGE?locale=en&network=mainnet)
 
 - [Moonriver Orbiter](https://moonriver.subscan.io/extrinsic/0x48bbd6a6ac37db20ffabf8a33e737c5fbaab26cc5272e5186690b8ccfa379e22)
 
 - [Avalanche](https://avascan.info/staking/validator/NodeID-5uYQ6R4WF7kmGfraM9LtsUJG2CDmh78Lf)
 
+- [Kusama](https://kusama.subscan.io/waiting/GL5jF2yxfVA499zNkjMEfiznhD2hJQX4s2Ega7fk93vt8qf)
+
 - [Mina Protocol](https://minaexplorer.com/wallet/B62qrnPdz8HpsDJfGHirDLpVrN2VeyeitdaTKBaccWtHpeVW9Hgwi75)
 		
 - [Everscale](https://ton.live/depools/depoolDetails?id=0%3Ae108fbffddd3999898788f59b267a0641287703866845d1734be5cd7f637473c)(not active)
 
-- [TheGraph Indexer](https://thegraph.com/explorer/profile?id=0xd93456bf656436e66a8e0a8835c43a6f59afbb37&view=Indexing)	
+- [TheGraph Indexer](https://thegraph.com/explorer/profile/0x61fb0285da8609b17bd82675acf0fc0a60061d7d?view=Indexing&chain=mainnet)	
 
 - [Casper](https://cspr.live/account/018dc552de3c403dbefe03a9c604e11346d96159ed49f9381a55c2e06c45197d43)(not active)
 
 - [XX-Network](https://explorer.xx.network/accounts/6VaJ35ts5timzFThyYYyFAcswZ2zs73hzS2RsADPWyXcNwnM)
 
-- [Moonbeam Collator](https://moonbeam.subscan.io/waiting/0x47dd026c7e6c80c78b53811bf17c2cada73bf0d4) (not active)
+- [Moonbeam Orbiter](https://moonbeam.subscan.io/waiting/0x47dd026c7e6c80c78b53811bf17c2cada73bf0d4)
 
 
 #Cosmos Networks
@@ -57,8 +60,6 @@ Please feel free to familiarize with the list of projects below to which I contr
 
 - [Bitsong](https://www.mintscan.io/bitsong/validators/bitsongvaloper139dppl6gyerq8yaweksajut3urwyygsz7r4ej4)
 
-- [Galaxy](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1vm9d3anadzxxw7sp6y57d98dtv2mayxvrxjgnp)
-
 - [Genesis](https://ping.pub/genesisl1/staking/genesisvaloper10x5stkzceeefj87ku75uvjvxyr6zu9rd5a8mp5)
 
 - [Passage](https://www.mintscan.io/passage/validators/pasgvaloper14vyqdka2r444hl6hj29fspa7yta3hu4yc0kk2q)
@@ -75,7 +76,13 @@ Please feel free to familiarize with the list of projects below to which I contr
 
 - [Uptick](https://uptick.explorers.guru/validator/uptickvaloper19pz0f48cu87vptrv5a9xluyxt269d36ge72dfa)
 
-- [Jackal](https://ping.pub/jackal/account/jkl1vm9d3anadzxxw7sp6y57d98dtv2mayxvmxfezq)
+- [Jackal](https://ping.pub/jackal/staking/jklvaloper1vm9d3anadzxxw7sp6y57d98dtv2mayxvw4fs6e)
+
+- [Lambda](https://explorer.stavr.tech/lambda/staking/lambvaloper18vncf69zfq6pyszk4skj9n5ev8zzrwr2puryqk)
+
+- [Gitopia](https://ping.pub/gitopia/staking/gitopiavaloper1pgm7l5t6nxvtf8kz5mm83ddzvjwz87v7kym2qd)
+
+- [Composable](https://explorer.stavr.tech/composable-mainnet/staking/centaurivaloper17s38yrdualvhrsqcy3kgv6uhh6eyz9te9j6xjh)
 
 						        Test-Networks 
 							Blockchains grow here
@@ -227,8 +234,10 @@ My ambassador portfolio -> [here](https://docs.google.com/document/d/1oxpMh1xUdl
 Web3 validator provides much more than security! We are actively participating in the development of the Network and Community by providing informational, technical and humanitarian support! 
 
 Feel free to check the list on my [website...](https://web3validator.info/#contribution)
-
-The Web3 Validator team has developed the checker bot that can monitor your node uptime. We can implement it on various Cosmos SDK networks and will gladly add it to any new network! It's just super convenient:
+	
+### Uptime Checker bot
+	
+Web3 Validator team has developed the checker bot that can monitor your node uptime. We can implement it on various Cosmos SDK networks and will gladly add it to any new network! It's just super convenient:
 
 *Without installing any software (grafana, tenderduty, prometheus or etc.)
 
@@ -237,7 +246,7 @@ The Web3 Validator team has developed the checker bot that can monitor your node
 *Сan tell you about the time left before being sent to jail.
 
 *Clear and pleasant interface and validator status check. 
-Also this bot can be customizable and it may add many other functions. We already implement many known cosmo-networks and all of them fully support us.
+Also this bot can be customizable and it may add many other functions. We already implement it in many known cosmos-networks.
 
 
 
@@ -250,7 +259,7 @@ Also this bot can be customizable and it may add many other functions. We alread
 						  
 						           Infrastructure
             	
- We have used enterprise-level hardware to run nodes for the most popular PoS blockchains since 2018. We use advanced data centers such as: [Equinix](https://www.equinix.com/data-centers), [StackPath](https://www.stackpath.com/), [Edgevanna](https://edgevana.com/), [OVH](https://www.ovhcloud.com/en/)
+ We have used enterprise-level hardware to run nodes for the most popular PoS blockchains since 2018. We use advanced data centers: [Equinix](https://www.equinix.com/data-centers), [StackPath](https://www.stackpath.com/), [Edgevanna](https://edgevana.com/), [OVH](https://www.ovhcloud.com/en/)
 
 
 Our team validates a huge number of mainnets and participates in various testnet programs. We are very interested in projects in which we can contribute and gain/give additional knowledge.

@@ -1,5 +1,7 @@
 # self-identity
 
+[Our Vision](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/OUR_VISION.md) | [Наше Видение](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/OUR_VISION_ru.md)
+
 ![dvs_big](https://user-images.githubusercontent.com/38581319/121911312-f3a89200-cd2f-11eb-955a-b11a3c408f3e.png)
 
 **Distributed Validators Synctems** is the first **Decentralized Autonomous Synchronization** of validators.

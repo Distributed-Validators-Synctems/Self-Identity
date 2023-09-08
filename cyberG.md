@@ -73,8 +73,8 @@ Active non-Cosmo Mainnets: <br />
 - [Source](https://explorer.stavr.tech/source/staking/sourcevaloper120pps8apulyxne209hp33u6r66mae4knks4hke)
 - [Uptick](https://explorer.stavr.tech/uptick/staking/uptickvaloper1uwtmwh09qt2xtvfne6jmjehsedgycxqqyt3xje)
 
-
 </details>
+
 
 <details>
   <summary>Active non-Cosmos Testnets</summary>

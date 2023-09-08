@@ -22,7 +22,6 @@ Active Cosmo Mainnets: <br />
 - [Kyve](https://www.mintscan.io/kyve/validators/kyvevaloper1fxh88ayzp4zghxcdh8la0kxwhx0v9w4e7nj60c)
 - [Lambda](https://mainnet.manticore.team/lambda/staking/lambvaloper1zj8ynfvv0drhgjukxd0z8w5ge3t66ypqtg6e43)
 - [Meme](https://mainnet.manticore.team/meme/staking/memevaloper1g542uxlfqtx5qrcqy95pygn9n99jdtufjahnt2)
-- [Mises](https://explorer.stavr.tech/mises/staking/misesvaloper1jdqtazvd3q35jqgy0radp6x9lsuzqgj456299t)
 - [OmniFlix](https://www.mintscan.io/omniflix/validators/omniflixvaloper1dfjx8w65h359vy55dvm383ks2xevsne9crkh32) Genesis validator
 - [Passage](https://www.mintscan.io/passage/validators/pasgvaloper1w6mqsvguml3k4j0vry9jl8ur9qanhhr0g7qrvs) Genesis validator
 - [Pylons](https://pylons.explorers.guru/validator/pylovaloper1u29z4l8ugjdwp2pm8luwntksh0p9n7dvq8zxs3)
@@ -48,22 +47,10 @@ Active non-Cosmo Mainnets: <br />
 - [Moonriver](https://moonriver.subscan.io/account/0x292A6460a9C61c5ccDfc79cB2d68Ae54FFb95da5?tab=orbiter_reward) Orbiter
 - [NYM](https://mixnet.explorers.guru/gateways) Gateway and Requestor
 - [Solana](https://solanacompass.com/validators/9jJNuZE4EHTrz8xiTzmDGjJnCn5dGmruCyUwG1vgdHZR) Foundation Delegation, Marinade, Boca Chica
-- [TheGraph](https://thegraph.com/explorer/profile/0xfc6660fb369e595a0e22a29d93847b3eb83b8c55?view=Indexing)
+- [TheGraph](https://thegraph.com/explorer/profile/0x863e1fc588651c432a1bbb7c8afdf2c3d34921ea?view=Indexing&chain=arbitrum-one)
 - [Velas](https://velasity.com/validator/7MYojjTNnFsyEs7Pb5Xv3pKeZxUGk6R1kJoLrtSKkSRy)
 - [XX Network](https://dashboard.xx.network/nodes/2C5ngNbgU_r2bUrvzvAGJddGOhNboOt2r5ZSmJ-GezgC)
-
-<details>
-  <summary>Validator not in the active set</summary>
-
-- [Asset Mantle](https://www.mintscan.io/asset-mantle/validators/mantlevaloper1munf9mvdu9zxh2zma8cvg6frse4kffafvlyzue) Genesis validator
-- [Regen](https://regen.aneka.io/accounts/regen1qvn6ghe68l4g0k7s25rujr6yfpyrm6h3399jvu) Genesis validator
-- [Sentinel]() genesis validator
-- [Moonbeam](https://moonbeam.subscan.io/waiting/0xe2962a1785f655eae3a8cd1f1b38d1d760a300e3)
-- [Algorand]() Relayer Programm paticipant
-- [Casper](https://cspr.live/validator/018dc552de3c403dbefe03a9c604e11346d96159ed49f9381a55c2e06c45197d43) Currently inactive
-- [Stride](https://www.mintscan.io/stride/validators/stridevaloper136nl6lu4hvaus6l0lypzqq5gkd3dxvu5eaydk2)
-- [Quicksilver](https://www.mintscan.io/quicksilver/validators/quickvaloper1sgxklkmzdskprcv0xqjml0e789g3z8lu00w66w)
-  
+ 
  </details>
 
 <details>
@@ -76,14 +63,11 @@ Active non-Cosmo Mainnets: <br />
 - [Cardchain](https://explorer.stavr.tech/cardchain/staking/ccvaloper1wlmkgs6mckzphx42pxm8xaxwd9q997y2r5lrdl)
 - [Cascadia](https://testnet.cascadia.explorers.guru/validator/cascadiavaloper1qyxf9zze9ppvrzl85957ahf40wyk9pl4ylz56y)
 - [Compossable](https://explorer.nodestake.top/composable-testnet/staking/banksyvaloper1ug8wc9h64gmt7kz9wrtqqz3mgfdmyuu2uunumu)
-- [Defund](https://defund.explorers.guru/validator/defundvaloper1v0d46jupe9qehc7kpp8nv8hs4vwyujgctau8vz)
 - [Dymension](https://explorer.stavr.tech/dymension-testnet/staking/dymvaloper17s2u6vllw7xwfn2m52935qv3q5k625eucnwjqj)
-- [Gitopia](https://explorer.gitopia.com/validators/gitopiavaloper1fruvmyjvdq4399zq7dg2hn3ymdmrckakapeppc)
 - [Gitshock]() 
 - [Humans](https://humans.explorers.guru/validator/humanvaloper1wcns48jcn0enlupatp2gxfyl342cm8w26frp66)
 - [Hypersign](https://explorer.hypersign.id/hypersign-testnet/staking/hidvaloper1n8aacwgdnk2s534f2hp9wkjfe982scjm4fhfc0)
 - [Lava](https://lava.explorers.guru/validator/lava@valoper124qy4zcm8ws09meezeuvrjs9ev4zzld4qsqgcw)
-- [Mande](https://explorer.stavr.tech/mande-chain/staking/mandevaloper1lz0at0285aeufj7jyhaucr56g8ghp63rpgp7gf)
 - [Mun](https://blockexplorer.mun.money/validators/munvaloper15ywjwwtpx0t5jmhnqpvrn6rh02kehahunwvkn0)
 - [Mythos](https://testnet.explorer.provable.dev/mythos/staking/mythos14ul8vxlfr84uhf65vhgqhjm0e4fcmv4wa5yz95)
 - [Namada]()
@@ -130,14 +114,15 @@ Active non-Cosmo Mainnets: <br />
 
   <details>
   <summary>Finished Testnets</summary> 
-  
+    
+- [Algorand]() Relayer Programm paticipant 
 - [Akash]()
 - [Aleo]()
 - [Anone](https://test-anone.zenscan.io/validator.php?addr=onevaloper1qvexpwgsav54wykncd03ky4k34h5qxv73pu2a3)
 - [Aptos](https://explorer.devnet.aptos.dev/account/0xd8f711edb40b96cc8c27c0997640b4727e9cdaa408cbfc916413a2315bc9e3ef) AIT-2 ,AIT-3
 - [Arable]()
 - [Archway]()
-- [Asset Mantle]()
+- [Asset Mantle](https://www.mintscan.io/asset-mantle/validators/mantlevaloper1munf9mvdu9zxh2zma8cvg6frse4kffafvlyzue) Genesis validator
 - [Althea]()
 - [Aura](https://testnet.owlstake.com/Aura-Network/staking/auravaloper1gnf4sxs2qnycrxxyd6gqk9wqa3xjf6h3efl7rz)
 - [BlockPi](http://testnet.explorer.blockpi.io/hypernode/0x626b57e2445e1e3cf13333349a9270f8203b901c?page=4&perPage=20)
@@ -154,6 +139,7 @@ Active non-Cosmo Mainnets: <br />
 - [Crescent]()
 - [Cryptocom]()
 - [Decentr]()
+- [Defund](https://defund.explorers.guru/validator/defundvaloper1v0d46jupe9qehc7kpp8nv8hs4vwyujgctau8vz)
 - [Deweb](https://explore.deweb.services/deweb/staking/dewebvaloper1vu9rvsu32zetvunve5l9qlx2gvrfg7fl2jkrsr)
 - [Empower](https://empower.explorers.guru/validator/empowervaloper1amptmm5tx36pe3txndavm2au0murreauh04kpz)
 - [Evmos]()
@@ -162,8 +148,8 @@ Active non-Cosmo Mainnets: <br />
 - [Galital]()
 - [GAME]()
 - [Gear]()
+- [Gitopia](https://explorer.gitopia.com/validators/gitopiavaloper1fruvmyjvdq4399zq7dg2hn3ymdmrckakapeppc)
 - [Haqq](https://haqq.explorers.guru/validator/haqqvaloper1rswq8qe22qcr28hhstpyc3j5anfk0g2yp20w5x)
-- [Masa]()
 - [Hopr]()
 - [Humanode]()
 - [IRIS]()
@@ -181,6 +167,13 @@ Active non-Cosmo Mainnets: <br />
 - [Likecoin]()
 - [Mande](https://texplorer.stavr.tech/mande-chain/staking/mandevaloper13klmmsa5w39szy0fn2gwczd5jef6s9ndzu7ltl)
 - [Mars](https://mars.explorers.guru/validator/marsvaloper1lmxyyq2unwfhquz48s6g0pvezu2ma4rua6vssc)
+- [Masa]()
+- [Mises](https://explorer.stavr.tech/mises/staking/misesvaloper1jdqtazvd3q35jqgy0radp6x9lsuzqgj456299t)
+- [Mande](https://explorer.stavr.tech/mande-chain/staking/mandevaloper1lz0at0285aeufj7jyhaucr56g8ghp63rpgp7gf)
+- [Moonbeam](https://moonbeam.subscan.io/waiting/0xe2962a1785f655eae3a8cd1f1b38d1d760a300e3)
+- [Casper](https://cspr.live/validator/018dc552de3c403dbefe03a9c604e11346d96159ed49f9381a55c2e06c45197d43) Currently inactive
+- [Stride](https://www.mintscan.io/stride/validators/stridevaloper136nl6lu4hvaus6l0lypzqq5gkd3dxvu5eaydk2)
+- [Quicksilver](https://www.mintscan.io/quicksilver/validators/quickvaloper1sgxklkmzdskprcv0xqjml0e789g3z8lu00w66w)
 - [Meter]()
 - [Minima]()
 - [Mundis]()
@@ -195,6 +188,8 @@ Active non-Cosmo Mainnets: <br />
 - [Plasm]()
 - [PlatON]()
 - [Realio](https://explorer.stavr.tech/realio/staking/realiovaloper1hw3hq66urcvxxmlgxkn9cs4ht93m4zh9ky7378)
+- [Regen](https://regen.aneka.io/accounts/regen1qvn6ghe68l4g0k7s25rujr6yfpyrm6h3399jvu) Genesis validator
+- [Sentinel]() genesis validator
 - [Spacemesh]()
 - [StarkNet]()
 - [Sui]()

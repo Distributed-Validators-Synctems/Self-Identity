@@ -53,7 +53,7 @@ Active non-Cosmo Mainnets: <br />
 - [Velas](https://velasity.com/validator/7MYojjTNnFsyEs7Pb5Xv3pKeZxUGk6R1kJoLrtSKkSRy)
 - [XX Network](https://dashboard.xx.network/nodes/2C5ngNbgU_r2bUrvzvAGJddGOhNboOt2r5ZSmJ-GezgC)
  
-
+<details>
   <summary>Active Cosmo Testnets</summary>
  
 - [Althea](https://www.skynetexplorers.com/althea/staking/altheavaloper1e8fvgd3pwcuxlr7r5wy0cuu38dnavxnf3se6qq)

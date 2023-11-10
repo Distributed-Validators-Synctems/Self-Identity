@@ -67,10 +67,10 @@ Active non-Cosmo Mainnets: <br />
 - [Lava](https://lava.explorers.guru/validator/lava@valoper124qy4zcm8ws09meezeuvrjs9ev4zzld4qsqgcw)
 - [Mythos](https://testnet.explorer.provable.dev/mythos/staking/mythos14ul8vxlfr84uhf65vhgqhjm0e4fcmv4wa5yz95)
 - [Namada]()
-- [Nibiru](https://explorer.stavr.tech/nibiru/staking/nibivaloper1ykvqd6jkz7c9hdr36eayys7ekkwcey4uu6jm5a)
+- [Mantrachain](https://testnet.itrocket.net/mantra/staking/mantravaloper173kxtlr76xqnte4a2asvc78ucx6w9n3j2ef9z0) 
 - [Okp4](https://explorer.stavr.tech/okp4-testnet/staking/okp4valoper1vr4azc9sjcphjv66z7g5f9p7lct3z88s0ewct8)
 - [Ojo](https://explorer.stavr.tech/ojo-devnet/staking/ojovaloper15dwaawdusyxuac2ta2h658hz566c452rpk2dsa)
-- [Source](https://explorer.nodestake.top/source-testnet/staking/sourcevaloper1wrujqmjw9x2kywzyzuupfvr94wh9udujqnw8lw)
+
 - [Uptick](https://explorer.stavr.tech/uptick/staking/uptickvaloper1uwtmwh09qt2xtvfne6jmjehsedgycxqqyt3xje)
 
 </details>
@@ -168,6 +168,7 @@ Active non-Cosmo Mainnets: <br />
 - [Mande](https://explorer.stavr.tech/mande-chain/staking/mandevaloper1lz0at0285aeufj7jyhaucr56g8ghp63rpgp7gf)
 - [Moonbeam](https://moonbeam.subscan.io/waiting/0xe2962a1785f655eae3a8cd1f1b38d1d760a300e3)
 - [Mun](https://blockexplorer.mun.money/validators/munvaloper15ywjwwtpx0t5jmhnqpvrn6rh02kehahunwvkn0)
+- [Nibiru](https://explorer.stavr.tech/nibiru/staking/nibivaloper1ykvqd6jkz7c9hdr36eayys7ekkwcey4uu6jm5a)
 - [Casper](https://cspr.live/validator/018dc552de3c403dbefe03a9c604e11346d96159ed49f9381a55c2e06c45197d43) Currently inactive
 - [Stride](https://www.mintscan.io/stride/validators/stridevaloper136nl6lu4hvaus6l0lypzqq5gkd3dxvu5eaydk2)
 - [Quicksilver](https://www.mintscan.io/quicksilver/validators/quickvaloper1sgxklkmzdskprcv0xqjml0e789g3z8lu00w66w)
@@ -188,6 +189,7 @@ Active non-Cosmo Mainnets: <br />
 - [Regen](https://regen.aneka.io/accounts/regen1qvn6ghe68l4g0k7s25rujr6yfpyrm6h3399jvu) Genesis validator
 - [Sei](https://sei.explorers.guru/validator/seivaloper184x4k75u2c5aycl7jdd9dk95pzkttszw52a0w8)
 - [Sentinel]() genesis validator
+- [Source](https://explorer.nodestake.top/source-testnet/staking/sourcevaloper1wrujqmjw9x2kywzyzuupfvr94wh9udujqnw8lw)
 - [Spacemesh]()
 - [StarkNet]()
 - [Sui]()

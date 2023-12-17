@@ -253,3 +253,5 @@ Active non-Cosmo Mainnets: <br />
 - [Buidl](https://buildspace.so/@cyberg)
 - [Bfrens](https://bfre.nz/u/cyberg)
 </details>
+
+## governance contribution:

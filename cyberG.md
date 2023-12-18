@@ -255,3 +255,6 @@ Active non-Cosmo Mainnets: <br />
 </details>
 
 ## governance contribution:
+
+
+## server specs:

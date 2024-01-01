@@ -258,3 +258,9 @@ Active non-Cosmo Mainnets: <br />
 
 
 ## server specs:
+
+RYZEN 9 7950 X3D 16c/32t; 192 GB RAM; SSD NVME 1 TB; 1Gbps; Ubuntu 22
+
+Intel Xeon-E 2388G - 8c/16t; 64 GB RAM; SSD NVME 2 TB; 1 Gbps; Ubuntu 22
+
+AMD EPYC 32C; 512 GB RAM; SSD NVME 2 TB; 1 Gbps; Ubuntu 22

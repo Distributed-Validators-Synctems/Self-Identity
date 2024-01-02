@@ -45,6 +45,7 @@ Active non-Cosmo Mainnets: <br />
 - [Moonbeam](https://moonbeam.subscan.io/account/0x6b454e6a5D5DcEF0ce666160883a50BC2a7AdaCA?tab=orbiter_reward) Orbiter
 - [Moonriver](https://moonriver.subscan.io/account/0x292A6460a9C61c5ccDfc79cB2d68Ae54FFb95da5?tab=orbiter_reward) Orbiter
 - [NYM](https://mixnet.explorers.guru/gateways) Gateway and Requestor
+- [Muon]()
 - [Solana](https://solanacompass.com/validators/9jJNuZE4EHTrz8xiTzmDGjJnCn5dGmruCyUwG1vgdHZR) Foundation Delegation, Marinade, Boca Chica
 - [TheGraph](https://thegraph.com/explorer/profile/0x863e1fc588651c432a1bbb7c8afdf2c3d34921ea?view=Indexing&chain=arbitrum-one)
 - [Velas](https://velasity.com/validator/7MYojjTNnFsyEs7Pb5Xv3pKeZxUGk6R1kJoLrtSKkSRy)
@@ -54,8 +55,6 @@ Active non-Cosmo Mainnets: <br />
   <summary>Active Cosmo Testnets</summary>
  
 - [Althea](https://www.skynetexplorers.com/althea/staking/altheavaloper1e8fvgd3pwcuxlr7r5wy0cuu38dnavxnf3se6qq)
-- [Androma](https://explorer.stavr.tech/andromedad-testnet/staking/andrvaloper13y3gwu0pnlflx9u2qmeyh2ckmyf9yqrxs0ut6x)
-- [Andromeda](https://explorer.stavr.tech/andromeda/staking/andrvaloper1gyuky8x5cy7sz99hlhj3lystra97hwag2qxtxd)
 - [BlockX](https://ping.blockxnet.com/blockx-testnet/staking/blockxvaloper14m0tkkquzufuqzdpvzm79xta9uqyu4zxxtsux3)
 - [Cardchain](https://explorer.stavr.tech/cardchain/staking/ccvaloper1wlmkgs6mckzphx42pxm8xaxwd9q997y2r5lrdl)
 - [Cascadia](https://testnet.cascadia.explorers.guru/validator/cascadiavaloper1qyxf9zze9ppvrzl85957ahf40wyk9pl4ylz56y)
@@ -67,7 +66,6 @@ Active non-Cosmo Mainnets: <br />
 - [Mantrachain](https://testnet.itrocket.net/mantra/staking/mantravaloper173kxtlr76xqnte4a2asvc78ucx6w9n3j2ef9z0) 
 - [Okp4](https://explorer.stavr.tech/okp4-testnet/staking/okp4valoper1vr4azc9sjcphjv66z7g5f9p7lct3z88s0ewct8)
 - [Ojo](https://explorer.stavr.tech/ojo-devnet/staking/ojovaloper15dwaawdusyxuac2ta2h658hz566c452rpk2dsa)
-
 - [Uptick](https://explorer.stavr.tech/uptick/staking/uptickvaloper1uwtmwh09qt2xtvfne6jmjehsedgycxqqyt3xje)
 
 </details>
@@ -77,14 +75,12 @@ Active non-Cosmo Mainnets: <br />
   <summary>Active non-Cosmos Testnets</summary>
 
 - [Parastate]()
-- [Sarcophagus]()
 - [Solana](https://www.validators.app/validators/testnet/28LgQ7MeEZVgNJfYRc6UnoAz2SnSjKbyCKM6sntCRotb?locale=en&order=score&refresh=)
 - [TheGraph](https://goerli.graphscan.io/profile?id=0x8847ebaaf29a18396e49191602f8d8d141b98aa7#delegator-details)
-- [Wormholes]()
+-
 - [Shardereum]()
 - [Fleek]()
-- [Muon]()
-- [Elixir]()
+
 
   </details>
   
@@ -111,6 +107,8 @@ Active non-Cosmo Mainnets: <br />
 - [Akash]()
 - [Aleo]()
 - [Anone](https://test-anone.zenscan.io/validator.php?addr=onevaloper1qvexpwgsav54wykncd03ky4k34h5qxv73pu2a3)
+- [Androma](https://explorer.stavr.tech/andromedad-testnet/staking/andrvaloper13y3gwu0pnlflx9u2qmeyh2ckmyf9yqrxs0ut6x)
+- [Andromeda](https://explorer.stavr.tech/andromeda/staking/andrvaloper1gyuky8x5cy7sz99hlhj3lystra97hwag2qxtxd)
 - [Aptos](https://explorer.devnet.aptos.dev/account/0xd8f711edb40b96cc8c27c0997640b4727e9cdaa408cbfc916413a2315bc9e3ef) AIT-2 ,AIT-3
 - [Arable]()
 - [Archway]()
@@ -134,6 +132,7 @@ Active non-Cosmo Mainnets: <br />
 - [Defund](https://defund.explorers.guru/validator/defundvaloper1v0d46jupe9qehc7kpp8nv8hs4vwyujgctau8vz)
 - [Deweb](https://explore.deweb.services/deweb/staking/dewebvaloper1vu9rvsu32zetvunve5l9qlx2gvrfg7fl2jkrsr)
 - [Empower](https://empower.explorers.guru/validator/empowervaloper1amptmm5tx36pe3txndavm2au0murreauh04kpz)
+- [Elixir]()
 - [Evmos]()
 - [Filecoin]()
 - [Frontier]()
@@ -187,6 +186,7 @@ Active non-Cosmo Mainnets: <br />
 - [Realio](https://explorer.stavr.tech/realio/staking/realiovaloper1hw3hq66urcvxxmlgxkn9cs4ht93m4zh9ky7378)
 - [Regen](https://regen.aneka.io/accounts/regen1qvn6ghe68l4g0k7s25rujr6yfpyrm6h3399jvu) Genesis validator
 - [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1swmud649t386j2csz0gah7ku2zpfu0w7trzr09)
+- - [Sarcophagus]()
 - [Sei](https://sei.explorers.guru/validator/seivaloper184x4k75u2c5aycl7jdd9dk95pzkttszw52a0w8)
 - [Sentinel]() genesis validator
 - [Source](https://explorer.nodestake.top/source-testnet/staking/sourcevaloper1wrujqmjw9x2kywzyzuupfvr94wh9udujqnw8lw)
@@ -196,6 +196,7 @@ Active non-Cosmo Mainnets: <br />
 - [Terra]()
 - [Terp](https://explorer.stavr.tech/terp-network/staking/terpvaloper1n3e4c8rdhdflrtuse0muapdy4tl7qrmxa8zsae)
 - [Swarm]()
+- [Wormholes]()
 - [Zeigeist]()
 - [Zenon]()
 

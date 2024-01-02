@@ -73,13 +73,17 @@ Active non-Cosmo Mainnets: <br />
 
 <details>
   <summary>Active non-Cosmos Testnets</summary>
-
+- [Avail](
+- [Holograph]()
+- [Nosana]()
+- [Movement]()
 - [Parastate]()
+- [Red Belly]()
 - [Solana](https://www.validators.app/validators/testnet/28LgQ7MeEZVgNJfYRc6UnoAz2SnSjKbyCKM6sntCRotb?locale=en&order=score&refresh=)
-- [TheGraph](https://goerli.graphscan.io/profile?id=0x8847ebaaf29a18396e49191602f8d8d141b98aa7#delegator-details)
--
 - [Shardereum]()
-- [Fleek]()
+- [SSVxLido]()
+- [Taiko]()
+
 
 
   </details>
@@ -135,6 +139,7 @@ Active non-Cosmo Mainnets: <br />
 - [Elixir]()
 - [Evmos]()
 - [Filecoin]()
+- [Fleek]()
 - [Frontier]()
 - [Galital]()
 - [GAME]()

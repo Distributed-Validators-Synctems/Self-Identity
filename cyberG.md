@@ -256,6 +256,10 @@ Active non-Cosmo Mainnets: <br />
 
 ## governance contribution:
 
+Our team actively participated in governance proposal of supported networks. We have monitoring tools for governance proposals and high voting rate.
+We hae experince in DAO participation and contributors. We can create proposals and forum discussion for proposals.
+We are participating in many community calls and disussions. We are supporers of decentralized governance movement and want to build own DAO for our community.
+
 
 ## server specs:
 

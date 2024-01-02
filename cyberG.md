@@ -17,7 +17,6 @@ Active Cosmo Mainnets: <br />
 - [GenesisL1](https://ping.pub/genesisl1/staking/genesisvaloper1mu4sv02tjnelgmg30vd0nx5yd022ty5y69u5da)
 - [Gitopia](https://ping.pub/gitopia/staking/gitopiavaloper1fruvmyjvdq4399zq7dg2hn3ymdmrckakapeppc)
 - [Humans](https://humans.explorers.guru/validator/humanvaloper1wcns48jcn0enlupatp2gxfyl342cm8w26frp66)
-- [IDEP](https://atomscan.com/idep/validators/idepvaloper1e6834a9qfzpp5l6n57wjsfqx5sl3m8a6a4saj6)
 - [Jackal](https://mainnet.manticore.team/jackal/staking/jklvaloper1r5hzfdwzej0fazngsx84dqt094vt9wqu2s2ert)
 - [Juno](https://www.mintscan.io/juno/validators/junovaloper1353ewfc0v7pnn3xre6v9lraghxrhenswmsjhv0)
 - [Kujira](https://blue.kujira.app/stake/kujiravaloper1tharcgrfu6j0dcwpe5y6ez3s904rhq2kmccm4k) Genesis validator
@@ -27,7 +26,6 @@ Active Cosmo Mainnets: <br />
 - [OmniFlix](https://www.mintscan.io/omniflix/validators/omniflixvaloper1dfjx8w65h359vy55dvm383ks2xevsne9crkh32) Genesis validator
 - [Passage](https://www.mintscan.io/passage/validators/pasgvaloper1w6mqsvguml3k4j0vry9jl8ur9qanhhr0g7qrvs) Genesis validator
 - [Pylons](https://pylons.explorers.guru/validator/pylovaloper1u29z4l8ugjdwp2pm8luwntksh0p9n7dvq8zxs3)
-- [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1swmud649t386j2csz0gah7ku2zpfu0w7trzr09)
 - [Shentu](https://www.mintscan.io/shentu/validators/shentuvaloper1yq8a2ksa7dz8wd8wlks3k8nqdmht76xdkmqzxv) Genesis validator
 - [Rebus](https://rebus.explorers.guru/validator/rebusvaloper14dv684ed57cgehl5apcl56n2mqsypr7vqrmpvx)
 - [Sommelier](https://www.mintscan.io/sommelier/validators/sommvaloper1x52lteqqkspn5fshujd6duqrw773jqzl2hu8et)
@@ -42,7 +40,6 @@ Active Cosmo Mainnets: <br />
 Active non-Cosmo Mainnets: <br />
 - [Avalanche](https://avascan.info/staking/validator/NodeID-Jm1k2q2WAkH99w4ZBEgzrmm6Kte39qCWJ)
 - [Blast](https://blastapi.io/explorer/0x0ee85c30ff1797d9f041261b88c4a58d6d68fbbf/4)
-- [Joystream]()
 - [Kusama](https://metaspan.io/kusama/candidate/GAjCmzPYQySBaQ36YmBJxonQacRTBwxrfPP6ihgZMJGTwwy)
 - [Mina Protocol](https://minaexplorer.com/wallet/B62qrgnUUduZy2z7zT8qCV8ngTJfSS1rK3Wh22SHUmrse3Tfqvrhx8q) GFM
 - [Moonbeam](https://moonbeam.subscan.io/account/0x6b454e6a5D5DcEF0ce666160883a50BC2a7AdaCA?tab=orbiter_reward) Orbiter
@@ -148,8 +145,10 @@ Active non-Cosmo Mainnets: <br />
 - [Haqq](https://haqq.explorers.guru/validator/haqqvaloper1rswq8qe22qcr28hhstpyc3j5anfk0g2yp20w5x)
 - [Hopr]()
 - [Humanode]()
+- [IDEP](https://atomscan.com/idep/validators/idepvaloper1e6834a9qfzpp5l6n57wjsfqx5sl3m8a6a4saj6)
 - [IRIS]()
 - [Iron Fish]()
+- [Joystream]()
 - [Quicksilver](https://quicksilver.explorers.guru/validator/quickvaloper1sgxklkmzdskprcv0xqjml0e789g3z8lu00w66w)
 - [Microtick](https://explorer.microtick.zone/validators/microvaloper1z7crvuuks7yk33qwx4nv68nzhwznkmt96ddm5l) Migrated to Polygon
 - [Chronic](https://www.skynetexplorers.com/chronic-token/staking/chronicvaloper1x8czjpdy2x9svz0s3u9hdgqxd06ta39y49lnd3) Genesis validator
@@ -187,6 +186,7 @@ Active non-Cosmo Mainnets: <br />
 - [PlatON]()
 - [Realio](https://explorer.stavr.tech/realio/staking/realiovaloper1hw3hq66urcvxxmlgxkn9cs4ht93m4zh9ky7378)
 - [Regen](https://regen.aneka.io/accounts/regen1qvn6ghe68l4g0k7s25rujr6yfpyrm6h3399jvu) Genesis validator
+- [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1swmud649t386j2csz0gah7ku2zpfu0w7trzr09)
 - [Sei](https://sei.explorers.guru/validator/seivaloper184x4k75u2c5aycl7jdd9dk95pzkttszw52a0w8)
 - [Sentinel]() genesis validator
 - [Source](https://explorer.nodestake.top/source-testnet/staking/sourcevaloper1wrujqmjw9x2kywzyzuupfvr94wh9udujqnw8lw)

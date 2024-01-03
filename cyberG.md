@@ -74,7 +74,7 @@ Active non-Cosmo Mainnets: <br />
 <details>
   <summary>Active non-Cosmos Testnets</summary>
   
-- [Avail](
+- [Avail]()
 - [Holograph]()
 - [Nosana]()
 - [Movement]()

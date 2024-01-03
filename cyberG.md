@@ -73,6 +73,7 @@ Active non-Cosmo Mainnets: <br />
 
 <details>
   <summary>Active non-Cosmos Testnets</summary>
+  
 - [Avail](
 - [Holograph]()
 - [Nosana]()
@@ -191,7 +192,7 @@ Active non-Cosmo Mainnets: <br />
 - [Realio](https://explorer.stavr.tech/realio/staking/realiovaloper1hw3hq66urcvxxmlgxkn9cs4ht93m4zh9ky7378)
 - [Regen](https://regen.aneka.io/accounts/regen1qvn6ghe68l4g0k7s25rujr6yfpyrm6h3399jvu) Genesis validator
 - [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper1swmud649t386j2csz0gah7ku2zpfu0w7trzr09)
-- - [Sarcophagus]()
+- [Sarcophagus]()
 - [Sei](https://sei.explorers.guru/validator/seivaloper184x4k75u2c5aycl7jdd9dk95pzkttszw52a0w8)
 - [Sentinel]() genesis validator
 - [Source](https://explorer.nodestake.top/source-testnet/staking/sourcevaloper1wrujqmjw9x2kywzyzuupfvr94wh9udujqnw8lw)

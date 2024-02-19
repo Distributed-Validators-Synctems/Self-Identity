@@ -67,6 +67,7 @@ Active non-Cosmo Mainnets: <br />
 - [Mantrachain](https://testnet.itrocket.net/mantra/staking/mantravaloper173kxtlr76xqnte4a2asvc78ucx6w9n3j2ef9z0) 
 - [Okp4](https://explorer.stavr.tech/okp4-testnet/staking/okp4valoper1vr4azc9sjcphjv66z7g5f9p7lct3z88s0ewct8)
 - [Ojo](https://explorer.stavr.tech/ojo-devnet/staking/ojovaloper15dwaawdusyxuac2ta2h658hz566c452rpk2dsa)
+- [Side](https://explorer.side.exchange/testnet/staking/sidevaloper1xlk5h47u9e5jdr528jf56c0a34wechaq5qfz9q)
 - [Uptick](https://explorer.stavr.tech/uptick/staking/uptickvaloper1uwtmwh09qt2xtvfne6jmjehsedgycxqqyt3xje)
 
 </details>

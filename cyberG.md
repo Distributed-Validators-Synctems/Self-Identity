@@ -18,11 +18,11 @@ Active Cosmo Mainnets: <br />
 - [GenesisL1](https://ping.pub/genesisl1/staking/genesisvaloper1mu4sv02tjnelgmg30vd0nx5yd022ty5y69u5da)
 - [Gitopia](https://ping.pub/gitopia/staking/gitopiavaloper1fruvmyjvdq4399zq7dg2hn3ymdmrckakapeppc)
 - [Humans](https://humans.explorers.guru/validator/humanvaloper1wcns48jcn0enlupatp2gxfyl342cm8w26frp66)
-- [Jackal](https://mainnet.manticore.team/jackal/staking/jklvaloper1r5hzfdwzej0fazngsx84dqt094vt9wqu2s2ert)
+- [Jackal](https://explorer.stavr.tech/Jackal/staking/jklvaloper1r5hzfdwzej0fazngsx84dqt094vt9wqu2s2ert)
 - [Juno](https://www.mintscan.io/juno/validators/junovaloper1353ewfc0v7pnn3xre6v9lraghxrhenswmsjhv0)
 - [Kujira](https://blue.kujira.app/stake/kujiravaloper1tharcgrfu6j0dcwpe5y6ez3s904rhq2kmccm4k) Genesis validator
 - [Kyve](https://www.mintscan.io/kyve/validators/kyvevaloper1fxh88ayzp4zghxcdh8la0kxwhx0v9w4e7nj60c)
-- [Lambda](https://mainnet.manticore.team/lambda/staking/lambvaloper1zj8ynfvv0drhgjukxd0z8w5ge3t66ypqtg6e43)
+- [Lambda](https://explorer.stavr.tech/Lambda/staking/lambvaloper1zj8ynfvv0drhgjukxd0z8w5ge3t66ypqtg6e43)
 - [Meme](https://mainnet.manticore.team/meme/staking/memevaloper1g542uxlfqtx5qrcqy95pygn9n99jdtufjahnt2)
 - [OmniFlix](https://www.mintscan.io/omniflix/validators/omniflixvaloper1dfjx8w65h359vy55dvm383ks2xevsne9crkh32) Genesis validator
 - [Passage](https://www.mintscan.io/passage/validators/pasgvaloper1w6mqsvguml3k4j0vry9jl8ur9qanhhr0g7qrvs) Genesis validator
@@ -33,8 +33,8 @@ Active Cosmo Mainnets: <br />
 - [Space Pussy](https://cyb.ai/network/bostrom/hero/pussyvaloper17zdyl3gfssc3vzzyxptnr0xl8z0pnte92zy8vy) Genesis validator
 - [Stargaze](https://www.mintscan.io/stargaze/validators/starsvaloper1dtk6748uhvmhvakhleclrwprp27pe89vhhw44p) Genesis validator
 - [Teritori](https://www.mintscan.io/teritori/validators/torivaloper1z95myrxyf94qnnlu5hzz8km69yx95s8w08267g)
-- [Tgrade](https://www.mintscan.io/tgrade/validators/tgrade1daujfmddygyty3pjsnr9xhz3vxymh6u00krlym) Genesis validator
-- [Uptick](https://uptick.exploreme.pro/validator/uptickvaloper1uwtmwh09qt2xtvfne6jmjehsedgycxqqyt3xje)
+- [Tgrade](https://tgrade.provable.dev/tgrade/staking/tgrade1daujfmddygyty3pjsnr9xhz3vxymh6u00krlym) Genesis validator
+- [Uptick](https://uptick.exploreme.pro/validators/uptickvaloper1uwtmwh09qt2xtvfne6jmjehsedgycxqqyt3xje)
 - [Umee](https://www.mintscan.io/umee/validators/umeevaloper1qa5gkv8a4rzpncgkguv2szh5s83kh69l082zz3) Cooperative validator
 
 
@@ -46,7 +46,6 @@ Active non-Cosmo Mainnets: <br />
 - [Moonbeam](https://moonbeam.subscan.io/account/0x6b454e6a5D5DcEF0ce666160883a50BC2a7AdaCA?tab=orbiter_reward) Orbiter
 - [Moonriver](https://moonriver.subscan.io/account/0x292A6460a9C61c5ccDfc79cB2d68Ae54FFb95da5?tab=orbiter_reward) Orbiter
 - [NYM]([https://mixnet.explorers.guru/gateways](https://explorer.nymtech.net/network-components/gateway/HaLyPQrhBTq75dnGeBUdYWeFVA2BBn39MgkhEt3VTMMM)) Gateway and Requestor
-- [Muon]()
 - [Solana](https://solanacompass.com/validators/9jJNuZE4EHTrz8xiTzmDGjJnCn5dGmruCyUwG1vgdHZR) Foundation Delegation, Marinade, Boca Chica
 - [TheGraph](https://thegraph.com/explorer/profile/0x863e1fc588651c432a1bbb7c8afdf2c3d34921ea?view=Indexing&chain=arbitrum-one)
 - [Velas](https://velasity.com/validator/7MYojjTNnFsyEs7Pb5Xv3pKeZxUGk6R1kJoLrtSKkSRy)
@@ -181,6 +180,7 @@ Active non-Cosmo Mainnets: <br />
 - [Meter]()
 - [Minima]()
 - [Mundis]()
+- [Muon]()
 - [Near]()
 - [Neutron](https://neutron.explorers.guru/validator/neutronvaloper1e5pam4kern2x8s9xr90hdqahdsfnkwrdt3npzk)
 - [Nois](https://explorer.stavr.tech/nois/staking/noisvaloper15r3u4crd9vm6as0mhlyrtc4nlrh3q6juqk05me)

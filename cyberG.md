@@ -45,7 +45,7 @@ Active non-Cosmo Mainnets: <br />
 - [Mina Protocol](https://minaexplorer.com/wallet/B62qrgnUUduZy2z7zT8qCV8ngTJfSS1rK3Wh22SHUmrse3Tfqvrhx8q) GFM
 - [Moonbeam](https://moonbeam.subscan.io/account/0x6b454e6a5D5DcEF0ce666160883a50BC2a7AdaCA?tab=orbiter_reward) Orbiter
 - [Moonriver](https://moonriver.subscan.io/account/0x292A6460a9C61c5ccDfc79cB2d68Ae54FFb95da5?tab=orbiter_reward) Orbiter
-- [NYM]([https://mixnet.explorers.guru/gateways](https://explorer.nymtech.net/network-components/gateway/HaLyPQrhBTq75dnGeBUdYWeFVA2BBn39MgkhEt3VTMMM)) Gateway and Requestor
+- [NYM](https://explorer.nymtech.net/network-components/gateway/HaLyPQrhBTq75dnGeBUdYWeFVA2BBn39MgkhEt3VTMMM) Gateway and Requestor
 - [Solana](https://solanacompass.com/validators/9jJNuZE4EHTrz8xiTzmDGjJnCn5dGmruCyUwG1vgdHZR) Foundation Delegation, Marinade, Boca Chica
 - [TheGraph](https://thegraph.com/explorer/profile/0x863e1fc588651c432a1bbb7c8afdf2c3d34921ea?view=Indexing&chain=arbitrum-one)
 - [Velas](https://velasity.com/validator/7MYojjTNnFsyEs7Pb5Xv3pKeZxUGk6R1kJoLrtSKkSRy)

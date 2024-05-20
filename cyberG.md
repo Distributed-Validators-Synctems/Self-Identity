@@ -71,7 +71,7 @@ Active non-Cosmo Mainnets: <br />
   <summary>Active non-Cosmos Testnets</summary>
   
 
-
+- [Dwallet]()
 - [Nosana]()
 - [Movement]()
 - [Parastate]()

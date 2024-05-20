@@ -72,6 +72,7 @@ Active non-Cosmo Mainnets: <br />
   
 
 - [Dwallet]()
+- [Elixir]()
 - [Nosana]()
 - [Movement]()
 - [Parastate]()
@@ -137,7 +138,6 @@ Active non-Cosmo Mainnets: <br />
 - [Defund](https://defund.explorers.guru/validator/defundvaloper1v0d46jupe9qehc7kpp8nv8hs4vwyujgctau8vz)
 - [Deweb](https://explore.deweb.services/deweb/staking/dewebvaloper1vu9rvsu32zetvunve5l9qlx2gvrfg7fl2jkrsr)
 - [Empower](https://empower.explorers.guru/validator/empowervaloper1amptmm5tx36pe3txndavm2au0murreauh04kpz)
-- [Elixir]()
 - [Evmos]()
 - [Filecoin]()
 - [Fleek]()

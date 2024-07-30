@@ -70,7 +70,7 @@ Active non-Cosmo Mainnets: <br />
 <details>
   <summary>Active non-Cosmos Testnets</summary>
   
-
+- [Dillt](https://andes.dill.xyz/validators?pubkey=0xb32bd5e301b89cd5b5cea4ad424357c137d0d99835c2a8674bd8f53be38587bb5627912b8e11e13946e772c449ba7060)
 - [Dwallet]()
 - [Elixir]()
 - [Nosana]()

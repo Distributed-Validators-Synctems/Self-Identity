@@ -8,22 +8,18 @@ Active Cosmo Mainnets: <br />
 
 - [Bitsong](https://www.mintscan.io/bitsong/validators/bitsongvaloper1mx3gct8chrssamkdfw8fkrdl93knllryalmxpm) Genesis validator
 - [Bostrom](https://cyb.ai/network/bostrom/hero/bostromvaloper1en69twaxmv7xupy8lq7y539dpecx7yz8s43ceg) Genesis validator
-- [C4E](https://mainnet.manticore.team/chain4energy/staking/c4evaloper1mvw0rmngtp9r7598m9lms48j6wyucke8m2wa68)
 - [Canto](https://atomscan.com/canto/validators/cantovaloper1yckfh3najzqhvzzrf4qj2ddkr9h4zav048hjwx)
 - [Comdex](https://www.mintscan.io/comdex/validators/comdexvaloper1963hcznh439kspqmjj5hv5h4nk2kphvats5ujk) Cooperative validator
 - [Compossable](https://explorer.stavr.tech/composable-mainnet/staking/centaurivaloper1uhwhk3ug9ug6stxkua7m7khag5vvg60gwr75yt)
 - [Dymension](https://dymension.explorers.guru/validator/dymvaloper1lsjs7pwll7pqm40namkyx3e5qdwg0v0swrshud)
 - [Firmachain](https://explorer.firmachain.dev/validators/firmavaloper1rsnaurdhf8d93ugxpfr0xqjfhhj3rfyyu69qtw) Genesis validator
 - [Gravity](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1yeujyxulrf82age8c9q6mfqy0ueh0pjxa7hd20) Genesis validator
-- [GenesisL1](https://ping.pub/genesisl1/staking/genesisvaloper1mu4sv02tjnelgmg30vd0nx5yd022ty5y69u5da)
 - [Gitopia](https://ping.pub/gitopia/staking/gitopiavaloper1fruvmyjvdq4399zq7dg2hn3ymdmrckakapeppc)
 - [Humans](https://humans.explorers.guru/validator/humanvaloper1wcns48jcn0enlupatp2gxfyl342cm8w26frp66)
 - [Jackal](https://explorer.stavr.tech/Jackal/staking/jklvaloper1r5hzfdwzej0fazngsx84dqt094vt9wqu2s2ert)
 - [Juno](https://www.mintscan.io/juno/validators/junovaloper1353ewfc0v7pnn3xre6v9lraghxrhenswmsjhv0)
 - [Kujira](https://blue.kujira.app/stake/kujiravaloper1tharcgrfu6j0dcwpe5y6ez3s904rhq2kmccm4k) Genesis validator
 - [Kyve](https://www.mintscan.io/kyve/validators/kyvevaloper1fxh88ayzp4zghxcdh8la0kxwhx0v9w4e7nj60c)
-- [Lambda](https://explorer.stavr.tech/Lambda/staking/lambvaloper1zj8ynfvv0drhgjukxd0z8w5ge3t66ypqtg6e43)
-- [Meme](https://mainnet.manticore.team/meme/staking/memevaloper1g542uxlfqtx5qrcqy95pygn9n99jdtufjahnt2)
 - [OmniFlix](https://www.mintscan.io/omniflix/validators/omniflixvaloper1dfjx8w65h359vy55dvm383ks2xevsne9crkh32) Genesis validator
 - [Passage](https://www.mintscan.io/passage/validators/pasgvaloper1w6mqsvguml3k4j0vry9jl8ur9qanhhr0g7qrvs) Genesis validator
 - [Pylons](https://pylons.explorers.guru/validator/pylovaloper1u29z4l8ugjdwp2pm8luwntksh0p9n7dvq8zxs3)
@@ -122,6 +118,7 @@ Active non-Cosmo Mainnets: <br />
 - [Blockstack]()
 - [Bitcountry]()
 - [BlockX](https://ping.blockxnet.com/blockx-testnet/staking/blockxvaloper14m0tkkquzufuqzdpvzm79xta9uqyu4zxxtsux3)
+- [C4E](https://mainnet.manticore.team/chain4energy/staking/c4evaloper1mvw0rmngtp9r7598m9lms48j6wyucke8m2wa68)
 - [Cardchain](https://explorer.stavr.tech/cardchain/staking/ccvaloper1wlmkgs6mckzphx42pxm8xaxwd9q997y2r5lrdl)
 - [Cascadia](https://testnet.cascadia.explorers.guru/validator/cascadiavaloper1qyxf9zze9ppvrzl85957ahf40wyk9pl4ylz56y)
 - [Celestia](https://celestia.explorers.guru/validator/celestiavaloper1gjjqu6ykrfww43uqrv290zmr9j3t9rfnhdcffl)
@@ -143,6 +140,7 @@ Active non-Cosmo Mainnets: <br />
 - [Fleek]()
 - [Frontier]()
 - [Galital]()
+- [GenesisL1](https://ping.pub/genesisl1/staking/genesisvaloper1mu4sv02tjnelgmg30vd0nx5yd022ty5y69u5da)
 - [GAME]()
 - [Gear]()
 - [Gitopia](https://explorer.gitopia.com/validators/gitopiavaloper1fruvmyjvdq4399zq7dg2hn3ymdmrckakapeppc)
@@ -166,12 +164,13 @@ Active non-Cosmo Mainnets: <br />
 - [Kira]()
 - [Kyve](https://explorer.kyve.network/korellia/staking/kyvevaloper1fxh88ayzp4zghxcdh8la0kxwhx0v9w4e7nj60c)
 - [Likecoin]()
+- [Lambda](https://explorer.stavr.tech/Lambda/staking/lambvaloper1zj8ynfvv0drhgjukxd0z8w5ge3t66ypqtg6e43)
 - [Mande](https://texplorer.stavr.tech/mande-chain/staking/mandevaloper13klmmsa5w39szy0fn2gwczd5jef6s9ndzu7ltl)
 - [Mantrachain](https://testnet.itrocket.net/mantra/staking/mantravaloper173kxtlr76xqnte4a2asvc78ucx6w9n3j2ef9z0)
 - [Mars](https://mars.explorers.guru/validator/marsvaloper1lmxyyq2unwfhquz48s6g0pvezu2ma4rua6vssc)
 - [Masa]()
 - [Mises](https://explorer.stavr.tech/mises/staking/misesvaloper1jdqtazvd3q35jqgy0radp6x9lsuzqgj456299t)
-- [Mande](https://explorer.stavr.tech/mande-chain/staking/mandevaloper1lz0at0285aeufj7jyhaucr56g8ghp63rpgp7gf)
+- [Meme](https://mainnet.manticore.team/meme/staking/memevaloper1g542uxlfqtx5qrcqy95pygn9n99jdtufjahnt2)
 - [Moonbeam](https://moonbeam.subscan.io/waiting/0xe2962a1785f655eae3a8cd1f1b38d1d760a300e3)
 - [Mun](https://blockexplorer.mun.money/validators/munvaloper15ywjwwtpx0t5jmhnqpvrn6rh02kehahunwvkn0)
 - [Nibiru](https://explorer.stavr.tech/nibiru/staking/nibivaloper1ykvqd6jkz7c9hdr36eayys7ekkwcey4uu6jm5a)

@@ -31,7 +31,6 @@ Active Cosmo Mainnets: <br />
 - [Teritori](https://www.mintscan.io/teritori/validators/torivaloper1z95myrxyf94qnnlu5hzz8km69yx95s8w08267g)
 - [Tgrade](https://tgrade.provable.dev/tgrade/staking/tgrade1daujfmddygyty3pjsnr9xhz3vxymh6u00krlym) Genesis validator
 - [Uptick](https://uptick.exploreme.pro/validators/uptickvaloper1uwtmwh09qt2xtvfne6jmjehsedgycxqqyt3xje)
-- [Umee](https://www.mintscan.io/umee/validators/umeevaloper1qa5gkv8a4rzpncgkguv2szh5s83kh69l082zz3) Cooperative validator
 
 
 Active non-Cosmo Mainnets: <br />
@@ -53,9 +52,6 @@ Active non-Cosmo Mainnets: <br />
 
 - [Dymension](https://explorer.stavr.tech/dymension-testnet/staking/dymvaloper17s2u6vllw7xwfn2m52935qv3q5k625eucnwjqj) 
 - [Hypersign](https://explorer.hypersign.id/hypersign-testnet/staking/hidvaloper1n8aacwgdnk2s534f2hp9wkjfe982scjm4fhfc0)
-- [Initia](https://scan.testnet.initia.xyz/initiation-1/validators/initvaloper14wa479q4v80nsq2deyq625myszhrhggqw6jrmx)
-- [Lava](https://lava.explorers.guru/validator/lava@valoper124qy4zcm8ws09meezeuvrjs9ev4zzld4qsqgcw)
-- [Namada]()
 - [Ojo](https://explorer.stavr.tech/ojo-devnet/staking/ojovaloper15dwaawdusyxuac2ta2h658hz566c452rpk2dsa)
 - [Side](https://explorer.side.exchange/testnet/staking/sidevaloper1xlk5h47u9e5jdr528jf56c0a34wechaq5qfz9q)
 
@@ -67,15 +63,14 @@ Active non-Cosmo Mainnets: <br />
   <summary>Active non-Cosmos Testnets</summary>
   
 - [Dillt](https://andes.dill.xyz/validators?pubkey=0xb32bd5e301b89cd5b5cea4ad424357c137d0d99835c2a8674bd8f53be38587bb5627912b8e11e13946e772c449ba7060)
-- [Dwallet]()
 - [Elixir]()
 - [Nosana]()
 - [Movement]()
 - [Parastate]()
 - [Red Belly]()
 - [Solana](https://www.validators.app/validators/testnet/28LgQ7MeEZVgNJfYRc6UnoAz2SnSjKbyCKM6sntCRotb?locale=en&order=score&refresh=)
-- [SSVxLido]()
-- [Taiko]()
+
+
 
 
 
@@ -134,6 +129,7 @@ Active non-Cosmo Mainnets: <br />
 - [Decentr]()
 - [Defund](https://defund.explorers.guru/validator/defundvaloper1v0d46jupe9qehc7kpp8nv8hs4vwyujgctau8vz)
 - [Deweb](https://explore.deweb.services/deweb/staking/dewebvaloper1vu9rvsu32zetvunve5l9qlx2gvrfg7fl2jkrsr)
+- [Dwallet]()
 - [Empower](https://empower.explorers.guru/validator/empowervaloper1amptmm5tx36pe3txndavm2au0murreauh04kpz)
 - [Evmos]()
 - [Filecoin]()
@@ -149,6 +145,7 @@ Active non-Cosmo Mainnets: <br />
 - [Hopr]()
 - [Humanode]()
 - [IDEP](https://atomscan.com/idep/validators/idepvaloper1e6834a9qfzpp5l6n57wjsfqx5sl3m8a6a4saj6)
+- [Initia](https://scan.testnet.initia.xyz/initiation-1/validators/initvaloper14wa479q4v80nsq2deyq625myszhrhggqw6jrmx)
 - [IRIS]()
 - [Iron Fish]()
 - [Joystream]()
@@ -165,6 +162,7 @@ Active non-Cosmo Mainnets: <br />
 - [Kyve](https://explorer.kyve.network/korellia/staking/kyvevaloper1fxh88ayzp4zghxcdh8la0kxwhx0v9w4e7nj60c)
 - [Likecoin]()
 - [Lambda](https://explorer.stavr.tech/Lambda/staking/lambvaloper1zj8ynfvv0drhgjukxd0z8w5ge3t66ypqtg6e43)
+- [Lava](https://lava.explorers.guru/validator/lava@valoper124qy4zcm8ws09meezeuvrjs9ev4zzld4qsqgcw)
 - [Mande](https://texplorer.stavr.tech/mande-chain/staking/mandevaloper13klmmsa5w39szy0fn2gwczd5jef6s9ndzu7ltl)
 - [Mantrachain](https://testnet.itrocket.net/mantra/staking/mantravaloper173kxtlr76xqnte4a2asvc78ucx6w9n3j2ef9z0)
 - [Mars](https://mars.explorers.guru/validator/marsvaloper1lmxyyq2unwfhquz48s6g0pvezu2ma4rua6vssc)
@@ -173,6 +171,7 @@ Active non-Cosmo Mainnets: <br />
 - [Meme](https://mainnet.manticore.team/meme/staking/memevaloper1g542uxlfqtx5qrcqy95pygn9n99jdtufjahnt2)
 - [Moonbeam](https://moonbeam.subscan.io/waiting/0xe2962a1785f655eae3a8cd1f1b38d1d760a300e3)
 - [Mun](https://blockexplorer.mun.money/validators/munvaloper15ywjwwtpx0t5jmhnqpvrn6rh02kehahunwvkn0)
+- [Namada]()
 - [Nibiru](https://explorer.stavr.tech/nibiru/staking/nibivaloper1ykvqd6jkz7c9hdr36eayys7ekkwcey4uu6jm5a)
 - [Casper](https://cspr.live/validator/018dc552de3c403dbefe03a9c604e11346d96159ed49f9381a55c2e06c45197d43) Currently inactive
 - [Stride](https://www.mintscan.io/stride/validators/stridevaloper136nl6lu4hvaus6l0lypzqq5gkd3dxvu5eaydk2)
@@ -202,8 +201,10 @@ Active non-Cosmo Mainnets: <br />
 - [Shardereum]()
 - [Source](https://explorer.nodestake.top/source-testnet/staking/sourcevaloper1wrujqmjw9x2kywzyzuupfvr94wh9udujqnw8lw)
 - [Spacemesh]()
+- [SSVxLido]()
 - [StarkNet]()
 - [Sui]()
+- [Taiko]()
 - [Terra]()
 - [Terp](https://explorer.stavr.tech/terp-network/staking/terpvaloper1n3e4c8rdhdflrtuse0muapdy4tl7qrmxa8zsae)
 - [Swarm]()

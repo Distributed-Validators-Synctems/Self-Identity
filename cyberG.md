@@ -35,7 +35,6 @@ Active Cosmo Mainnets: <br />
 
 Active non-Cosmo Mainnets: <br />
 - [Avalanche](https://avascan.info/staking/validator/NodeID-Jm1k2q2WAkH99w4ZBEgzrmm6Kte39qCWJ)
-- [Blast](https://blastapi.io/explorer/0x0ee85c30ff1797d9f041261b88c4a58d6d68fbbf/4)
 - [Kusama](https://metaspan.io/kusama/candidate/GAjCmzPYQySBaQ36YmBJxonQacRTBwxrfPP6ihgZMJGTwwy)
 - [Mina Protocol](https://minaexplorer.com/wallet/B62qrgnUUduZy2z7zT8qCV8ngTJfSS1rK3Wh22SHUmrse3Tfqvrhx8q) GFM
 - [Moonbeam](https://moonbeam.subscan.io/account/0x6b454e6a5D5DcEF0ce666160883a50BC2a7AdaCA?tab=orbiter_reward) Orbiter
@@ -109,6 +108,7 @@ Active non-Cosmo Mainnets: <br />
 - [Althea]()
 - [Aura](https://testnet.owlstake.com/Aura-Network/staking/auravaloper1gnf4sxs2qnycrxxyd6gqk9wqa3xjf6h3efl7rz)
 - [Avail]()
+- [Blast API](https://blastapi.io/explorer/0x0ee85c30ff1797d9f041261b88c4a58d6d68fbbf/4)
 - [BlockPi](http://testnet.explorer.blockpi.io/hypernode/0x626b57e2445e1e3cf13333349a9270f8203b901c?page=4&perPage=20)
 - [Blockstack]()
 - [Bitcountry]()

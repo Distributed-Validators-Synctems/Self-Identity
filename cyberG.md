@@ -48,11 +48,14 @@ Active non-Cosmo Mainnets: <br />
 <details>
   <summary>Active Cosmo Testnets</summary>
  
-
+- [0G]()
+- [Allora]()
 - [Dymension](https://explorer.stavr.tech/dymension-testnet/staking/dymvaloper17s2u6vllw7xwfn2m52935qv3q5k625eucnwjqj) 
 - [Hypersign](https://explorer.hypersign.id/hypersign-testnet/staking/hidvaloper1n8aacwgdnk2s534f2hp9wkjfe982scjm4fhfc0)
+- [Nesa](https://node.nesa.ai/nodes/A9Ft6LqJqkRdnF7cwo7vcvrL2p56iihPB4SzE67vTRsM)
 - [Ojo](https://explorer.stavr.tech/ojo-devnet/staking/ojovaloper15dwaawdusyxuac2ta2h658hz566c452rpk2dsa)
 - [Side](https://explorer.side.exchange/testnet/staking/sidevaloper1xlk5h47u9e5jdr528jf56c0a34wechaq5qfz9q)
+- [Story]()
 
 
 </details>

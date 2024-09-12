@@ -92,7 +92,7 @@ Active non-Cosmo Mainnets: <br />
 
   </details>
 
-### Blast API https://github.com/Vgk88/blastapi/blob/main/blastapi.md
+
 
   <details>
   <summary>Finished Testnets</summary> 

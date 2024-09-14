@@ -64,7 +64,7 @@ Active non-Cosmo Mainnets: <br />
 <details>
   <summary>Active non-Cosmos Testnets</summary>
   
-- [Dillt](https://andes.dill.xyz/validators?pubkey=0xb32bd5e301b89cd5b5cea4ad424357c137d0d99835c2a8674bd8f53be38587bb5627912b8e11e13946e772c449ba7060)
+- [Dillt](https://alps.dill.xyz/validators?pubkey=0x89221d06fb1d9e5952423d4eba55fc6aeffa757e3555af8d838b402a6ac365be64d34486a0df6ac129d5275bd4c97337)
 - [Elixir]()
 - [Nosana]()
 - [Movement]()

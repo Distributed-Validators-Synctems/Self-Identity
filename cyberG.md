@@ -9,7 +9,6 @@ Active Cosmo Mainnets: <br />
 - [Bitsong](https://www.mintscan.io/bitsong/validators/bitsongvaloper1mx3gct8chrssamkdfw8fkrdl93knllryalmxpm) Genesis validator
 - [Bostrom](https://cyb.ai/network/bostrom/hero/bostromvaloper1en69twaxmv7xupy8lq7y539dpecx7yz8s43ceg) Genesis validator
 - [Canto](https://atomscan.com/canto/validators/cantovaloper1yckfh3najzqhvzzrf4qj2ddkr9h4zav048hjwx)
-- [Comdex](https://www.mintscan.io/comdex/validators/comdexvaloper1963hcznh439kspqmjj5hv5h4nk2kphvats5ujk) Cooperative validator
 - [Compossable](https://explorer.stavr.tech/composable-mainnet/staking/centaurivaloper1uhwhk3ug9ug6stxkua7m7khag5vvg60gwr75yt)
 - [Dymension](https://dymension.explorers.guru/validator/dymvaloper1lsjs7pwll7pqm40namkyx3e5qdwg0v0swrshud)
 - [Firmachain](https://explorer.firmachain.dev/validators/firmavaloper1rsnaurdhf8d93ugxpfr0xqjfhhj3rfyyu69qtw) Genesis validator

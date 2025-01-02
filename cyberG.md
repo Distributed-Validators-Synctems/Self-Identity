@@ -42,7 +42,7 @@ Active non-Cosmo Mainnets: <br />
 - [NYM](https://explorer.nymtech.net/network-components/gateway/HaLyPQrhBTq75dnGeBUdYWeFVA2BBn39MgkhEt3VTMMM) Gateway and Requestor
 - [Solana](https://solanacompass.com/validators/9jJNuZE4EHTrz8xiTzmDGjJnCn5dGmruCyUwG1vgdHZR) Foundation Delegation, Marinade, Boca Chica
 - [TheGraph](https://thegraph.com/explorer/profile/0x863e1fc588651c432a1bbb7c8afdf2c3d34921ea?view=Indexing&chain=arbitrum-one)
-- [Velas](https://velasity.com/validator/7MYojjTNnFsyEs7Pb5Xv3pKeZxUGk6R1kJoLrtSKkSRy)
+- [Velas](https://velasvalidators.com/7MYojjTNnFsyEs7Pb5Xv3pKeZxUGk6R1kJoLrtSKkSRy)
 - [XX Network](https://dashboard.xx.network/nodes/2C5ngNbgU_r2bUrvzvAGJddGOhNboOt2r5ZSmJ-GezgC)
  
 <details>

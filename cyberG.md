@@ -20,14 +20,14 @@ Active Cosmo Mainnets: <br />
 - [Kujira](https://blue.kujira.app/stake/kujiravaloper1tharcgrfu6j0dcwpe5y6ez3s904rhq2kmccm4k) Genesis validator
 - [Kyve](https://ping.pub/kyve/staking/kyvevaloper1fxh88ayzp4zghxcdh8la0kxwhx0v9w4e7nj60c)
 - [OmniFlix](https://www.mintscan.io/omniflix/validators/omniflixvaloper1dfjx8w65h359vy55dvm383ks2xevsne9crkh32) Genesis validator
-- [Passage](https://www.mintscan.io/passage/validators/pasgvaloper1w6mqsvguml3k4j0vry9jl8ur9qanhhr0g7qrvs) Genesis validator
+- [Passage](https://ping.pub/passage/staking/pasgvaloper1w6mqsvguml3k4j0vry9jl8ur9qanhhr0g7qrvs) Genesis validator
 - [Pylons](https://pylons.explorers.guru/validator/pylovaloper1u29z4l8ugjdwp2pm8luwntksh0p9n7dvq8zxs3)
 - [Shentu](https://www.mintscan.io/shentu/validators/shentuvaloper1yq8a2ksa7dz8wd8wlks3k8nqdmht76xdkmqzxv) Genesis validator
 - [Rebus](https://rebus.explorers.guru/validator/rebusvaloper14dv684ed57cgehl5apcl56n2mqsypr7vqrmpvx)
 - [Sommelier](https://www.mintscan.io/sommelier/validators/sommvaloper1x52lteqqkspn5fshujd6duqrw773jqzl2hu8et)
 - [Space Pussy](https://cyb.ai/network/bostrom/hero/pussyvaloper17zdyl3gfssc3vzzyxptnr0xl8z0pnte92zy8vy) Genesis validator
 - [Stargaze](https://www.mintscan.io/stargaze/validators/starsvaloper1dtk6748uhvmhvakhleclrwprp27pe89vhhw44p) Genesis validator
-- [Teritori](https://www.mintscan.io/teritori/validators/torivaloper1z95myrxyf94qnnlu5hzz8km69yx95s8w08267g)
+- [Teritori](https://ping.pub/teritori/staking/torivaloper1z95myrxyf94qnnlu5hzz8km69yx95s8w08267g)
 - [Tgrade](https://tgrade.provable.dev/tgrade/staking/tgrade1daujfmddygyty3pjsnr9xhz3vxymh6u00krlym) Genesis validator
 - [Uptick](https://uptick.exploreme.pro/validators/uptickvaloper1uwtmwh09qt2xtvfne6jmjehsedgycxqqyt3xje)
 
@@ -38,7 +38,7 @@ Active non-Cosmo Mainnets: <br />
 - [Mina Protocol](https://minaexplorer.com/wallet/B62qrgnUUduZy2z7zT8qCV8ngTJfSS1rK3Wh22SHUmrse3Tfqvrhx8q) GFM
 - [Moonbeam](https://moonbeam.subscan.io/account/0x6b454e6a5D5DcEF0ce666160883a50BC2a7AdaCA?tab=orbiter_reward) Orbiter
 - [Moonriver](https://moonriver.subscan.io/account/0x292A6460a9C61c5ccDfc79cB2d68Ae54FFb95da5?tab=orbiter_reward) Orbiter
-- [NYM](https://explorer.nymtech.net/network-components/gateway/HaLyPQrhBTq75dnGeBUdYWeFVA2BBn39MgkhEt3VTMMM) Gateway and Requestor
+
 - [Solana](https://solanacompass.com/validators/9jJNuZE4EHTrz8xiTzmDGjJnCn5dGmruCyUwG1vgdHZR) Foundation Delegation, Marinade, Boca Chica
 - [TheGraph](https://thegraph.com/explorer/profile/0x863e1fc588651c432a1bbb7c8afdf2c3d34921ea?view=Indexing&chain=arbitrum-one)
 - [Velas](https://velasvalidators.com/7MYojjTNnFsyEs7Pb5Xv3pKeZxUGk6R1kJoLrtSKkSRy)
@@ -175,6 +175,7 @@ Active non-Cosmo Mainnets: <br />
 - [Mun](https://blockexplorer.mun.money/validators/munvaloper15ywjwwtpx0t5jmhnqpvrn6rh02kehahunwvkn0)
 - [Namada]()
 - [Nibiru](https://explorer.stavr.tech/nibiru/staking/nibivaloper1ykvqd6jkz7c9hdr36eayys7ekkwcey4uu6jm5a)
+- [NYM](https://explorer.nymtech.net/network-components/gateway/HaLyPQrhBTq75dnGeBUdYWeFVA2BBn39MgkhEt3VTMMM) Gateway and Requestor
 - [Casper](https://cspr.live/validator/018dc552de3c403dbefe03a9c604e11346d96159ed49f9381a55c2e06c45197d43) Currently inactive
 - [Stride](https://www.mintscan.io/stride/validators/stridevaloper136nl6lu4hvaus6l0lypzqq5gkd3dxvu5eaydk2)
 - [Quicksilver](https://www.mintscan.io/quicksilver/validators/quickvaloper1sgxklkmzdskprcv0xqjml0e789g3z8lu00w66w)

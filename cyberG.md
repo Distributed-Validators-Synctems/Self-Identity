@@ -12,7 +12,7 @@ Active Cosmo Mainnets: <br />
 - [Compossable](https://explorer.stavr.tech/composable-mainnet/staking/centaurivaloper1uhwhk3ug9ug6stxkua7m7khag5vvg60gwr75yt)
 - [Dymension](https://dymension.explorers.guru/validator/dymvaloper1lsjs7pwll7pqm40namkyx3e5qdwg0v0swrshud)
 - [Firmachain](https://explorer.firmachain.dev/validators/firmavaloper1rsnaurdhf8d93ugxpfr0xqjfhhj3rfyyu69qtw) Genesis validator
-- [Gravity](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1yeujyxulrf82age8c9q6mfqy0ueh0pjxa7hd20) Genesis validator
+- [Gravity](https://ping.pub/gravity-bridge/staking/gravityvaloper1yeujyxulrf82age8c9q6mfqy0ueh0pjxa7hd20) Genesis validator
 - [Gitopia](https://ping.pub/gitopia/staking/gitopiavaloper1fruvmyjvdq4399zq7dg2hn3ymdmrckakapeppc)
 - [Humans](https://humans.explorers.guru/validator/humanvaloper1wcns48jcn0enlupatp2gxfyl342cm8w26frp66)
 - [Jackal](https://explorer.stavr.tech/Jackal/staking/jklvaloper1r5hzfdwzej0fazngsx84dqt094vt9wqu2s2ert)

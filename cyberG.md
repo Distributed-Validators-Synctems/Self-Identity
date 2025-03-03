@@ -16,9 +16,9 @@ Active Cosmo Mainnets: <br />
 - [Gitopia](https://ping.pub/gitopia/staking/gitopiavaloper1fruvmyjvdq4399zq7dg2hn3ymdmrckakapeppc)
 - [Humans](https://humans.explorers.guru/validator/humanvaloper1wcns48jcn0enlupatp2gxfyl342cm8w26frp66)
 - [Jackal](https://explorer.stavr.tech/Jackal/staking/jklvaloper1r5hzfdwzej0fazngsx84dqt094vt9wqu2s2ert)
-- [Juno](https://www.mintscan.io/juno/validators/junovaloper1353ewfc0v7pnn3xre6v9lraghxrhenswmsjhv0)
+- [Juno](https://ping.pub/juno/staking/junovaloper1353ewfc0v7pnn3xre6v9lraghxrhenswmsjhv0)
 - [Kujira](https://blue.kujira.app/stake/kujiravaloper1tharcgrfu6j0dcwpe5y6ez3s904rhq2kmccm4k) Genesis validator
-- [Kyve](https://www.mintscan.io/kyve/validators/kyvevaloper1fxh88ayzp4zghxcdh8la0kxwhx0v9w4e7nj60c)
+- [Kyve](https://ping.pub/kyve/staking/kyvevaloper1fxh88ayzp4zghxcdh8la0kxwhx0v9w4e7nj60c)
 - [OmniFlix](https://www.mintscan.io/omniflix/validators/omniflixvaloper1dfjx8w65h359vy55dvm383ks2xevsne9crkh32) Genesis validator
 - [Passage](https://www.mintscan.io/passage/validators/pasgvaloper1w6mqsvguml3k4j0vry9jl8ur9qanhhr0g7qrvs) Genesis validator
 - [Pylons](https://pylons.explorers.guru/validator/pylovaloper1u29z4l8ugjdwp2pm8luwntksh0p9n7dvq8zxs3)

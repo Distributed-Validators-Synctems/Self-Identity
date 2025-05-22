@@ -6,7 +6,7 @@
 
 Active Cosmo Mainnets: <br />
 
-- [Althea](https://explorer.stavr.tech/Bitsong/staking/bitsongvaloper1mx3gct8chrssamkdfw8fkrdl93knllryalmxpm) Genesis validator
+- [Althea](https://althea.explorers.guru/validator/altheavaloper1e8fvgd3pwcuxlr7r5wy0cuu38dnavxnf3se6qq) Genesis validator
 - [Bitsong](https://explorer.stavr.tech/Bitsong/staking/bitsongvaloper1mx3gct8chrssamkdfw8fkrdl93knllryalmxpm) Genesis validator
 - [Bostrom](https://cyb.ai/network/bostrom/hero/bostromvaloper1en69twaxmv7xupy8lq7y539dpecx7yz8s43ceg) Genesis validator
 - [Canto](https://atomscan.com/canto/validators/cantovaloper1yckfh3najzqhvzzrf4qj2ddkr9h4zav048hjwx)

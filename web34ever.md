@@ -111,7 +111,7 @@ Active in blockchain validation since 2018, combining strong technical expertise
 		
 
 
-                                                   Not  Active
+                                                   Archived
 
 Cosmos SDK projects:
 
@@ -164,35 +164,6 @@ Cosmos SDK projects:
   </tr>
 </table> 
 
-
-
-
-
-
-Others projects
-
-- [MinaProtocol- Genesis Member](https://mina.staketab.com/mina/mainnet/validator/B62qrnPdz8HpsDJfGHirDLpVrN2VeyeitdaTKBaccWtHpeVW9Hgwi75)
-- [TheGrap - Curator](https://app.poap.xyz/token/469757)
-- [BlockPi](https://testnet.explorer.blockpi.io/hypernode/0xb3480a304a6a8247d6779b8d54fbc6cc14dffd8f?networkId=8217&page=1&perPage=100)
-- [Near](https://explorer.shardnet.near)
-- [NeonLabs](https://neon-labs.org/)
-- [Hopr](https://telemetry.polkadot.io/#list/Zeitgeist%20Battery%20Park)
-- [Casper Network](https://github.com/cybernekit/casper-node)
-- [Filecoin]()
-- [Nucypher](https://blog.nucypher.com/the-final-countdown/)
-- [Swarm]()
-- [Covalent]()
-- [NYM]()	
-- [Spacemesh]()	
-- [Radicle]()		
-- [Aleo]()	
-- [Gateway]()
-- [Iron Fish]()
-- [Blockstack]()
-- [Humanode]()
-
-
-
                                                    AMBASSADOR CAMPAIGNS
 My ambassador portfolio -> [here](https://docs.google.com/document/d/1oxpMh1xUdl2tv-KxstnPIuO8ujJ2GmI_q5mD5gsSfQU/edit)
 						   
@@ -206,12 +177,6 @@ My ambassador portfolio -> [here](https://docs.google.com/document/d/1oxpMh1xUdl
 - [Secret Network]
 - [Moonbeam]
 - [Goldfinch finance]
-
-                                                        3d video works:
-
-- Cosmos Network - [YouTube link](https://www.youtube.com/watch?v=cIxdLwKAYYQ&t=6s&ab_channel=PapsanLysenko)
-- FreeTON Network - [YouTube link](https://www.youtube.com/watch?v=gi47M7hE1yg&t=11s&ab_channel=PapsanLysenko)
-
                                                       Contacts	
 
 

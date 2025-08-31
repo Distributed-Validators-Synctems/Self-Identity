@@ -33,7 +33,7 @@ Active in blockchain validation since 2018, combining strong technical expertise
 - [Moonbeam Orbiter](https://moonbeam.subscan.io/waiting/0x47dd026c7e6c80c78b53811bf17c2cada73bf0d4)
 
 
-#Cosmos Networks
+### Cosmos Networks
 
 - [Juno](https://atomscan.com/juno/validators/junovaloper1mxpyg8u68k6a8wdu3hs5whcpw9q285pcpxm5yx)
 

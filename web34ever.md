@@ -10,7 +10,7 @@ Active in blockchain validation since 2018, combining strong technical expertise
 - Co-founder of [Distributed Validator Synctems](https://validators.network/)  
 - Co-founder of [Validator School](https://github.com/Distributed-Validators-Synctems/Validator-School)  
 
-##                                web34ever validate
+### web34ever validate
                                                         Main-Networks
 								 	
 				
@@ -67,11 +67,12 @@ Active in blockchain validation since 2018, combining strong technical expertise
 
 - [Althea](https://www.mintscan.io/althea/validators/altheavaloper1tk89wswv7h0ptsqfkgqgr9l6tq4vn7wm6mpecx)
 
-						        Test-Networks 
-							Blockchains grow here
+#### Test-Networks 
+
+							Blockchains are growing here
 							
-							Recent		
-				         
+								
+##### Recent	
 
 <table>
   <tr>
@@ -113,7 +114,7 @@ Active in blockchain validation since 2018, combining strong technical expertise
 
                                                    Archived
 
-Cosmos SDK projects:
+##### Cosmos SDK projects:
 
 
 <table>

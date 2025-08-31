@@ -1,35 +1,32 @@
 
-<img src="https://user-images.githubusercontent.com/59205554/217953492-bdb6892e-918b-4981-8968-cf8b6f263ddd.png" alt="web34ever" width="250" height="250">
+<img src="https://ik.imagekit.io/txuplcwbq/web3-logo.png" alt="web34ever" width="250" height="250">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=700&lines=web34ever+is+a+staking+service+that+is+online+all+the+time!)](https://git.io/typing-svg)
-## [web3validator.info](https://web3validator.info/)
-Passionate experts with over five years of expertise in decentralized technologies. Professional validator and full time enthusiast from 2018 with powerful knowledge and exhaustive experience in crypto industry.
-Member of the [POSTHUMAN](https://posthuman.digital/team) core-team.
-Co-founder of the rapidly developing [Distributed Validator Synctems](https://validators.network/). 
-Co-founder and mentor in [validator school](https://github.com/Distributed-Validators-Synctems/Validator-School). 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=1000&lines=web34ever+-+powering+networks+with+enterprise-grade+validation+)](https://git.io/typing-svg)
 
+**Web34ever** — Infrastructure Validator & Dedicated Contributor with 7+ years of experience in decentralized technologies.  
+Active in blockchain validation since 2018, combining strong technical expertise with governance engagement.
 
-Please feel free to familiarize with the list of projects below to which I contributed my knowledge, skills and invaluable experience:
+- Core team member at [POSTHUMAN](https://posthuman.digital/team)  
+- Co-founder of [Distributed Validator Synctems](https://validators.network/)  
+- Co-founder of [Validator School](https://github.com/Distributed-Validators-Synctems/Validator-School)  
 
-##                                web3validator validate 26 main networks
+##                                web34ever validate
                                                         Main-Networks
 								 	
 				
 - [Solana](https://stage.validators.app/validators/7MTjmteQHhthwwTZhUzsc2dP4NBvGNRqj8jzdqNxHFGE?locale=en&network=mainnet)
 
-- [Moonriver Orbiter](https://moonriver.subscan.io/extrinsic/0x48bbd6a6ac37db20ffabf8a33e737c5fbaab26cc5272e5186690b8ccfa379e22)
-
+- [Starknet](https://voyager.online/staking-dashboard?validator=0x067f8Dc84B5B2213C4ec5A4dF990F7324BF025bB819eC2e9b7592E5C82fa4baB)
+  
 - [Avalanche](https://avascan.info/staking/validator/NodeID-5uYQ6R4WF7kmGfraM9LtsUJG2CDmh78Lf)
 
 - [Kusama](https://kusama.subscan.io/waiting/GL5jF2yxfVA499zNkjMEfiznhD2hJQX4s2Ega7fk93vt8qf)
 
 - [Mina Protocol](https://minaexplorer.com/wallet/B62qrnPdz8HpsDJfGHirDLpVrN2VeyeitdaTKBaccWtHpeVW9Hgwi75)
 		
-- [Everscale](https://ton.live/depools/depoolDetails?id=0%3Ae108fbffddd3999898788f59b267a0641287703866845d1734be5cd7f637473c)(not active)
+- [Nym-mixnode](https://explorer.nymtech.net/network-components/mixnode/1376)
 
-- [TheGraph Indexer](https://thegraph.com/explorer/profile/0x61fb0285da8609b17bd82675acf0fc0a60061d7d?view=Indexing&chain=mainnet)	
-
-- [Casper](https://cspr.live/account/018dc552de3c403dbefe03a9c604e11346d96159ed49f9381a55c2e06c45197d43)(not active)
+- [TheGraph Indexer](https://thegraph.com/explorer/profile/0x047739cb42c227489cccd11aa5f28aa4eb46d2cf?view=Indexing&chain=arbitrum-one)	
 
 - [XX-Network](https://explorer.xx.network/accounts/6VaJ35ts5timzFThyYYyFAcswZ2zs73hzS2RsADPWyXcNwnM)
 
@@ -38,51 +35,37 @@ Please feel free to familiarize with the list of projects below to which I contr
 
 #Cosmos Networks
 
-- [Juno](https://www.mintscan.io/juno/validators/junovaloper1mxpyg8u68k6a8wdu3hs5whcpw9q285pcpxm5yx)	
+- [Juno](https://atomscan.com/juno/validators/junovaloper1mxpyg8u68k6a8wdu3hs5whcpw9q285pcpxm5yx)
 
 - [Omniflix](https://www.mintscan.io/omniflix/validators/omniflixvaloper147l6zgkn7af5d2rgxktt5wavct2l4hf5hf79hm)	
 
 - [Stargaze](https://www.mintscan.io/stargaze/validators/starsvaloper1jg39wazpukeqcytuuad7tsn3end22spg2m4u0x)	
 
-- [Certik](https://www.mintscan.io/certik/validators/certikvaloper1036rphfnyw49fzm5ajfud743j2qutlk9flnnsq)	
+- [Shentu (Certik)](https://www.mintscan.io/certik/validators/certikvaloper1036rphfnyw49fzm5ajfud743j2qutlk9flnnsq)	
 
 - [AssetMantle](https://www.mintscan.io/asset-mantle/validators/mantlevaloper1mzqxq685qd0gvhjelgn0mu58scp9v0v4n80hcy)
 
-- [Cyber](https://cyb.ai/network/bostrom/hero/bostromvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fh73g0j)
-
-- [Gravity-Bridge](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1exksjeh9c0h03mxsvechrcc6axe56c5a56573y)
+- [Bostrom](https://cyb.ai/network/bostrom/hero/bostromvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fh73g0j)
  
-- [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper17kpyk8nqwr0dkv4nz5j4d3r9umfm23we0fk8wj)
+- [Pylons](https://pylons.explorers.guru/validator/pylovaloper1hfnqlqj74pfhfyj2s3pzxdh2ja64e6rad6tuac)
 
 - [Likecoin](https://www.mintscan.io/likecoin/validators/likevaloper1yxzlyqmje82kc3l6nl3tpxhqs356vvh6emyftv)
 
-- [BitCanna](https://www.mintscan.io/bitcanna/validators/bcnavaloper1ex2m0j9gc7l49lr5qgrhnp7vy83adq0k3uj8pk)
-
 - [Bitsong](https://www.mintscan.io/bitsong/validators/bitsongvaloper139dppl6gyerq8yaweksajut3urwyygsz7r4ej4)
-
-- [Genesis](https://ping.pub/genesisl1/staking/genesisvaloper10x5stkzceeefj87ku75uvjvxyr6zu9rd5a8mp5)
 
 - [Passage](https://www.mintscan.io/passage/validators/pasgvaloper14vyqdka2r444hl6hj29fspa7yta3hu4yc0kk2q)
 
 - [Teritori](https://teritori.explorers.guru/validator/torivaloper1x6vfjy754fvzrlug2kxsp6s54yfj753sjtr70f)
 
-- [Rebus](https://rebus.explorers.guru/validator/rebusvaloper17xkn5uj7nmdgz8d3t6k4pg44d9j7xdh2ll0fyu)
-
-- [Acrechain](https://cosmosrun.info/acre-mainnet/staking/acrevaloper12242xw27r9v2dplr9hhy3ftpgn55tehg8fvz56)
-
 - [Aura](https://aurascan.io/validators/auravaloper1wchng2069u332d5xpwt87gza3jts7g5nja945d)
-
-- [Nois](https://explorer.mcbnode.online/nois-mainnet/staking/noisvaloper1kmf9w8nmvsuaps2kf4smhphnj8unjcak3hczyr)
 
 - [Uptick](https://uptick.explorers.guru/validator/uptickvaloper19pz0f48cu87vptrv5a9xluyxt269d36ge72dfa)
 
 - [Jackal](https://ping.pub/jackal/staking/jklvaloper1vm9d3anadzxxw7sp6y57d98dtv2mayxvw4fs6e)
 
-- [Lambda](https://explorer.stavr.tech/lambda/staking/lambvaloper18vncf69zfq6pyszk4skj9n5ev8zzrwr2puryqk)
+- [Gitopia](https://gitopia.exploreme.pro/validators/gitopiavaloper1pgm7l5t6nxvtf8kz5mm83ddzvjwz87v7kym2qd)
 
-- [Gitopia](https://ping.pub/gitopia/staking/gitopiavaloper1pgm7l5t6nxvtf8kz5mm83ddzvjwz87v7kym2qd)
-
-- [Composable](https://explorer.stavr.tech/composable-mainnet/staking/centaurivaloper17s38yrdualvhrsqcy3kgv6uhh6eyz9te9j6xjh)
+- [Althea](https://www.mintscan.io/althea/validators/altheavaloper1tk89wswv7h0ptsqfkgqgr9l6tq4vn7wm6mpecx)
 
 						        Test-Networks 
 							Blockchains grow here
@@ -229,35 +212,19 @@ My ambassador portfolio -> [here](https://docs.google.com/document/d/1oxpMh1xUdl
 - Cosmos Network - [YouTube link](https://www.youtube.com/watch?v=cIxdLwKAYYQ&t=6s&ab_channel=PapsanLysenko)
 - FreeTON Network - [YouTube link](https://www.youtube.com/watch?v=gi47M7hE1yg&t=11s&ab_channel=PapsanLysenko)
 
-                                                      contributions in projects
-					     
-Web3 validator provides much more than security! We are actively participating in the development of the Network and Community by providing informational, technical and humanitarian support! 
-
-Feel free to check the list on my [website...](https://web3validator.info/#contribution)
-	
-### Uptime Checker bot
-	
-Web3 Validator team has developed the checker bot that can monitor your node uptime. We can implement it on various Cosmos SDK networks and will gladly add it to any new network! It's just super convenient:
-
-*Without installing any software (grafana, tenderduty, prometheus or etc.)
-
-*That bot not only warns that the validator is already in jail but pings you when your validator starts skipping blocks to keep you out of jail
-
-*Сan tell you about the time left before being sent to jail.
-
-*Clear and pleasant interface and validator status check. 
-Also this bot can be customizable and it may add many other functions. We already implement it in many known cosmos-networks.
-
-
-
                                                       Contacts	
 
 
 [<img src='https://user-images.githubusercontent.com/83868103/227937841-6e05b933-9534-49f1-808a-efe087a4f7cd.png' alt='Twitter'  width='16.5%'>](https://twitter.com/web34ever)[<img src='https://user-images.githubusercontent.com/83868103/227935592-ea64badd-ceb4-4945-8dfc-f25c787fb29d.png' alt='TELEGRAM'  width='16.5%'>](https://t.me/web34ever)[<img src='https://user-images.githubusercontent.com/59205554/229010780-8381c300-1eda-45c4-9d47-17d3abd32c98.png' alt='WEBSITE'  width='16.5%'>](https://web3validator.info)[<img src='https://user-images.githubusercontent.com/83868103/227936479-a48e814b-3ec1-4dcb-bd44-96b02d8f55da.png' alt='MAIL'  width='16.5%'>](mailto:web34ever@gmail.com)[<img src='https://user-images.githubusercontent.com/83868103/227948915-65731f97-c406-4d2c-996c-e5440ff67584.png' alt='GITHUB'  width='16.5%'>](https://github.com/web3validator)[<img src='https://user-images.githubusercontent.com/59205554/229010265-a3782434-0f41-4736-89c0-e50143da2abe.png' alt='Keybase'  width='16.5%'>](https://keybase.io/web34ever)
 
-						   
+
+### Governance & Contributions
+We participate in governance across multiple networks with high voting activity, proposal creation, DAO initiatives, and active community involvement.
+### Our Mission
+To deliver reliable, secure, and transparent validation services while supporting decentralized governance and contributing to the long-term growth of blockchain ecosystems.
+
 						  
-						           Infrastructure
+						                             Infrastructure
             	
  We have used enterprise-level hardware to run nodes for the most popular PoS blockchains since 2018. We use advanced data centers: [Equinix](https://www.equinix.com/data-centers), [StackPath](https://www.stackpath.com/), [Edgevanna](https://edgevana.com/), [OVH](https://www.ovhcloud.com/en/)
 
